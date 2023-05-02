@@ -1,0 +1,56 @@
+{
+	"advance": {
+		"description": "Máximo {date} por adelantado. Después de eso, no se muestran más fechas/días."
+	},
+	"buffer": {
+		"option": "{time} minutos de margen hasta la cita de seguimiento",
+		"title": "¿Debería haber un margen de tiempo?"
+	},
+	"calendar": {
+		"allDay": "Cita para todo el día",
+		"fromTo": "Periodo de varios días",
+		"hours": "Cita de varias horas"
+	},
+	"checkDate": "Por favor, compruebe la fecha",
+	"duration": {
+		"info": "Indique la duración de una cita. ¿Ofrece varios servicios con distinta duración? A continuación, seleccione el formato de calendario \"Ofertas y servicios\" en el primer paso.",
+		"title": "¿Cuánto tiempo dura una cita?"
+	},
+	"immediately": "Inmediatamente",
+	"lastMinute": {
+		"description": "Al menos {date} entre la reserva y el inicio de la cita. Esto puede evitar las reservas de última hora.",
+		"info": "Al establecer un periodo de reserva anticipada, puede evitar las reservas de citas a muy corto plazo. \"0 minutos\" significa que los clientes pueden reservar citas con muy poca antelación y tomarlas inmediatamente.",
+		"title": "¿Cuál es el plazo mínimo entre la reserva y la cita?"
+	},
+	"next": {
+		"info": "Especifique cuándo se puede reservar la próxima cita. Ejemplo - \"A la siguiente hora completa\": Si una cita tiene lugar de las 9:00-9:30 horas, la siguiente cita reservable es a las 10:00-10:30 horas. Ejemplo - \"Hasta el próximo cuarto de hora\". Si una cita tiene lugar de 9:00-10:00 , la siguiente cita reservable es de 9:15-10:15 en punto.",
+		"option": [
+			"Tras el nombramiento anterior",
+			"15 minutos después del inicio de la cita anterior",
+			"30 minutos después del inicio de la cita anterior",
+			"1 hora después del inicio de la cita anterior"
+		],
+		"title": "¿Cuándo se podrá reservar la próxima fecha posible?"
+	},
+	"pause": {
+		"add": "Añadir tiempo de pausa",
+		"info": "Los tiempos de pausa se pueden crear en el siguiente paso mediante el siguiente símbolo",
+		"title": "Hora de la pausa|Hora de la pausa"
+	},
+	"period": {
+		"description": "Las fechas se pueden reservar desde el {date} hasta el {date} ",
+		"info": "Si sólo quiere ofrecer sus citas durante un determinado período de tiempo, puede definir aquí desde cuándo hasta cuándo pueden reservar sus clientes las citas. Antes y después de eso, no se muestran citas/días en el calendario.",
+		"title": "¿En qué periodo concreto ofrecen citas?"
+	},
+	"title": "Horarios de reserva",
+	"unlimited": "ilimitado",
+	"weekdays": {
+		"closed": "Cerrado",
+		"fromTo": "De {date} a {date}",
+		"info": "Introduzca los días de la semana y el horario de apertura de su tienda. En el siguiente paso, puede definir sus franjas horarias individuales, así como los tiempos de pausa para reservar citas.",
+		"open": "abrir",
+		"take": "Aplicar esta configuración para todas las jornadas de puertas abiertas",
+		"title": "¿Cuándo abre su tienda?"
+	},
+	"weekdaysSettings": "Ajustes del día de la semana {day}:"
+}

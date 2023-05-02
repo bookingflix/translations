@@ -1,0 +1,36 @@
+{
+	"description": "Was bringt mir Bookingflix?",
+	"parts": [
+		{
+			"detailHeader": "in 10 Minuten auf Ihrer Webseite",
+			"detailHeaderTop": "Ihr fertiges Terminformular",
+			"detailText": "Einfach über den Quickstart Ihre Informationen eingeben und sofort das Formular auf Ihrer Website einbinden. Kostenlos und in 10 Minuten.",
+			"text": "Schnell und einfach eingerichtet"
+		},
+		{
+			"detailHeader": "Mehr Zeit für Ihre Arbeit.",
+			"detailHeaderTop": "Effiziente Terminvereinbarung –",
+			"detailText": "Termine rund um die Uhr entgegennehmen ohne telefonieren zu müssen. Mit Bookingflix sparen Sie und Ihre Kunden Zeit bei der Terminvereinbarung.",
+			"text": "Effizienter arbeiten"
+		},
+		{
+			"detailHeader": "keine vergessenen Termine mehr!",
+			"detailHeaderTop": "Durch automatische Erinnerungen",
+			"detailText": "Steigern Sie Ihre Terminzuverlässigkeit durch automatisierte Terminerinnerungen per SMS an Ihre Kunden..",
+			"text": "Höhere Terminzuverlässigkeit"
+		},
+		{
+			"detailHeader": "unkomplizierte Terminerstellung",
+			"detailHeaderTop": "Neukundengewinnung durch",
+			"detailText": "Termine buchen zu jeder Zeit und von überall – auch über das Smartphone. Machen Sie es Ihren Kunden leicht mit Ihnen in Kontakt zu treten.",
+			"text": "Neue Kunden gewinnen"
+		},
+		{
+			"detailHeader": "den aktuellsten Standards",
+			"detailHeaderTop": "Datensicherheit nach",
+			"detailText": "Mehrmals tägliche Speicherung der Termin- und Kundendaten auf separaten Servern, HTTPS-Verschlüsselung und DSGVO-konform. Ihre Daten sind bei uns sicher!",
+			"text": "DSGVO-Konform und sicher"
+		}
+	],
+	"title": "Vorteile"
+}

@@ -1,0 +1,50 @@
+{
+	"additionalAppointments": {
+		"appointments": "Additional date | Additional dates",
+		"button": "Activate individual additional dates",
+		"info": "Dear customers, at this point you will receive some additional dates in addition to the fixed opening hours."
+	},
+	"appointment": "appointment | appointments",
+	"error": {
+		"end": "The end of your calendar must be after its start date",
+		"time": "The end of your opening time must be after its beginning"
+	},
+	"months": [
+		"January",
+		"February",
+		"March",
+		"April",
+		"May",
+		"June",
+		"July",
+		"August",
+		"September",
+		"October",
+		"November",
+		"December"
+	],
+	"name": {
+		"days": "Day | Days",
+		"hours": "Hour | Hours",
+		"minutes": "Minute | Minutes",
+		"months": "Month | Months",
+		"weeks": "Week | Weeks",
+		"years": "Year | Years"
+	},
+	"repeat": {
+		"every": {
+			"1": "each | every",
+			"2": "each | every",
+			"3": "each | every"
+		}
+	},
+	"weekdays": [
+		"Monday",
+		"Tuesday",
+		"Wednesday",
+		"Thursday",
+		"Friday",
+		"Saturday",
+		"Sunday"
+	]
+}

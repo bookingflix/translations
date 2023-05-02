@@ -1,0 +1,54 @@
+{
+	"button": "Book appointment now",
+	"form": [
+		{
+			"title": "Appointment booking"
+		},
+		{
+			"title": "To make a reservation for an appointment, the following information is required. All required fields are marked with an asterisk. After filling out the form, a verification email will be sent directly from the system. A final appointment confirmation / cancellation can only be made after successful verification."
+		},
+		{
+			"title": "Your contact details"
+		},
+		{
+			"title": "First name"
+		},
+		{
+			"title": "Last name"
+		},
+		{
+			"info": "for appointment reminders",
+			"title": "E-mail address"
+		},
+		{
+			"info": "for appointment reminders (optional)",
+			"title": "Mobile number"
+		},
+		{
+			"info": "Optional",
+			"title": "Free text field for comments / information to the service provider"
+		},
+		{
+			"title": "Data protection"
+		},
+		{
+			"info": "You have the option to revoke your consent to the use of personal data at any time.",
+			"options": [
+				{
+					"info": "Consent to personal data",
+					"title": "I agree to the collection of my personal data (see form)"
+				},
+				{
+					"info": "Contact Appointment coordination",
+					"title": "I agree to be contacted for the purpose of arranging an appointment"
+				},
+				{
+					"info": "Accuracy data",
+					"title": "I confirm that the information I have provided is correct"
+				}
+			],
+			"title": "Privacy Information (Please confirm)"
+		}
+	],
+	"question": "How do you rate our service?"
+}

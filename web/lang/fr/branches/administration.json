@@ -1,0 +1,197 @@
+{
+	"benefits": {
+		"items": {
+			"01": "un grand gain de temps\nPour les deux parties. La prise de rendez-vous ne prend que quelques secondes. De même, le citoyen modifie ou annule le rendez-vous de manière autonome.",
+			"02": "Se concentrer sur l'essentiel\nLes gestionnaires de dossiers ont mieux à faire que de fixer des rendez-vous par téléphone ou par e-mail. Les citoyens aussi.",
+			"03": "Augmenter la fiabilité des délais\nPour cela, utilisez les rappels automatiques par e-mail et SMS. Ce service supplémentaire est d'ailleurs apprécié par la plupart des citoyens.",
+			"04": "Le numérique à la pointe du progrès\nLes outils de prise de rendez-vous sont devenus un standard très apprécié. Le téléphone est bon pour bavarder, pas pour réserver des rendez-vous.",
+			"05": "Optimiser le flux de travail\nLe citoyen réserve et gère lui-même le rendez-vous. Les données du rendez-vous sont affichées de manière claire dans votre tableau de bord."
+		},
+		"title": "Vos avantages en un clin d'œil"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Combien coûtent les rappels de rendez-vous par SMS ?",
+				"url": ""
+			},
+			"11": {
+				"title": "Combien coûte Bookingflix par mois ?",
+				"url": ""
+			},
+			"12": {
+				"title": "Quel est le délai de préavis à respecter ?",
+				"url": ""
+			},
+			"13": {
+				"title": "Le client peut-il gérer lui-même la réservation (modifier le rendez-vous, l'annuler) ?",
+				"url": ""
+			},
+			"14": {
+				"title": "Les textes des e-mails peuvent-ils être personnalisés ?",
+				"url": ""
+			},
+			"15": {
+				"title": "Les e-mails du système (acceptation, refus) peuvent-ils être envoyés à partir de sa propre adresse e-mail ?",
+				"url": ""
+			},
+			"16": {
+				"title": "Que se passe-t-il avec les données de rendez-vous après le rendez-vous ?",
+				"url": ""
+			},
+			"17": {
+				"title": "Puis-je annuler des rendez-vous, les supprimer ou les refuser ultérieurement à la personne intéressée ?",
+				"url": ""
+			},
+			"18": {
+				"title": "Quel est l'agenda le mieux adapté à mon entreprise ?",
+				"url": ""
+			},
+			"19": {
+				"title": "Combien de temps prend la réservation d'un rendez-vous pour mes clients ?",
+				"url": ""
+			},
+			"20": {
+				"title": "Puis-je également saisir manuellement les rendez-vous de mes clients ?",
+				"url": ""
+			},
+			"21": {
+				"title": "Comment fonctionne la création de différentes prestations (prix, durée du rendez-vous) ?",
+				"url": ""
+			},
+			"22": {
+				"title": "Comment puis-je programmer des vacances pendant lesquelles la mairie est fermée ?",
+				"url": ""
+			},
+			"23": {
+				"title": "Comment contacter le client avant le rendez-vous ?",
+				"url": ""
+			},
+			"24": {
+				"title": "Je souhaite créer une courte note pour le rendez-vous avec le client. Comment faire ?",
+				"url": ""
+			},
+			"25": {
+				"title": "Les données de rendez-vous peuvent-elles être téléchargées pour un traitement ultérieur ?",
+				"url": ""
+			},
+			"01": {
+				"title": "La réservation de rendez-vous via Bookingflix.com est-elle conforme au RGPD ?",
+				"url": ""
+			},
+			"02": {
+				"title": "Où se trouvent les serveurs de Bookingflix ?",
+				"url": ""
+			},
+			"03": {
+				"title": "Est-ce que Bookingflix dispose d'une gestion des droits pour que les collaborateurs puissent prendre en charge la gestion des rendez-vous ?"
+			},
+			"04": {
+				"title": "Que se passe-t-il exactement lorsqu'un client annule son rendez-vous ?",
+				"url": ""
+			},
+			"05": {
+				"title": "Les réservations de rendez-vous peuvent-elles être confirmées automatiquement ?",
+				"url": ""
+			},
+			"06": {
+				"title": "Les rendez-vous peuvent-ils être saisis manuellement pour le client ?",
+				"url": ""
+			},
+			"07": {
+				"title": "Quel soutien recevons-nous dans le cadre de l'utilisation ?",
+				"url": ""
+			},
+			"08": {
+				"title": "Le compte premium peut-il être payé par facture plutôt que par prélèvement automatique ?",
+				"url": ""
+			},
+			"09": {
+				"title": "Est-il possible d'envoyer des rappels de rendez-vous avant le rendez-vous, à un moment donné ?",
+				"url": ""
+			}
+		},
+		"title": "FAQ pertinentes pour votre secteur"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Modifier ou annuler facilement des rendez-vous",
+				"url": ""
+			},
+			"11": {
+				"title": "Plus d'infos à communiquer dans le cadre de la réservation",
+				"url": ""
+			},
+			"12": {
+				"title": "Rappels de rendez-vous",
+				"url": ""
+			},
+			"13": {
+				"title": "Intégrer facilement le calendrier de réservation sur son propre site web",
+				"url": ""
+			},
+			"14": {
+				"title": "Site web de réservation de rendez-vous utilisable même sans propre site web",
+				"url": ""
+			},
+			"15": {
+				"title": "Créer des notes sur les rendez-vous et les clients",
+				"url": ""
+			},
+			"16": {
+				"title": "Jours fériés et vacances réglables",
+				"url": ""
+			},
+			"17": {
+				"title": "Enregistrer le client par scan du code QR",
+				"url": ""
+			},
+			"01": {
+				"title": "Réservation de rendez-vous selon les normes du RGPD",
+				"url": ""
+			},
+			"02": {
+				"title": "Serveurs en Allemagne",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendrier de réservation de rendez-vous pour les heures d'ouverture fixes",
+				"url": ""
+			},
+			"04": {
+				"title": "Calendrier de réservation de rendez-vous pour certains services",
+				"url": ""
+			},
+			"05": {
+				"title": "Meilleure vue d'ensemble du statut des rendez-vous (accepté, annulé, pas encore confirmé)",
+				"url": ""
+			},
+			"06": {
+				"title": "Différentes durées de rendez-vous réglables. Par exemple, cinq minutes ou deux heures",
+				"url": ""
+			},
+			"07": {
+				"title": "Gestion des droits pour la gestion des rendez-vous par le gestionnaire compétent",
+				"url": ""
+			},
+			"08": {
+				"title": "Textes individuels des e-mails du système",
+				"url": ""
+			},
+			"09": {
+				"title": "Confirmer automatiquement les rendez-vous",
+				"url": ""
+			}
+		},
+		"title": "Fonctions et caractéristiques particulièrement pertinentes pour votre secteur"
+	},
+	"main": {
+		"description": "La numérisation progresse également de manière significative à l'hôtel de ville. Au bureau des citoyens, les habitants peuvent accéder à presque tous les services en un seul endroit. Certains services peuvent même être consultés en ligne, depuis chez soi.\nPour tout le reste, il faut soit prendre un ticket d'attente sur place, soit prendre un rendez-vous au préalable. De plus en plus de mairies proposent désormais cette prise de rendez-vous via un outil de prise de rendez-vous. Le citoyen peut ainsi, à tout moment, réserver en ligne le rendez-vous souhaité, pour autant qu'il soit encore disponible. Les rendez-vous déjà réservés ne sont donc plus proposés et ne sont automatiquement réactivés qu'en cas d'annulation.",
+		"title": "Bureau des citoyens et administration"
+	},
+	"sub": {
+		"description": "Le citoyen attend désormais une mairie moderne et orientée vers le service. Une hotline téléphonique n'est pas toujours la meilleure offre. Surtout lorsque l'on doit attendre en ligne pour une simple demande ou un rendez-vous. Ou si le fonctionnaire compétent n'est \"pas à sa place mais rappelle volontiers si on parle sur le répondeur\". Pour la prise de rendez-vous, les outils de prise de rendez-vous sont nettement plus conviviaux et efficaces. Pour les deux parties. Donc pour les citoyens et pour le bureau des citoyens. Le citoyen réserve le rendez-vous libre souhaité chez lui, sur son ordinateur ou avec son smartphone. La demande de rendez-vous est automatiquement confirmée par Bookingflix. Ou bien manuellement par le responsable du dossier. Les informations importantes peuvent être communiquées directement lors de la réservation. Ou en plus via la confirmation de rendez-vous par e-mail. En effet, comme presque tout chez Bookingflix, celle-ci peut être configurée de manière individuelle et flexible. Le citoyen reçoit son propre lien de rendez-vous, via lequel le rendez-vous peut être géré. Le rendez-vous peut être modifié ou annulé. Le responsable est joignable via un outil de chat. Les pages sont informées par e-mail des nouveaux messages. L'historique du chat est enregistré, mais peut également être supprimé. Avant le rendez-vous, le citoyen peut être rappelé une dernière fois par e-mail ou SMS. Cela augmente considérablement la fiabilité du rendez-vous. Le calendrier de réservation de rendez-vous pour les heures d'ouverture fixes peut être réglé individuellement, en fonction des heures d'ouverture ou d'autres jours libres. Si plusieurs calendriers de réservation de rendez-vous sont nécessaires, ils peuvent être étendus sans limite.\nBookingflix a été développé en Allemagne, dans le respect du RGPD. Tous les serveurs sont basés en Allemagne. Toutes les données de rendez-vous sont automatiquement supprimées après 30 jours. Si nécessaire, elles peuvent toutefois être sauvegardées au préalable.",
+		"title": "Pourquoi réserver un rendez-vous en ligne avec Bookingflix ?"
+	}
+}

@@ -1,0 +1,334 @@
+{
+	"cta": {
+		"button": "Crear una agenda ahora",
+		"title": "¡Comience ahora su prueba gratis de Bookingflix Premium por 14 días!"
+	},
+	"features": {
+		"01_verschiedene_kalenderformate": {
+			"items": {
+				"01": {
+					"description": "Cree una genda para reservar citas de forma rápida y sencilla, con todos los ajustes necesarios.",
+					"title": "Generador de formularios"
+				},
+				"02": {
+					"description": "Para las franjas horarias de la misma duración y un servicio ofertado.",
+					"title": "Agenda de citas para comercios con horario fijo"
+				},
+				"03": {
+					"description": "Citas únicas o múltiples con un número de participantes y una duración establecidos por el usuario.",
+					"title": "Agenda de eventos"
+				},
+				"04": {
+					"description": "Definir la denominación, la duración, el precio y la imagen de las diferentes prestaciones de servicio",
+					"title": "Agenda de citas para servicios reservables"
+				}
+			},
+			"title": "Diferentes tipos de agenda"
+		},
+		"02_more": {
+			"items": {
+				"01_individuelle-terminkalender-10": {
+					"link": "/features/individualCalendar",
+					"title": "Agendas individuales"
+				}
+			},
+			"title": "Funciones explicadas al detalle"
+		},
+		"03_terminverwaltung": {
+			"items": {
+				"10": {
+					"description": "Descargar el archivo de citas iCal para importarlo a otras agendas estándar. Por ejemplo, en Google, Microsoft o Apple.",
+					"title": "Exportar citas"
+				},
+				"11": {
+					"description": "Búsqueda de texto completo para citas y clientes con ajustes de filtro avanzados.",
+					"title": "Búsqueda"
+				},
+				"01": {
+					"description": "Vista general de las solicitudes de citas no confirmadas. Confirmar, cancelar, cambiar citas, o consultar información.",
+					"title": "Centro de control claro"
+				},
+				"02": {
+					"description": "Se puede crear de forma manual, por encargo del cliente, en un ritmo repetitivo.",
+					"title": "Configurar citas recurrentes"
+				},
+				"03": {
+					"description": "Crear notas internas para citas y clientes.",
+					"title": "Notas de la cita"
+				},
+				"04": {
+					"description": "Notificación automática de nuevas solicitudes de cita",
+					"title": "Correo electrónico para nuevas solicitudes"
+				},
+				"05": {
+					"description": "Confirmación inmediata de las solicitudes de cita por correo electrónic con un texto estándar modificable.",
+					"title": "Confirmación automática de citas"
+				},
+				"06": {
+					"description": "Recordatorio automático de las citas reservadas por correo electrónico o SMS. La hora y la frecuencia se pueden ajustar de forma individual.",
+					"title": "Recordatorios de citas"
+				},
+				"07": {
+					"description": "Vista general de las citas por correo electrónico la noche anterior.",
+					"title": "Citas del día siguiente"
+				},
+				"08": {
+					"description": "Insertar las citas para los clientes de forma manual. Si un cliente no tiene acceso a Internet, por ejemplo.",
+					"title": "Insertar las citas manualmente"
+				},
+				"09": {
+					"description": "Descargar los datos de las citas como archivo CSV o PDF para su tratamiento posterior.",
+					"title": "Descargar los datos de las citas"
+				}
+			},
+			"title": "Gestión de citas"
+		},
+		"04_zeitmanagement": {
+			"items": {
+				"01": {
+					"description": "En caso de solicitud de cita, el periodo se bloquea. Esto excluye la posibilidad de un exceso de reservas.",
+					"title": "Evitar la colisión de citas"
+				},
+				"02": {
+					"description": "Definir el horario de descanso fijo en el que no se puede realizar ninguna cita. ",
+					"title": "Horas de descanso"
+				},
+				"03": {
+					"description": "Fije los días festivos oficiales así como los días libres individuales para cada calendario en los que no hay citas.",
+					"title": "Vacaciones y días libres"
+				}
+			},
+			"title": "Gestión del tiempo"
+		},
+		"05_more": {
+			"items": {
+				"01_termin-und-kalenderverwaltung-01": {
+					"link": "/features/editCalendar",
+					"title": "Gestión de citas y clientes"
+				},
+				"02_kontrollzentrum-01": {
+					"link": "/features/dashboard",
+					"title": "Centro de control"
+				},
+				"03_terminerinnerungen-01": {
+					"link": "/features/reminder",
+					"title": "Recordatorios de citas"
+				}
+			},
+			"title": "Funciones explicadas al detalle"
+		},
+		"06_kundenverwaltung": {
+			"items": {
+				"01": {
+					"description": "Crear, actualizar y quitar los datos de los clientes.",
+					"title": "Información al cliente"
+				},
+				"02": {
+					"description": "Escribir a los clientes y recibir mensajes. Se guarda el historial del chat.",
+					"title": "Chat de clientes"
+				},
+				"03": {
+					"description": "Crear notas internas para citas y clientes.",
+					"title": "Notas de la cita"
+				},
+				"04": {
+					"description": "Registro de entrada y salida se realiza con un código QR individual para cada cita.",
+					"title": "Registro de presencia / ausencia"
+				},
+				"05": {
+					"description": "Descargar los datos de las citas como archivo CSV o PDF.",
+					"title": "Descargar de datos de clientes"
+				},
+				"06": {
+					"description": "Búsqueda de texto completo para citas y clientes con ajustes de filtro avanzados.",
+					"title": "Función de búsqueda"
+				}
+			},
+			"title": "Gestión de clientes"
+		},
+		"07_kundenbewertungen": {
+			"items": {
+				"01": {
+					"description": "Después de la cita, se les pide a los clientes una evaluación.",
+					"title": "Encuesta automática a los clientes"
+				},
+				"02": {
+					"description": "Evaluación en forma de clasificación por estrellas, así como respondiendo a preguntas ajustables individualmente.",
+					"title": "Clasificación por estrellas y preguntas de evaluación"
+				},
+				"03": {
+					"description": "Las reseñas recibidas pueden aparecer opcionalmente debajo de la agenda de reserva de citas.",
+					"title": "Publicar reseñas"
+				}
+			},
+			"title": "Comentarios de los clientes"
+		},
+		"08_terminverwaltungendkunden": {
+			"items": {
+				"01": {
+					"description": "Con un enlace directo a cada cita, los clientes pueden gestionarla ellos mismos.",
+					"title": "Enlaces a citas"
+				},
+				"02": {
+					"description": "En la zona de acceso a las citas, los clientes pueden reservar nuevas citas de forma independiente, modificar las existentes y ver el historial de citas anteriores.",
+					"title": "Gestionar las citas a través del área de inicio de sesión de citas"
+				},
+				"03": {
+					"description": "En el área de inicio de sesión de citas, también hay información sobre la cita respectiva y el prestador de servicios. El cliente y el prestador de servicios pueden intercambiar información por adelantado a través de una herramienta de chat.",
+					"title": "Información y herramienta de chat"
+				}
+			},
+			"title": "Gestión de citas para clientes finales"
+		},
+		"09_more": {
+			"items": {
+				"01_termin-und-kalenderverwaltung-01": {
+					"link": "/features/individualCalendar",
+					"title": "Gestión de citas y clientes"
+				},
+				"02_kundenbewertungen-01": {
+					"link": "/features/votes",
+					"title": "Comentarios de los clientes"
+				},
+				"03_terminverwaltung-fuer-endkunden-01": {
+					"link": "/features/clients",
+					"title": "Gestión de citas para clientes finales"
+				}
+			},
+			"title": "Funciones explicadas al detalle"
+		},
+		"10_personalisierung": {
+			"items": {
+				"01": {
+					"description": "Fije el número máximo de clientes por franja horaria.",
+					"title": "Número de clientes variable por cita"
+				},
+				"02": {
+					"description": "Defina usted mismo los textos de los correos electrónicos del sistema para su verificación, aceptación o cancelación.",
+					"title": "Textos de correo electrónico"
+				},
+				"03": {
+					"description": "Se puede definir libremente la información que el cliente debe indicar al hacer la reserva.",
+					"title": "Campos de consulta en el formulario de reserva"
+				},
+				"04": {
+					"description": "Se puede personalizar tanto los colores como el diseño de la agenda de citas.",
+					"title": "diseño"
+				},
+				"05": {
+					"description": "Puede ajustarse de forma variable.",
+					"title": "Duración y frecuencia de las citas"
+				}
+			},
+			"title": "personalización"
+		},
+		"11_veroeffentlichung": {
+			"items": {
+				"01": {
+					"description": "Publicación de la agenda de citas de forma sencilla a través del código del widget.",
+					"title": "Integración en el sitio web existente"
+				},
+				"02": {
+					"description": "Genere y edite automáticamente su propio micro-sitio web de reservas y utilícelo para reservar citas.",
+					"title": "Sitio web de reservas"
+				}
+			},
+			"title": "Publicación"
+		},
+		"12_zusammenarbeitimteam": {
+			"items": {
+				"01": {
+					"description": "Autogestión de las sucursales individuales mediante el uso de agendas independientes.",
+					"title": "Agenda de citas para varias sucursales"
+				},
+				"02": {
+					"description": "Es posible definir derechos de acceso para determinados usuarios. Por ejemplo, para los trabajadores u otras sucursales.",
+					"title": "Definir los derechos de acceso"
+				},
+				"03": {
+					"description": "Se pueden agrupar varias agendas.",
+					"title": "Agrupar agendas"
+				}
+			},
+			"title": "trabajo en equipo"
+		},
+		"13_more": {
+			"items": {
+				"01_individuelle-terminkalender-10": {
+					"link": "/features/individualCalendar",
+					"title": "Agendas individuales"
+				},
+				"02_buchungskalender-veroeffentlichen-01": {
+					"link": "/features/publishCalendar",
+					"title": "Publicar la agenda de reserva de citas"
+				},
+				"03_integration-in-ihren-workflow-05": {
+					"link": "/features/workflow",
+					"title": "Integración en su flujo de trabajo"
+				}
+			},
+			"title": "Funciones explicadas al detalle"
+		},
+		"14_datenschutzhilfe": {
+			"items": {
+				"01": {
+					"description": "Bookingflix.com se ha desarrollado de acuerdo con los requisitos legales del RGPD.",
+					"title": "Cumple con el RGPD"
+				},
+				"02": {
+					"description": "Los datos de los clientes no se transmiten ni se almacenan en el extranjero. Los servidores utilizados se encuentran en Fráncfort del Meno.",
+					"title": "Ubicación del servidor en Alemania"
+				},
+				"03": {
+					"description": "Las preguntas frecuentes, los vídeos de ayuda, los tutoriales y los seminarios web están documentados en la sección de asistencia.",
+					"title": "Asistencia en línea"
+				}
+			},
+			"title": "Protección de datos y ayuda"
+		},
+		"15_technischeaspekte": {
+			"items": {
+				"01": {
+					"description": "La reserva y gestión de citas también es posible con un teléfono inteligente y una tableta.",
+					"title": "Optimizado para móviles"
+				},
+				"02": {
+					"description": "Sincronización bidireccional con Google Calendar.",
+					"title": "Google"
+				},
+				"03": {
+					"description": "Sincronización con el Apple-Calendar. De Bookingflix a Apple-Calendar.",
+					"title": "Apple"
+				},
+				"04": {
+					"description": "Sincronización bidireccional con Microsoft Calendar.",
+					"title": "Microsoft"
+				}
+			},
+			"title": "Aspectos técnicos"
+		},
+		"16_workflow": {
+			"items": {
+				"01": {
+					"description": "Cree flujos de trabajo automáticos para diversos servicios web. Esto hace que Bookingflix sea aún más inteligente de usar y las posibilidades son, gracias a la API, casi ilimitadas.",
+					"title": "Ganchos web inteligentes"
+				}
+			},
+			"title": "Automatización del flujo de trabajo"
+		},
+		"17_more": {
+			"items": {
+				"01_dsgvo-und-datenschutzkonformitaet-03": {
+					"link": "/features/privacy",
+					"title": "Protección de datos"
+				},
+				"02_integration-in-ihren-workflow-05": {
+					"link": "/features/workflow",
+					"title": "Integración en su flujo de trabajo"
+				}
+			},
+			"title": "Funciones explicadas al detalle"
+		}
+	},
+	"title": "Lista completa de todas las funciones"
+}

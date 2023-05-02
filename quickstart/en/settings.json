@@ -1,0 +1,64 @@
+{
+	"autoConfirm": {
+		"info": "If you select \"Yes\", booked appointments are automatically confirmed. If you select \"No\", you can decide yourself for each appointment.",
+		"title": "Should booked appointments be automatically confirmed?"
+	},
+	"contact": {
+		"email": {
+			"info": "All appointment requests will be sent to the contact email address, as well as customer reviews (if requested).",
+			"title": "Email address of the contact person"
+		},
+		"name": {
+			"info": "Enter the name of the contact person for your customers. The contact person does not have to be the person who will run your Bookingflix account. The account creation is done in the last step of the Quickstart.",
+			"title": "Contact person name"
+		}
+	},
+	"event": {
+		"add": "add appointment #{count}",
+		"addEnd": "Add end",
+		"appointment": {
+			"info": "Enter additional info about the appointment here (optional)",
+			"placeholder": "e.g. event in the castle park Berlin",
+			"title": "Additional info about the appointment"
+		},
+		"description": "Events",
+		"name": {
+			"info": "Specify the title of the event.",
+			"placeholder": "e.g. open day",
+			"title": "Event title"
+		},
+		"same": "No event dates may take place at exactly the same time within a schedule. Please correct.",
+		"sameTimerange": "Appointment {event1} and appointment {event2} overlap (appointment conflict). Overlaps are not possible with event calendars. An appointment conflict can be avoided by omitting the appointment end and defining only an appointment start.",
+		"time": {
+			"info": "Set the start of the event. You can also add the end of your event using the checkbox.",
+			"title": "Time"
+		},
+		"title": "appointment {count}"
+	},
+	"location": {
+		"info": "Enter the address where the events will take place. Your customers can then immediately see the navigation to the location via Google Maps.",
+		"title": "Address of the appointment"
+	},
+	"showAppointments": {
+		"info": "If several appointments can take place at the same time, you can define here whether your customers should be able to see the number of available appointments or not.",
+		"title": "Do you want your customers to see the number of appointments still available?"
+	},
+	"title": "Settings",
+	"verify": {
+		"info": "With the email verification, your customers confirm that they have booked an appointment with you. This procedure thus complies with the European General Data Protection Regulation. We recommend deactivating email verification for test purposes only.",
+		"time": {
+			"info": "The appointment remains blocked (not bookable) until the booking customer has verified it or the time specified here has expired. Verification takes place when the link in the verification email has been clicked.",
+			"title": "Time for verification of the appointment"
+		},
+		"title": "Enable email verification",
+		"warning": "This booking mode does not comply with the European General Data Protection Regulation. We recommend using it for test purposes only."
+	},
+	"webinar": {
+		"info": "If you want to conduct your appointments digitally, you can simply and easily use Bookingflix's webinar system. The invitation to the videoconference happens automatically with the booking of the appointment and can be customized in your Bookingflix account.",
+		"system": {
+			"bookingflix": "Bookingflix (beta version)",
+			"title": "Webinar system"
+		},
+		"title": "Conduct customer meetings as a video conference"
+	}
+}

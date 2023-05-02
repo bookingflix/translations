@@ -1,0 +1,50 @@
+{
+	"additionalAppointments": {
+		"appointments": "Date supplémentaire | Dates supplémentaires",
+		"button": "Activer des dates supplémentaires individuelles",
+		"info": "Chers clients, vous trouverez ici quelques dates supplémentaires en complément des heures d'ouverture fixes."
+	},
+	"appointment": "Rendez-vous | Dates",
+	"error": {
+		"end": "La fin de votre calendrier doit être postérieure à sa date de début.",
+		"time": "La fin de votre période d'ouverture doit être postérieure à son début."
+	},
+	"months": [
+		"janvier",
+		"février",
+		"Mars",
+		"avril",
+		"Mai",
+		"juin",
+		"juillet",
+		"août",
+		"septembre",
+		"octobre",
+		"novembre",
+		"décembre"
+	],
+	"name": {
+		"days": "jour | jours",
+		"hours": "heure | heures",
+		"minutes": "Minute | Minutes",
+		"months": "mois | mois",
+		"weeks": "semaine | semaines",
+		"years": "année | années"
+	},
+	"repeat": {
+		"every": {
+			"1": "chaque | chaque",
+			"2": "chaque | chaque",
+			"3": "chaque | chaque"
+		}
+	},
+	"weekdays": [
+		"Lundi",
+		"Mardi",
+		"Mercredi",
+		"JEUDI",
+		"Vendredi",
+		"samedi",
+		"dimanche"
+	]
+}

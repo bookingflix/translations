@@ -1,0 +1,56 @@
+{
+	"advance": {
+		"description": "Maximal {date} im Voraus. Danach werden keine weiteren Termine/Tage angezeigt."
+	},
+	"buffer": {
+		"option": "{time} Minuten Puffer zum Nachfolgetermin",
+		"title": "Soll es einen Zeitpuffer geben?"
+	},
+	"calendar": {
+		"allDay": "Ganztägiger Termin",
+		"fromTo": "Mehrtägiger Zeitraum",
+		"hours": "Mehrstündiger Termin"
+	},
+	"checkDate": "Bitte Termindatum überprüfen",
+	"duration": {
+		"info": "Geben Sie die Dauer eines Termins an. Bieten Sie mehrere Dienstleistungen mit verschiedener Dauer an? Dann wählen Sie im 1. Schritt  das Kalenderformat „Angebote & Dienstleistungen“ aus.",
+		"title": "Wie lange dauert ein Termin?"
+	},
+	"immediately": "Sofort",
+	"lastMinute": {
+		"description": "Mindestens {date} zwischen Buchung und Terminbeginn. So können sehr kurzfristige Buchungen verhindert werden.",
+		"info": "Durch die Einstellung eines Vorausbuchungszeitraums können Sie sehr kurzfristige Terminbuchungen verhindern. \"0 Minuten\" bedeutet, dass Kunden Termine sehr kurzfristig buchen und sofort wahrnehmen können.",
+		"title": "Welcher Zeitraum soll zwischen Buchung und Termin mindestens liegen?"
+	},
+	"next": {
+		"info": "Geben Sie an, wann der jeweils nachfolgende Termin buchbar sein soll. Beispiel – „Zur nächsten vollen Stunde“: Findet ein Termin von 9:00–9:30 Uhr statt, ist der nächste buchbare Termin 10:00–10:30 Uhr. Beispiel – „Zur nächsten Viertelstunde“. Findet ein Termin von 9:00–10:00 statt, so ist der nächste buchbare Termin 9:15–10:15 Uhr.",
+		"option": [
+			"im Anschluss an vorherigen Termin",
+			"15 Minuten nach Beginn des vorherigen Termins",
+			"30 Minuten nach Beginn des vorherigen Termins",
+			"1 Stunde nach Beginn des vorherigen Termins"
+		],
+		"title": "Wann soll der nächstmögliche Termin buchbar sein?"
+	},
+	"pause": {
+		"add": "Pausenzeit hinzufügen",
+		"info": "Pausenzeiten können im nächsten Schritt über folgendes Symbol angelegt werden",
+		"title": "Pausenzeit|Pausenzeiten"
+	},
+	"period": {
+		"description": "Termine können ab {date} bis {date} gebucht werden",
+		"info": "Wenn Sie Ihre Termine nur über einen gewissen Zeitraum anbieten wollen, können Sie hier festlegen von wann bis wann Ihre Kunden Termine buchen können. Davor und danach werden keine Termine/Tage angezeigt im Kalender.",
+		"title": "Innerhalb welchen konkreten Zeitraums bieten Sie Termine an?"
+	},
+	"title": "Buchungszeiten",
+	"unlimited": "Unbegrenzt",
+	"weekdays": {
+		"closed": "geschlossen",
+		"fromTo": "von {date} bis {date}",
+		"info": "Geben Sie die Wochentage und Öffnungszeiten Ihres Geschäftes an. Im nächsten Schritt können Sie dann Ihre individuellen Zeitfenster sowie die Pausenzeiten für die Terminbuchung festlegen.",
+		"open": "geöffnet",
+		"take": "Diese Einstellung für alle offenen Tage übernehmen",
+		"title": "Wann hat Ihr Geschäft geöffnet?"
+	},
+	"weekdaysSettings": "Einstellungen für Wochentag {day}:"
+}

@@ -1,0 +1,56 @@
+{
+	"appointment": {
+		"end": "Fin de plazo",
+		"endConflict": "El final de la cita debe ser posterior al inicio de la misma.",
+		"remove": "Eliminar cita | Eliminar todas las {count} citas"
+	},
+	"back": "Volver",
+	"clock": "{time} en punto | {time} en punto",
+	"commitChanges": "Aplicar cambios | {count} Aplicar cambios",
+	"dates": {
+		"copy": {
+			"day": "Copiar etiqueta",
+			"to": "Copiar entradas en ..."
+		}
+	},
+	"months": {
+		"1": "enero",
+		"2": "febrero",
+		"3": "marzo",
+		"4": "abril",
+		"5": "mayo",
+		"6": "junio",
+		"7": "julio",
+		"8": "agosto",
+		"9": "septiembre",
+		"10": "octubre",
+		"11": "noviembre",
+		"12": "diciembre"
+	},
+	"save": "Guardar",
+	"timeDifference": {
+		"beforeXDays": "Hace {days} días",
+		"beforeXMonths": "Hace {months} meses",
+		"beforeXYears": "Hace {years} años",
+		"dayAfterTomorrow": "Pasado mañana",
+		"inXDays": "en {days} días",
+		"inXMonths": "En {months} meses",
+		"inXYears": "En {years} años",
+		"lastMonth": "Ultimo Mes",
+		"lastYear": "El año pasado",
+		"nextMonth": "Próximo mes",
+		"nextYear": "Proximo año",
+		"today": "Hoy",
+		"tomorrow": "mañana",
+		"yesterday": "Ayer"
+	},
+	"weekdays": {
+		"1": "lunes",
+		"2": "martes",
+		"3": "miércoles",
+		"4": "jueves",
+		"5": "viernes",
+		"6": "sábado",
+		"7": "domingo"
+	}
+}

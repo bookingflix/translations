@@ -1,0 +1,53 @@
+{
+	"terminverwaltung-fuer-endkunden": {
+		"cta": {
+			"action": "Jetzt 14 Tage lang kostenlos Bookingflix Premium testen!",
+			"button": "Jetzt Terminkalender erstellen",
+			"link": "/quickstart"
+		},
+		"intro": "Im Kundenportal verwalten sich Ihre Kunden komplett selbst. Nach Registrierung und Login sind hier alle gebuchten Termine übersichtlich einsehbar. Kunden können ihre Termine ändern sowie bewerten und Sie direkt über den Kundenchat kontaktieren.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Termine buchen, ändern und stornieren",
+							"img": "terminverwaltung-fuer-endkunden-01.png",
+							"text": "Für eine Terminbuchung, -änderung oder -stornierung müssen Ihre Kunden nicht mehr anrufen. Das machen sie selbst im Kundenportal. Das spart Zeit und Nerven für alle."
+						},
+						{
+							"button": {
+								"link": "/support/video/18",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "QR-Code für jeden Termin",
+							"img": "terminverwaltung-fuer-endkunden-02.png",
+							"text": "Bookingflix bietet Ihnen eine integrierte Check-In- und Check-Out-Funktion. Jeder gebuchte Termin verfügt über einen eigenen QR-Code und eine individuelle Termin-ID. Diese ermöglichen es, jeden Kunden binnen Sekunden ein- und später auch wieder auszuchecken.\n\nSo haben Sie einen genauen Überblick über die Zuverlässigkeit Ihrer Kunden, die Auslastung und können ggf. sogar die Nachverfolgbarkeit für das Gesundheitsamt gewährleisten."
+						},
+						{
+							"headline": "Kundenchat",
+							"img": "terminverwaltung-fuer-endkunden-03.png",
+							"text": "Treten Sie mit der integrierten Chatfunktion über alle Endgeräte mit Ihren Kunden und umgekehrt in Kontakt. Der Chatverlauf wird dokumentiert. Über neue Nachrichten werden Sie und Ihre Kunden per Email informiert."
+						},
+						{
+							"button": {
+								"link": "/features/votes",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Erinnerung an die Terminbewertung",
+							"img": "terminverwaltung-fuer-endkunden-04.png",
+							"text": "Nachdem der Termin stattgefunden hat, werden Ihre Kunden daran erinnert, diesen zu bewerten. Die Bewertungen werden dann im Kundenportal veröffentlicht. Sie können dabei selbst festlegen, welche Bewertungsfragen Sie Ihren Kunden stellen wollen."
+						},
+						{
+							"headline": "Weitere Informationen zu Ihrem Geschäft",
+							"img": "terminverwaltung-fuer-endkunden-05.png",
+							"text": "Im Kundenportal stehen Ihren Kunden alle wichtigen Informationen zu Ihrem Unternehmen, wie Öffnungszeiten, Standort sowie Sonderangebote und Bewertungen, zur Verfügung. Diese werden aus Ihrem Bookingflix-Account übertragen."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Terminverwaltung für Endkunden",
+		"title": "Gebuchte Termine verwalten und ein Ort, um mit Ihnen in Kontakt zu treten"
+	}
+}

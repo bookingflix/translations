@@ -1,0 +1,49 @@
+{
+	"terminerinnerungen": {
+		"cta": {
+			"action": "Try Bookingflix Premium for 14 days for free!",
+			"button": "Create appointment calendar now",
+			"link": "/quickstart"
+		},
+		"intro": "With Bookingflix you can automatically remind your customers about their appointments. So you can relax and make sure that all booked appointments take place without having to think about it all the time.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "More reliability for your appointments",
+							"img": "terminerinnerungen-01.png",
+							"text": "Increase the reliability of your customers by 10-20% with Bookingflix and let them be notified automatically by email or SMS as soon as the appointment is scheduled with you."
+						},
+						{
+							"button": {
+								"link": "/support/video/8",
+								"more": "Learn more"
+							},
+							"headline": "Individual times and frequencies",
+							"img": "terminerinnerungen-02.png",
+							"text": "Whether one day before or one week: Set in your Bookingflix profile individually in which rhythm and how many days in advance the appointment reminders should be sent to your customers in each case."
+						},
+						{
+							"headline": "Appointment reminders by email",
+							"img": "terminerinnerungen-03.png",
+							"text": "The appointment reminders by email are unlimited and included free of charge in your membership. You can freely adapt the subject and the email text to your company and your services."
+						},
+						{
+							"headline": "Appointment reminders via SMS",
+							"img": "terminerinnerungen-04.png",
+							"text": "Reminders via SMS are sent against credit. The credit must be purchased for a fee in your Bookingflix account. The notification texts of the SMS are freely customizable."
+						},
+						{
+							"headline": "Individual reminders for each diary",
+							"img": "terminerinnerungen-05.png",
+							"text": "If you manage multiple appointment calendars via Bookingflix, you can decide for each calendar separately in which frequency, how many days in advance and via which channel appointment reminders should be sent."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Appointment reminders",
+		"title": "More reliability through automatic appointment reminders"
+	}
+}

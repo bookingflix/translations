@@ -1,0 +1,9 @@
+{
+  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termine***.\n2. Klicken Sie auf ***Tabelle der Einträge herunterladen***.\n3. Wählen Sie den gewünschten Termin-Buchungs-Kalender aus.\n4. Wählen Sie aus, welcher Zeitraum benötigt wird.\n5. Wählen Sie das Format aus. Zur Verfügung steht der Download im csv- und im pdf-Format. Sobald Sie das gewünschte Format anklicken, startet der Download.\n6. Alternativ können Sie die Daten auch über den Link ***Kunden*** downloaden. Diesen Link finden Sie ebenfalls unter dem Obermenüpunkt ***Termine***.\n7. Wählen Sie den gewünschten Termin-Buchungs-Kalender aus.\n8. Wählen Sie aus, welcher Zeitraum benötigt wird.\n9. Wählen Sie das Format aus. Zur Verfügung steht der Download im csv- und im pdf-Format. Sobald Sie das gewünschte Format anklicken, startet der Download.",
+  "img": {
+    "1": "bild92.webp",
+    "2": "bild93.webp",
+    "3": "bild94.webp"
+  },
+  "title": "Download der Termin-Daten (csv, pdf)"
+}

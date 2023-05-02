@@ -1,0 +1,165 @@
+{
+	"benefits": {
+		"items": {
+			"01": "un grand gain de temps\nNous avons des clients ou des utilisateurs qui gagnent plusieurs heures par jour grâce à Bookingflix.",
+			"02": "Ménager ses nerfs\nPourquoi convenir de rendez-vous quand il est possible de les choisir et de les réserver directement ?",
+			"03": "Augmenter la fiabilité des rendez-vous\nLes clients aiment qu'on leur rappelle leur rendez-vous. Le taux de non-présentation diminue ainsi considérablement.",
+			"04": "Le numérique à la pointe du progrès\nOui, le téléphone était autrefois très moderne. Mais le temps ne s'arrête pas. Les clients attendent des services modernes et numériques.",
+			"05": "Améliorer le service et renforcer le facteur de confiance\nBookingflix peut consulter pour vous les avis des clients, après le rendez-vous, de manière entièrement automatique."
+		},
+		"title": "Vos avantages en un clin d'œil"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Combien coûtent les rappels de rendez-vous par SMS ?",
+				"url": ""
+			},
+			"11": {
+				"title": "Combien coûte Bookingflix par mois ?",
+				"url": ""
+			},
+			"12": {
+				"title": "Quel est le délai de préavis à respecter ?",
+				"url": ""
+			},
+			"13": {
+				"title": "Peut-on enregistrer les clients à l'entrée en scannant le code QR ?",
+				"url": ""
+			},
+			"14": {
+				"title": "Est-il possible de définir des vacances pendant lesquelles aucune date ne peut être réservée ?",
+				"url": ""
+			},
+			"15": {
+				"title": "Le client peut-il gérer lui-même la réservation (modifier le rendez-vous, l'annuler) ?",
+				"url": ""
+			},
+			"16": {
+				"title": "Les e-mails du système (acceptation, refus) peuvent-ils être envoyés à partir de sa propre adresse e-mail ?",
+				"url": ""
+			},
+			"17": {
+				"title": "Quel est l'agenda le mieux adapté à mon entreprise ?",
+				"url": ""
+			},
+			"18": {
+				"title": "Combien de temps prend la réservation d'un rendez-vous pour mes clients ?",
+				"url": ""
+			},
+			"01": {
+				"title": "La réservation de rendez-vous via Bookingflix.com est-elle conforme au RGPD ?",
+				"url": ""
+			},
+			"02": {
+				"title": "Où se trouvent les serveurs de Bookingflix ?",
+				"url": ""
+			},
+			"03": {
+				"title": "Est-ce que Bookingflix dispose d'une gestion des droits pour que les collaborateurs puissent prendre en charge la gestion des rendez-vous ?"
+			},
+			"04": {
+				"title": "Les groupes peuvent-ils également effectuer une réservation et le nombre est-il pris en compte ?",
+				"url": ""
+			},
+			"05": {
+				"title": "Le nombre de réservations de rendez-vous mensuels est-il limité ?",
+				"url": ""
+			},
+			"06": {
+				"title": "Les réservations de rendez-vous peuvent-elles être confirmées automatiquement ?",
+				"url": ""
+			},
+			"07": {
+				"title": "Quel soutien recevons-nous dans le cadre de l'utilisation ?",
+				"url": ""
+			},
+			"08": {
+				"title": "Le compte premium peut-il être payé par facture plutôt que par prélèvement automatique ?",
+				"url": ""
+			},
+			"09": {
+				"title": "Est-il possible d'envoyer des rappels de rendez-vous avant le rendez-vous, à un moment donné ?",
+				"url": ""
+			}
+		},
+		"title": "FAQ pertinentes pour votre secteur"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Confirmer automatiquement les rendez-vous",
+				"url": ""
+			},
+			"11": {
+				"title": "Modifier ou annuler facilement des rendez-vous",
+				"url": ""
+			},
+			"12": {
+				"title": "Plus d'infos à communiquer dans le cadre de la réservation",
+				"url": ""
+			},
+			"13": {
+				"title": "Rappels de rendez-vous",
+				"url": ""
+			},
+			"14": {
+				"title": "Exporter les données de rendez-vous (pdf, csv)",
+				"url": ""
+			},
+			"15": {
+				"title": "Billet de rendez-vous avec code QR à imprimer",
+				"url": ""
+			},
+			"18": {
+				"title": "Obtenir automatiquement les évaluations des clients",
+				"url": ""
+			},
+			"01": {
+				"title": "Réservation de rendez-vous selon les normes du RGPD",
+				"url": ""
+			},
+			"02": {
+				"title": "Serveurs en Allemagne",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendrier de réservation de rendez-vous pour des événements concrets",
+				"url": ""
+			},
+			"04": {
+				"title": "Calendrier de réservation de rendez-vous pour les heures d'ouverture fixes",
+				"url": ""
+			},
+			"05": {
+				"title": "Meilleure vue d'ensemble du statut des rendez-vous (accepté, annulé, pas encore confirmé)",
+				"url": ""
+			},
+			"06": {
+				"title": "RÉSERVATIONS DE GROUPE",
+				"url": ""
+			},
+			"07": {
+				"title": "Vacances et temps de pause réglables",
+				"url": ""
+			},
+			"08": {
+				"title": "Gestion des droits pour la gestion des rendez-vous par les collaborateurs",
+				"url": ""
+			},
+			"09": {
+				"title": "Fonction check-in et check-out avec scan du code QR",
+				"url": ""
+			}
+		},
+		"title": "Fonctions et caractéristiques particulièrement pertinentes pour votre secteur"
+	},
+	"main": {
+		"description": "Dans ce secteur en particulier, la moyenne d'âge est relativement jeune. Et la jeune génération est habituée à organiser sa vie au moyen de smartphones, d'applications et d'Internet. Il y a une grande proportion dans ce groupe qui ne prend le téléphone pour téléphoner qu'en cas d'absolue nécessité. Le téléphone ou le smartphone est principalement utilisé pour le divertissement et l'organisation. Bien sûr aussi pour communiquer. Mais ici, ce sont les messageries et les services web sociaux qui dominent. Cette génération plutôt jeune ne souhaite donc pas non plus prendre rendez-vous par téléphone. Ils veulent surfer sur le site web d'un prestataire de services, choisir le rendez-vous et le réserver rapidement et facilement. Il faut donc être convaincant en tant que prestataire de services. convaincant sur le plan numérique. Il a un réel avantage.",
+		"title": "Loisirs et fun"
+	},
+	"sub": {
+		"description": "Les cas d'application sont si variés qu'une liste ne peut être qu'incomplète.\nParcs de loisirs, parcs sportifs, parcs d'escalade, concerts, théâtres, cinémas, drive-in, zoos, parcs animaliers, minigolfs, escape rooms, centres de loisirs, ski-hall, location de bateaux, gastronomie d'aventure, organisateurs d'excursions, événements en plein air. Partout, des billets sont réservés ou des rendez-vous sont donnés.\nLe client souhaite cliquer en ligne sur la prestation souhaitée et la réserver immédiatement. Le moment de la confirmation du rendez-vous est un moment de satisfaction intérieure. Comme l'achat ou la possession d'un souhait de longue date. Bookingflix propose un outil de prise de rendez-vous performant et personnalisable qui répond à ce besoin. Le rendez-vous est immédiatement confirmé. Si nécessaire, il peut être modifié ou annulé ultérieurement. Les informations importantes peuvent être communiquées au client via la fonction de chat.\nLa confirmation du rendez-vous peut être facilement transférée dans l'agenda standard du smartphone. De plus, la confirmation de rendez-vous contient un ticket PDF avec un code QR. Celui-ci peut être imprimé ou présenté numériquement à l'entrée. Grâce au code QR, l'organisateur peut enregistrer le client et le libérer en quittant l'événement.\nLes réservations de rendez-vous peuvent être confirmées automatiquement par Bookingflix. En cas d'annulation, le créneau de rendez-vous est immédiatement libéré. Les réservations de groupe, avec une taille de groupe maximale prédéfinie, sont également très faciles à mettre en place.\nLors de la création du calendrier de réservation de rendez-vous, vous pouvez définir les heures d'ouverture régulières, les pauses et les vacances. Si l'événement n'a lieu qu'une fois ou quelques fois par an, nous recommandons d'utiliser le calendrier de réservation de rendez-vous pour des événements concrets. Il est possible de régler le nombre maximal de participants.\nLa gestion des rendez-vous peut également être confiée à un collaborateur ou une collaboratrice. Une gestion complète des droits est disponible à cet effet.\nSi les données de rendez-vous doivent être traitées, elles peuvent être téléchargées et importées en quelques secondes. Par exemple dans Excel ou dans un CRM.\nRéduisez considérablement le taux de NoShow. Il suffit d'envoyer aux clients un rappel par e-mail ou par SMS à des heures qu'ils ont eux-mêmes définies. Mieux vaut un client qui annule qu'un client qui ne se présente de toute façon pas.",
+		"title": "Pourquoi réserver un rendez-vous en ligne avec Bookingflix ?"
+	}
+}

@@ -1,0 +1,98 @@
+{
+	"description": "How do I use Bookingflix?",
+	"features": {
+		"1": {
+			"features": {
+				"1": "Confirm, cancel and postpone appointments",
+				"2": "Contact customers",
+				"3": "Notes on appointments and customers",
+				"4": "Appointment reminder via email and SMS"
+			},
+			"title": "Holistic scheduling"
+		},
+		"2": {
+			"features": {
+				"1": "Keeping track of appointments and customer ratings",
+				"2": "all dates saved in Bookingflix calendar",
+				"3": "simple operability"
+			},
+			"title": "Simply keep the overview"
+		},
+		"3": {
+			"features": {
+				"1": "Integrate appointment form on already existing website",
+				"2": "Create independent appointment booking website"
+			},
+			"title": "Technical solution for every requirement"
+		}
+	},
+	"overview": "The most important functions at a glance",
+	"page": {
+		"elements": [
+			{
+				"list": [
+					{
+						"items": [
+							"Private dates",
+							"Consistent dates during opening hours",
+							"Concrete events",
+							"Dates for offers & services"
+						],
+						"title": "Different calendar formats"
+					},
+					{
+						"items": [
+							"Individual duration and timing of bookable appointments",
+							"customizable design"
+						],
+						"title": "Personalization"
+					}
+				],
+				"title": "Appointment calendar"
+			},
+			{
+				"list": [
+					{
+						"items": [
+							"Confirm, cancel and postpone appointments",
+							"contact customers in a straightforward manner",
+							"Create notes on appointments and customers",
+							"send automatic appointment reminders via email and SMS"
+						],
+						"title": "Simple scheduling"
+					},
+					{
+						"items": [
+							"Keeping track of appointments and customer ratings",
+							"all dates saved in Bookingflix calendar",
+							"easy to use"
+						],
+						"title": "Clear dashboard"
+					},
+					{
+						"items": [
+							"Automatic collection of customer reviews after the appointment",
+							"Customizable evaluation questions",
+							"Embedding on your website"
+						],
+						"title": "Customer reviews"
+					}
+				],
+				"title": "Planning and organization"
+			},
+			{
+				"list": [
+					{
+						"items": [
+							"Integrate appointment form on already existing website",
+							" Create independent appointment booking website"
+						],
+						"title": ""
+					}
+				],
+				"title": "Integration"
+			}
+		]
+	},
+	"title": "Features"
+}

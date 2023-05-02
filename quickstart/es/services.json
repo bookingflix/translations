@@ -1,0 +1,41 @@
+{
+	"description": {
+		"info": "Opcionalmente puede adjuntar una descripción para estos servicios.",
+		"title": "Descripción (opcional)"
+	},
+	"duration": {
+		"info": "Especifique la duración habitual del servicio. Cuando reserve una cita, el periodo correspondiente se bloqueará en su agenda.",
+		"title": "Duración"
+	},
+	"editor": {
+		"add": "{count} Añadir servicio",
+		"close": "Cerrar la edición",
+		"copy": "Duplicar el servicio",
+		"delete": "Eliminar el servicio"
+	},
+	"image": {
+		"add": "Añadir imagen",
+		"info": "Opcionalmente puede subir una foto de su servicio.",
+		"upload": "Subir imagen"
+	},
+	"name": {
+		"info": "Introduzca el título del servicio.",
+		"title": "Título"
+	},
+	"price": {
+		"description": "EUR",
+		"info": "Indique el precio del servicio.",
+		"title": "Precio (opcional)"
+	},
+	"tags": {
+		"add": "añadir categoría",
+		"category": "categoría de servicio",
+		"close": "Cerrar",
+		"info": "Puede asignar etiquetas para organizar mejor sus ofertas y servicios. Por ejemplo, puede asignar diferentes etiquetas a los días de apertura de su negocio para ofrecer sus servicios convenientemente en diferentes días. Además, puede filtrar las citas en su calendario de citas según los parámetros que usted mismo seleccione. Ejemplos de aplicaciones: - Etiquetas para sus empleados, Anna sólo hace peinados y Erik sólo hace cortes de pelo para señoras. (Etiquetas: Anna, Erik) - Etiquetas para los servicios relacionados con los días de la semana, por ejemplo, las citas de estilismo generalmente sólo se realizan los viernes. (Etiqueta: viernes)",
+		"save": "Guardar",
+		"select": "Por favor, seleccione",
+		"title": "CATEGORÍA"
+	},
+	"title": "Servicios",
+	"withService": "Con beneficios"
+}

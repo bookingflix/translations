@@ -1,0 +1,197 @@
+{
+	"benefits": {
+		"items": {
+			"01": "great time saving\nFor both sides. Scheduling takes only seconds. The customer also changes or cancels the appointment independently.",
+			"02": "Focus on the essentials\nTelephone interruptions are a nuisance in everyday work. Online, it's faster, easier and easier on the nerves.",
+			"03": "Increase appointment reliability\nUse the automatic reminders via email and SMS. By the way, most customers appreciate this extra service.",
+			"04": "Digitally up to date and customer acquisition\nAppointment tools are now a popular standard. Customers expect modern digital services.",
+			"05": "Optimize workflow\nThe customer books and manages the appointment herself. The appointment data is clearly displayed in your dashboard."
+		},
+		"title": "Your advantages in a nutshell"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "What notice period do I have to observe?",
+				"url": ""
+			},
+			"11": {
+				"title": "Can the customer manage the booking himself (change appointment, cancel)",
+				"url": ""
+			},
+			"12": {
+				"title": "Can the email texts be customized?",
+				"url": ""
+			},
+			"13": {
+				"title": "Can the system mails (acceptance, rejection) be sent from your own mail address?",
+				"url": ""
+			},
+			"14": {
+				"title": "What happens to the appointment data after the appointment?",
+				"url": ""
+			},
+			"15": {
+				"title": "Can I cancel appointments, delete appointments or cancel the customer after the fact?",
+				"url": ""
+			},
+			"16": {
+				"title": "Which appointment booking calendar is best for my business?",
+				"url": ""
+			},
+			"17": {
+				"title": "How long does it take to book appointments for my clients?",
+				"url": ""
+			},
+			"18": {
+				"title": "How can I set vacation times?",
+				"url": ""
+			},
+			"19": {
+				"title": "How do I contact the client before the appointment?",
+				"url": ""
+			},
+			"20": {
+				"title": "I would like to create a short note for the customer appointment. How do I do that?",
+				"url": ""
+			},
+			"21": {
+				"title": "Can the appointment data be downloaded for further processing?",
+				"url": ""
+			},
+			"22": {
+				"title": "How are overbookings prevented?",
+				"url": ""
+			},
+			"23": {
+				"title": "How can I define multiple tables for booking?",
+				"url": ""
+			},
+			"01": {
+				"title": "Does Bookingflix have a rights management, so that the respective department can take over the appointment management?",
+				"url": ""
+			},
+			"02": {
+				"title": "What exactly happens when a customer cancels their appointment?",
+				"url": ""
+			},
+			"03": {
+				"title": "Can appointment bookings be confirmed automatically?"
+			},
+			"04": {
+				"title": "Can appointments be entered manually for the customer?",
+				"url": ""
+			},
+			"05": {
+				"title": "What support do we get within the scope of use?",
+				"url": ""
+			},
+			"06": {
+				"title": "Can the premium account also be paid by invoice instead of direct debit?",
+				"url": ""
+			},
+			"07": {
+				"title": "Can appointment reminders be sent before the appointment, at a specific time?",
+				"url": ""
+			},
+			"08": {
+				"title": "What is the cost of appointment reminders via SMS?",
+				"url": ""
+			},
+			"09": {
+				"title": "How much does Bookingflix cost per month?",
+				"url": ""
+			}
+		},
+		"title": "Relevant FAQ for your industry"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Simply change or cancel appointments",
+				"url": ""
+			},
+			"11": {
+				"title": "More info communicate within the booking",
+				"url": ""
+			},
+			"12": {
+				"title": "Appointment reminders",
+				"url": ""
+			},
+			"13": {
+				"title": "Easily integrate appointment booking calendar on your own website",
+				"url": ""
+			},
+			"14": {
+				"title": "Appointment booking website usable even without own website",
+				"url": ""
+			},
+			"15": {
+				"title": "Create appointment notes for appointments and customers",
+				"url": ""
+			},
+			"16": {
+				"title": "Vacations and vacations adjustable",
+				"url": ""
+			},
+			"17": {
+				"title": "Several dates per appointment slot bookable",
+				"url": ""
+			},
+			"18": {
+				"title": "Obtain customer reviews automatically",
+				"url": ""
+			},
+			"19": {
+				"title": "Automatic deletion of the appointment data after 30 days",
+				"url": ""
+			},
+			"01": {
+				"title": "Appointment booking according to DSGVO standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Germany",
+				"url": ""
+			},
+			"03": {
+				"title": "Appointment booking calendar for fixed opening hours",
+				"url": ""
+			},
+			"04": {
+				"title": "Appointment booking calendar for specific events",
+				"url": ""
+			},
+			"05": {
+				"title": "Better overview of the appointment status (commitment, cancellation, not yet confirmed)",
+				"url": ""
+			},
+			"06": {
+				"title": "Different appointment durations can be set. E.g. 30 minutes or two hours",
+				"url": ""
+			},
+			"07": {
+				"title": "Rights management for appointment management by responsible employee",
+				"url": ""
+			},
+			"08": {
+				"title": "Individual email texts of the system emails",
+				"url": ""
+			},
+			"09": {
+				"title": "Have appointments confirmed automatically",
+				"url": ""
+			}
+		},
+		"title": "Particularly relevant functions and features for your industry"
+	},
+	"main": {
+		"description": "During the Corona pandemic, restaurants and pubs could also only be visited with an appointment. Later, even only with a test or vaccination card. As annoying as this was for many. So simple and uncomplicated many inns could offer this for their customers. However, booking tables is also a popular instrument for customer loyalty and customer acquisition beyond the pandemic. Customers who want to book a table quickly can do so with just a few clicks. For this, many restaurants have basically connected a few tables with Bookingflix. Means, these can be booked online preferentially. Only if all other tables are already taken, these \"Bookingflix tables\" can also be booked by phone.\nRegular customers even like to book by appointment tool. This the landlord, the waiter, the waitress can even draw attention to this table booking service.",
+		"title": "Restaurants and eateries"
+	},
+	"sub": {
+		"description": "Some customers are reluctant to book a table by phone. They also order pizza or duck with rice by smartphone and app. So they are used to this service. Therefore, they also want to book the table by online booking tool.\nTherefore, more and more restaurants and pubs use Bookingflix to make free tables bookable.\nThe setup is very simple. Via Bookingflix's QuickStart, the restaurant defines how many tables can be booked online and during which opening hours they can be booked.\nBy embedding code, the appointment booking calendar is then published on the restaurant's own website. The guest then only has to select the date, enter his name and email address. And already the inn can also take reservations online. From new customers and regular customers. And if the table was already assigned by telephone, this can be entered with a few clicks on Bookingflix. So it also does not come to overbookings.\nThe appointment reminders via SMS and email are also popular. Thus, the guests are reminded in advance once again of the booked table. The guest can then change or cancel the appointment in good time, if necessary.\nVia the dashboard, all appointment or table bookings are clearly listed by day and time. Reservations can also be entered manually for the guest. Some restaurants only use Bookingflix. For the online table booking but also for the entry of telephone reservations.",
+		"title": "Why online appointment booking with Bookingflix?"
+	}
+}

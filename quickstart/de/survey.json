@@ -1,0 +1,13 @@
+{
+	"default": "Wie zufrieden sind Sie mit der Online-Termin-Buchung über Bookingflix.com ?",
+	"description": "Kunden-Bewertungen",
+	"info": "Über unseren Bewertungs-Service können Kundenbewertungen zur Terminvereinbarung erfasst werden. Der Termin-Buchende kann nachfolgende Fragen beantworten.",
+	"question": "Frage {count}",
+	"showInCalendar": "Kundenbewertungen im Terminkalender anzeigen?",
+	"title": "Bewertungen",
+	"type": {
+		"custom": "Eigene Fragen",
+		"default": "Standard Frage",
+		"none": "Keine Fragen"
+	}
+}

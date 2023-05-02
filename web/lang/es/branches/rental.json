@@ -1,0 +1,193 @@
+{
+	"benefits": {
+		"items": {
+			"01": "gran ahorro de tiempo\nRealmente tienes mejores cosas que hacer que dedicar tiempo a las citas que te hacen perder tiempo. Sus clientes también, por cierto.",
+			"02": "No te pongas nervioso\n¿Quién quiere jugar al ping-pong por correo electrónico? Es molesto y se puede hacer de forma mucho más eficaz y automática.",
+			"03": "Aumentar la fiabilidad de las citas\nA los clientes potenciales les gusta que les recuerden la cita. Utilice para ello los recordatorios automáticos por correo electrónico y SMS.",
+			"04": "Actualización digital\nLas herramientas de cita previa son ahora un estándar popular. El teléfono sirve para chatear, no para reservar citas.",
+			"05": "Optimizar el flujo de trabajo\nEl interesado reserva y gestiona él mismo la cita. Los datos de las citas se muestran claramente en su panel de control."
+		},
+		"title": "Sus ventajas en pocas palabras"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "¿Se puede pagar la Cuenta Premium también por factura en lugar de por domiciliación bancaria?",
+				"url": ""
+			},
+			"11": {
+				"title": "¿Se pueden enviar recordatorios de citas antes de la cita, a una hora determinada?",
+				"url": ""
+			},
+			"12": {
+				"title": "¿Cuánto cuestan los recordatorios de citas por SMS?",
+				"url": ""
+			},
+			"13": {
+				"title": "¿Cuánto cuesta Bookingflix al mes?",
+				"url": ""
+			},
+			"14": {
+				"title": "¿Qué plazo de preaviso debo respetar?",
+				"url": ""
+			},
+			"15": {
+				"title": "¿Puede el cliente gestionar la reserva por sí mismo (cambiar la cita, cancelar)?",
+				"url": ""
+			},
+			"16": {
+				"title": "¿Puedo ofrecer horarios diferentes y posteriores para una visita o un evento?",
+				"url": ""
+			},
+			"17": {
+				"title": "¿Se pueden personalizar los textos del correo electrónico?",
+				"url": ""
+			},
+			"18": {
+				"title": "¿Se pueden enviar los correos del sistema (aceptación, rechazo) desde su propia dirección de correo?",
+				"url": ""
+			},
+			"19": {
+				"title": "¿Cómo puedo imprimir el código QR en el Expose?",
+				"url": ""
+			},
+			"20": {
+				"title": "¿Qué ocurre con los datos de la cita después de la misma?",
+				"url": ""
+			},
+			"21": {
+				"title": "¿Puedo anular o borrar citas o anularlas posteriormente para el interesado?",
+				"url": ""
+			},
+			"22": {
+				"title": "Me gustaría ofrecer el visionado por videoconferencia. ¿Es posible con Bookingflix?",
+				"url": ""
+			},
+			"23": {
+				"title": "¿Qué calendario de reserva de citas es el mejor para mi negocio?",
+				"url": ""
+			},
+			"01": {
+				"title": "¿La reserva de citas a través de Bookingflix.com cumple con el GDPR?",
+				"url": ""
+			},
+			"02": {
+				"title": "¿Dónde se encuentran los servidores de Bookingflix?",
+				"url": ""
+			},
+			"03": {
+				"title": "¿Tiene Bookingflix una gestión de derechos para que los empleados puedan asumir la gestión de las citas?"
+			},
+			"04": {
+				"title": "¿Es posible fijar el número máximo de personas que pueden participar en el recorrido?",
+				"url": ""
+			},
+			"05": {
+				"title": "¿Qué ocurre exactamente si un cliente potencial cancela su cita?",
+				"url": ""
+			},
+			"06": {
+				"title": "¿Está limitado el número de citas mensuales?",
+				"url": ""
+			},
+			"07": {
+				"title": "¿Se pueden confirmar automáticamente las reservas de citas?",
+				"url": ""
+			},
+			"08": {
+				"title": "¿Se pueden introducir manualmente las citas para el cliente?",
+				"url": ""
+			},
+			"09": {
+				"title": "¿Qué apoyo recibimos dentro del ámbito de uso?",
+				"url": ""
+			}
+		},
+		"title": "Preguntas frecuentes relevantes para su sector"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Simplemente cambie o cancele las citas",
+				"url": ""
+			},
+			"11": {
+				"title": "Comunicar más información como parte de la reserva",
+				"url": ""
+			},
+			"12": {
+				"title": "Recordatorios de citas",
+				"url": ""
+			},
+			"13": {
+				"title": "Exportar los datos de las citas (pdf, csv)",
+				"url": ""
+			},
+			"14": {
+				"title": "Código QR con enlace al calendario de reserva de citas",
+				"url": ""
+			},
+			"15": {
+				"title": "Dirección de la cita en el calendario de reservas con enlace a Google Maps",
+				"url": ""
+			},
+			"16": {
+				"title": "Simplemente integre el calendario de reservas de citas en su propio sitio web",
+				"url": ""
+			},
+			"17": {
+				"title": "El sitio web de reserva de citas también puede utilizarse sin su propio sitio web",
+				"url": ""
+			},
+			"18": {
+				"title": "La cita de visita puede realizarse por videoconferencia",
+				"url": ""
+			},
+			"01": {
+				"title": "Reserva de citas según la norma DSGVO",
+				"url": ""
+			},
+			"02": {
+				"title": "Servidor en Alemania",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendario de citas para eventos específicos",
+				"url": ""
+			},
+			"04": {
+				"title": "Mejor visión de conjunto del estado de la cita (compromiso, cancelación, aún no confirmado)",
+				"url": ""
+			},
+			"05": {
+				"title": "Número de participantes por evento ajustable",
+				"url": ""
+			},
+			"06": {
+				"title": "También se pueden establecer citas de muy corta duración. Por ejemplo, cinco minutos.",
+				"url": ""
+			},
+			"07": {
+				"title": "Gestión de derechos para la gestión de citas por parte de los empleados",
+				"url": ""
+			},
+			"08": {
+				"title": "Textos individuales de los correos electrónicos del sistema",
+				"url": ""
+			},
+			"09": {
+				"title": "Confirmar automáticamente las citas",
+				"url": ""
+			}
+		},
+		"title": "Funciones y características especialmente relevantes para su sector"
+	},
+	"main": {
+		"description": "El mercado de la vivienda está saturado, según la región. La demanda no disminuye, sino que sigue aumentando. Los propietarios y vendedores de inmuebles, tanto profesionales como particulares, lo están notando. También en la demanda de citas para ver.\nEl interesado llama o escribe un correo electrónico. Las citas se discuten, se hacen, quizás se cambian o incluso se cancelan. Nos dicen qué documentos debemos llevar y dónde está exactamente el lugar de encuentro.\nCon dos o tres interesados, esto es manejable. Pero en cuanto hay varias citas con decenas de interesados, la concertación de citas se convierte en un proceso largo e incluso molesto. Y si además se ofrecen varias exposiciones, crece el deseo de contar con una solución sencilla, moderna, digital y automatizada. Bookingflix ofrece exactamente la solución que los propietarios, agentes inmobiliarios y administradores de propiedades necesitan.",
+		"title": "Alquiler y gestión de la propiedad"
+	},
+	"sub": {
+		"description": "Con el generador de calendarios de Bookingflix, puedes crear el calendario de reservas de citas que necesitas en cuestión de minutos. Recomendamos el calendario de reservas de citas especiales para eventos específicos. Por ejemplo, se establece que se puede reservar una cita el 10.10.2022 a las 10.00 horas. Además, una cita a las 11.00, 12.00 y 13.00 horas. Por supuesto, también se pueden establecer individualmente otros intervalos de tiempo y duración de las citas. Podría añadir el campo \"Mascotas\" a los campos de consulta. De este modo, podrá preguntar si el interesado tiene o no mascotas. Además, puede añadir una nota en el formulario de reserva de la cita en la que se indique que se debe llevar la información de Schufa. También puede incluir esta información en el correo electrónico de confirmación de la cita. Todos los correos electrónicos del sistema son personalizables. En el calendario de reserva de citas, también puede introducir la dirección de la visita. Incluso con un enlace directo a Google Maps.\nDesea ofrecer visitas en grupo en lugar de citas individuales. Esto también es posible. Basta con especificar en el generador de calendarios el número máximo de personas que pueden reservar una cita al mismo tiempo. En cuanto se alcanza el límite, la cita se marca como totalmente reservada o deja de mostrarse. En cuanto un interesado cancele la visita, lo que también es muy fácil de hacer a través de Bookingflix con un solo clic, la cita se ofrecerá de nuevo. También puede ofrecer la reserva sólo a determinados interesados. Para ello, coloque el calendario de reserva de citas en una subpágina no pública de su sitio web o utilice el sitio web de reserva de citas de Bookingflix, que se puede personalizar. Sólo se comparte el enlace con las personas autorizadas a reservar. Para aumentar la fiabilidad de las citas y ofrecer un buen servicio a los interesados, puedes enviar automáticamente recordatorios de citas por correo electrónico y SMS a través de Bookingflix. Usted mismo determina la hora de envío.\nSi utilizas los calendarios estándar de Google, Apple o Microsoft, Bookingflix te ofrece una sincronización de datos. Los datos de las citas se transfieren automáticamente a tu smartphone o a la agenda de éste. Por cierto, no es necesario confirmar las citas manualmente. Bookingflix lo hará por ti automáticamente si lo deseas. Bookingflix genera automáticamente un código QR para cada calendario de reservas. Se podría imprimir esto en la exposición, por ejemplo. Esto facilita aún más el acceso de los interesados al calendario de reservas de citas.\nEstaremos encantados de crear varios calendarios para usted si lo necesita. Puede transferir la administración de cada calendario a un empleado mediante un cómodo sistema de gestión de derechos. Esta persona sólo tiene acceso a la agenda aprobada y a los datos de las citas recibidas y almacenadas en ella.\nY si la visita va a tener lugar en línea por videoconferencia, también es muy fácil de hacer. Puedes configurar un evento específico como una videoconferencia con un solo clic. Esto ya está integrado en Bookingflix. El interesado recibe automáticamente el enlace a la videoconferencia por correo electrónico.",
+		"title": "¿Por qué reservar en línea con Bookingflix?"
+	}
+}

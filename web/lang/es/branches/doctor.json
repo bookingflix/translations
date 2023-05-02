@@ -1,0 +1,205 @@
+{
+	"benefits": {
+		"items": {
+			"01": "gran ahorro de tiempo\nPara ambos lados. La cita tarda sólo unos segundos. El paciente también cambia o cancela la cita de forma independiente.",
+			"02": "Centrarse en lo esencial\nLas interrupciones telefónicas son una molestia en el trabajo diario. En línea, es más rápido, más fácil y menos estresante.",
+			"03": "Aumentar la fiabilidad de las citas\nUtilice los recordatorios automáticos por correo electrónico y SMS. Por cierto, la mayoría de los pacientes agradecen este servicio extra.",
+			"04": "Actualización digital\nLas herramientas de cita previa se han convertido en un estándar popular. Los pacientes esperan servicios digitales modernos.",
+			"05": "Optimizar el flujo de trabajo\nLa paciente reserva y gestiona ella misma la cita. Los datos de las citas se muestran claramente en su panel de control."
+		},
+		"title": "Sus ventajas en pocas palabras"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "¿Qué plazo de preaviso debo respetar?",
+				"url": ""
+			},
+			"11": {
+				"title": "¿Puede el cliente gestionar la reserva por sí mismo (cambiar la cita, cancelar)?",
+				"url": ""
+			},
+			"12": {
+				"title": "¿Se pueden personalizar los textos del correo electrónico?",
+				"url": ""
+			},
+			"13": {
+				"title": "¿Se pueden enviar los correos del sistema (aceptación, rechazo) desde su propia dirección de correo?",
+				"url": ""
+			},
+			"14": {
+				"title": "¿Qué ocurre con los datos de la cita después de la misma?",
+				"url": ""
+			},
+			"15": {
+				"title": "¿Puedo anular las citas, borrarlas o dar de baja al cliente a posteriori?",
+				"url": ""
+			},
+			"16": {
+				"title": "¿Qué calendario de reserva de citas es el mejor para mi negocio?",
+				"url": ""
+			},
+			"17": {
+				"title": "¿Cuánto tiempo se tarda en reservar una cita para mis clientes?",
+				"url": ""
+			},
+			"18": {
+				"title": "¿Puedo también introducir manualmente las citas de mis clientes?",
+				"url": ""
+			},
+			"19": {
+				"title": "¿Cómo puedo fijar las vacaciones cuando la consulta está cerrada?",
+				"url": ""
+			},
+			"20": {
+				"title": "¿Cómo puedo contactar con el cliente antes de la cita?",
+				"url": ""
+			},
+			"21": {
+				"title": "Me gustaría crear una breve nota para la cita con el cliente. ¿Cómo lo hago?",
+				"url": ""
+			},
+			"22": {
+				"title": "¿Pueden descargarse los datos de las citas para su posterior tratamiento?",
+				"url": ""
+			},
+			"23": {
+				"title": "¿Cómo puedo eliminar los datos de las citas?",
+				"url": ""
+			},
+			"24": {
+				"title": "¿Cuándo se borran automáticamente los datos de las citas (períodos de borrado)?",
+				"url": ""
+			},
+			"01": {
+				"title": "¿Cuenta Bookingflix con una gestión de derechos para que el departamento correspondiente pueda hacerse cargo de la gestión de las citas?",
+				"url": ""
+			},
+			"02": {
+				"title": "¿Qué ocurre exactamente cuando un cliente cancela su cita?",
+				"url": ""
+			},
+			"03": {
+				"title": "¿Se pueden confirmar automáticamente las reservas de citas?"
+			},
+			"04": {
+				"title": "¿Se pueden introducir manualmente las citas para el cliente?",
+				"url": ""
+			},
+			"05": {
+				"title": "¿Qué apoyo recibimos dentro del ámbito de uso?",
+				"url": ""
+			},
+			"06": {
+				"title": "¿Se puede pagar la Cuenta Premium también por factura en lugar de por domiciliación bancaria?",
+				"url": ""
+			},
+			"07": {
+				"title": "¿Se pueden enviar recordatorios de citas antes de la cita, a una hora determinada?",
+				"url": ""
+			},
+			"08": {
+				"title": "¿Cuánto cuestan los recordatorios de citas por SMS?",
+				"url": ""
+			},
+			"09": {
+				"title": "¿Cuánto cuesta Bookingflix al mes?",
+				"url": ""
+			}
+		},
+		"title": "Preguntas frecuentes relevantes para su sector"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Simplemente cambie o cancele las citas",
+				"url": ""
+			},
+			"11": {
+				"title": "Comunicar más información como parte de la reserva",
+				"url": ""
+			},
+			"12": {
+				"title": "Recordatorios de citas",
+				"url": ""
+			},
+			"13": {
+				"title": "Simplemente integre el calendario de reservas de citas en su propio sitio web",
+				"url": ""
+			},
+			"14": {
+				"title": "El sitio web de reserva de citas también puede utilizarse sin su propio sitio web",
+				"url": ""
+			},
+			"15": {
+				"title": "Crear notas para citas y clientes",
+				"url": ""
+			},
+			"16": {
+				"title": "Vacaciones y días festivos ajustables",
+				"url": ""
+			},
+			"17": {
+				"title": "Se pueden reservar varias fechas por turno",
+				"url": ""
+			},
+			"18": {
+				"title": "Proceso de reserva según la DSGVO",
+				"url": ""
+			},
+			"19": {
+				"title": "Descargar los datos de la cita",
+				"url": ""
+			},
+			"20": {
+				"title": "Eliminación automática de los datos de las citas después de 30 días",
+				"url": ""
+			},
+			"01": {
+				"title": "Reserva de citas según la norma DSGVO",
+				"url": ""
+			},
+			"02": {
+				"title": "Servidor en Alemania",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendario de reserva de citas para los horarios de apertura fijos",
+				"url": ""
+			},
+			"04": {
+				"title": "Calendario de citas para eventos específicos",
+				"url": ""
+			},
+			"05": {
+				"title": "Mejor visión de conjunto del estado de la cita (compromiso, cancelación, aún no confirmado)",
+				"url": ""
+			},
+			"06": {
+				"title": "Se pueden establecer diferentes duraciones de las citas. Por ejemplo, 30 minutos o dos horas",
+				"url": ""
+			},
+			"07": {
+				"title": "Gestión de derechos para la gestión de citas por parte del funcionario responsable",
+				"url": ""
+			},
+			"08": {
+				"title": "Textos individuales de los correos electrónicos del sistema",
+				"url": ""
+			},
+			"09": {
+				"title": "Confirmar automáticamente las citas",
+				"url": ""
+			}
+		},
+		"title": "Funciones y características especialmente relevantes para su sector"
+	},
+	"main": {
+		"description": "\nDurante la pandemia de Corona, muchos consultorios médicos y también farmacias ofrecieron vacunas y pruebas de Corona. Muchos se sorprendieron positivamente de lo bien que funcionaba en el trabajo diario y para los clientes. Para los médicos en particular, el teléfono a menudo apenas se detiene. En este caso, las herramientas de cita fueron un claro alivio. Los pacientes sólo tenían que seleccionar la cita deseada, introducir sus datos y reservar la cita. Los datos sensibles no suelen ser necesarios. Por lo tanto, la estricta protección de los datos en este ámbito tan sensible no supuso ningún problema. Y también era muy práctico para los clientes o pacientes. No tuvieron que llamar enésimas veces para localizar a alguien o dejar un mensaje en el contestador automático para concertar una cita. Todo se hizo con unos pocos clics. Muchos se mostraron francamente orgullosos e informaron a la familia: \"¡Acabo de reservar una cita por Internet!",
+		"title": "Consultorios médicos y farmacias"
+	},
+	"sub": {
+		"description": "La protección de datos en el ámbito médico es de suma importancia, y con razón, por lo que no se suelen pedir datos sensibles al concertar una cita. Al reservar las citas para las pruebas Corona o las vacunas Corona, se requiere poco más que el nombre y la dirección de correo electrónico. Además, los servidores de Bookingflix se encuentran en Alemania. Por lo tanto, los datos no se transfieren ni se almacenan fuera de Europa. Todos los datos están protegidos mediante una moderna tecnología de encriptación. Las copias de seguridad de los datos de las citas se guardan automáticamente varias veces al día en servidores separados. El periodo de eliminación de datos es de 30 días. Sin embargo, también es posible una eliminación anterior. Si todavía se necesitan los datos, se pueden descargar en formato PDF y CSV.\nDurante su desarrollo, Bookingflix se desarrolló estrictamente de acuerdo con la normativa europea DSGVO. Porque los datos deben ser seguros. Los pacientes también lo esperan.\nAl crear un calendario de reserva de citas, se pueden configurar diferentes tipos de calendario. Por ejemplo, un calendario de reserva de citas para horarios fijos o para eventos específicos. Si sólo se ofrecen citas en unos pocos horarios ya fijados, se recomienda utilizar el calendario para eventos concretos. Si las citas se ofrecen varios días a la semana, el calendario puede utilizarse para los horarios fijos. Aquí también se pueden tener en cuenta los tiempos de descanso, los días libres y las vacaciones.\nOpcionalmente, los pacientes y clientes reciben un recordatorio de la cita por correo electrónico y SMS. También es posible la introducción manual de la cita, por ejemplo si un paciente no tiene acceso a Internet. A continuación, la consulta se hace cargo de la entrada de citas. Las citas reservadas sólo vuelven a aparecer como libres si el paciente cambia o cancela la cita. También es posible concertar citas muy breves. Esto ha resultado útil para las citas de pruebas y vacunación, ya que estas citas suelen ser de corta duración.",
+		"title": "¿Por qué reservar en línea con Bookingflix?"
+	}
+}

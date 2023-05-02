@@ -1,0 +1,28 @@
+{
+	"description": "Conózcanos",
+	"development": {
+		"description": "Queremos crecer de manera lenta pero constante sin tener que hacer un marketing agresivo. Generamos crecimiento a través de la experiencia positiva del usuario. Esto afecta a nuestros clientes. Pero también a los clientes finales que reservan una cita. Acogemos la competencia como un mayor impulso. Tenemos el claro objetivo de ofrecer una herramienta más fácil de usar, más flexible y más barata que otras herramientas comparables.\n\nLa protección de datos según la RGPD y la seguridad de datos se priorizan y se tienen en cuenta durante el desarrollo. El desarrollo posterior nunca termina.\n\nValoramos personalmente a nuestros empleados y a los trabajadores autónomos que participan. Para nosotros es importante que todos se sientan cómodos, disfruten de su trabajo y estén motivados para colaborar en la consecución de los objetivos acordados.",
+		"title": "El desarrollo nunca termina."
+	},
+	"feedback": {
+		"description": "El objetivo era y es desarrollar una herramienta para agendar citas que funcione de forma fiable para pequeños y grandes proveedores de servicios. El foco de atención está en la sencillez de funcionamiento y la flexibilidad de uso.Desarrollamos nuevas funciones gracias a los comentarios de nuestros clientes y usuarios. Nos encontramos con ellos como colaboradores con cuya ayuda optimizamos Bookingflix de forma ágil.\n\nIntentamos que Bookingflix sea un poco mejor cada día. Los comentarios positivos nos motivan. Los comentarios negativos nos impulsan. Consideramos que el apoyo personal es una herramienta importante para obtener nuevas sugerencias y corregir errores. Contemplamos los errores como una experiencia de aprendizaje necesaria",
+		"title": "Los comentarios positivos nos motivan. Los comentarios negativos nos impulsan."
+	},
+	"startup": {
+		"description": "Bookingflix es una empresa emergente con sede en Witten en el Ruhr. Sin embargo, nuestro equipo de desarrolladores ágiles está organizado de forma descentralizada. Por ello, las videoconferencias y el teletrabajo han marcado el desarrollo de Bookingflix desde su fundación en 2017.",
+		"title": "Una empresa emergente de Witten"
+	},
+	"targets": {
+		"description": [
+			"Más vista de la reserva para los clientes finales",
+			"nuevos temas para el sitio web de reserva de citas",
+			"Interfaces API a través de Zapier.com, por ejemplo",
+			"Venta de entradas con conexión al servicio de pago",
+			"Rediseño del tablero de mandos",
+			"Administración de los derechos de los empleados",
+			"Ampliación de la zona de apoyo"
+		],
+		"title": "Nuestros objetivos para 2022"
+	},
+	"title": "Sobre Bookingflix"
+}

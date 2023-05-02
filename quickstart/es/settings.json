@@ -1,0 +1,64 @@
+{
+	"autoConfirm": {
+		"info": "Si selecciona \"Sí\", las citas reservadas se confirman automáticamente. Si selecciona \"No\", puede decidir usted mismo para cada cita.",
+		"title": "¿Deben confirmarse automáticamente las citas reservadas?"
+	},
+	"contact": {
+		"email": {
+			"info": "Todas las solicitudes de cita, así como (si se desea) las evaluaciones de los clientes, se envían a la dirección de correo electrónico de las personas de contacto.",
+			"title": "Dirección de correo electrónico de la persona de contacto"
+		},
+		"name": {
+			"info": "Introduzca el nombre de la persona de contacto de sus clientes. La persona de contacto no tiene que ser necesariamente la persona que gestionará su cuenta de Bookingflix. La cuenta se crea en el último paso del inicio rápido.",
+			"title": "Nombre de la persona de contacto"
+		}
+	},
+	"event": {
+		"add": "{count}. Añadir cita",
+		"addEnd": "Añadir fin",
+		"appointment": {
+			"info": "Introduzca aquí información adicional sobre la cita (opcional)",
+			"placeholder": "Por ejemplo, un evento en el Schlosspark de Berlín",
+			"title": "Información adicional sobre la fecha"
+		},
+		"description": "Eventos",
+		"name": {
+			"info": "Introduzca el título del evento.",
+			"placeholder": "por ejemplo, una jornada de puertas abiertas",
+			"title": "Título del evento"
+		},
+		"same": "Ninguna fecha de evento puede tener lugar exactamente al mismo tiempo dentro de un calendario de citas. Por favor, corrige.",
+		"sameTimerange": "La cita {event1} y la cita {event2} se solapan (conflicto de citas). No es posible solapar los calendarios de eventos. Se puede evitar un conflicto de fechas omitiendo el final de la fecha y definiendo sólo el principio de la misma.",
+		"time": {
+			"info": "Establece el inicio del evento. También puede añadir el final de su evento a través de la casilla de verificación.",
+			"title": "tiempo"
+		},
+		"title": "Cita {count}"
+	},
+	"location": {
+		"info": "Introduzca la dirección en la que tendrán lugar los eventos. Sus clientes podrán ver inmediatamente la navegación hasta el lugar a través de Google Maps.",
+		"title": "Dirección de la cita"
+	},
+	"showAppointments": {
+		"info": "Si varias citas pueden tener lugar al mismo tiempo, puede especificar aquí si sus clientes deben poder ver el número de citas disponibles o no.",
+		"title": "¿Quiere que sus clientes vean el número de citas disponibles?"
+	},
+	"title": "Ajustes",
+	"verify": {
+		"info": "Con la verificación por correo electrónico, sus clientes confirman que han reservado una cita con usted. Este procedimiento cumple así con el Reglamento General de Protección de Datos europeo. Recomendamos desactivar la verificación del correo electrónico sólo para fines de prueba.",
+		"time": {
+			"info": "La cita permanece bloqueada (no se puede reservar) hasta que el cliente de la reserva la haya verificado o hasta que el tiempo especificado aquí haya expirado. La verificación tiene lugar cuando se hace clic en el enlace del correo electrónico de verificación.",
+			"title": "Hora de verificación de la cita"
+		},
+		"title": "Activar la verificación del correo electrónico",
+		"warning": "Esta modalidad de reserva no cumple con el Reglamento General de Protección de Datos europeo. Se recomienda utilizarlo sólo para probarlo."
+	},
+	"webinar": {
+		"info": "Si quieres llevar a cabo tus citas de forma digital, puedes utilizar de forma sencilla y fácil el sistema de seminarios web de Bookingflix. La invitación a la videoconferencia se envía automáticamente al reservar la cita y se puede personalizar en tu cuenta de Bookingflix.",
+		"system": {
+			"bookingflix": "Bookingflix (versión beta)",
+			"title": "Sistema de seminarios en línea"
+		},
+		"title": "Realización de reuniones con clientes por videoconferencia"
+	}
+}

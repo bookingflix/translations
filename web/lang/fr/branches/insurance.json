@@ -1,0 +1,201 @@
+{
+	"benefits": {
+		"items": {
+			"01": "un grand gain de temps\nPour les deux parties. La prise de rendez-vous ne prend que quelques secondes. Le client peut également modifier ou annuler le rendez-vous de manière autonome.",
+			"02": "Se concentrer sur l'essentiel et ménager ses nerfs\nLes interruptions téléphoniques perturbent le travail quotidien. En ligne, c'est plus rapide, plus simple et cela ménage les nerfs.",
+			"03": "Augmenter la fiabilité des délais\nPour cela, utilisez les rappels automatiques par e-mail et SMS. Ce service supplémentaire est d'ailleurs apprécié par la plupart des clients.",
+			"04": "Le numérique à la pointe du progrès\nLes outils de prise de rendez-vous sont devenus un standard très apprécié. Les clients attendent des services numériques modernes.",
+			"05": "Optimiser le flux de travail\nLa cliente réserve et gère elle-même le rendez-vous. Les données du rendez-vous sont affichées de manière claire dans votre tableau de bord."
+		},
+		"title": "Vos avantages en un clin d'œil"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Combien coûte Bookingflix par mois ?",
+				"url": ""
+			},
+			"11": {
+				"title": "Quel est le délai de préavis à respecter ?",
+				"url": ""
+			},
+			"12": {
+				"title": "Le client peut-il gérer lui-même la réservation (modifier le rendez-vous, l'annuler) ?",
+				"url": ""
+			},
+			"13": {
+				"title": "Les textes des e-mails peuvent-ils être personnalisés ?",
+				"url": ""
+			},
+			"14": {
+				"title": "Les e-mails du système (acceptation, refus) peuvent-ils être envoyés à partir de sa propre adresse e-mail ?",
+				"url": ""
+			},
+			"15": {
+				"title": "Que se passe-t-il avec les données de rendez-vous après le rendez-vous ?",
+				"url": ""
+			},
+			"16": {
+				"title": "Puis-je annuler des rendez-vous, les supprimer ou les refuser ultérieurement à la cliente ?",
+				"url": ""
+			},
+			"17": {
+				"title": "Quel est l'agenda le mieux adapté à mon entreprise ?",
+				"url": ""
+			},
+			"18": {
+				"title": "Combien de temps prend la réservation d'un rendez-vous pour mes clients ?",
+				"url": ""
+			},
+			"19": {
+				"title": "Comment synchroniser mon calendrier standard avec le calendrier Bookingflix ?",
+				"url": ""
+			},
+			"20": {
+				"title": "Comment régler les périodes de vacances ?",
+				"url": ""
+			},
+			"21": {
+				"title": "Comment contacter le client avant le rendez-vous ?",
+				"url": ""
+			},
+			"22": {
+				"title": "Je souhaite créer une courte note pour le rendez-vous avec le client. Comment faire ?",
+				"url": ""
+			},
+			"23": {
+				"title": "Les données de rendez-vous peuvent-elles être téléchargées pour un traitement ultérieur ?",
+				"url": ""
+			},
+			"24": {
+				"title": "Comment puis-je obtenir un feedback de la part de mes clients via Bookingflix ? Est-ce que cela se fait automatiquement ?",
+				"url": ""
+			},
+			"25": {
+				"title": "Puis-je proposer différents services via le calendrier ?",
+				"url": ""
+			},
+			"01": {
+				"title": "Est-ce que Bookingflix dispose d'une gestion des droits pour que le représentant concerné puisse prendre en charge la gestion des rendez-vous ?",
+				"url": ""
+			},
+			"02": {
+				"title": "Que se passe-t-il exactement lorsqu'un client annule son rendez-vous ?",
+				"url": ""
+			},
+			"03": {
+				"title": "Les réservations de rendez-vous peuvent-elles être confirmées automatiquement ?"
+			},
+			"04": {
+				"title": "Les rendez-vous peuvent-ils être saisis manuellement pour le client ?",
+				"url": ""
+			},
+			"05": {
+				"title": "Quel soutien recevons-nous dans le cadre de l'utilisation ?",
+				"url": ""
+			},
+			"06": {
+				"title": "Le compte premium peut-il être payé par facture plutôt que par prélèvement automatique ?",
+				"url": ""
+			},
+			"07": {
+				"title": "Est-il possible d'envoyer des rappels de rendez-vous avant le rendez-vous, à un moment donné ?",
+				"url": ""
+			},
+			"08": {
+				"title": "Comment configurer les rappels de rendez-vous ?",
+				"url": ""
+			},
+			"09": {
+				"title": "Combien coûtent les rappels de rendez-vous par SMS et comment puis-je les réserver ?",
+				"url": ""
+			}
+		},
+		"title": "FAQ pertinentes pour votre secteur"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Plus d'infos à communiquer dans le cadre de la réservation",
+				"url": ""
+			},
+			"11": {
+				"title": "Rappels de rendez-vous",
+				"url": ""
+			},
+			"12": {
+				"title": "Intégrer facilement le calendrier de réservation sur son propre site web",
+				"url": ""
+			},
+			"13": {
+				"title": "Site web de réservation de rendez-vous utilisable même sans propre site web",
+				"url": ""
+			},
+			"14": {
+				"title": "Créer des notes sur les rendez-vous et les clients",
+				"url": ""
+			},
+			"15": {
+				"title": "Jours fériés et vacances réglables",
+				"url": ""
+			},
+			"16": {
+				"title": "Possibilité de réserver plusieurs dates par créneau de rendez-vous",
+				"url": ""
+			},
+			"17": {
+				"title": "Obtenir automatiquement les évaluations des clients",
+				"url": ""
+			},
+			"18": {
+				"title": "Synchronisation avec les calendriers standard de Google, Apple et Microsoft",
+				"url": ""
+			},
+			"01": {
+				"title": "Réservation de rendez-vous selon les normes du RGPD",
+				"url": ""
+			},
+			"02": {
+				"title": "Serveurs en Allemagne",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendrier de réservation de rendez-vous pour les heures d'ouverture fixes",
+				"url": ""
+			},
+			"04": {
+				"title": "Meilleure vue d'ensemble du statut des rendez-vous (accepté, annulé, pas encore confirmé)",
+				"url": ""
+			},
+			"05": {
+				"title": "Différentes durées de rendez-vous réglables. Par exemple, 30 minutes ou deux heures",
+				"url": ""
+			},
+			"06": {
+				"title": "Gestion des droits pour la gestion des rendez-vous par la collaboratrice compétente",
+				"url": ""
+			},
+			"07": {
+				"title": "Textes individuels des e-mails du système",
+				"url": ""
+			},
+			"08": {
+				"title": "Confirmer automatiquement les rendez-vous",
+				"url": ""
+			},
+			"09": {
+				"title": "Modifier ou annuler facilement des rendez-vous",
+				"url": ""
+			}
+		},
+		"title": "Fonctions et caractéristiques particulièrement pertinentes pour votre secteur"
+	},
+	"main": {
+		"description": "Les compagnies d'assurance utilisent Bookingflix pour la vente et l'acquisition de nouveaux clients ainsi que pour la prise de rendez-vous avec leurs clients existants.\nLors de l'acquisition de nouveaux clients, le représentant envoie le lien vers l'agenda de prise de rendez-vous aux nouveaux clients potentiels dans le cadre d'un mailing ou d'un mail d'information.\nLe lien vers le calendrier Bookingflix doit également être imprimé sur les brochures ou les cartes de visite. Le client dispose ainsi d'un canal supplémentaire pour prendre contact avec le représentant de l'assurance ou pour fixer un rendez-vous. Et un rendez-vous est toujours l'étalon-or d'une conclusion réussie. Les clients existants ont également besoin d'un rendez-vous avec leur bureau d'assurance en cas de sinistre ou de nouveaux besoins. En quelques clics, le client réserve un créneau de rendez-vous libre et peut ensuite le gérer lui-même. Les modifications et les annulations de rendez-vous ne doivent donc pas être discutées au téléphone. Cela représente un gain de temps pour le preneur d'assurance et l'assureur.",
+		"title": "Assurances"
+	},
+	"sub": {
+		"description": "La prospection de nouveaux clients est un défi pour les professionnels. Il s'agit d'établir la confiance et de multiplier les points de contact. Cela peut être une copie, un e-mail, un appel téléphonique, une annonce dans le magazine Zietung, des avis positifs et des recommandations. Il peut également s'agir de la possibilité la plus simple et la plus rapide possible de réserver un rendez-vous. Le client voit l'annonce du bureau d'assurance et a besoin d'urgence d'un rendez-vous pour une nouvelle assurance. Il n'aime cependant pas trop téléphoner. Et oui, cela existe. C'est même en augmentation. Beaucoup de jeunes ne téléphonent que lorsqu'ils ne peuvent vraiment pas faire autrement. Si possible, ils font tout en ligne. Et bien sûr aussi la prise de rendez-vous en ligne avec le smartphone. Ici, un bureau d'assurance qui propose la prise de rendez-vous en ligne via un outil de prise de rendez-vous a un véritable avantage concurrentiel.\nLe client clique sur la date souhaitée libre, saisit les données du client et le rendez-vous est déjà réservé. Même la confirmation du rendez-vous est envoyée par Bookingflix, de manière optionnelle et immédiate. Pas d'attente dans la file d'attente. Pas d'accord sur les options de rendez-vous possibles, pas de discussion sur le répondeur téléphonique. Il y a des clients qui ne font pas ça. Ces clients préfèrent réserver un rendez-vous auprès de la concurrence.\nLe client se charge également lui-même de la gestion du rendez-vous réservé. Une modification ou une annulation du rendez-vous peut toujours s'avérer nécessaire dans le rythme effréné du quotidien. Pour cela, le client n'a plus besoin d'appeler ou d'envoyer un e-mail. Grâce au lien de rendez-vous personnel, la modification ou l'annulation du rendez-vous est une affaire de secondes. Le bureau d'assurance n'a pas non plus besoin de rappeler le rendez-vous par un e-mail écrit à la main ou par un appel téléphonique. Bookingflix s'en charge de manière entièrement automatique à des heures prédéfinies. Et si plusieurs collègues ont besoin de leur propre calendrier de rendez-vous et de réservations, ils peuvent le configurer rapidement. Utilisable en option avec une gestion des droits. Ainsi, seules les données de rendez-vous qui ont été validées ou qui sont pertinentes sont visibles.\nL'agenda de réservation peut être intégré dans le propre site web. Alternativement, un microsite web autonome est généré avec chaque agenda de réservation. Celui-ci contient le calendrier de réservation et peut être adapté individuellement. Il ne reste plus qu'à envoyer le lien au client, qui peut directement réserver un rendez-vous sur le site web.\nOutre l'accessibilité, la confiance est une grande valeur pour les assurances et leurs clients. C'est pourquoi un e-mail d'après-vente peut être envoyé au client après le rendez-vous. Une évaluation y est demandée de manière entièrement automatique. Le client peut donner une évaluation sous forme de texte ou d'étoiles.\nEn option, le calendrier Bookingflix peut être synchronisé avec le calendrier standard de Google, Apple et Microsoft. Cette synchronisation fonctionne dans les deux sens. Le représentant peut ainsi consulter les nouveaux rendez-vous qui ont été réservés via Bookingflix. Cela se synchronise immédiatement et de manière entièrement automatique. Mais l'autre sens est également possible. Les rendez-vous inscrits dans les calendriers Google et Microsoft sont transférés dans Bookingflix. Pas le contenu ou les données clients du rendez-vous. Uniquement les heures de rendez-vous. Ainsi, ces heures de rendez-vous sont bloquées dans le calendrier Bookingflix. Ainsi, si le représentant a déjà inscrit un rendez-vous dans l'agenda de son smartphone, ce créneau de rendez-vous sera immédiatement bloqué dans l'agenda de Bookingflix.",
+		"title": "Pourquoi réserver un rendez-vous en ligne avec Bookingflix ?"
+	}
+}

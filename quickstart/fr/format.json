@@ -1,0 +1,21 @@
+{
+	"business": "Rendez-vous d'affaires",
+	"description": "Pourquoi un agenda en ligne est-il nécessaire ?",
+	"info": "Sélectionnez le type de rendez-vous pour lequel vous souhaitez mettre en place un agenda en ligne. Dans le format \"Heures d'ouverture fixes\", vous pouvez proposer des rendez-vous d'une durée constante pendant vos heures d'ouverture. Dans le format \"Événement concret\", vous créez un ou plusieurs événements fixes qui peuvent être réservés. Sous le format \"Offres & services\", vous pouvez créer des services spécifiques et les proposer à vos clients.",
+	"parts": {
+		"datepicker": {
+			"info": "Pour les magasins et les prestataires de services, p. ex. coiffeurs, conseillers, studios photo",
+			"title": "Heures d'ouverture fixes"
+		},
+		"eventpicker": {
+			"info": "Pour les rendez-vous fixes : par ex. webinaires, réunions, événements",
+			"title": "Calendrier Flix"
+		},
+		"services": {
+			"info": "Pour les services avec des durées de rendez-vous variables : par exemple, appels téléphoniques de service, prestations de frisage",
+			"title": "Offres / Services"
+		}
+	},
+	"private": "Rendez-vous privés",
+	"title": "Calendrier"
+}

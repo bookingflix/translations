@@ -1,0 +1,28 @@
+{
+	"covid": {
+		"info": "Bookingflix es de gran valor en la actual pandemia de Corona para concertar citas en línea. Utilice la herramienta de citas para concertar citas para pruebas de COVID-19 o vacunas del coronavirus. O cree un formulario de reserva de citas para el servicio Click & Collect de su tienda. Hay muchos usos posibles para una herramienta de citas en línea. También estaremos encantados de asesorarle en una videoconferencia con pantalla compartida.",
+		"link": "Reserve su consulta individual aquí.",
+		"title": "Bookingflix le apoya a usted incluso en los tiempos difíciles"
+	},
+	"description": "Bookingflix da soporte a todos los sectores que dependen de una reserva de citas fiable. Gracias a las flexibles opciones de configuración de la herramienta de citas, podrá adaptar su formulario a sus necesidades.",
+	"icons": {
+		"title": "Sectores que usan Bookingflix"
+	},
+	"parts": {
+		"consultant": "Consultora | Consultoras ",
+		"cosmetics": "Salón de belleza | Salones de belleza",
+		"covid": "Centro de Pruebas y Vacunación Covid 19 | Centros de Pruebas y Vacunación Covid 19",
+		"craftsmen": "Artesanos",
+		"doctor": "Consulta médica | Consultas médicas",
+		"fitness": "Gimnasio | Gimnasios",
+		"hairdresser": "Peluquería | Peluquerías",
+		"insurance": "Consultoría de seguros | Consultorías de seguros",
+    "museum": "Museo | Museos",
+		"photographer": "Fotógrafo | Fotógrafos",
+		"restaurant": "Restaurante | Restaurantes",
+		"tattoo": "Estudio de tatuajes | Estudios de tatuajes",
+		"workshop": "Taller | Talleres"
+	},
+	"title": "¿Para quién está indicado Bookingflix?",
+	"subtitle": "Flexibel einsetzbar"
+}

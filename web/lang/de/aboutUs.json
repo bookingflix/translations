@@ -1,0 +1,28 @@
+{
+	"description": "Lernen Sie uns kennen",
+	"development": {
+		"description": "Wir möchten langsam aber stetig wachsen, ohne hierfür ein aggressives Marketing betreiben zu müssen. Wachstum generieren wir durch positive Nutzererfahrung. Dies gilt für unsere Kunden. Aber auch für die Endkunden, die einen Termin buchen. Konkurrenz begrüßen wir als weiteren Antrieb. Wir haben das klare Ziel, ein Tool anzubieten, das einfacher bedienbar, flexibler und günstiger als vergleichbare Tools ist.\n\nDatenschutz nach DSGVO und Datensicherheit werden bei der Entwicklung prioritär betrachtet und berücksichtigt. Die Weiterentwicklung endet nie.\n\nUnsere Mitarbeiter und die beteiligten Freelancer schätzen wir persönlich. Uns ist daran gelegen, dass sich jeder wohl fühlt, Freude an der Arbeit empfindet und motiviert, gemeinsam, die vereinbarten Ziele erreichen möchte.",
+		"title": "Die Weiterentwicklung endet nie."
+	},
+	"feedback": {
+		"description": "Ziel war und ist es, ein zuverlässig funktionierendes Termintool für kleine und große Dienstleister zu entwickeln. Dabei steht eine einfache Bedienbarkeit sowie eine flexible Nutzung im Vordergrund. Neue Funktionen entwickeln wir dank der Feedbacks unserer Kunden und Nutzer. Diesen begegnen wir als Partner, mit deren Hilfe wir Bookingflix agil optimieren.\nWir versuchen Bookingflix jeden Tag ein wenig besser zu machen. Positives Feedback motiviert uns. Negatives Feedback treibt uns an. Persönlichen Support sehen wir als wichtiges Werkzeug, um neue Anregungen zu erhalten und Fehler zu beheben. Fehler betrachten wir als eine notwendige Lernerfahrung\n",
+		"title": "Positives Feedback motiviert uns. Negatives Feedback treibt uns an."
+	},
+	"startup": {
+		"description": "Bookingflix ist ein kleines Startup mit Sitz in Witten an der Ruhr. Unser agiles Entwicklerteam ist jedoch dezentral organisiert. Videokonferenzen und Homeoffice prägen daher schon seit dem Gründungsjahr 2017 die Entwicklung von Bookingflix.",
+		"title": "Ein kleines Startup aus Witten"
+	},
+	"targets": {
+		"description": [
+			"Weitere Buchungsansicht für die Endkunden",
+			"neue Themen für Terminbuchungswebsite",
+			"API-Schnittstellen über zum Beispiel Zapier.com",
+			"Ticketing mit Anbindung an Zahlungsdienst",
+			"Redesign Dasboard",
+			"Rechteverwaltung für Mitarbeiter",
+			"Ausbau des Support-Bereichs"
+		],
+		"title": "Unsere Ziele für 2022"
+	},
+	"title": "Über Bookingflix"
+}

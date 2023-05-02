@@ -1,0 +1,11 @@
+{
+	"description": "Establezca de forma flexible cuándo se puede reservar una cita en nuestro planificador de citas. Haga clic en el icono {icon}para eliminar un hueco de cita y en el icono {icon}para añadirlo.",
+	"max": {
+		"event": {
+			"title": "¿Cuál es el número máximo de participantes que pueden asistir al evento?"
+		},
+		"info": "Si establece \"5\", por ejemplo, 5 clientes pueden reservar una cita en el periodo especificado. Sólo a partir de la 5ª reserva (verificada) la franja horaria deja de aparecer como disponible.",
+		"title": "¿Cuál es el número máximo de citas de clientes que pueden tener lugar al mismo tiempo?"
+	},
+	"title": "Planificador de citas"
+}

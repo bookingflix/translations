@@ -1,0 +1,8 @@
+{
+	"description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf das Plus-Symbol, um ein neues Formularfeld hinzuzufügen.\n2. Klicken Sie auf das Formularfeld AGB.\n3. Übernehmen Sie den vorgegebenen Text oder ändern Sie ihn, falls gewünscht.\n4. Geben Sie den Link zur Ihren AGB an.\n5. Das Formularfeld AGB kann als Pflichtfeld definiert werden. Der buchende Kunde muss dann bestätigen, dass die AGB zur Kenntnis genommen wurden.",
+	"img": {
+		"1": "bild85.webp",
+		"2": "bild86.webp"
+	},
+	"title": "Formularfeld AGB"
+}

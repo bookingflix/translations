@@ -1,0 +1,193 @@
+{
+	"benefits": {
+		"items": {
+			"01": "great time saving\nYou really do have better things to do than spend time on time-consuming appointments. Your customers, too, by the way.",
+			"02": "Spare your nerves\nWho wants to play email ping-pong? It's annoying and can be done much more effectively and automatically.",
+			"03": "Increase appointment reliability\nProspective customers like to be reminded of the appointment. Use the automatic reminders via email and SMS for this purpose.",
+			"04": "Digitally up to date\nAppointment tools are now a popular standard. The phone is good for chatting, not booking appointments.",
+			"05": "Optimize workflow\nThe prospect books and manages the appointment themselves. The appointment data is clearly displayed in your dashboard."
+		},
+		"title": "Your advantages in a nutshell"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Can the premium account also be paid by invoice instead of direct debit?",
+				"url": ""
+			},
+			"11": {
+				"title": "Can appointment reminders be sent before the appointment, at a specific time?",
+				"url": ""
+			},
+			"12": {
+				"title": "What is the cost of appointment reminders via SMS?",
+				"url": ""
+			},
+			"13": {
+				"title": "How much does Bookingflix cost per month?",
+				"url": ""
+			},
+			"14": {
+				"title": "What notice period do I have to observe?",
+				"url": ""
+			},
+			"15": {
+				"title": "Can the customer manage the booking himself (change appointment, cancel)",
+				"url": ""
+			},
+			"16": {
+				"title": "Can I offer different, subsequent appointment times for a tour, event?",
+				"url": ""
+			},
+			"17": {
+				"title": "Can the email texts be customized?",
+				"url": ""
+			},
+			"18": {
+				"title": "Can the system mails (acceptance, rejection) be sent from your own mail address?",
+				"url": ""
+			},
+			"19": {
+				"title": "How can I print the QR code on the Expose?",
+				"url": ""
+			},
+			"20": {
+				"title": "What happens to the appointment data after the appointment?",
+				"url": ""
+			},
+			"21": {
+				"title": "Can I cancel appointments, delete appointments, or cancel the prospect after the fact?",
+				"url": ""
+			},
+			"22": {
+				"title": "I would like to offer the viewing via video conference. Is it possible with Bookingflix?",
+				"url": ""
+			},
+			"23": {
+				"title": "Which appointment booking calendar is best for my business?",
+				"url": ""
+			},
+			"01": {
+				"title": "Is the appointment booking via Bookingflix.com DSGVO compliant?",
+				"url": ""
+			},
+			"02": {
+				"title": "Where are the Bookingflix servers located?",
+				"url": ""
+			},
+			"03": {
+				"title": "Does Bookingflix have a rights management so that employees can take over the appointment management?"
+			},
+			"04": {
+				"title": "Is it possible to set the maximum number of people who can participate in the tour?",
+				"url": ""
+			},
+			"05": {
+				"title": "What exactly happens when a prospect cancels their appointment?",
+				"url": ""
+			},
+			"06": {
+				"title": "Is the number of monthly appointment bookings limited?",
+				"url": ""
+			},
+			"07": {
+				"title": "Can appointment bookings be confirmed automatically?",
+				"url": ""
+			},
+			"08": {
+				"title": "Can appointments be entered manually for the customer?",
+				"url": ""
+			},
+			"09": {
+				"title": "What support do we get within the scope of use?",
+				"url": ""
+			}
+		},
+		"title": "Relevant FAQ for your industry"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Simply change or cancel appointments",
+				"url": ""
+			},
+			"11": {
+				"title": "More info communicate within the booking",
+				"url": ""
+			},
+			"12": {
+				"title": "Appointment reminders",
+				"url": ""
+			},
+			"13": {
+				"title": "Export appointment data (pdf, csv)",
+				"url": ""
+			},
+			"14": {
+				"title": "QR code with link to appointment booking calendar",
+				"url": ""
+			},
+			"15": {
+				"title": "Address of the appointment in appointment booking calendar with link to Google Maps",
+				"url": ""
+			},
+			"16": {
+				"title": "Easily integrate appointment booking calendar on your own website",
+				"url": ""
+			},
+			"17": {
+				"title": "Appointment booking website usable even without own website",
+				"url": ""
+			},
+			"18": {
+				"title": "Visiting appointment can be carried out by videoconference",
+				"url": ""
+			},
+			"01": {
+				"title": "Appointment booking according to DSGVO standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Germany",
+				"url": ""
+			},
+			"03": {
+				"title": "Appointment booking calendar for specific events",
+				"url": ""
+			},
+			"04": {
+				"title": "Better overview of the appointment status (commitment, cancellation, not yet confirmed)",
+				"url": ""
+			},
+			"05": {
+				"title": "Number of participants per event adjustable",
+				"url": ""
+			},
+			"06": {
+				"title": "Very short appointment duration can also be set. E.g. five minutes.",
+				"url": ""
+			},
+			"07": {
+				"title": "Rights management for appointment management by employees",
+				"url": ""
+			},
+			"08": {
+				"title": "Individual email texts of the system emails",
+				"url": ""
+			},
+			"09": {
+				"title": "Have appointments confirmed automatically",
+				"url": ""
+			}
+		},
+		"title": "Particularly relevant functions and features for your industry"
+	},
+	"main": {
+		"description": "The housing market is overrun, depending on the region. Demand is not decreasing, but continuing to increase. Landlords and sellers of real estate, both professional and private, are noticing this. Also in the demand for viewing appointments.\nThe prospective customer calls or writes an email. Appointments are discussed, agreed upon, perhaps are changed or even canceled. They tell us which documents to bring and exactly where the meeting place is.\nWith two or three interested parties, this is manageable. But as soon as there are several appointments with tens of interested parties, the scheduling becomes time-consuming and even annoying. And when there are several expos on offer, the desire to have a simple, modern, digital, automated solution grows. Bookingflix offers exactly the solution that is needed by landlords, brokers and property managers.",
+		"title": "Renting and property management"
+	},
+	"sub": {
+		"description": "Using Bookingflix's calendar generator, you can create the appointment booking calendar you need within minutes. We recommend the special appointment booking calendar for specific events. For example, you set that an appointment can be booked on 10.10.2022 at 10.00 am. Also, an appointment at 11:00 am, 12:00 pm and 13:00 pm. Of course, other time intervals and appointment lengths can also be set individually. You might add the field \"Pets\" to the query fields. This way you could ask if the prospect has pets or not. In addition, you can add a note to the appointment booking form that the Schufa information should please be brought along. You can also include this information in the appointment confirmation e-mail. Because all system mails can be customized. In the appointment booking calendar, you can also specify the address of the visit. Even with a direct link to Google Maps.\nYou would like to offer group tours instead of individual appointments. This is also possible. Simply specify in the calendar generator the maximum number of people who can book an appointment at the same time. As soon as the limit is reached, the appointment is marked as fully booked or no longer displayed. As soon as an interested party cancels the viewing, which is also possible with Bookingflix with one click, the appointment will be offered again. You can also offer the booking only to certain interested parties. For this you put the appointment booking calendar on a non-public subpage of your website or you use the appointment booking website of Bookingflix, which are customized. You share the link only with those who are authorized to book. To increase the appointment reliability and provide a good service to the prospects, you can automatically send appointment reminders via email and SMS through Bookingflix. You determine the time of sending yourself.\nIf you use the standard calendars from Google, Apple or Microsoft, Bookingflix offers you a data synchronization. The appointment data is automatically transferred to your smartphone or to the calendar there. By the way, you do not have to confirm appointments manually. Bookingflix will do that for you automatically if you want. Bookingflix automatically generates a QR code for each appointment booking calendar. You can print it on the Expose for example. This way interested parties can reach the appointment-booking-calendar even easier.\nWe are happy to set up multiple calendars for you if needed. The administration of each calendar can be transferred to an employee via a comfortable rights management. This employee then only has access to the released calendar and the incoming and deposited appointment data.\nAnd if the visit is to take place online via video conference, this is also easily possible. You can set up a specific event as a video conference with one click. This is already integrated in Bookingflix. The interested party receives the link to the video conference automatically by email.",
+		"title": "Why online appointment booking with Bookingflix?"
+	}
+}

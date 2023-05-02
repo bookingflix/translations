@@ -1,0 +1,201 @@
+{
+	"benefits": {
+		"items": {
+			"01": "große Zeitersparnis\nFür beide Seiten. Die Terminierung dauert nur Sekunden. Auch die Terminänderung oder -Stornierung nimmt der Kunde eigenständig vor.",
+			"02": "Fokus auf das Wesentliche und Nerven schonen\nTelefonische Unterbrechungen stören im Arbeitsalltag. Online geht das schneller, einfacher und es schont die Nerven.",
+			"03": "Terminzuverlässigkeit steigern\nNutzen Sie dafür die automatischen Erinnerungen per Email und SMS. Diesen Extra-Service schätzen übrigens die meisten Kunden.",
+			"04": "Digital auf dem neuesten Stand\nTermin-Tools sind mittlerweile ein beliebter Standard. Kunden erwarten moderne digitale Services.",
+			"05": "Workflow optimieren\nDie Kundin bucht und verwaltet den Termin selbst. Die Termindaten werden übersichtlich in Ihrem Dashboard angezeigt."
+		},
+		"title": "Ihre Vorteile auf den Punkt"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Was kostet Bookingflix im Monat?",
+				"url": ""
+			},
+			"11": {
+				"title": "Welche Kündigungsfrist muss ich beachten?",
+				"url": ""
+			},
+			"12": {
+				"title": "Kann der Kunde die Buchung selbst verwalten (Termin ändern, stornieren)",
+				"url": ""
+			},
+			"13": {
+				"title": "Können die Email-Texte individuell angepasst werden?",
+				"url": ""
+			},
+			"14": {
+				"title": "Können die System-Mails (Zusage, Absage) von der eigenen Mailadresse  aus versendet werden?",
+				"url": ""
+			},
+			"15": {
+				"title": "Was passiert mit den Termindaten nach dem Termin?",
+				"url": ""
+			},
+			"16": {
+				"title": "Kann ich Termine stornieren, löschen oder der Kundin nachträglich absagen?",
+				"url": ""
+			},
+			"17": {
+				"title": "Welcher Termin-Buchungs-Kalender ist für mein Business am besten geeignet?",
+				"url": ""
+			},
+			"18": {
+				"title": "Wie lange dauert die Terminbuchung für meine Kunden?",
+				"url": ""
+			},
+			"19": {
+				"title": "Wie synchronisiere ich meinen Standard-Kalender mit dem Bookingflix-Kalender?",
+				"url": ""
+			},
+			"20": {
+				"title": "Wie kann ich Ferienzeiten einstellen?",
+				"url": ""
+			},
+			"21": {
+				"title": "Wie kontaktiere ich den Kunden vor dem Termin?",
+				"url": ""
+			},
+			"22": {
+				"title": "Ich möchte eine kurze Notiz zum Kundentermin anlegen. Wie geht das?",
+				"url": ""
+			},
+			"23": {
+				"title": "Können die Termindaten heruntergeladen werden zur weiteren Verarbeitung?",
+				"url": ""
+			},
+			"24": {
+				"title": "Wie erhalte ich Kundenfeedback über Bookingflix? Geht das automatisch?",
+				"url": ""
+			},
+			"25": {
+				"title": "Kann ich unterschiedliche Dienstleistungen über den Kalender anbieten?",
+				"url": ""
+			},
+			"01": {
+				"title": "Hat Bookingflix eine Rechteverwaltung, damit der jeweilige Vertreter die Termin-Verwaltung übernehmen kann?",
+				"url": ""
+			},
+			"02": {
+				"title": "Was passiert genau, wenn ein Kunde seinen Termin storniert?",
+				"url": ""
+			},
+			"03": {
+				"title": "Können Terminbuchungen automatisch bestätigt werden?"
+			},
+			"04": {
+				"title": "Können Termine händisch für den Kunden eingetragen werden?",
+				"url": ""
+			},
+			"05": {
+				"title": "Welchen Support bekommen wir im Rahmen der Nutzung?",
+				"url": ""
+			},
+			"06": {
+				"title": "Kann der Premium-Account auch per Rechnung bezahlt werden statt per Lastschrift?",
+				"url": ""
+			},
+			"07": {
+				"title": "Können vor dem Termin, zu einem bestimmten Zeitpunkt, Terminerinnerungen verschickt werden?",
+				"url": ""
+			},
+			"08": {
+				"title": "Wie richte ich die Terminerinnerungen ein?",
+				"url": ""
+			},
+			"09": {
+				"title": "Was kosten die Terminerinnerungen per SMS und wie buche ich diese?",
+				"url": ""
+			}
+		},
+		"title": "Relevante FAQ für Ihre Branche"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Weitere Infos mitteilen im Rahmen der Buchung",
+				"url": ""
+			},
+			"11": {
+				"title": "Terminerinnerungen",
+				"url": ""
+			},
+			"12": {
+				"title": "Termin-Buchungs-Kalender einfach auf eigener Website einbinden",
+				"url": ""
+			},
+			"13": {
+				"title": "Termin-Buchungs-Website nutzbar auch ohne eigene Website",
+				"url": ""
+			},
+			"14": {
+				"title": "Termin-Notizen zu Terminen und Kunden anlegen",
+				"url": ""
+			},
+			"15": {
+				"title": "Feiertage und Ferien einstellbar",
+				"url": ""
+			},
+			"16": {
+				"title": "Mehrere Termine je Termin-Slot buchbar",
+				"url": ""
+			},
+			"17": {
+				"title": "Kundenbewertungen automatisch einholen",
+				"url": ""
+			},
+			"18": {
+				"title": "Synchronisation mit Standard-Kalender von Google, Apple und Microsoft",
+				"url": ""
+			},
+			"01": {
+				"title": "Terminbuchung nach DSGVO-Standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Deutschland",
+				"url": ""
+			},
+			"03": {
+				"title": "Termin-Buchungs-Kalender für feste Öffnungszeiten",
+				"url": ""
+			},
+			"04": {
+				"title": "Besserer Überblick über den Terminstatus (Zusage, Absage, noch nicht bestätigt)",
+				"url": ""
+			},
+			"05": {
+				"title": "Unterschiedliche Termindauer einstellbar. Z. B. 30 Minuten oder zwei Stunden",
+				"url": ""
+			},
+			"06": {
+				"title": "Rechteverwaltung zur Termin-Verwaltung durch zuständige Mitarbeiterin",
+				"url": ""
+			},
+			"07": {
+				"title": "Individuelle Email-Texte der System-Mails",
+				"url": ""
+			},
+			"08": {
+				"title": "Termine automatisch bestätigen lassen",
+				"url": ""
+			},
+			"09": {
+				"title": "Termine einfach ändern oder absagen",
+				"url": ""
+			}
+		},
+		"title": "Besonders relevante Funktionen und Eigenschaften für Ihre Branche"
+	},
+	"main": {
+		"description": "Versicherungen nutzen Bookingflix für den Vertrieb und die Neukundenakquise sowie für die Terminvereinbarung mit ihren Bestandskunden.\nBei der Neukundenakquise sendet der Vertreter den Link zum Termin-Buchungs-Kalender an potentielle Neukunden im Rahmen eines Mailings oder einer Info-Mail.\nAuch auf Broschüren oder auf Visitenkarten sollte der Link zum Bookingflix-Kalender gedruckt werden. So verfügt der Kunde über einen weiteren Kanal, mit dem Vertreter der Versicherung Kontakt aufzunehmen beziehungsweise einen Termin zu vereinbaren. Und ein Termin ist noch immer der Goldstandard zum erfolgreichen Abschluss. Auch Bestandskunden benötigen im Schadenfall oder bei Neubedarf einen Termin mit ihrem Versicherungsbüro. Mit wenigen Klicks bucht der Kunden, die Kundin einen freien Termin-Slot und kann diesen anschließend auch selbst verwalten. Terminänderungen- und Stornierungen müssen somit nicht am Telefon besprochen werden. Das spart Zeit für Versicherungsnehmer und Versicherungsgeber.",
+		"title": "Versicherungen"
+	},
+	"sub": {
+		"description": "Die Neukundenakquise ist eine Herausforderung für Profis. Es geht um Vertrauen und möglichst viele, verschiedene Kontaktpunkte. Das kann ein Abschreiben sein, eine Email, ein Telefonanruf, eine Anzeige in der Zietung, positive Rezensionen und Empfehlungen. Das kann auch die möglichst einfache und schnelle Möglichkeit der Terminbuchung sein. Der Kunde sieht die Anzeige des Versicherungsbüros und benötigt dringend einen Termin für eine neue Versicherung. Er telefoniert aber sehr ungern. Und ja, das gibt es. Das nimmt sogar zu. Viele junge Menschen telefonieren nur, wenn es wirklich nicht anders geht. Wenn möglich, erledigen sie alles online. Natürlich auch die Online-Termin-Buchung mit dem Smartphone. Hier hat ein Versicherungsbüro, welches die Online-Termin-Buchung über ein Termin-Tool anbietet, einen echten Wettbewerbsvorteil.\nDer Kunde klickt auf den freien Wunschtermin, gibt die Kundendaten ein und schon ist der Termin gebucht. Selbst die Terminbestätigung wird, optional und umgehend, von Bookingflix versendet. Kein Warten in der Warteschleife. Kein Abstimmen möglicher Termin-Optionen, kein Besprechen eines Anrufbeantworters. Es gibt Kunden, die machen das nicht. Diese Kunden buchen lieber einen Termin bei der Konkurrenz.\nAuch die Verwaltung des gebuchten Termins übernimmt der Kunden komplett selbst. Eine Änderung oder Stornierung des Termins kann im hektischen Alltag immer mal wieder nötig sein. Dafür muss der Kunde nicht mehr anrufen oder eine Email schreiben. Über den persönlichen Termin-Link ist die Terminänderung oder -Stornierung eine Sache von Sekunden. Die Terminerinnerung per händisch geschriebener Email oder per Telefonanruf fällt auch weg für das Versicherungsbüro. Das erledigt Bookingflix vollautomatisch zu vorher definierten Zeiten. Und falls mehrere Kollegen einen jeweils eignen Termin-Buchungs-Kalender benötigen, ist dies auch schnell eingerichtet. Optional nutzbar mit einer Rechteverwaltung. So dass nur die Termindaten einsehbar sind, die freigegeben wurden, beziehungsweise relevant sind.\nDer Termin-Buchungs-Kalender lässt sich auf der eigenen Website einbinden. Alternativ wird mit jedem Termin-Buchungs-Kalender eine eigenständige Micro-Website generiert. Diese enthält den Buchungs-Kalender und kann individuell angepasst werden. Den Link sendet man dann nur noch an den Kunden, der auf der Website direkt einen Termin buchen kann.\nNeben der Erreichbarkeit ist das Vertrauen ein großer Wert für Versicherungen und ihre Kunden. Daher kann nach dem Termin eine After-Sale-Email an den Kunden gesendet werden. Hierin wird vollautomatisch eine Bewertung erbeten. Diese kann der Kunde in Form einer Text-Rezension sowie einer Sterne-Bewertung vergeben.\nOptional kann der Bookingflix-Kalender mit dem Standard-Kalender von Google, Apple und Microsoft synchronisiert werden. Diese Synchronisation funktioniert in beide Richtungen. So kann der Vertreter neue Termine einsehen, die über Bookingflix gebucht wurden. Dies synchronisiert sich sofort und vollautomatisch. Aber auch die andere Richtung ist möglich. Eingetragene Termine im Google- und Microsoft-Kalender werden in Bookingflix übertragen. Nicht die Inhalte oder Kundendaten des Termins. Nur die Terminzeiten. Hierdurch werden diese Terminzeiten im Bookingflix-Kalender geblockt. Falls der Vertreter also bereits einen Termin eingetragen hat in seinem Smartphone-Kalender, wird dieser Termin-Slot im Bookingflix-Kalender sofort blockiert.",
+		"title": "Warum Online-Termin-Buchung mit Bookingflix?"
+	}
+}

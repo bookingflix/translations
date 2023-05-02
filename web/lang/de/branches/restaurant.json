@@ -1,0 +1,197 @@
+{
+	"benefits": {
+		"items": {
+			"01": "große Zeitersparnis\nFür beide Seiten. Die Terminierung dauert nur Sekunden. Auch die Terminänderung oder -Stornierung nimmt die Kundin eigenständig vor.",
+			"02": "Fokus auf das Wesentliche\nTelefonische Unterbrechungen stören im Arbeitsalltag. Online geht das schneller, einfacher und es schont die Nerven.",
+			"03": "Terminzuverlässigkeit steigern\nNutzen Sie dafür die automatischen Erinnerungen per Email und SMS. Diesen Extra-Service schätzen übrigens die meisten Kunden.",
+			"04": "Digital auf dem neuesten Stand und Nekundengewinnung\nTermin-Tools sind mittlerweile ein beliebter Standard. Kunden erwarten moderne digitale Services.",
+			"05": "Workflow optimieren\nDie Kundin bucht und verwaltet den Termin selbst. Die Termindaten werden übersichtlich in Ihrem Dashboard angezeigt."
+		},
+		"title": "Ihre Vorteile auf den Punkt"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Welche Kündigungsfrist muss ich beachten?",
+				"url": ""
+			},
+			"11": {
+				"title": "Kann der Kunde die Buchung selbst verwalten (Termin ändern, stornieren)",
+				"url": ""
+			},
+			"12": {
+				"title": "Können die Email-Texte individuell angepasst werden?",
+				"url": ""
+			},
+			"13": {
+				"title": "Können die System-Mails (Zusage, Absage) von der eigenen Mailadresse  aus versendet werden?",
+				"url": ""
+			},
+			"14": {
+				"title": "Was passiert mit den Termindaten nach dem Termin?",
+				"url": ""
+			},
+			"15": {
+				"title": "Kann ich Termine stornieren, löschen oder der Kundin nachträglich absagen?",
+				"url": ""
+			},
+			"16": {
+				"title": "Welcher Termin-Buchungs-Kalender ist für mein Business am besten geeignet?",
+				"url": ""
+			},
+			"17": {
+				"title": "Wie lange dauert die Terminbuchung für meine Kunden?",
+				"url": ""
+			},
+			"18": {
+				"title": "Wie kann ich Ferienzeiten einstellen?",
+				"url": ""
+			},
+			"19": {
+				"title": "Wie kontaktiere ich den Kunden vor dem Termin?",
+				"url": ""
+			},
+			"20": {
+				"title": "Ich möchte eine kurze Notiz zum Kundentermin anlegen. Wie geht das?",
+				"url": ""
+			},
+			"21": {
+				"title": "Können die Termindaten heruntergeladen werden zur weiteren Verarbeitung?",
+				"url": ""
+			},
+			"22": {
+				"title": "Wie werden Überbuchungen verhindert?",
+				"url": ""
+			},
+			"23": {
+				"title": "Wie kann ich mehrere Tische für die Buchung definieren?",
+				"url": ""
+			},
+			"01": {
+				"title": "Hat Bookingflix eine Rechteverwaltung, damit die jeweilige Abteilung die Termin-Verwaltung übernehmen kann?",
+				"url": ""
+			},
+			"02": {
+				"title": "Was passiert genau, wenn ein Kunde seinen Termin storniert?",
+				"url": ""
+			},
+			"03": {
+				"title": "Können Terminbuchungen automatisch bestätigt werden?"
+			},
+			"04": {
+				"title": "Können Termine händisch für den Kunden eingetragen werden?",
+				"url": ""
+			},
+			"05": {
+				"title": "Welchen Support bekommen wir im Rahmen der Nutzung?",
+				"url": ""
+			},
+			"06": {
+				"title": "Kann der Premium-Account auch per Rechnung bezahlt werden statt per Lastschrift?",
+				"url": ""
+			},
+			"07": {
+				"title": "Können vor dem Termin, zu einem bestimmten Zeitpunkt, Terminerinnerungen verschickt werden?",
+				"url": ""
+			},
+			"08": {
+				"title": "Was kosten die Terminerinnerungen per SMS?",
+				"url": ""
+			},
+			"09": {
+				"title": "Was kostet Bookingflix im Monat?",
+				"url": ""
+			}
+		},
+		"title": "Relevante FAQ für Ihre Branche"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Termine einfach ändern oder absagen",
+				"url": ""
+			},
+			"11": {
+				"title": "Weitere Infos mitteilen im Rahmen der Buchung",
+				"url": ""
+			},
+			"12": {
+				"title": "Terminerinnerungen",
+				"url": ""
+			},
+			"13": {
+				"title": "Termin-Buchungs-Kalender einfach auf eigener Website einbinden",
+				"url": ""
+			},
+			"14": {
+				"title": "Termin-Buchungs-Website nutzbar auch ohne eigene Website",
+				"url": ""
+			},
+			"15": {
+				"title": "Termin-Notizen zu Terminen und Kunden anlegen",
+				"url": ""
+			},
+			"16": {
+				"title": "Feiertage und Ferien einstellbar",
+				"url": ""
+			},
+			"17": {
+				"title": "Mehrere Termine je Termin-Slot buchbar",
+				"url": ""
+			},
+			"18": {
+				"title": "Kundenbewertungen automatisch einholen",
+				"url": ""
+			},
+			"19": {
+				"title": "Automatische Löschung der Termindaten nach 30 Tagen",
+				"url": ""
+			},
+			"01": {
+				"title": "Terminbuchung nach DSGVO-Standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Deutschland",
+				"url": ""
+			},
+			"03": {
+				"title": "Termin-Buchungs-Kalender für feste Öffnungszeiten",
+				"url": ""
+			},
+			"04": {
+				"title": "Termin-Buchungs-Kalender für konkrete Events",
+				"url": ""
+			},
+			"05": {
+				"title": "Besserer Überblick über den Terminstatus (Zusage, Absage, noch nicht bestätigt)",
+				"url": ""
+			},
+			"06": {
+				"title": "Unterschiedliche Termindauer einstellbar. Z. B. 30 Minuten oder zwei Stunden",
+				"url": ""
+			},
+			"07": {
+				"title": "Rechteverwaltung zur Termin-Verwaltung durch zuständige Mitarbeiterin",
+				"url": ""
+			},
+			"08": {
+				"title": "Individuelle Email-Texte der System-Mails",
+				"url": ""
+			},
+			"09": {
+				"title": "Termine automatisch bestätigen lassen",
+				"url": ""
+			}
+		},
+		"title": "Besonders relevante Funktionen und Eigenschaften für Ihre Branche"
+	},
+	"main": {
+		"description": "Während der Corona-Pandemie durften auch Restaurants und Gaststätten nur mit Termin besucht werden. Später sogar nur mit Test oder Impfausweis. So nervig dies für viele war. So einfach und unkompliziert konnten dies viele Gasthäuser für ihre Kunden und Kundinnen anbieten. Die Buchung von Tischen ist aber auch über die Pandemie hinaus ein beliebtes Instrument der Kundenbindung und Kundengewinnung. So können Kunden, die schnell eine Tisch buchen möchten, mit wenigen Klicks dies realisieren. Hierfür haben viele Restaurants grundsätzlich ein paar Tische mit Bookingflix verbunden. Bedeutet, diese können bevorzugt online gebucht werden. Nur wenn alle anderen Tische bereits vergeben sind, können auch diese \"Bookingflix-Tische\" telefonisch gebucht werden.\nStammkunden buchen sogar gerne mittels Termin-Tool. Diesen kann der Wirt, der Kellner, die Kellnerin sogar auf diesen Tisch-Buchungs-Service aufmerksam machen.",
+		"title": "Restaurants und Gaststätten"
+	},
+	"sub": {
+		"description": "Manche Kunden möchten nur ungern per Telefon einen Tisch buchen. Sie bestellen auch die Pizza oder die Ente mit Reis mittels Smartphone und App. Diesen Service sind sie also gewohnt. Daher wollen sie auch den Tisch per Online-Buchungs-Tool buchen.\nDaher nutzen immer mehr Restaurants und Gaststätten Bookingflix, um freie Tische buchbar zu machen.\nDie Einrichtung ist denkbar einfach. Über den QuickStart von Bookingflix definiert das Restaurant, wieviele Tische online gebucht werden können und zu welchen Öffnungszeiten diese buchbar sind.\nPer Einbindungscode wird der Termin-Buchungs-Kalender dann auf der eigenen Website veröffentlicht. Der Gast muss dann nur noch den Termin auswählen, Name und Emailadresse angeben. Und schon kann die Gasthaus auch online Reservierungen entgegen nehmen. Von Neukunden und Stammkunden. Und falls der Tisch bereits telefonisch vergeben wurde, lässt sich dies mit wenigen Klicks auf Bookingflix eintragen. So kommt es auch nicht zu Überbuchungen.\nBeliebt sind auch die Terminerinnerungen per SMS und Email. So werden die Gäste vorab noch einmal an den gebuchten Tisch erinnert. Eine Terminänderung oder Stornierung kann der Gast dann frühzeitig selbst vornehmen, falls notwendig.\nÜber das Dashboard sind alle Termin- bzw. Tischbuchungen übersichtlich nach Tag und Uhrzeit aufgeführt. Reservierungen können auch händisch für den Gast eingetragen werden. Manche Restaurants nutzen nur noch Bookingflix. Für die Online-Tischbuchung aber auch für die Eintragung der telefonischen Reservierungen.",
+		"title": "Warum Online-Termin-Buchung mit Bookingflix?"
+	}
+}

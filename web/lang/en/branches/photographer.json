@@ -1,0 +1,189 @@
+{
+	"benefits": {
+		"items": {
+			"01": "great time saving\nEspecially with many appointments and bookings the time saving is enormous.",
+			"02": "Spare your nerves\nWho's up for email ping-pong? Customers in 2022 certainly don't.",
+			"03": "Increase appointment reliability\nUse the automatic reminders via email and SMS. By the way, most customers appreciate this extra service.",
+			"04": "Digitally up to date\nAppointment tools have become a popular standard. Customers expect modern digital services.",
+			"05": "Optimize workflow\nThe customer books and manages the appointment herself. The appointment data is clearly displayed in your dashboard."
+		},
+		"title": "Your advantages in a nutshell"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Can appointment reminders be sent before the appointment, at a specific time?",
+				"url": ""
+			},
+			"11": {
+				"title": "What is the cost of appointment reminders via SMS?",
+				"url": ""
+			},
+			"12": {
+				"title": "How much does Bookingflix cost per month?",
+				"url": ""
+			},
+			"13": {
+				"title": "What notice period do I have to observe?",
+				"url": ""
+			},
+			"14": {
+				"title": "Can the customer manage the booking himself (change appointment, cancel)",
+				"url": ""
+			},
+			"15": {
+				"title": "Can the email texts be customized?",
+				"url": ""
+			},
+			"16": {
+				"title": "Can the system mails (acceptance, rejection) be sent from your own mail address?",
+				"url": ""
+			},
+			"17": {
+				"title": "What happens to the appointment data after the appointment?",
+				"url": ""
+			},
+			"18": {
+				"title": "Can I cancel appointments, delete appointments, or cancel the prospect after the fact?",
+				"url": ""
+			},
+			"19": {
+				"title": "Which appointment booking calendar is best for my business?",
+				"url": ""
+			},
+			"20": {
+				"title": "How long does it take to book appointments for my clients?",
+				"url": ""
+			},
+			"01": {
+				"title": "Is the appointment booking via Bookingflix.com DSGVO compliant?",
+				"url": ""
+			},
+			"02": {
+				"title": "Where are the Bookingflix servers located?",
+				"url": ""
+			},
+			"03": {
+				"title": "Does Bookingflix have a rights management so that employees can take over the appointment management?"
+			},
+			"04": {
+				"title": "Can I synchronize my appointments with my default calendar?",
+				"url": ""
+			},
+			"05": {
+				"title": "What exactly happens when a prospect cancels their appointment?",
+				"url": ""
+			},
+			"06": {
+				"title": "Can appointment bookings be confirmed automatically?",
+				"url": ""
+			},
+			"07": {
+				"title": "Can appointments be entered manually for the customer?",
+				"url": ""
+			},
+			"08": {
+				"title": "What support do we get within the scope of use?",
+				"url": ""
+			},
+			"09": {
+				"title": "Can the premium account also be paid by invoice instead of direct debit?",
+				"url": ""
+			}
+		},
+		"title": "Relevant FAQ for your industry"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Individual email texts of the system emails",
+				"url": ""
+			},
+			"11": {
+				"title": "Have appointments confirmed automatically",
+				"url": ""
+			},
+			"12": {
+				"title": "Simply change or cancel appointments",
+				"url": ""
+			},
+			"13": {
+				"title": "More info communicate within the booking",
+				"url": ""
+			},
+			"14": {
+				"title": "Appointment reminders",
+				"url": ""
+			},
+			"15": {
+				"title": "Address of the appointment in appointment booking calendar with link to Google Maps",
+				"url": ""
+			},
+			"16": {
+				"title": "Easily integrate appointment booking calendar on your own website",
+				"url": ""
+			},
+			"17": {
+				"title": "Appointment booking website usable even without own website",
+				"url": ""
+			},
+			"18": {
+				"title": "Create appointment notes for appointments and customers",
+				"url": ""
+			},
+			"19": {
+				"title": "Vacations and vacations adjustable",
+				"url": ""
+			},
+			"20": {
+				"title": "Bookingflix calendar sync with Google, Microsoft and Apple calendars",
+				"url": ""
+			},
+			"01": {
+				"title": "Appointment booking according to DSGVO standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Germany",
+				"url": ""
+			},
+			"03": {
+				"title": "Appointment booking calendar for specific events",
+				"url": ""
+			},
+			"04": {
+				"title": "Appointment booking calendar for fixed opening hours",
+				"url": ""
+			},
+			"05": {
+				"title": "Appointment booking calendar for specific services",
+				"url": ""
+			},
+			"06": {
+				"title": "Better overview of the appointment status (commitment, cancellation, not yet confirmed)",
+				"url": ""
+			},
+			"07": {
+				"title": "Number of participants per event adjustable",
+				"url": ""
+			},
+			"08": {
+				"title": "Very short appointment durations can also be set. E. g. five minutes",
+				"url": ""
+			},
+			"09": {
+				"title": "Rights management for appointment management by employees",
+				"url": ""
+			}
+		},
+		"title": "Particularly relevant functions and features for your industry"
+	},
+	"main": {
+		"description": "Photography is for the most part a deadline business. Family pictures, job application portraits, wedding photos or daycare pictures. Almost every photographer or photo studio depends on a reliable appointment. In the past, this was mostly done by email and phone. Today, more and more photographers rely on appointment tools. By the way, the first user of Bookingflix was a photographer or a photo agency. For the weekly test shoots and castings, they were looking for an appointment tool that was easy to use and reminded the models of the agreed appointment via email and SMS. Bookingflix has been in use here for years. To see on Foto-Agentur.de.\nWith these first user experiences, Bookingflix was subsequently further expanded and optimized. And meanwhile many more photographers and photo studios use Bookingflix for the uncomplicated, fast and reliable appointment by click. And at the appointment in the studio or on-location, the camera then clicks.",
+		"title": "Photographers and photo studios"
+	},
+	"sub": {
+		"description": "Photographers use Bookingflix for very different purposes or business models. There is the Foto-Agentur.de already mentioned above. Here it is about individual events in different cities. For each city, a separate date-booking calendar is available. The models can select the desired calendar and then the preferred date. If an appointment is already fully booked, it is not even displayed. After booking, the organizer is informed and can manually confirm the appointment or send a cancellation. Models manage their appointment independently via a personal appointment link. This means that they can change the appointment or cancel it. An email to the organizer can also be sent via the integrated chat tool. After the appointment, each model receives an after-sale link with a request to rate the shoot. So over the past years the service and the shootings of Foto-Agentur.de, could be improved more and more. The main reason for using an appointment tool was the significant time saving. What used to be an eternal email ping-pong has now given way to automation: Book appointment, send commitment, appointment takes place. Or book appointment, send commitment, appointment cancellation by customer, re-book appointment, appointment takes place. Simple and effective. Also for the models.\n\nOther photographers operate a stationary photo studio. Xrawstudios.com, for example, specializes in children's photo parties as well as renting out the space. Both services can be booked through the website. Here, too, the ratings of previous customers come into play, who have written reviews after their shoots. These are displayed directly on the appointment booking calendar, which has a significant impact on the trust factor. An appointment tool is almost a must, especially for service providers who are not open throughout the day or are not always available by phone. This is because it allows customers to book at any time. Even if the photographer is shooting a wedding or is on vacation.",
+		"title": "Why online appointment booking with Bookingflix?"
+	}
+}

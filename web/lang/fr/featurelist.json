@@ -1,0 +1,334 @@
+{
+	"cta": {
+		"button": "Créer maintenant un agenda",
+		"title": "Commencez dès maintenant à tester gratuitement Bookingflix Premium pendant 14 jours !"
+	},
+	"features": {
+		"01_verschiedene_kalenderformate": {
+			"items": {
+				"01": {
+					"description": "Créer rapidement et facilement un agenda de prise de rendez-vous avec tous les paramètres requis.",
+					"title": "Générateur de formulaires"
+				},
+				"02": {
+					"description": "Pour des créneaux de rendez-vous de même longueur et d'une prestation offerte.",
+					"title": "Agenda pour les magasins avec des heures d'ouverture fixes"
+				},
+				"03": {
+					"description": "Rendez-vous uniques ou multiples avec un nombre de participants et une durée déterminés par l'utilisateur.",
+					"title": "Agenda des événements"
+				},
+				"04": {
+					"description": "Définir la désignation, la durée, le prix et l'image pour différentes prestations.",
+					"title": "Agenda des prestations réservables"
+				}
+			},
+			"title": "Différents formats d'agenda"
+		},
+		"02_more": {
+			"items": {
+				"01_individuelle-terminkalender-10": {
+					"link": "/features/individualCalendar",
+					"title": "Agendas individuels"
+				}
+			},
+			"title": "Fonctions expliquées en détail"
+		},
+		"03_terminverwaltung": {
+			"items": {
+				"10": {
+					"description": "Télécharger le fichier de rendez-vous iCal pour l'importer dans d'autres agendas standard. Par exemple dans Google, Microsoft ou Apple.",
+					"title": "Exporter les rendez-vous"
+				},
+				"11": {
+					"description": "Recherche plein texte de rendez-vous et de clients avec des paramètres de filtrage avancés.",
+					"title": "Recherche"
+				},
+				"01": {
+					"description": "Aperçu des demandes de rendez-vous non encore confirmées. Accepter, annuler, modifier des rendez-vous ou consulter des informations.",
+					"title": "Un centre de contrôle clair"
+				},
+				"02": {
+					"description": "Créer manuellement, sur ordre d'un client, à un rythme constant.",
+					"title": "Créer des rendez-vous récurrents"
+				},
+				"03": {
+					"description": "Créer des annotations internes pour les rendez-vous et les clients",
+					"title": "Notes sur les rendez-vous"
+				},
+				"04": {
+					"description": "Notification automatique des nouvelles demandes de rendez-vous.",
+					"title": "E-mail en cas de nouvelle demande de rendez-vous"
+				},
+				"05": {
+					"description": "Confirmation immédiate des demandes de rendez-vous par l'envoi automatique de mails avec un texte par défaut modifiable.",
+					"title": "Confirmation automatique du rendez-vous"
+				},
+				"06": {
+					"description": "Rappel automatique des rendez-vous réservés par e-mail ou SMS. L'heure et la fréquence des rappels sont réglables individuellement.",
+					"title": "Rappels de rendez-vous"
+				},
+				"07": {
+					"description": "Aperçu des rendez-vous par e-mail la veille.",
+					"title": "Rendez-vous du lendemain"
+				},
+				"08": {
+					"description": "Entrer les rendez-vous pour les clients manuellement. Si un client ne dispose pas d'un accès à Internet, par exemple.",
+					"title": "Entrer les rendez-vous manuellement"
+				},
+				"09": {
+					"description": "Télécharger les données de rendez-vous en tant que fichier CSV ou PDF pour un traitement ultérieur.",
+					"title": "Téléchargement des données de rendez-vous"
+				}
+			},
+			"title": "Gestion des rendez-vous"
+		},
+		"04_zeitmanagement": {
+			"items": {
+				"01": {
+					"description": "En cas de demande de rendez-vous, le créneau horaire est bloqué. Ainsi, une surréservation est exclue.",
+					"title": "Éviter les collisions de rendez-vous"
+				},
+				"02": {
+					"description": "Définir des temps de pause déterminés pendant lesquels aucun rendez-vous ne peut avoir lieu.",
+					"title": "Temps de pause"
+				},
+				"03": {
+					"description": "Définir des jours fériés officiels ainsi que des jours chômés individuels pour chaque agenda. Aucun rendez-vous ne peut avoir lieu ces jours-là.",
+					"title": "Vacances et jours chômés"
+				}
+			},
+			"title": "Gestion du temps"
+		},
+		"05_more": {
+			"items": {
+				"01_termin-und-kalenderverwaltung-01": {
+					"link": "/features/editCalendar",
+					"title": "Gestion des rendez-vous et des clients"
+				},
+				"02_kontrollzentrum-01": {
+					"link": "/features/dashboard",
+					"title": "Centre de contrôle"
+				},
+				"03_terminerinnerungen-01": {
+					"link": "/features/reminder",
+					"title": "Rappels de rendez-vous"
+				}
+			},
+			"title": "Fonctions expliquées en détail"
+		},
+		"06_kundenverwaltung": {
+			"items": {
+				"01": {
+					"description": "Créer, mettre à jour et supprimer des données clients.",
+					"title": "Informations clients"
+				},
+				"02": {
+					"description": "Écrire aux clients et recevoir des messages. L'historique des discussions est stocké.",
+					"title": "Chat client"
+				},
+				"03": {
+					"description": "Créer des annotations internes pour les rendez-vous et les clients",
+					"title": "Notes sur les rendez-vous"
+				},
+				"04": {
+					"description": "Documenter le processus des entrées et sorties grâce à un code QR individuel pour chaque rendez-vous.",
+					"title": "Enregistrer les présences/absences"
+				},
+				"05": {
+					"description": "Télécharger les données de rendez-vous en tant que fichier CSV ou PDF pour un traitement ultérieur.",
+					"title": "Téléchargement de données clients"
+				},
+				"06": {
+					"description": "Recherche plein texte de rendez-vous et de clients avec des paramètres de filtrage avancés.",
+					"title": "Fonction de recherche"
+				}
+			},
+			"title": "Gestion clientèle "
+		},
+		"07_kundenbewertungen": {
+			"items": {
+				"01": {
+					"description": "Après le rendez-vous, les clients sont invités à donner leur avis.",
+					"title": "Enquête automatique auprès des clients"
+				},
+				"02": {
+					"description": "Évaluation sous forme d'étoiles ainsi qu'en répondant à des questions personnalisables.",
+					"title": "Classement par étoiles et questions d'évaluation"
+				},
+				"03": {
+					"description": "En option, les avis reçus peuvent être affichés sous l'agenda des rendez-vous et des réservations.",
+					"title": "Publier les avis des clients"
+				}
+			},
+			"title": "Avis des clients"
+		},
+		"08_terminverwaltungendkunden": {
+			"items": {
+				"01": {
+					"description": "Via un lien direct vers chaque rendez-vous, les clients peuvent le gérer eux-mêmes.",
+					"title": "Liens pour les rendez-vous"
+				},
+				"02": {
+					"description": "Dans la zone de connexion aux rendez-vous, les clients peuvent réserver eux-mêmes de nouveaux rendez-vous, modifier des rendez-vous existants et consulter le déroulement des rendez-vous passés.",
+					"title": "Gérer les rendez-vous via la zone de connexion aux rendez-vous"
+				},
+				"03": {
+					"description": "Dans la zone de connexion aux rendez-vous, on trouve en outre des informations sur le rendez-vous respectif et le prestataire de services. Un outil de chat permet au client et au prestataire de services de discuter au préalable.",
+					"title": "Informations et outil de chat"
+				}
+			},
+			"title": "Gestion des rendez-vous pour les clients finaux"
+		},
+		"09_more": {
+			"items": {
+				"01_termin-und-kalenderverwaltung-01": {
+					"link": "/features/individualCalendar",
+					"title": "Gestion des rendez-vous et des clients"
+				},
+				"02_kundenbewertungen-01": {
+					"link": "/features/votes",
+					"title": "Avis des clients"
+				},
+				"03_terminverwaltung-fuer-endkunden-01": {
+					"link": "/features/clients",
+					"title": "Gestion des rendez-vous pour les clients finaux"
+				}
+			},
+			"title": "Fonctions expliquées en détail"
+		},
+		"10_personalisierung": {
+			"items": {
+				"01": {
+					"description": "Définir le nombre de clients maximum par créneau horaire.",
+					"title": "Nombre de clients variable par rendez-vous"
+				},
+				"02": {
+					"description": "Définir soi-même les textes des e-mails du système, pour la vérification, la confirmation ou l'annulation.",
+					"title": "Textes d'e-mails"
+				},
+				"03": {
+					"description": "Les informations qui doivent être indiquées par le client lors de la réservation peuvent être définies librement.",
+					"title": "Champs de requête dans le formulaire de réservation"
+				},
+				"04": {
+					"description": "La couleur et le design de l'agenda peuvent être personnalisés.",
+					"title": "Design"
+				},
+				"05": {
+					"description": "Peuvent être fixés de manière variable.",
+					"title": "Durée du rendez-vous et cadence"
+				}
+			},
+			"title": "Personnalisation"
+		},
+		"11_veroeffentlichung": {
+			"items": {
+				"01": {
+					"description": "Publication simple de l'agenda au moyen d'un code de widget.",
+					"title": "Intégration sur un site web existant"
+				},
+				"02": {
+					"description": "Générer automatiquement son propre microsite de réservation, le modifier et l'utiliser pour la réservation de rendez-vous.",
+					"title": "Site de réservation"
+				}
+			},
+			"title": "Publication"
+		},
+		"12_zusammenarbeitimteam": {
+			"items": {
+				"01": {
+					"description": "Autogestion des différentes succursales en utilisant des agendas indépendants les uns des autres.",
+					"title": "Agenda pour plusieurs succursales"
+				},
+				"02": {
+					"description": "Il est possible de définir des droits d'accès pour certains utilisateurs. Par exemple, pour des employés ou d'autres succursales.",
+					"title": "Définir les droits d'accès"
+				},
+				"03": {
+					"description": "Plusieurs agendas peuvent être regroupés.",
+					"title": "Regrouper les agendas"
+				}
+			},
+			"title": "Collaboration en équipe"
+		},
+		"13_more": {
+			"items": {
+				"01_individuelle-terminkalender-10": {
+					"link": "/features/individualCalendar",
+					"title": "Agenda individuel"
+				},
+				"02_buchungskalender-veroeffentlichen-01": {
+					"link": "/features/publishCalendar",
+					"title": "Publier l'agenda des réservations"
+				},
+				"03_integration-in-ihren-workflow-05": {
+					"link": "/features/workflow",
+					"title": "Intégration dans votre flux de travail"
+				}
+			},
+			"title": "Fonctions expliquées en détail"
+		},
+		"14_datenschutzhilfe": {
+			"items": {
+				"01": {
+					"description": "Bookingflix a été développé dans le respect des dispositions légales du RGPD.",
+					"title": "Conforme au RGPD"
+				},
+				"02": {
+					"description": "Les données des clients ne sont pas transmises ou stockées à l'étranger. Les serveurs utilisés se trouvent à Francfort-sur-le-Main.",
+					"title": "Emplacement du serveur en Allemagne"
+				},
+				"03": {
+					"description": "Les FAQ, les vidéos d'aide, les instructions et les webinaires sont documentés dans la zone d'assistance.",
+					"title": "Assistance en ligne"
+				}
+			},
+			"title": "Protection des données et aide"
+		},
+		"15_technischeaspekte": {
+			"items": {
+				"01": {
+					"description": "Réservation et gestion des rendez-vous également possibles via smartphone et tablette.",
+					"title": "Optimisé pour les mobiles"
+				},
+				"02": {
+					"description": "Synchronisation bidirectionnelle avec Google Calendar.",
+					"title": "Google"
+				},
+				"03": {
+					"description": "Synchronisation avec Apple-Calendar. De Bookingflix à Apple-Calendar.",
+					"title": "Apple"
+				},
+				"04": {
+					"description": "Synchronisation bidirectionnelle avec Microsoft-Calendar.",
+					"title": "Microsoft"
+				}
+			},
+			"title": "Aspects techniques"
+		},
+		"16_workflow": {
+			"items": {
+				"01": {
+					"description": "Créez des workflows automatiques pour un grand nombre de services web. Ainsi, Bookingflix peut être utilisé de manière encore plus intelligente et les possibilités sont, grâce à l'API, presque illimitées.",
+					"title": "Des webhooks intelligents"
+				}
+			},
+			"title": "Automatisation du flux de travail"
+		},
+		"17_more": {
+			"items": {
+				"01_dsgvo-und-datenschutzkonformitaet-03": {
+					"link": "/features/privacy",
+					"title": "Protection des données"
+				},
+				"02_integration-in-ihren-workflow-05": {
+					"link": "/features/workflow",
+					"title": "Intégration dans votre flux de travail"
+				}
+			},
+			"title": "Fonctions expliquées en détail"
+		}
+	},
+	"title": "Liste complète de toutes les fonctionnalités"
+}

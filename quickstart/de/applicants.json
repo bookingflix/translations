@@ -1,0 +1,11 @@
+{
+	"description": "Richten Sie in unserem Terminplaner flexibel ein, wann ein Termin buchbar sein soll. Klicken Sie auf der {icon}-Symbol, um einen Terminslot zu entfernen und auf das {icon}-Symbol, um ihn hinzuzufügen.",
+	"max": {
+		"event": {
+			"title": "Wie viele Teilnehmer können maximal am Termin teilnehmen?"
+		},
+		"info": "Wenn Sie bspw. \"5\" festlegen, können 5 Kunden einen Termin im angegebenen Zeitraum buchen. Erst nach der 5. (verifizierten) Buchung wird der Terminslot nicht mehr als verfügbar angezeigt.",
+		"title": "Wie viele Kunden-Termine können maximal zur selben Zeit stattfinden?"
+	},
+	"title": "Terminplaner"
+}

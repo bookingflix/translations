@@ -1,0 +1,33 @@
+{
+	"button": {
+		"error": "Veuillez saisir un texte de bouton de plus de trois caractères",
+		"info": "Définissez le texte sur le bouton de l'invitation à la réservation. Votre client doit cliquer sur ce texte pour réserver le rendez-vous.",
+		"title": "Texte du bouton d'invitation à la réservation"
+	},
+	"color": {
+		"info": "Choisissez la couleur d'accentuation de l'interface de votre formulaire de rendez-vous et de votre agenda. Par exemple, vous pouvez utiliser ici la couleur primaire de votre entreprise.",
+		"title": "Couleur de l'agenda"
+	},
+	"info": {
+		"button": {
+			"default": "Tout est clair",
+			"text": "Bouton Message de confirmation"
+		},
+		"description": {
+			"default": "Chers clients, vous pouvez volontiers réserver un rendez-vous dès maintenant. Pour ce faire, il vous suffit de sélectionner la date souhaitée et de remplir le formulaire ci-dessous.",
+			"text": "Texte d'information"
+		},
+		"startup": {
+			"text": "Confirmation nécessaire"
+		},
+		"text": "Joindre des informations sur le calendrier"
+	},
+	"name": {
+		"error": "Veuillez saisir un texte de plus de trois caractères",
+		"info": "Saisissez un titre pour le calendrier. Celui-ci doit indiquer quel type de rendez-vous peut être réservé avec le formulaire. Exemple : entretien de conseil individuel, séance photo, entraînement d'essai ou autre.",
+		"placeholder": "p.ex. entretien de conseil individuel",
+		"title": "titre de l'agenda"
+	},
+	"preview": "Aperçu d'un exemple de formulaire",
+	"title": "Design"
+}

@@ -1,0 +1,21 @@
+{
+	"business": "Geschäftliche Termine",
+	"description": "Wofür wird ein Online-Termin-Kalender benötigt?",
+	"info": "Wählen Sie aus, für welche Art von Termin Sie einen Online-Termin-Kalender einrichten wollen. Im Format \"Feste Öffnungszeiten\" können Sie Termine mit gleichbleibender Dauer während Ihrer Öffnungszeiten anbieten. Im Format \"Konkretes Event\" erstellen Sie ein oder mehrere feste Events, die gebucht werden können. Unter \"Angebote & Dienstleistungen\" können Sie spezifische Dienstleistungen erstellen und für Ihre Kunden anbieten.",
+	"parts": {
+		"datepicker": {
+			"info": "Für Ladengeschäfte und Dienstleister z.B. Friseure, Berater, Foto-Studios",
+			"title": "Feste Öffnungszeiten"
+		},
+		"eventpicker": {
+			"info": "Für einzelne Events, wiederkehrende Termine und flexible Termingestaltung",
+			"title": "Flex-Kalender"
+		},
+		"services": {
+			"info": "Für Dienstleistungen mit unterschiedlicher Termindauer: z. B. Servicetelefonate, Frieseurleistungen",
+			"title": "Angebote / Dienstleistungen"
+		}
+	},
+	"private": "Private Termine",
+	"title": "Kalender"
+}

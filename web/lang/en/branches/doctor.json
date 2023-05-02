@@ -1,0 +1,205 @@
+{
+	"benefits": {
+		"items": {
+			"01": "great time saving\nFor both sides. Scheduling takes only seconds. The patient also changes or cancels the appointment independently.",
+			"02": "Focus on the essentials\nTelephone interruptions are a nuisance in everyday work. Online, it's faster, easier and easier on the nerves.",
+			"03": "Increase appointment reliability\nUse the automatic reminders via email and SMS. By the way, most patients appreciate this extra service.",
+			"04": "Digitally up to date\nAppointment tools have become a popular standard. Patients expect modern digital services.",
+			"05": "Optimize workflow\nThe patient books and manages the appointment herself. The appointment data is clearly displayed in your dashboard."
+		},
+		"title": "Your advantages in a nutshell"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "What notice period do I have to observe?",
+				"url": ""
+			},
+			"11": {
+				"title": "Can the customer manage the booking himself (change appointment, cancel)",
+				"url": ""
+			},
+			"12": {
+				"title": "Can the email texts be customized?",
+				"url": ""
+			},
+			"13": {
+				"title": "Can the system mails (acceptance, rejection) be sent from your own mail address?",
+				"url": ""
+			},
+			"14": {
+				"title": "What happens to the appointment data after the appointment?",
+				"url": ""
+			},
+			"15": {
+				"title": "Can I cancel appointments, delete appointments or cancel the customer after the fact?",
+				"url": ""
+			},
+			"16": {
+				"title": "Which appointment booking calendar is best for my business?",
+				"url": ""
+			},
+			"17": {
+				"title": "How long does it take to book appointments for my clients?",
+				"url": ""
+			},
+			"18": {
+				"title": "Can I also enter customer appointments manually for my customers?",
+				"url": ""
+			},
+			"19": {
+				"title": "How can I set vacations when the practice is closed?",
+				"url": ""
+			},
+			"20": {
+				"title": "How do I contact the client before the appointment?",
+				"url": ""
+			},
+			"21": {
+				"title": "I would like to create a short note for the customer appointment. How do I do that?",
+				"url": ""
+			},
+			"22": {
+				"title": "Can the appointment data be downloaded for further processing?",
+				"url": ""
+			},
+			"23": {
+				"title": "How can I delete the appointment data?",
+				"url": ""
+			},
+			"24": {
+				"title": "When is the appointment data automatically deleted (deletion periods)?",
+				"url": ""
+			},
+			"01": {
+				"title": "Does Bookingflix have a rights management, so that the respective department can take over the appointment management?",
+				"url": ""
+			},
+			"02": {
+				"title": "What exactly happens when a customer cancels their appointment?",
+				"url": ""
+			},
+			"03": {
+				"title": "Can appointment bookings be confirmed automatically?"
+			},
+			"04": {
+				"title": "Can appointments be entered manually for the customer?",
+				"url": ""
+			},
+			"05": {
+				"title": "What support do we get within the scope of use?",
+				"url": ""
+			},
+			"06": {
+				"title": "Can the premium account also be paid by invoice instead of direct debit?",
+				"url": ""
+			},
+			"07": {
+				"title": "Can appointment reminders be sent before the appointment, at a specific time?",
+				"url": ""
+			},
+			"08": {
+				"title": "What is the cost of appointment reminders via SMS?",
+				"url": ""
+			},
+			"09": {
+				"title": "How much does Bookingflix cost per month?",
+				"url": ""
+			}
+		},
+		"title": "Relevant FAQ for your industry"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Simply change or cancel appointments",
+				"url": ""
+			},
+			"11": {
+				"title": "More info communicate within the booking",
+				"url": ""
+			},
+			"12": {
+				"title": "Appointment reminders",
+				"url": ""
+			},
+			"13": {
+				"title": "Easily integrate appointment booking calendar on your own website",
+				"url": ""
+			},
+			"14": {
+				"title": "Appointment booking website usable even without own website",
+				"url": ""
+			},
+			"15": {
+				"title": "Create appointment notes for appointments and customers",
+				"url": ""
+			},
+			"16": {
+				"title": "Vacations and vacations adjustable",
+				"url": ""
+			},
+			"17": {
+				"title": "Several dates per appointment slot bookable",
+				"url": ""
+			},
+			"18": {
+				"title": "Booking process according to DSGVO",
+				"url": ""
+			},
+			"19": {
+				"title": "Download the appointment data",
+				"url": ""
+			},
+			"20": {
+				"title": "Automatic deletion of the appointment data after 30 days",
+				"url": ""
+			},
+			"01": {
+				"title": "Appointment booking according to DSGVO standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Germany",
+				"url": ""
+			},
+			"03": {
+				"title": "Appointment booking calendar for fixed opening hours",
+				"url": ""
+			},
+			"04": {
+				"title": "Appointment booking calendar for specific events",
+				"url": ""
+			},
+			"05": {
+				"title": "Better overview of the appointment status (commitment, cancellation, not yet confirmed)",
+				"url": ""
+			},
+			"06": {
+				"title": "Different appointment durations can be set. E.g. 30 minutes or two hours",
+				"url": ""
+			},
+			"07": {
+				"title": "Rights management for appointment management by responsible employee",
+				"url": ""
+			},
+			"08": {
+				"title": "Individual email texts of the system emails",
+				"url": ""
+			},
+			"09": {
+				"title": "Have appointments confirmed automatically",
+				"url": ""
+			}
+		},
+		"title": "Particularly relevant functions and features for your industry"
+	},
+	"main": {
+		"description": "\nDuring the Corona pandemic, many medical practices and also pharmacies offered Corona vaccinations and Corona tests. Quite a few were pleasantly surprised at how well this worked in their day-to-day work and for their customers. For doctors in particular, the telephone was often hardly standing still. Here, appointment tools were a significant relief. Patients only had to select the desired appointment, enter their data and book the appointment. Sensitive data was usually not required. Therefore, strict data protection in this sensitive area was not a problem. And it was also very practical for the customers or patients. They didn't have to call umpteen times to reach someone or leave a message on the answering machine to make an appointment. Everything was done with just a few clicks. Many were downright proud and reported to the family: \"I just booked an appointment via the Internet!",
+		"title": "Medical practices and pharmacies"
+	},
+	"sub": {
+		"description": "Data protection in the medical field is of paramount importance, and quite rightly so.This is why sensitive data is not usually requested when making an appointment. When booking appointments for Corona tests or Corona vaccinations, hardly more than the name and email address is required. In addition, the servers of Bookingflix are located in Germany. So data are not transferred or stored in non-European countries. All data is secured by modern encryption technology. Backups of the appointment data are automatically saved several times a day, on separate servers. The data deletion period is 30 days. However, earlier deletion is also possible. If the data is still needed, it can be downloaded in PDF and CSV format.\nBookingflix was already developed strictly according to the European DSGVO regulation during the development. Because the data must be secure. This is also what patients expect.\nWhen creating an appointment booking calendar, different calendar types can be set up. For example, an appointment-booking calendar for fixed opening hours or for specific events. If appointments are only offered at a few, already fixed times, it is recommended to use the calendar for concrete events. If appointments are offered on several days each week, the calendar can be used for fixed opening hours. Here, break times, days off and vacations can also be taken into account.\nOptionally, patients and customers are reminded of the appointment by email and SMS. A manual entry of the appointment, for example, if a patient has no internet access, is also possible. The practice then takes over the appointment entry. Booked appointments are only shown as free again if the patient changes or cancels the appointment. Very short appointment slots are also possible. This has proven useful for test and vaccination appointments, as these appointments are usually short in duration.",
+		"title": "Why online appointment booking with Bookingflix?"
+	}
+}

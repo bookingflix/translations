@@ -1,0 +1,56 @@
+{
+	"appointment": {
+		"end": "Fin du rendez-vous",
+		"endConflict": "La fin du rendez-vous doit être postérieure au début du rendez-vous !",
+		"remove": "Supprimer le rendez-vous | Supprimer tous les {count} rendez-vous"
+	},
+	"back": "Retour",
+	"clock": "{time} heure | {time} heure",
+	"commitChanges": "Appliquer les modifications | {count} Appliquer les modifications",
+	"dates": {
+		"copy": {
+			"day": "Copier le jour",
+			"to": "Copier les entrées vers ..."
+		}
+	},
+	"months": {
+		"1": "janvier",
+		"2": "février",
+		"3": "Mars",
+		"4": "avril",
+		"5": "Mai",
+		"6": "juin",
+		"7": "juillet",
+		"8": "août",
+		"9": "septembre",
+		"10": "octobre",
+		"11": "novembre",
+		"12": "décembre"
+	},
+	"save": "sauvegarder",
+	"timeDifference": {
+		"beforeXDays": "il y a {days} jours",
+		"beforeXMonths": "il y a {months} mois",
+		"beforeXYears": "il y a {years} ans",
+		"dayAfterTomorrow": "après-demain",
+		"inXDays": "dans {days} jours",
+		"inXMonths": "dans {months} mois",
+		"inXYears": "dans {years} ans",
+		"lastMonth": "Le mois dernier",
+		"lastYear": "l'année dernière",
+		"nextMonth": "Le mois prochain",
+		"nextYear": "L'année prochaine",
+		"today": "Aujourd'hui",
+		"tomorrow": "demain",
+		"yesterday": "Hier"
+	},
+	"weekdays": {
+		"1": "Lundi",
+		"2": "Mardi",
+		"3": "Mercredi",
+		"4": "JEUDI",
+		"5": "Vendredi",
+		"6": "samedi",
+		"7": "dimanche"
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"additionalAppointments": {
+		"appointments": "Zusatztermin | Zusatztermine",
+		"button": "Einzelne Zusatztermine aktivieren",
+		"info": "Liebe Kunden, an dieser Stelle erhalten Sie einige Zusatztermine in Ergänzung zu den festen Öffnungszeiten."
+	},
+	"appointment": "Termin | Termine",
+	"error": {
+		"end": "Das Ende Ihres Kalenders muss nach dessen Startdatum liegen",
+		"time": "Das Ende Ihrer Öffnungszeit muss nach dessen Beginn liegen"
+	},
+	"months": [
+		"Januar",
+		"Februar",
+		"März",
+		"April",
+		"Mai",
+		"Juni",
+		"Juli",
+		"August",
+		"September",
+		"Oktober",
+		"November",
+		"Dezember"
+	],
+	"name": {
+		"days": "Tag | Tage",
+		"hours": "Stunde | Stunden",
+		"minutes": "Minute | Minuten",
+		"months": "Monat | Monate",
+		"weeks": "Woche | Wochen",
+		"years": "Jahr | Jahre"
+	},
+	"repeat": {
+		"every": {
+			"1": "jede | jeden",
+			"2": "jeden | jede",
+			"3": "jeden | jede"
+		}
+	},
+	"weekdays": [
+		"Montag",
+		"Dienstag",
+		"Mittwoch",
+		"Donnerstag",
+		"Freitag",
+		"Samstag",
+		"Sonntag"
+	]
+}

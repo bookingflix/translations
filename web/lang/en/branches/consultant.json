@@ -1,0 +1,213 @@
+{
+	"benefits": {
+		"items": {
+			"01": "great time saving\nFor both sides. Scheduling takes only seconds. The customer also changes or cancels the appointment independently.",
+			"02": "Focus on the essentials and spare your nerves\nTelephone interruptions are a nuisance in everyday work. Online, it's faster, easier and easier on the nerves.",
+			"03": "Increase appointment reliability\nUse the automatic reminders via email and SMS. By the way, most customers appreciate this extra service.",
+			"04": "Digitally up to date\nAppointment tools have become a popular standard. Customers expect modern digital services.",
+			"05": "Optimize workflow\nThe customer books and manages the appointment herself. The appointment data is clearly displayed in your dashboard."
+		},
+		"title": "Your advantages in a nutshell"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "What notice period do I have to observe?",
+				"url": ""
+			},
+			"11": {
+				"title": "Can the customer manage the booking himself (change appointment, cancel)",
+				"url": ""
+			},
+			"12": {
+				"title": "Can the email texts be customized?",
+				"url": ""
+			},
+			"13": {
+				"title": "Can the system mails (acceptance, rejection) be sent from your own mail address?",
+				"url": ""
+			},
+			"14": {
+				"title": "What happens to the appointment data after the appointment?",
+				"url": ""
+			},
+			"15": {
+				"title": "Can I cancel appointments, delete appointments or cancel the customer after the fact?",
+				"url": ""
+			},
+			"16": {
+				"title": "Which appointment booking calendar is best for my business?",
+				"url": ""
+			},
+			"17": {
+				"title": "How long does it take to book appointments for my clients?",
+				"url": ""
+			},
+			"18": {
+				"title": "Can I also enter customer appointments manually for my customers?",
+				"url": ""
+			},
+			"19": {
+				"title": "How can I set vacations when we are closed?",
+				"url": ""
+			},
+			"20": {
+				"title": "How do I contact the client before the appointment?",
+				"url": ""
+			},
+			"21": {
+				"title": "I would like to create a short note for the customer appointment. How do I do that?",
+				"url": ""
+			},
+			"22": {
+				"title": "Can the appointment data be downloaded for further processing?",
+				"url": ""
+			},
+			"23": {
+				"title": "How do I get customer feedback about Bookingflix? Is that automatic?",
+				"url": ""
+			},
+			"24": {
+				"title": "How do I synchronize my default calendar with Bookingflix calendar?",
+				"url": ""
+			},
+			"25": {
+				"title": "How do I create a video conference via Bookingflix?",
+				"url": ""
+			},
+			"26": {
+				"title": "How are overbookings prevented?",
+				"url": ""
+			},
+			"01": {
+				"title": "Does Bookingflix have a rights management, so that the respective department can take over the appointment management?",
+				"url": ""
+			},
+			"02": {
+				"title": "What exactly happens when a customer cancels their appointment?",
+				"url": ""
+			},
+			"03": {
+				"title": "Can appointment bookings be confirmed automatically?"
+			},
+			"04": {
+				"title": "Can appointments be entered manually for the customer?",
+				"url": ""
+			},
+			"05": {
+				"title": "What support do we get within the scope of use?",
+				"url": ""
+			},
+			"06": {
+				"title": "Can the premium account also be paid by invoice instead of direct debit?",
+				"url": ""
+			},
+			"07": {
+				"title": "Can appointment reminders be sent before the appointment, at a specific time?",
+				"url": ""
+			},
+			"08": {
+				"title": "What is the cost of appointment reminders via SMS?",
+				"url": ""
+			},
+			"09": {
+				"title": "How much does Bookingflix cost per month?",
+				"url": ""
+			}
+		},
+		"title": "Relevant FAQ for your industry"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "More info communicate within the booking",
+				"url": ""
+			},
+			"11": {
+				"title": "Appointment reminders",
+				"url": ""
+			},
+			"12": {
+				"title": "Easily integrate appointment booking calendar on your own website",
+				"url": ""
+			},
+			"13": {
+				"title": "Appointment booking website usable even without own website",
+				"url": ""
+			},
+			"14": {
+				"title": "Create appointment notes for appointments and customers",
+				"url": ""
+			},
+			"15": {
+				"title": "Vacations and vacations adjustable",
+				"url": ""
+			},
+			"16": {
+				"title": "Several dates per appointment slot bookable",
+				"url": ""
+			},
+			"17": {
+				"title": "Obtain customer reviews automatically",
+				"url": ""
+			},
+			"18": {
+				"title": "Synchronization with standard Google, Apple and Microsoft calendars",
+				"url": ""
+			},
+			"19": {
+				"title": "Video conferencing tool",
+				"url": ""
+			},
+			"20": {
+				"title": "Create appointment notes",
+				"url": ""
+			},
+			"01": {
+				"title": "Appointment booking according to DSGVO standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Germany",
+				"url": ""
+			},
+			"03": {
+				"title": "Appointment booking calendar for fixed opening hours",
+				"url": ""
+			},
+			"04": {
+				"title": "Better overview of the appointment status (commitment, cancellation, not yet confirmed)",
+				"url": ""
+			},
+			"05": {
+				"title": "Different appointment durations can be set. E.g. 30 minutes or two hours",
+				"url": ""
+			},
+			"06": {
+				"title": "Rights management for appointment management by responsible employee",
+				"url": ""
+			},
+			"07": {
+				"title": "Individual email texts of the system emails",
+				"url": ""
+			},
+			"08": {
+				"title": "Have appointments confirmed automatically",
+				"url": ""
+			},
+			"09": {
+				"title": "Simply change or cancel appointments",
+				"url": ""
+			}
+		},
+		"title": "Particularly relevant functions and features for your industry"
+	},
+	"main": {
+		"description": "Advisors offer a pure futures business. Whether life counseling, investment counseling, couples counseling, legal counseling or other services in this area. The customer books the appointment by phone, email or via an appointment tool. Booking an appointment via an appointment tool is the most modern and time-saving way of booking. For both sides. The customer does not have to call, the consultant does not have to answer the phone. The customer books the appointment slot that is displayed to him and that suits him personally best. There is no need for lengthy, annoying appointments by email or phone.\nOften the consultant is in conversation with another client. Then only the answering machine and the recall remain. This works much better. And important questions can still be clarified after the online appointment booking. Via the Bookingflix chat tool or the old-fashioned way: by phone.",
+		"title": "Consulting"
+	},
+	"sub": {
+		"description": "Customers now expect modern digital services. At the latest with the Corona pandemic, everyone has had experience with online appointment booking. And they were often pleasantly surprised at how quickly, easily and simply this worked. The customer clicks on the desired appointment, enters his or her name, email address and perhaps cell phone number. And the appointment is already reserved. The appointment can be confirmed manually by the service provider. Or fully automatically by the system. So the customer receives just-in-time the appointment confirmation after the appointment booking and appointment verification.\nThe separate appointment management and the entry in the appointment book or the appointment calendar is no longer necessary. Because with the booking and appointment confirmation all data is included in the personal dashboard of Bookingflix. Even a synchronization with the standard calendars of Microsoft, Apple and Google is possible. Thus, an immediate comparison of the appointment data is always guaranteed.\nBy the way, the customer can also manage the appointment online. Appointment changes, appointment cancellations or a query to the consultant. Everything is possible with just a few clicks via the personal appointment link and the customer login area. After the appointment, your visitors optionally receive an after-sale email. This email contains a link that leads the customers to a short online customer survey. This allows your customers to give an assessment of the advice they have received. This gives you valuable feedback and you can publish these evaluations, also optionally, on your website. This builds trust during subsequent consultations. Consultations via video conference are also possible. A video conferencing tool is already integrated at Bookingflix. So the booking customer receives directly with the email appointment confirmation the link to the video conference. The consultant sees the link listed in the dashboard. From there, he can also start the video conference.\nAppointment notes are a practical function for storing information about the various customers and the appointment. These can be found at the respective appointment and can be changed and created at any time.",
+		"title": "Why online appointment booking with Bookingflix?"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"default": "How satisfied are you with online appointment booking through Bookingflix.com ?",
+	"description": "Customer reviews",
+	"info": "Customer ratings can be recorded for appointment booking via our rating service. The appointment booker can answer the following questions.",
+	"question": "Question {count}",
+	"showInCalendar": "Show customer reviews in the appointment calendar?",
+	"title": "Reviews",
+	"type": {
+		"custom": "Own questions",
+		"default": "Standard question",
+		"none": "No questions"
+	}
+}

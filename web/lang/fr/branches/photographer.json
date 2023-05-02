@@ -1,0 +1,189 @@
+{
+	"benefits": {
+		"items": {
+			"01": "un grand gain de temps\nLe gain de temps est énorme, surtout lorsque les rendez-vous et les réservations sont nombreux.",
+			"02": "Ménager ses nerfs\nQui a envie de faire du ping-pong d'e-mails ? Certainement pas les clients en 2022.",
+			"03": "Augmenter la fiabilité des délais\nPour cela, utilisez les rappels automatiques par e-mail et SMS. Ce service supplémentaire est d'ailleurs apprécié par la plupart des clients.",
+			"04": "Le numérique à la pointe du progrès\nLes outils de prise de rendez-vous sont devenus un standard très apprécié. Les clients attendent des services numériques modernes.",
+			"05": "Optimiser le flux de travail\nLa cliente réserve et gère elle-même le rendez-vous. Les données du rendez-vous sont affichées de manière claire dans votre tableau de bord."
+		},
+		"title": "Vos avantages en un clin d'œil"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Est-il possible d'envoyer des rappels de rendez-vous avant le rendez-vous, à un moment donné ?",
+				"url": ""
+			},
+			"11": {
+				"title": "Combien coûtent les rappels de rendez-vous par SMS ?",
+				"url": ""
+			},
+			"12": {
+				"title": "Combien coûte Bookingflix par mois ?",
+				"url": ""
+			},
+			"13": {
+				"title": "Quel est le délai de préavis à respecter ?",
+				"url": ""
+			},
+			"14": {
+				"title": "Le client peut-il gérer lui-même la réservation (modifier le rendez-vous, l'annuler) ?",
+				"url": ""
+			},
+			"15": {
+				"title": "Les textes des e-mails peuvent-ils être personnalisés ?",
+				"url": ""
+			},
+			"16": {
+				"title": "Les e-mails du système (acceptation, refus) peuvent-ils être envoyés à partir de sa propre adresse e-mail ?",
+				"url": ""
+			},
+			"17": {
+				"title": "Que se passe-t-il avec les données de rendez-vous après le rendez-vous ?",
+				"url": ""
+			},
+			"18": {
+				"title": "Puis-je annuler des rendez-vous, les supprimer ou les refuser ultérieurement à la personne intéressée ?",
+				"url": ""
+			},
+			"19": {
+				"title": "Quel est l'agenda le mieux adapté à mon entreprise ?",
+				"url": ""
+			},
+			"20": {
+				"title": "Combien de temps prend la réservation d'un rendez-vous pour mes clients ?",
+				"url": ""
+			},
+			"01": {
+				"title": "La réservation de rendez-vous via Bookingflix.com est-elle conforme au RGPD ?",
+				"url": ""
+			},
+			"02": {
+				"title": "Où se trouvent les serveurs de Bookingflix ?",
+				"url": ""
+			},
+			"03": {
+				"title": "Est-ce que Bookingflix dispose d'une gestion des droits pour que les collaborateurs puissent prendre en charge la gestion des rendez-vous ?"
+			},
+			"04": {
+				"title": "Puis-je synchroniser mes rendez-vous avec mon calendrier standard ?",
+				"url": ""
+			},
+			"05": {
+				"title": "Que se passe-t-il exactement lorsqu'un prospect annule son rendez-vous ?",
+				"url": ""
+			},
+			"06": {
+				"title": "Les réservations de rendez-vous peuvent-elles être confirmées automatiquement ?",
+				"url": ""
+			},
+			"07": {
+				"title": "Les rendez-vous peuvent-ils être saisis manuellement pour le client ?",
+				"url": ""
+			},
+			"08": {
+				"title": "Quel soutien recevons-nous dans le cadre de l'utilisation ?",
+				"url": ""
+			},
+			"09": {
+				"title": "Le compte premium peut-il être payé par facture plutôt que par prélèvement automatique ?",
+				"url": ""
+			}
+		},
+		"title": "FAQ pertinentes pour votre secteur"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Textes individuels des e-mails du système",
+				"url": ""
+			},
+			"11": {
+				"title": "Confirmer automatiquement les rendez-vous",
+				"url": ""
+			},
+			"12": {
+				"title": "Modifier ou annuler facilement des rendez-vous",
+				"url": ""
+			},
+			"13": {
+				"title": "Plus d'infos à communiquer dans le cadre de la réservation",
+				"url": ""
+			},
+			"14": {
+				"title": "Rappels de rendez-vous",
+				"url": ""
+			},
+			"15": {
+				"title": "Adresse du rendez-vous dans l'agenda de réservation de rendez-vous avec lien vers Google Maps",
+				"url": ""
+			},
+			"16": {
+				"title": "Intégrer facilement le calendrier de réservation sur son propre site web",
+				"url": ""
+			},
+			"17": {
+				"title": "Site web de réservation de rendez-vous utilisable même sans propre site web",
+				"url": ""
+			},
+			"18": {
+				"title": "Créer des notes sur les rendez-vous et les clients",
+				"url": ""
+			},
+			"19": {
+				"title": "Jours fériés et vacances réglables",
+				"url": ""
+			},
+			"20": {
+				"title": "Synchroniser le calendrier Bookingflix avec les calendriers de Google, Microsoft et Apple",
+				"url": ""
+			},
+			"01": {
+				"title": "Réservation de rendez-vous selon les normes du RGPD",
+				"url": ""
+			},
+			"02": {
+				"title": "Serveurs en Allemagne",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendrier de réservation de rendez-vous pour des événements concrets",
+				"url": ""
+			},
+			"04": {
+				"title": "Calendrier de réservation de rendez-vous pour les heures d'ouverture fixes",
+				"url": ""
+			},
+			"05": {
+				"title": "Calendrier de réservation de rendez-vous pour certains services",
+				"url": ""
+			},
+			"06": {
+				"title": "Meilleure vue d'ensemble du statut des rendez-vous (accepté, annulé, pas encore confirmé)",
+				"url": ""
+			},
+			"07": {
+				"title": "Nombre de participants réglable par événement",
+				"url": ""
+			},
+			"08": {
+				"title": "Il est également possible de régler des durées de rendez-vous très courtes. Par exemple, cinq minutes",
+				"url": ""
+			},
+			"09": {
+				"title": "Gestion des droits pour la gestion des rendez-vous par les collaborateurs",
+				"url": ""
+			}
+		},
+		"title": "Fonctions et caractéristiques particulièrement pertinentes pour votre secteur"
+	},
+	"main": {
+		"description": "La photographie est en grande partie une affaire de rendez-vous. Photos de famille, portraits de candidature, photos de mariage ou photos de crèche. Presque tous les photographes ou studios photo dépendent d'une prise de rendez-vous fiable. Autrefois, cela se faisait le plus souvent par e-mail et par téléphone. Aujourd'hui, de plus en plus de photographes ont recours à des outils de prise de rendez-vous. Le premier utilisateur de Bookingflix était d'ailleurs un photographe ou une agence photo. Pour les séances d'essai et les castings hebdomadaires, ils cherchaient un outil de prise de rendez-vous qui soit facile à utiliser et qui rappelle aux modèles le rendez-vous convenu par e-mail et SMS. Bookingflix est utilisé ici depuis des années. À voir sur Foto-Agentur.de.\nGrâce à cette première expérience utilisateur, Bookingflix a ensuite été développé et optimisé. Aujourd'hui, de nombreux autres photographes et studios photo utilisent Bookingflix pour une prise de rendez-vous simple, rapide et fiable en un seul clic. Et lors du rendez-vous en studio ou sur place, l'appareil photo se met en marche.",
+		"title": "Photographes et studios photo"
+	},
+	"sub": {
+		"description": "Les photographes utilisent Bookingflix pour des applications ou des modèles commerciaux très différents. Il y a l'agence de photos Foto-Agentur.de, déjà mentionnée plus haut. Il s'agit ici d'événements individuels dans différentes villes. Un calendrier de rendez-vous et de réservations est disponible pour chaque ville. Les modèles peuvent choisir le calendrier souhaité et ensuite la date préférée. Si une date est déjà complète, elle n'est même pas affichée. Après la réservation, l'organisateur est informé et peut confirmer manuellement le rendez-vous ou envoyer une annulation. Les modèles gèrent leur rendez-vous de manière autonome via un lien de rendez-vous personnel. Cela signifie qu'ils peuvent modifier le rendez-vous ou l'annuler. Il est également possible d'envoyer un e-mail à l'organisateur via l'outil de chat intégré. Après le rendez-vous, chaque modèle reçoit un lien d'après-vente lui demandant d'évaluer le shooting. Ainsi, au cours des dernières années, le service et les shootings de Foto-Agentur.de ont pu être améliorés de plus en plus. La raison principale de l'utilisation d'un outil de prise de rendez-vous était le gain de temps considérable. Ce qui était auparavant un éternel ping-pong d'e-mails a aujourd'hui fait place à une automatisation : Réserver un rendez-vous, envoyer une confirmation, le rendez-vous a lieu. Ou réserver un rendez-vous, envoyer une confirmation, annulation du rendez-vous par le client, nouvelle réservation d'un rendez-vous, le rendez-vous a lieu. Simple et efficace. Pour les modèles aussi.\n\nD'autres photographes possèdent un studio photo fixe. Xrawstudios.com s'est par exemple spécialisé dans les soirées photo pour enfants ainsi que dans la location de locaux. Ces deux prestations peuvent être réservées via le site web. Ici aussi, les évaluations des clients précédents, qui ont rédigé un avis après leurs shootings, sont utilisées. Celles-ci sont directement présentées dans le calendrier de rendez-vous et de réservation, ce qui a une influence évidente sur le facteur de confiance. Pour les prestataires de services qui ne sont pas ouverts en permanence ou qui ne sont pas toujours joignables par téléphone, un outil de prise de rendez-vous est presque un must. Car les clients peuvent ainsi réserver à tout moment. Même si le photographe est en train de photographier un mariage ou est en vacances.",
+		"title": "Pourquoi réserver un rendez-vous en ligne avec Bookingflix ?"
+	}
+}

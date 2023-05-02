@@ -1,0 +1,148 @@
+{
+	"benefits": {
+		"items": {
+			"01": "great time saving\nThe booking will cost you zero minutes. Parents need only one to two minutes for booking.",
+			"02": "Spare your nerves\nWhy make appointments when you can simply select and book them directly?",
+			"03": "Increase appointment reliability\nParents and students like to be reminded of the appointment. This significantly reduces the no-show rate.",
+			"04": "Digitally up to date\nYes, the telephone used to be very modern. But time doesn't stand still. Parents and students expect modern, digital services."
+		},
+		"title": "Your advantages in a nutshell"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Can the premium account also be paid by invoice instead of direct debit?",
+				"url": ""
+			},
+			"11": {
+				"title": "Which type of calendar is most used by schools?",
+				"url": ""
+			},
+			"12": {
+				"title": "Can Bookingflix appointments be synchronized or transferred with a standard Google, Microsoft or Apple calendar?",
+				"url": ""
+			},
+			"13": {
+				"title": "Can two teachers:innen share a calendar or an account?",
+				"url": ""
+			},
+			"14": {
+				"title": "Can appointment reminders be sent before the appointment, at a specific time?",
+				"url": ""
+			},
+			"15": {
+				"title": "What is the cost of appointment reminders via SMS?",
+				"url": ""
+			},
+			"16": {
+				"title": "How much does Bookingflix cost per month?",
+				"url": ""
+			},
+			"17": {
+				"title": "What notice period do I have to observe?",
+				"url": ""
+			},
+			"18": {
+				"title": "Which appointment-booking calendar is best for parent-teacher conferences?",
+				"url": ""
+			},
+			"19": {
+				"title": "How long does it take to book appointments for my clients?",
+				"url": ""
+			},
+			"01": {
+				"title": "Is the appointment booking via Bookingflix.com DSGVO compliant?",
+				"url": ""
+			},
+			"02": {
+				"title": "Where are the Bookingflix servers located?",
+				"url": ""
+			},
+			"03": {
+				"title": "Can each teacher use their own appointment booking calendar?"
+			},
+			"04": {
+				"title": "How do parents get to the appointment booking calendar?",
+				"url": ""
+			},
+			"05": {
+				"title": "Does Bookingflix have a rights management, so that each colleague can only see the relevant data?",
+				"url": ""
+			},
+			"06": {
+				"title": "Can appointment bookings be confirmed automatically?",
+				"url": ""
+			},
+			"07": {
+				"title": "What support do we get within the scope of use?",
+				"url": ""
+			},
+			"08": {
+				"title": "Can appointment booking calendars be paused?",
+				"url": ""
+			},
+			"09": {
+				"title": "Is a discount or an individual offer possible if many appointment-booking calendars are needed?",
+				"url": ""
+			}
+		},
+		"title": "Relevant FAQ for your industry"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Export appointment data (pdf, csv)",
+				"url": ""
+			},
+			"11": {
+				"title": "Enter dates manually",
+				"url": ""
+			},
+			"01": {
+				"title": "Appointment booking according to DSGVO standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Germany",
+				"url": ""
+			},
+			"03": {
+				"title": "Better overview of the appointment status (commitment, cancellation, not yet confirmed)",
+				"url": ""
+			},
+			"04": {
+				"title": "Have appointments confirmed automatically",
+				"url": ""
+			},
+			"05": {
+				"title": "Simply change or cancel appointments",
+				"url": ""
+			},
+			"06": {
+				"title": "More info communicate within the booking",
+				"url": ""
+			},
+			"07": {
+				"title": "Write with customers/parents directly via Bookingflix",
+				"url": ""
+			},
+			"08": {
+				"title": "Appointment reminders",
+				"url": ""
+			},
+			"09": {
+				"title": "Appointment booking website usable for any booking calendar even without own website",
+				"url": ""
+			}
+		},
+		"title": "Particularly relevant functions and features for your industry"
+	},
+	"main": {
+		"description": "\nMore and more schools and teachers are using Bookingflix. Especially the appointment with parents for parent-teacher conferences is very popular. Or also the appointment arrangement for the new registration of the children when changing schools.\nBookingflix has of course been developed in accordance with DSGVO standards.",
+		"title": "Schools and educational institutions"
+	},
+	"sub": {
+		"description": "Parents do not have to contact the classroom teacher by email or phone. There is also no need for silent mail, i.e. making appointments using the child as an appointment facilitator. The teacher creates an appointment booking calendar in a few minutes. We recommend the booking calendar for specific events. The event is, for example, a parent-teacher conference or a learning progress meeting with the parents or guardians. Several times can be set for this event. In this way, each parent can book their own preferred date and time. You can see directly which appointment is still free. The appointment confirmation can be sent immediately and automatically via the Bookingflix system. But also a manual entry is optionally possible at any time for the teacher.\nIf the parents want to change or cancel the appointment, this is also possible directly via Bookingflix. A lengthy, sometimes annoying appointment coordination is simply eliminated.\nFor every appointment booking calendar created, an appointment booking website is automatically created as well. So every teacher can share the link to his own appointment booking website with the parents. It is therefore not necessary to include it on the school's website. The appointment booking website can be customized and filled with additional information. Also the imprint and the data protection information can be easily inserted.\nBookingflix also offers a chat function. Over this the parents write with special requests to the teachers an email. The reverse way is of course also possible.\nData protection is guaranteed at all times. Sensitive data is usually not required. The name of the parents or the first name of the child is sufficient to make an appointment. The data is stored on servers within Germany. After 30 days, the appointment data is automatically deleted by the system (deletion periods). An earlier deletion or a backup of the data via an export is also possible.\nA special service are the appointment reminders. By email or by SMS. Teachers:innen can set themselves whether and when an appointment reminder is sent by email or SMS. This increases the reliability of appointments.\nThe calendars can be managed centrally by one person. The teachers:innen get access to the complete administration or only limited access to the data or settings of the individual calendar. In this way, data protection is also ensured within the school and everyone is only shown what is really relevant.",
+		"title": "Why online appointment booking with Bookingflix?"
+	}
+}

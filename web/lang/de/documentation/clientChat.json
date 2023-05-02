@@ -1,0 +1,8 @@
+{
+  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Nachricht***.\n2. Sie bekommen ungelesene Nachrichten in Blau angezeigt. Bereits gelesene Nachrichten werden Ihnen in Weiß angezeigt. Die Zahl zeigt Ihnen die Anzahl der Nachrichten an.\n3. Klicken Sie auf die Nachricht, um das Chat-Fenster zu öffnen. Hier sehen Sie anschließend alle Termin-Daten und können direkt auf die Nachricht antworten. Ihr Kunde wird per Email über den Eingang einer neuen Nachricht informiert. Auch Sie erhalten eine Email bei neu eingegangenen Nachrichten.\n4. Klicken Sie auf ***Nachricht hinzufügen***, um einem oder mehreren Kunden eine Nachricht zu senden.\n5. Wählen Sie zuerst einen Termin-Buchungs-Kalender aus.\n6. Wählen Sie aus, welchem Kunden oder welchen Kunden Sie eine Nachricht senden möchten.\n7. Sie können auch alle Kunden aus dem jeweiligen Termin-Buchungs-Kalender  auswählen. Dann erhält jeder Kunde die gleiche Nachricht.\n\nAlternativ gelangen Sie zum Chat-Fenster über die Termin- und Kundenübersicht.",
+  "img": {
+    "1": "bild57.webp",
+    "2": "bild58.webp"
+  },
+  "title": "Nachrichten-Zentrale mit Kunden-Chat"
+}

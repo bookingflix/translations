@@ -1,0 +1,57 @@
+{
+	"add": "Joindre un nouvel élément de formulaire",
+	"checkbox": {
+		"description": "description (facultatif)",
+		"info": "Joindre une sélection multiple",
+		"name": "Titre",
+		"option": "Option",
+		"title": "Choix multiple",
+		"values": "Choix possibles"
+	},
+	"description": "Créez ici votre formulaire de réservation pour vos clients. Avec le symbole {icon}, vous pouvez ajouter d'autres éléments. Avec le bouton {icon}, vous pouvez modifier, déplacer ou supprimer des éléments existants.",
+	"group": {
+		"info": "Autoriser la réservation de groupe",
+		"title": "Réservation de groupe"
+	},
+	"heading": {
+		"info": "Grand titre de section",
+		"title": "Titre"
+	},
+	"link": {
+		"info": "Insérer un lien",
+		"title": "Lien"
+	},
+	"paragraph": {
+		"info": "Rédiger un texte explicatif",
+		"title": "Texte explicatif"
+	},
+	"phone": {
+		"info": "Consulter son numéro de téléphone portable",
+		"title": "Numéro de téléphone"
+	},
+	"radio": {
+		"info": "Joindre une sélection individuelle",
+		"title": "Sélection individuelle"
+	},
+	"required": "Champ obligatoire",
+	"terms": {
+		"info": "Obtenir l'accord sur les conditions générales",
+		"name": "Titre",
+		"title": "AGB",
+		"warning": "Veuillez vérifier l'URL des conditions générales"
+	},
+	"text": {
+		"info": "Petit champ de texte à remplir",
+		"title": "Zone de texte"
+	},
+	"textarea": {
+		"info": "Grand champ de texte à remplir",
+		"title": "Bloc de texte"
+	},
+	"title": "Éditeur de formulaires",
+	"url": {
+		"description": "Description du lien",
+		"title": "URL",
+		"warning": "Veuillez vérifier l'URL"
+	}
+}

@@ -1,0 +1,64 @@
+{
+	"autoConfirm": {
+		"info": "Si vous sélectionnez \"Oui\", les rendez-vous réservés sont automatiquement acceptés. Si vous sélectionnez \"Non\", vous pouvez décider vous-même pour chaque rendez-vous.",
+		"title": "Les rendez-vous réservés doivent-ils être automatiquement confirmés ?"
+	},
+	"contact": {
+		"email": {
+			"info": "Toutes les demandes de rendez-vous ainsi que les évaluations des clients (si souhaitées) sont envoyées à l'adresse e-mail des personnes de contact.",
+			"title": "Adresse e-mail de la personne de contact"
+		},
+		"name": {
+			"info": "Indiquez le nom de la personne de contact pour vos clients. La personne de contact ne doit pas nécessairement être la personne qui gérera votre compte Bookingflix. La création du compte se fait à la dernière étape du démarrage rapide.",
+			"title": "Nom de la personne de contact"
+		}
+	},
+	"event": {
+		"add": "{count}. Ajouter un rendez-vous",
+		"addEnd": "Ajouter la fin",
+		"appointment": {
+			"info": "Indiquez ici des informations supplémentaires sur la date (facultatif)",
+			"placeholder": "par ex. événement dans le parc du château de Berlin",
+			"title": "Informations supplémentaires sur le rendez-vous"
+		},
+		"description": "Événements",
+		"name": {
+			"info": "Indiquez le titre de l'événement.",
+			"placeholder": "p.ex. journée portes ouvertes",
+			"title": "Titre de l'événement"
+		},
+		"same": "Dans un agenda, aucune date d'événement ne peut avoir lieu exactement au même moment. Veuillez corriger.",
+		"sameTimerange": "Le rendez-vous {event1} et le rendez-vous {event2} se chevauchent (conflit de rendez-vous). Les chevauchements ne sont pas possibles dans les calendriers d'événements. Un conflit de dates peut être contourné en omettant la fin de la date et en ne définissant qu'un début de date.",
+		"time": {
+			"info": "Définissez le début de l'événement. Vous pouvez également ajouter la fin de votre événement via la case à cocher.",
+			"title": "Temps"
+		},
+		"title": "Rendez-vous {count}"
+	},
+	"location": {
+		"info": "Indiquez l'adresse du lieu où se dérouleront les événements. Vos clients peuvent ensuite afficher immédiatement la navigation vers le lieu via Google Maps.",
+		"title": "Adresse du rendez-vous"
+	},
+	"showAppointments": {
+		"info": "Si plusieurs rendez-vous peuvent avoir lieu en même temps, vous pouvez définir ici si vos clients doivent pouvoir voir le nombre de rendez-vous disponibles ou non.",
+		"title": "Voulez-vous que vos clients voient le nombre de rendez-vous encore disponibles ?"
+	},
+	"title": "Paramètres",
+	"verify": {
+		"info": "Avec la vérification par e-mail, vos clients confirment qu'ils ont réservé un rendez-vous chez vous. Cette procédure est donc conforme au règlement général européen sur la protection des données. Nous vous recommandons de désactiver la vérification des e-mails uniquement à des fins de test.",
+		"time": {
+			"info": "Le rendez-vous reste bloqué (non réservable) jusqu'à ce que le client qui l'a réservé l'ait vérifié ou que le temps indiqué ici soit écoulé. La vérification a lieu lorsque le lien dans l'e-mail de vérification a été cliqué.",
+			"title": "Temps de vérification de la date"
+		},
+		"title": "Activer la vérification des e-mails",
+		"warning": "Ce mode de réservation n'est pas conforme au règlement général européen sur la protection des données. Nous recommandons de l'utiliser uniquement à des fins de test."
+	},
+	"webinar": {
+		"info": "Si vous souhaitez organiser vos rendez-vous de manière numérique, vous pouvez utiliser le système de webinaire de Bookingflix de manière simple et facile. L'invitation à la vidéoconférence se fait automatiquement lors de la réservation du rendez-vous et peut être adaptée dans votre compte Bookingflix.",
+		"system": {
+			"bookingflix": "Bookingflix (version bêta)",
+			"title": "Système de webinaires"
+		},
+		"title": "Organiser des rendez-vous clients en visioconférence"
+	}
+}

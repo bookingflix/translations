@@ -1,0 +1,50 @@
+{
+	"dsgvo-und-datenschutzkonformitaet": {
+		"cta": {
+			"action": "Try Bookingflix Premium for 14 days for free!",
+			"button": "Create appointment calendar now",
+			"link": "/quickstart"
+		},
+		"intro": "Data protection and privacy are close to our hearts. That is why we ensure a high level of transparency and the best possible security for your data on a wide range of levels.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Server location in Germany",
+							"img": "dsgvo-und-datenschutzkonformitaet-01.png",
+							"text": "The data processing takes place in Germany. Bookingflix is located in Germany and we strictly follow the European DSGVO. Thus, all data is located on servers within Germany. The greatest possible data and legal security are thus guaranteed."
+						},
+						{
+							"headline": "Regular backups",
+							"img": "dsgvo-und-datenschutzkonformitaet-02.png",
+							"text": "With Bookingflix you don't need to worry about your data. The calendars are backed up several times a day on a backup server. If once necessary, you can reactivate the dataset of a particular backup. In addition, we create other backups on a separate server."
+						},
+						{
+							"headline": "Order data processing",
+							"img": "dsgvo-und-datenschutzkonformitaet-03.png",
+							"text": "It is possible to conclude a data processing contract with us. This regulates all important aspects of data processing, data security and measures (so-called TOMs) around the DSGVO-relevant topics. We will be happy to send you a sample of the contract in advance."
+						},
+						{
+							"headline": "Verification of your customers",
+							"img": "dsgvo-und-datenschutzkonformitaet-04.png",
+							"text": "The identity and authenticity of all booking customers is verified by email-based verification. This allows spam entries and false bookings to be circumvented. This type of verification is part of the GDPR-compliant booking process. Alternatively, however, for example for internal bookings within your company, you can also deactivate the verification."
+						},
+						{
+							"headline": "Encryption and firewall",
+							"img": "dsgvo-und-datenschutzkonformitaet-05.png",
+							"text": "For data transmission we use the latest encryption technology according to HTTPS standard. Only with your explicit consent, for example in support matters, we can view details about your bookings or customers. Further security measures are provided by our server hoster AWS."
+						},
+						{
+							"headline": "Deletion periods",
+							"img": "dsgvo-und-datenschutzkonformitaet-06.png",
+							"text": "After 30 days, past appointment data will be deleted. Earlier deletion is open to you."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "DSGVO and data protection compliance",
+		"title": "Your data is safe with us"
+	}
+}

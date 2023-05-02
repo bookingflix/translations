@@ -1,0 +1,29 @@
+{
+	"client": {
+		"1": {
+			"comment": "Als die AGNF den Zuschlag für das gemeinsame COVID-19-Testzentrum der Stadt und des Landkreises Fürth bekam, musste unser Team schnell die nötige Infrastruktur für die Terminbuchung aufbauen. Wir haben uns für Bookingflix aufgrund der unkomplizierten Abwicklung und des guten Datenschutzes entschieden. Der Terminkalender war schnell und einfach eingerichtet und ließ sich problemlos auf unserer Webseite integrieren.\n\nDie Metropolregion Fürth-Nürnberg war mit einem 7-Tage-Inzidenzwert von zeitweise über 250 Fällen von der zweiten Welle der Pandemie stark betroffen. Aufgrund dessen mussten wir die Anzahl der Buchung kontinuierlich an die Testnachfrage aus der Bevölkerung anpassen. Von anfangs acht Terminen pro 15 Minuten erhöhten wir in der Vorweihnachtszeit auf 16 Termine pro 15 Minuten. Das Team von Bookingflix stand bei allen Änderungen oder auch auftretenden Problemen stets hilfreich und schnell zur Seite. Bookingflix hat uns bei der Bewältigung dieser Lage immer zeitnah geholfen und war sich dem Ernst der Lage stets bewusst. Dafür an dieser Stelle einen herzlichen Dank!",
+			"image": "/images/clients/customers/agnf/person.jpg",
+			"logo": "/images/clients/customers/agnf/logo.png",
+			"name": "Klaus Meyer - Vorsitzender AGNF e.V.",
+			"slug": "Der Terminkalender war schnell und einfach eingerichtet und ließ sich problemlos auf unserer Webseite integrieren."
+		},
+		"2": {
+			"comment": "XrawStudios.com bietet klassische Foto-Dienstleistungen für Privat- und Gewerbekunden in der Ruhrstadt Witten, bei Dortmund.\n\nZusätzlich können Fotografen die Räumlichkeiten für Ihre eigenen Shootings stundenweise anmieten über https://xrawstudios.com/.\n\nIm Studio arbeiten zwei Fotografen, eine Visagistin sowie ein Grafiker.\n\nMindestens 50 % der Kunden buchen den Termin online, über das Termin-Tool von bookingflix.com. Praktisch sind auch die Terminerinnerungen per Email und SMS. Die Terminzuverlässigkeit ist seit der Nutzung von Bookingflix deutlich gestiegen.",
+			"image": "https://xrawstudios.com/wp-content/uploads/2018/11/fotostudio_witten_xrawstudios-1.jpg",
+			"logo": "/images/clients/customers/xrawstudios/logo.png",
+			"name": "Xraw-Studios",
+			"slug": "Mindestens 50 % der Kunden buchen den Termin online, über das Termin-Tool [...] Die Terminzuverlässigkeit ist seit der Nutzung von Bookingflix deutlich gestiegen."
+		},
+		"3": {
+			"comment": "Foto-Agentur nutzt Bookingflix vor allem, weil es Zeit spart. Die Kunden müssen nicht anrufen sondern buchen direkt online über die Website. Falls ein Kunde doch mal absagen muss, geschieht dies über den persönlichen Terminlink. Der Termin wird sofort wieder für andere Kunden freigegeben. Die Stornierungs-Mitteilung wird im Admin-Bereich angezeigt. Das Fotostudio hat sich für Bookingflix entschieden, weil es einfach zu bedienen ist und nur geringe fixen Kosten anfallen. Ein Kundenservice, der sich auszahlt. Die Terminerinnerungen nutzt unser Team am häufigsten. Die Zuverlässigkeit der Kunden hat sich dadurch um gut 30 % erhöht. 'Sorry, Termin vergessen!' ist seitdem keine Ausrede mehr.",
+			"image": "https://modelsedcard.de/themes/bondy/img/header_w.jpg",
+			"logo": "/images/clients/customers/foto_agentur/logo.png",
+			"name": "Foto-Agentur",
+			"slug": "Ein Kundenservice, der sich auszahlt. Die Zuverlässigkeit der Kunden hat sich dadurch um gut 30 % erhöht."
+		}
+	},
+	"description": "Bookingflix im Einsatz",
+	"info": "Über diesen Link finden Sie weitere Beispiele:",
+	"title": "Best-Practice",
+	"hometitle": "Kunden"
+}

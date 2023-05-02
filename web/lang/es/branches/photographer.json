@@ -1,0 +1,189 @@
+{
+	"benefits": {
+		"items": {
+			"01": "gran ahorro de tiempo\nEspecialmente con muchas citas y reservas, el ahorro de tiempo es enorme.",
+			"02": "No te pongas nervioso\n¿Quién quiere jugar al ping-pong por correo electrónico? Los clientes de 2022 ciertamente no.",
+			"03": "Aumentar la fiabilidad de las citas\nUtilice los recordatorios automáticos por correo electrónico y SMS. Por cierto, la mayoría de los clientes agradecen este servicio extra.",
+			"04": "Actualización digital\nLas herramientas de cita previa se han convertido en un estándar popular. Los clientes esperan servicios digitales modernos.",
+			"05": "Optimizar el flujo de trabajo\nEl cliente reserva y gestiona la cita por sí mismo. Los datos de las citas se muestran claramente en su panel de control."
+		},
+		"title": "Sus ventajas en pocas palabras"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "¿Se pueden enviar recordatorios de citas antes de la cita, a una hora determinada?",
+				"url": ""
+			},
+			"11": {
+				"title": "¿Cuánto cuestan los recordatorios de citas por SMS?",
+				"url": ""
+			},
+			"12": {
+				"title": "¿Cuánto cuesta Bookingflix al mes?",
+				"url": ""
+			},
+			"13": {
+				"title": "¿Qué plazo de preaviso debo respetar?",
+				"url": ""
+			},
+			"14": {
+				"title": "¿Puede el cliente gestionar la reserva por sí mismo (cambiar la cita, cancelar)?",
+				"url": ""
+			},
+			"15": {
+				"title": "¿Se pueden personalizar los textos del correo electrónico?",
+				"url": ""
+			},
+			"16": {
+				"title": "¿Se pueden enviar los correos del sistema (aceptación, rechazo) desde su propia dirección de correo?",
+				"url": ""
+			},
+			"17": {
+				"title": "¿Qué ocurre con los datos de la cita después de la misma?",
+				"url": ""
+			},
+			"18": {
+				"title": "¿Puedo anular o borrar citas o anularlas posteriormente para el interesado?",
+				"url": ""
+			},
+			"19": {
+				"title": "¿Qué calendario de reserva de citas es el mejor para mi negocio?",
+				"url": ""
+			},
+			"20": {
+				"title": "¿Cuánto tiempo se tarda en reservar una cita para mis clientes?",
+				"url": ""
+			},
+			"01": {
+				"title": "¿La reserva de citas a través de Bookingflix.com cumple con el GDPR?",
+				"url": ""
+			},
+			"02": {
+				"title": "¿Dónde se encuentran los servidores de Bookingflix?",
+				"url": ""
+			},
+			"03": {
+				"title": "¿Tiene Bookingflix una gestión de derechos para que los empleados puedan asumir la gestión de las citas?"
+			},
+			"04": {
+				"title": "¿Puedo sincronizar mis citas con mi calendario estándar?",
+				"url": ""
+			},
+			"05": {
+				"title": "¿Qué ocurre exactamente si un cliente potencial cancela su cita?",
+				"url": ""
+			},
+			"06": {
+				"title": "¿Se pueden confirmar automáticamente las reservas de citas?",
+				"url": ""
+			},
+			"07": {
+				"title": "¿Se pueden introducir manualmente las citas para el cliente?",
+				"url": ""
+			},
+			"08": {
+				"title": "¿Qué apoyo recibimos dentro del ámbito de uso?",
+				"url": ""
+			},
+			"09": {
+				"title": "¿Se puede pagar la Cuenta Premium también por factura en lugar de por domiciliación bancaria?",
+				"url": ""
+			}
+		},
+		"title": "Preguntas frecuentes relevantes para su sector"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Textos individuales de los correos electrónicos del sistema",
+				"url": ""
+			},
+			"11": {
+				"title": "Confirmar automáticamente las citas",
+				"url": ""
+			},
+			"12": {
+				"title": "Simplemente cambie o cancele las citas",
+				"url": ""
+			},
+			"13": {
+				"title": "Comunicar más información como parte de la reserva",
+				"url": ""
+			},
+			"14": {
+				"title": "Recordatorios de citas",
+				"url": ""
+			},
+			"15": {
+				"title": "Dirección de la cita en el calendario de reservas con enlace a Google Maps",
+				"url": ""
+			},
+			"16": {
+				"title": "Simplemente integre el calendario de reservas de citas en su propio sitio web",
+				"url": ""
+			},
+			"17": {
+				"title": "El sitio web de reserva de citas también puede utilizarse sin su propio sitio web",
+				"url": ""
+			},
+			"18": {
+				"title": "Crear notas para citas y clientes",
+				"url": ""
+			},
+			"19": {
+				"title": "Vacaciones y días festivos ajustables",
+				"url": ""
+			},
+			"20": {
+				"title": "Sincronizar el calendario de Bookingflix con los calendarios de Google, Microsoft y Apple",
+				"url": ""
+			},
+			"01": {
+				"title": "Reserva de citas según la norma DSGVO",
+				"url": ""
+			},
+			"02": {
+				"title": "Servidor en Alemania",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendario de citas para eventos específicos",
+				"url": ""
+			},
+			"04": {
+				"title": "Calendario de reserva de citas para los horarios de apertura fijos",
+				"url": ""
+			},
+			"05": {
+				"title": "Calendario de reserva de citas para servicios específicos",
+				"url": ""
+			},
+			"06": {
+				"title": "Mejor visión de conjunto del estado de la cita (compromiso, cancelación, aún no confirmado)",
+				"url": ""
+			},
+			"07": {
+				"title": "Número de participantes por evento ajustable",
+				"url": ""
+			},
+			"08": {
+				"title": "También se pueden establecer citas de muy corta duración. Por ejemplo, cinco minutos",
+				"url": ""
+			},
+			"09": {
+				"title": "Gestión de derechos para la gestión de citas por parte de los empleados",
+				"url": ""
+			}
+		},
+		"title": "Funciones y características especialmente relevantes para su sector"
+	},
+	"main": {
+		"description": "La fotografía es en gran medida un negocio de plazos. Fotos de familia, retratos de solicitud de empleo, fotos de boda o fotos de guardería. Casi todos los fotógrafos o estudios fotográficos dependen de una cita fiable. En el pasado, esto se hacía sobre todo por correo electrónico y por teléfono. Hoy en día, cada vez más fotógrafos confían en las herramientas de citas. Por cierto, el primer usuario de Bookingflix fue un fotógrafo o una agencia de fotografía. Para las sesiones de prueba y los castings semanales, buscaban una herramienta de citas que fuera fácil de usar y que recordara a los modelos la fecha acordada por correo electrónico y SMS. Aquí se utiliza Bookingflix desde hace años. Puedes verlo en Foto-Agentur.de.\nCon estas primeras experiencias de los usuarios, Bookingflix se amplió y optimizó posteriormente. Y mientras tanto, muchos más fotógrafos y estudios fotográficos utilizan Bookingflix para reservar citas de forma sencilla, rápida y fiable con un clic. Y en la cita en el estudio o en el lugar, la cámara hace clic.",
+		"title": "Fotógrafos y estudios fotográficos"
+	},
+	"sub": {
+		"description": "Los fotógrafos utilizan Bookingflix con fines o modelos de negocio muy diferentes. Existe el Foto-Agentur.de ya mencionado anteriormente. Aquí se trata de eventos individuales en diferentes ciudades. Para cada ciudad hay un calendario de reservas separado. Las modelos pueden seleccionar el calendario que deseen y la fecha que prefieran. Si una fecha ya está totalmente reservada, ni siquiera se muestra. Tras la reserva, el organizador es informado y puede confirmar manualmente la cita o enviar una cancelación. Las modelos gestionan su cita de forma independiente a través de un enlace de cita personal. Esto significa que pueden cambiar o cancelar la cita. También se puede enviar un correo electrónico al organizador a través de la herramienta de chat integrada. Después de la cita, cada modelo recibe un enlace de posventa con una solicitud para valorar el rodaje. De este modo, el servicio y las tomas de Foto-Agentur.de han podido mejorar cada vez más en los últimos años. La principal razón para utilizar una herramienta de citas fue el importante ahorro de tiempo. Lo que antes era un eterno ping-pong de correos electrónicos ha dado paso a la automatización: Reservar cita, enviar compromiso, la cita tiene lugar. O reservar la cita, enviar la confirmación, la cancelación de la cita por el cliente, volver a reservar la cita, la cita tiene lugar. Simple y eficaz. También para los modelos.\nOtros fotógrafos tienen un estudio fotográfico fijo. Xrawstudios.com, por ejemplo, se especializa en fiestas fotográficas para niños y en el alquiler de locales. Ambos servicios pueden reservarse a través del sitio web. Aquí también se utilizan las valoraciones de clientes anteriores que han escrito una reseña después de sus rodajes. Estos se muestran directamente en el calendario de reserva de citas, lo que tiene una clara influencia en el factor de confianza. Especialmente para los proveedores de servicios que no están abiertos todo el tiempo o que no siempre están disponibles por teléfono, una herramienta de citas es casi imprescindible. Porque así los clientes pueden reservar en cualquier momento. Incluso si el fotógrafo está fotografiando una boda o está de vacaciones.",
+		"title": "¿Por qué reservar en línea con Bookingflix?"
+	}
+}

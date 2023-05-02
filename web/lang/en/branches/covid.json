@@ -1,0 +1,189 @@
+{
+	"benefits": {
+		"items": {
+			"01": "great time saving\nWho wants to coordinate several thousand test and vaccination appointments by phone and then enter them manually?",
+			"02": "Spare nerves\nSpare yourself and the vaccinees. Booking an appointment online is simply more relaxed.",
+			"03": "Increase appointment reliability\nCustomers like to be reminded of the appointment. And the customer can also cancel the appointment quickly, with just a few clicks.",
+			"04": "Digitally up to date\nDo you know of any major vaccination or testing center that doesn't offer appointments online? That is simply standard!",
+			"05": "Optimize workflow\nThe customer books and manages the appointment. He or she shows up on time and checks in via QR code scan. The customer receives the test result by email."
+		},
+		"title": "Your advantages in a nutshell"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Can appointment reminders be sent before the appointment, at a specific time?",
+				"url": ""
+			},
+			"11": {
+				"title": "What is the cost of appointment reminders via SMS?",
+				"url": ""
+			},
+			"12": {
+				"title": "How much does Bookingflix cost per month?",
+				"url": ""
+			},
+			"13": {
+				"title": "What notice period do I have to observe?",
+				"url": ""
+			},
+			"14": {
+				"title": "Can we check in customers at the entrance by QR code scan?",
+				"url": ""
+			},
+			"15": {
+				"title": "Is it possible to set vacations in which no appointment is bookable?",
+				"url": ""
+			},
+			"16": {
+				"title": "Can the customer manage the booking himself (change appointment, cancel)",
+				"url": ""
+			},
+			"17": {
+				"title": "Which appointment slots can be set?",
+				"url": ""
+			},
+			"18": {
+				"title": "Can the email texts be customized?",
+				"url": ""
+			},
+			"19": {
+				"title": "Can the system mails (acceptance, rejection) be sent from your own mail address?",
+				"url": ""
+			},
+			"20": {
+				"title": "Where can the customer find the appointment ticket with the QR code?",
+				"url": ""
+			},
+			"21": {
+				"title": "Can important info be stored directly in the appointment booking form that needs to be confirmed before booking?",
+				"url": ""
+			},
+			"22": {
+				"title": "Which appointment booking calendar is best for my business?",
+				"url": ""
+			},
+			"23": {
+				"title": "How long does it take to book appointments for my clients?",
+				"url": ""
+			},
+			"01": {
+				"title": "Is the appointment booking via Bookingflix.com DSGVO compliant?",
+				"url": ""
+			},
+			"02": {
+				"title": "Where are the Bookingflix servers located?",
+				"url": ""
+			},
+			"03": {
+				"title": "Does Bookingflix have a rights management so that employees can take over the appointment management?"
+			},
+			"04": {
+				"title": "Can groups also make a booking and will the number be taken into account?",
+				"url": ""
+			},
+			"05": {
+				"title": "Is the number of monthly appointment bookings limited?",
+				"url": ""
+			},
+			"06": {
+				"title": "Can appointment bookings be confirmed automatically?",
+				"url": ""
+			},
+			"07": {
+				"title": "Can appointments be entered manually for the customer?",
+				"url": ""
+			},
+			"08": {
+				"title": "What support do we get within the scope of use?",
+				"url": ""
+			},
+			"09": {
+				"title": "Can the premium account also be paid by invoice instead of direct debit?",
+				"url": ""
+			}
+		},
+		"title": "Relevant FAQ for your industry"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Have appointments confirmed automatically",
+				"url": ""
+			},
+			"11": {
+				"title": "Simply change or cancel appointments",
+				"url": ""
+			},
+			"12": {
+				"title": "More info communicate within the booking",
+				"url": ""
+			},
+			"13": {
+				"title": "Appointment reminders",
+				"url": ""
+			},
+			"14": {
+				"title": "Export appointment data (pdf, csv)",
+				"url": ""
+			},
+			"15": {
+				"title": "Appointment ticket with QR code for printing",
+				"url": ""
+			},
+			"16": {
+				"title": "Full text search in dashboard",
+				"url": ""
+			},
+			"17": {
+				"title": "Address of the appointment in appointment booking calendar with link to Google Maps",
+				"url": ""
+			},
+			"01": {
+				"title": "Appointment booking according to DSGVO standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Germany",
+				"url": ""
+			},
+			"03": {
+				"title": "Appointment booking calendar for fixed opening hours",
+				"url": ""
+			},
+			"04": {
+				"title": "Better overview of the appointment status (commitment, cancellation, not yet confirmed)",
+				"url": ""
+			},
+			"05": {
+				"title": "Group bookings",
+				"url": ""
+			},
+			"06": {
+				"title": "Very short appointment durations can also be set. E. g. five minutes",
+				"url": ""
+			},
+			"07": {
+				"title": "Vacations and break times adjustable",
+				"url": ""
+			},
+			"08": {
+				"title": "Check-in and check-out function with QR code scan",
+				"url": ""
+			},
+			"09": {
+				"title": "Individual email texts of the system emails",
+				"url": ""
+			}
+		},
+		"title": "Particularly relevant functions and features for your industry"
+	},
+	"main": {
+		"description": "Those who never booked an appointment through an appointment tool before 2020 may not have known it existed. Then, starting in 2021, countless immunization and testing centers opened across the country. The demand for powerful appointment tools that run stably even when crowded increased sharply. Bookingflix has also been used in many testing and immunization centers since then. Some new functions were even implemented especially for this purpose. For example, the check-in and check-out system via QR code scan.\nThis strongly increased demand also led to the fact that Bookingflix since then runs on a powerful server structure of the world market leader AWS. And this very stable, even under high load.\nThe end customer, or affectionately known as the vaccinator, wants to quickly and easily select and book the desired date. And if a vaccination is possible more quickly, for example spontaneously at the family doctor's, the already booked appointment can be canceled without writing an email or making a phone call.\nData security and data protection naturally play a special role in this sensitive area. Even if it is mainly about appointment data, any data in the health service, are of particular relevance. Here Bookingflix could prove itself as a reliable partner of medical practices, test centers and vaccination centers. With a certain pride, the team of Bookingflix can claim to have been a little bit involved in the fight against the pandemic.",
+		"title": "Testing and vaccination centers"
+	},
+	"sub": {
+		"description": "As already described, the end customer, the vaccinated person, wants to get to the desired vaccination or test appointment without long waits, without calling, without waiting on hold, without busy lines.\nUsing the appointment booking calendar, the customer selects the desired appointment, enters his or her data and confirms the privacy conditions. After verification, the appointment is confirmed directly by the system or can be confirmed manually by the vaccination or testing center with one click. The customer receives the appointment confirmation with the personal appointment link by email. The booking can be edited or cancelled via this link. The appointment ticket with QR code is also available there. Using the QR code, the team from the vaccination or testing center can document attendance. For billing or traceability, this is a practical or even necessary function.\nGroup appointments can even be set. This was an urgent request from a vaccination center so that couples can also attend vaccination together and do not have to book appointments that are far apart.\nThe appointment slots can be set individually. Even short appointments of five minutes can be preset.\nThe address of the vaccination center or the test center can be displayed directly in the appointment booking calendar. This even includes a link to Google Maps.\nAnd if a vaccinated person has problems with the Internet, an appointment can be quickly entered by hand for the vaccinated person.",
+		"title": "Why online appointment booking with Bookingflix?"
+	}
+}

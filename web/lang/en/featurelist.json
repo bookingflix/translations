@@ -1,0 +1,334 @@
+{
+	"cta": {
+		"button": "Create appointment calendar now",
+		"title": "Try Bookingflix Premium for 14 days for free!"
+	},
+	"features": {
+		"01_verschiedene_kalenderformate": {
+			"items": {
+				"01": {
+					"description": "Create appointment booking calendar with all required settings in minutes and easily.",
+					"title": "Form Generator"
+				},
+				"02": {
+					"description": "For appointment slots of the same length and an offered service.",
+					"title": "Appointment calendar for stores with fixed opening hours"
+				},
+				"03": {
+					"description": "Single or multiple appointments with self-determined number of participants and duration.",
+					"title": "Events calendar"
+				},
+				"04": {
+					"description": "Define name, duration, price and image for different services.",
+					"title": "Appointment calendar for bookable services"
+				}
+			},
+			"title": "Various calendar formats"
+		},
+		"02_more": {
+			"items": {
+				"01_individuelle-terminkalender-10": {
+					"link": "/features/individualCalendar",
+					"title": "Individual diaries"
+				}
+			},
+			"title": "Functions explained in detail"
+		},
+		"03_terminverwaltung": {
+			"items": {
+				"10": {
+					"description": "Download iCal appointment file for import into other standard calendars. E.g. in Google, Microsoft or Apple.",
+					"title": "Export dates"
+				},
+				"11": {
+					"description": "Full text search for appointments and customers with advanced filter settings.",
+					"title": "Search"
+				},
+				"01": {
+					"description": "Overview of open appointment requests. Confirm, cancel, change appointments or retrieve information.",
+					"title": "Clear control center"
+				},
+				"02": {
+					"description": "Can be applied manually, on behalf of a customer, in a repetitive rhythm.",
+					"title": "Create series appointments"
+				},
+				"03": {
+					"description": "Create internal annotations for appointments and customers.",
+					"title": "Appointment notes"
+				},
+				"04": {
+					"description": "Automatic notification when new appointment requests are received.",
+					"title": "Email for new requests"
+				},
+				"05": {
+					"description": "Immediate confirmation of appointment requests by automatic mail dispatch with changeable standard text.",
+					"title": "Automatic appointment confirmation"
+				},
+				"06": {
+					"description": "Automatic reminder of booked appointments via email or SMS. Time and frequency individually adjustable.",
+					"title": "Appointment reminders"
+				},
+				"07": {
+					"description": "Appointment overview by email the night before.",
+					"title": "Dates of the next day"
+				},
+				"08": {
+					"description": "Enter appointments for customers manually. If a customer does not have Internet access, for example.",
+					"title": "Enter dates manually"
+				},
+				"09": {
+					"description": "Download appointment data as CSV or PDF file for further processing.",
+					"title": "Download appointment data"
+				}
+			},
+			"title": "Appointment management"
+		},
+		"04_zeitmanagement": {
+			"items": {
+				"01": {
+					"description": "For appointment requests, the period is blocked. An overbooking is thus excluded.",
+					"title": "Avoid appointment collision"
+				},
+				"02": {
+					"description": "Define fixed break times during which no appointments can take place.",
+					"title": "Break times"
+				},
+				"03": {
+					"description": "Set official holidays and individual days off for each calendar. No appointments can take place on these.",
+					"title": "Vacations and days off"
+				}
+			},
+			"title": "Time management"
+		},
+		"05_more": {
+			"items": {
+				"01_termin-und-kalenderverwaltung-01": {
+					"link": "/features/editCalendar",
+					"title": "Appointment and customer management"
+				},
+				"02_kontrollzentrum-01": {
+					"link": "/features/dashboard",
+					"title": "Control Center"
+				},
+				"03_terminerinnerungen-01": {
+					"link": "/features/reminder",
+					"title": "Appointment reminders"
+				}
+			},
+			"title": "Functions explained in detail"
+		},
+		"06_kundenverwaltung": {
+			"items": {
+				"01": {
+					"description": "Create, update and delete customer data.",
+					"title": "Customer information"
+				},
+				"02": {
+					"description": "Write to customers and receive messages. The chat history is saved.",
+					"title": "Customers chat"
+				},
+				"03": {
+					"description": "Create internal annotations for appointments and customers.",
+					"title": "Appointment notes"
+				},
+				"04": {
+					"description": "Document check-in and check-out using an individual QR code for each appointment.",
+					"title": "Log presence and absence"
+				},
+				"05": {
+					"description": "Download appointment data as CSV or PDF file for further processing.",
+					"title": "Customer data download"
+				},
+				"06": {
+					"description": "Full text search for appointments and customers with advanced filter settings.",
+					"title": "Search function"
+				}
+			},
+			"title": "Customer management"
+		},
+		"07_kundenbewertungen": {
+			"items": {
+				"01": {
+					"description": "After the appointment, customers are asked for an evaluation.",
+					"title": "Automatic customer survey"
+				},
+				"02": {
+					"description": "Evaluation in the form of star rating as well as by answering individually adjustable questions.",
+					"title": "Star rating and rating questions"
+				},
+				"03": {
+					"description": "Received ratings can be optionally displayed below the appointment booking calendar.",
+					"title": "Publish reviews"
+				}
+			},
+			"title": "Customer reviews"
+		},
+		"08_terminverwaltungendkunden": {
+			"items": {
+				"01": {
+					"description": "With a direct link to each appointment, customers can manage it themselves.",
+					"title": "Appointment links"
+				},
+				"02": {
+					"description": "In the appointment login area, customers can independently book new appointments, change existing ones and view the history of past appointments.",
+					"title": "Manage appointments via appointment login area"
+				},
+				"03": {
+					"description": "The appointment login area also contains information on the respective appointment and the service provider. The customer and service provider can exchange information in advance via a chat tool.",
+					"title": "Information and chat tool"
+				}
+			},
+			"title": "Appointment management for end customers"
+		},
+		"09_more": {
+			"items": {
+				"01_termin-und-kalenderverwaltung-01": {
+					"link": "/features/individualCalendar",
+					"title": "Appointment and customer management"
+				},
+				"02_kundenbewertungen-01": {
+					"link": "/features/votes",
+					"title": "Customer reviews"
+				},
+				"03_terminverwaltung-fuer-endkunden-01": {
+					"link": "/features/clients",
+					"title": "Appointment management for end customers"
+				}
+			},
+			"title": "Functions explained in detail"
+		},
+		"10_personalisierung": {
+			"items": {
+				"01": {
+					"description": "Set maximum number of customers per time slot.",
+					"title": "variable number of customers per appointment"
+				},
+				"02": {
+					"description": "Set texts of system mails, for verification, acceptance or rejection, by yourself.",
+					"title": "Email texts"
+				},
+				"03": {
+					"description": "Information that must be provided by the customer when booking can be freely defined.",
+					"title": "Query fields in booking form"
+				},
+				"04": {
+					"description": "The color scheme as well as the design of the appointment booking calendar can be customized.",
+					"title": "Design"
+				},
+				"05": {
+					"description": "Can be set variably.",
+					"title": "Appointment duration and timing"
+				}
+			},
+			"title": "Personalization"
+		},
+		"11_veroeffentlichung": {
+			"items": {
+				"01": {
+					"description": "Easy publication of the appointment booking calendar end using widget code.",
+					"title": "Embedding on existing website"
+				},
+				"02": {
+					"description": "Automatically generate your own booking micro website, edit it and use it for booking appointments.",
+					"title": "Booking website"
+				}
+			},
+			"title": "Publication"
+		},
+		"12_zusammenarbeitimteam": {
+			"items": {
+				"01": {
+					"description": "Self-management of individual branches through the use of independent appointment calendars.",
+					"title": "Appointment calendar for several branches"
+				},
+				"02": {
+					"description": "Access rights can be defined for specific users. For example, for employees or other branches.",
+					"title": "Define access rights"
+				},
+				"03": {
+					"description": "Multiple calendars can be bundled.",
+					"title": "Bundle calendars"
+				}
+			},
+			"title": "Team collaboration"
+		},
+		"13_more": {
+			"items": {
+				"01_individuelle-terminkalender-10": {
+					"link": "/features/individualCalendar",
+					"title": "Individual diaries"
+				},
+				"02_buchungskalender-veroeffentlichen-01": {
+					"link": "/features/publishCalendar",
+					"title": "Publish appointment booking calendar"
+				},
+				"03_integration-in-ihren-workflow-05": {
+					"link": "/features/workflow",
+					"title": "Integration into your workflow"
+				}
+			},
+			"title": "Functions explained in detail"
+		},
+		"14_datenschutzhilfe": {
+			"items": {
+				"01": {
+					"description": "Bookingflix was developed in compliance with the legal requirements of the GDPR.",
+					"title": "DSGVO compliant"
+				},
+				"02": {
+					"description": "Customer data is not transmitted or stored abroad. The servers used are located in Frankfurt am Main.",
+					"title": "Server location Germany"
+				},
+				"03": {
+					"description": "FAQs, help videos, tutorials and webinars are documented in the support section.",
+					"title": "Online support"
+				}
+			},
+			"title": "Privacy and help"
+		},
+		"15_technischeaspekte": {
+			"items": {
+				"01": {
+					"description": "Appointment booking and management also possible via smartphone and tablet.",
+					"title": "Mobile optimized"
+				},
+				"02": {
+					"description": "2-way synchronization with Google Calendar.",
+					"title": "Google"
+				},
+				"03": {
+					"description": "Synchronization with Apple Calendar. From Bookingflix to Apple Calendar.",
+					"title": "Apple"
+				},
+				"04": {
+					"description": "2-way synchronization with Microsoft Calendar.",
+					"title": "Microsoft"
+				}
+			},
+			"title": "Technical aspects"
+		},
+		"16_workflow": {
+			"items": {
+				"01": {
+					"description": "Create automated workflows for a variety of web services. So Bookingflix is even smarter to use and the possibilities are, thanks to API, almost unlimited.",
+					"title": "Smart webhooks"
+				}
+			},
+			"title": "Workflow automation"
+		},
+		"17_more": {
+			"items": {
+				"01_dsgvo-und-datenschutzkonformitaet-03": {
+					"link": "/features/privacy",
+					"title": "Privacy"
+				},
+				"02_integration-in-ihren-workflow-05": {
+					"link": "/features/workflow",
+					"title": "Integration into your workflow"
+				}
+			},
+			"title": "Functions explained in detail"
+		}
+	},
+	"title": "List of all features"
+}

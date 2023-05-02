@@ -1,0 +1,69 @@
+{
+	"buchungskalender-veroeffentlichen": {
+		"cta": {
+			"action": "Try Bookingflix Premium for 14 days for free!",
+			"button": "Create appointment calendar now",
+			"link": "/quickstart"
+		},
+		"intro": "Whether you already have your own website or not - with Bookingflix you can easily and flexibly offer online appointment booking. Either via a booking widget, which you integrate into your website, or via a separate booking website.",
+		"sections": [
+			{
+				"widget": {
+					"infos": [
+						{
+							"button": {
+								"link": "/support/video/6",
+								"more": "Learn more"
+							},
+							"headline": "Integration into your website",
+							"img": "buchungskalender-veroeffentlichen-01.png",
+							"text": "If you already have your own website, you can integrate the Bookingflix booking widget into it using HTML code. In your account you will find the step-by-step instructions as well as further hints in our support area."
+						},
+						{
+							"headline": "customizable design",
+							"img": "buchungskalender-veroeffentlichen-02.png",
+							"text": "To make the booking widget fit seamlessly into your website, customize its color scheme to match your corporate colors."
+						}
+					],
+					"section": {
+						"title": "Booking widget via embed code"
+					}
+				}
+			},
+			{
+				"website": {
+					"infos": [
+						{
+							"button": {
+								"link": "/support/video/7",
+								"more": "Learn more"
+							},
+							"headline": "Manage online appointments - even without your own website",
+							"img": "buchungskalender-veroeffentlichen-03.png",
+							"text": "If you don't have your own website, you can easily create a micropage with Bookingflix on which your customers can book appointments."
+						},
+						{
+							"headline": "Free design options",
+							"img": "buchungskalender-veroeffentlichen-04.png",
+							"text": "With our page builder it is possible to configure your booking website individually. Add headings, texts and images according to your needs and adjust the colors to your company. Best of all, you don't need to know how to program! And if you do get stuck, our support will be happy to help you."
+						},
+						{
+							"button": {
+								"link": "/features/privacy",
+								"more": "Learn more"
+							},
+							"headline": "DSGVO compliant and secure",
+							"img": "buchungskalender-veroeffentlichen-05.png",
+							"text": "We help you to create a secure web presence that complies with the DSGVO regulations. The imprint, the T&Cs and the privacy information are automatically obtained from your Bookingflix profile."
+						}
+					],
+					"section": {
+						"title": "Booking website"
+					}
+				}
+			}
+		],
+		"subtitle": "Publish booking calendar",
+		"title": "Enable your online appointment booking on your own website or via a separate booking page"
+	}
+}

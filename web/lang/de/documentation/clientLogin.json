@@ -1,0 +1,10 @@
+{
+	"description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Unmittelbar nach der Terminbuchung erhält der Kunde eine Email mit dem Termin-Link. Dieser Link ist sowohl in der Verifizierungs-Email als auch in der Termin-Bestätigungs-Email enthalten. Über diesen Link erfolgt also die Verifizierung. Aber der Kunde gelangt hierüber auch zum Kunden-Login-Bereich.\n2. Über den Link ***Termin bearbeiten/Absage***, kann der Kunde den Termin ändern oder stornieren.\n3. In den Farben Gelb, Grün und Rot wird der aktuelle Status der Terminbuchung angezeigt: Offen, Zusage, Absage\n4. Über den Button ***in persönliche Termin-Übersicht einloggen***, gelangt der Kunde zum Login-Bereich. Zuvor muss hierfür ein Passwort ausgewählt werden. Hierfür klickt der Kunde auf ***Zugang zur Termin-Übersicht einrichten***.\n5. Neue Nachrichten findet der Kunde in der Nachrichtenzentrale.\n6. Über die beiden oberen Reiter, kann der Kunde bevorstehende und zurückliegende Termine einsehen.\n7. In der Kalender-Ansicht sind alle Termine mit einem grünen Quadrat gekennzeichnet. Hierüber gelangt der Kunde direkt zum jeweiligen Termin.\n8. Unterhalb der Kalender-Ansicht findet der Kunde alle Termine. Über das Service-Menü kann der QR-Buchungscode und die Termin-Daten eingesehen oder der Termin geändert oder storniert werden.\n9. Mögliche Optionen: QR-Buchungscode einsehen, Termin-Daten einsehen, Termin ändern, Termin stornieren, Termin-Erinnerung abstellen, Dienstleister kontaktieren, neuen Termin buchen\n10. Der Kunde kann die Termine bewerten, falls Sie dies bei der Erstellung des Termin-Buchungs-Kalenders voreingestellt haben. Über die Glocke erhält der Kunde hierzu und zu anderen wichtigen Infos, eine Mitteilung. Bei neuen Nachrichten ist die Glocke mit einem roten Punkt markiert.",
+	"img": {
+		"1": "bild35.webp",
+		"2": "bild36.webp",
+		"3": "bild37.webp",
+		"4": "bild38.webp"
+	},
+	"title": "Termin-Link und Kunden-Login-Bereich "
+}

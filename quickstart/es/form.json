@@ -1,0 +1,57 @@
+{
+	"add": "Adjuntar un nuevo elemento de formulario",
+	"checkbox": {
+		"description": "Descripción (opcional)",
+		"info": "Adjuntar selección múltiple",
+		"name": "titular",
+		"option": "Opción",
+		"title": "Selección múltiple",
+		"values": "Opciones de selección"
+	},
+	"description": "Diseñe aquí el formulario de reserva para sus clientes. Puede añadir más elementos mediante el símbolo {icon}. Utilice el botón {icon}para cambiar, mover o eliminar elementos existentes.",
+	"group": {
+		"info": "Permitir la reserva de grupos",
+		"title": "Reserva de grupos"
+	},
+	"heading": {
+		"info": "Título de la sección grande",
+		"title": "titular"
+	},
+	"link": {
+		"info": "Insertar un enlace",
+		"title": "enlace"
+	},
+	"paragraph": {
+		"info": "Redactar un texto explicativo",
+		"title": "Texto explicativo"
+	},
+	"phone": {
+		"info": "Consultar el número de teléfono móvil",
+		"title": "Número de teléfono"
+	},
+	"radio": {
+		"info": "Adjuntar selección individual",
+		"title": "Selección individual"
+	},
+	"required": "Campo obligatorio",
+	"terms": {
+		"info": "Obtener el consentimiento de las CGC",
+		"name": "titular",
+		"title": "AGB",
+		"warning": "Consulte la URL de las condiciones generales"
+	},
+	"text": {
+		"info": "Pequeño campo de texto para rellenar",
+		"title": "Campo de texto"
+	},
+	"textarea": {
+		"info": "Campo de texto grande para rellenar",
+		"title": "Bloque de texto"
+	},
+	"title": "Editor de formularios",
+	"url": {
+		"description": "Descripción del enlace",
+		"title": "Url",
+		"warning": "Por favor, compruebe la URL"
+	}
+}

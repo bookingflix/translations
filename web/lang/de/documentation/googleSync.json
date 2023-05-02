@@ -1,0 +1,11 @@
+{
+  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Externe Kalender synchronisieren***. Diesen Link finden Sie unter dem Obermenüpunkt ***Teilen***.\n2. Wählen Sie den gewünschten Termin-Buchungs-Kalender aus.\n3. Klicken Sie auf ***Einloggen***, um den ausgewählten Termin-Buchungs-Kalender mit Ihrem Google-Standard-Kalender zu verbinden.\n4. Wählen Sie das gewünschte Google-Konto aus.\n5. Klicken Sie auf ***Erweiterte Optionen***.\n6. Klicken Sie auf ***bookingflix.com öffnen***.\nEine Synchronisation Ihrer Termindaten über Google ist hierüber möglich. Ihre Daten werden nicht veröffentlicht. Sie dienen lediglich dazu, die belegten Termin-Slots in Ihrem Bookingflix-Kalender zu blockieren. Sie können die Synchronisation jederzeit aufheben. Dann werden die Termindaten sofort gelöscht. Eine Überprüfung der Verbindung seitens Google ist noch nicht erfolgt._x000b_Nutzen Sie daher diese Option bitte nur, wenn Sie Bookingflix vertrauen. Bei Fragen wenden Sie sich bitte an unseren Support.\nWeitergehende Informationen zum Datenschutz entnehmen Sie auch bitte folgender Seite: bookingflix.de/privacy\n7. Klicken Sie auf ***Weiter***.\n8. Klicken Sie auf den ***grünen Button***, um die Verbindung zu Ihrem Google-Kalender wieder zu löschen. Alle Termindaten werden sofort aus unserem System gelöscht.",
+  "img": {
+    "1": "bild74.webp",
+    "2": "bild75.webp",
+    "3": "bild76.webp",
+    "4": "bild77.webp",
+    "5": "bild78.webp"
+  },
+  "title": "Kalendersynchronisation mit Google-Standard-Kalender"
+}

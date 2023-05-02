@@ -1,0 +1,9 @@
+{
+  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Einstellungen***.\n2. Klicken Sie auf ***Freie Tage & Ferien bearbeiten*** und wählen Sie anschließend den entsprechenden Buchungskalender aus.\n3. Klicken Sie auf ***Ferien/Freier Tag hinzufügen***, um die Einstellung individuell vorzunehmen.\n4. Klicken Sie auf ***Deutsche Feiertage*** um die die deutschen Feiertage einzustellen. Diese können anschließend noch individuell bearbeitet werden.\n5. Vergeben Sie optional einen Titel für den freien Tag oder die Ferien.\n6. Wählen Sie den Datums- und Uhrzeitbereich aus.\n7. Die Einstellungen können optional auch für andere oder alle Kalender übernommen werden.\n8. Klicken Sie auf ***Termin-Buchung ist nicht möglich***, um den entsprechenden Termin-Slot für die Terminbuchung zu blockieren. Die Tage bzw. Zeiten werden im Termin-Buchungs-Kalender nicht angezeigt.\n9. Klicken Sie auf ***Termin-Buchung ist möglich***, um den entsprechenden Termin-Slot für die Terminbuchung wieder frei zu geben. Die Tage bzw. Zeiten werden im Termin-Buchungs-Kalender wieder angezeigt.\n10. Klicken Sie auf ***Speichern***, um die Einstellungen zu übernehmen.",
+  "img": {
+    "1": "bild87.webp",
+    "2": "bild87b.webp",
+    "3": "bild88.webp"
+  },
+  "title": "Ferien und freie Tage einstellen"
+}

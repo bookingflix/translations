@@ -1,0 +1,67 @@
+{
+	"integration-in-ihren-workflow": {
+		"cta": {
+			"action": "Testez maintenant Bookingflix Premium gratuitement pendant 14 jours !",
+			"button": "Créer un agenda maintenant",
+			"link": "/quickstart"
+		},
+		"intro": "Les fonctions de Bookingflix s'intègrent facilement et de manière transparente dans votre travail quotidien. Bookingflix vous aide à organiser vos rendez-vous, ce qui vous permet de consacrer plus de temps à votre activité principale.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Réservation de rendez-vous en dehors de vos heures de bureau",
+							"img": "integration-in-ihren-workflow-01.png",
+							"text": "Réserver un rendez-vous à tout moment ! Avec l'agenda en ligne de Bookingflix, il est possible d'accepter des réservations même en dehors de vos heures de bureau. Cela vous permet d'atteindre plus de clients et d'augmenter votre chiffre d'affaires. De nombreux clients - en particulier parmi les jeunes et la génération moyenne - préfèrent la réservation en ligne à la réservation par téléphone."
+						},
+						{
+							"headline": "Agenda en temps réel",
+							"img": "integration-in-ihren-workflow-02.png",
+							"text": "Seules les heures de rendez-vous libres sont affichées à vos clients. Dès qu'un rendez-vous a été réservé par un client, il n'est plus disponible. Cela permet d'éviter les doubles réservations et vous avez à tout moment un aperçu de votre charge de travail actuelle. De plus, vous pouvez consulter les inscriptions de rendez-vous sur tous les appareils fixes et mobiles."
+						},
+						{
+							"button": {
+								"link": "/support/video/11",
+								"more": "en savoir plus"
+							},
+							"headline": "Réservation et modification manuelles des rendez-vous",
+							"img": "integration-in-ihren-workflow-03.png",
+							"text": "Tous les clients ne souhaitent pas ou ne peuvent pas réserver un rendez-vous en ligne. Saisissez donc manuellement les réservations de rendez-vous par téléphone dans le tableau de bord. Vous pouvez également y modifier ou annuler des rendez-vous manuellement."
+						},
+						{
+							"headline": "Synchronisation avec les calendriers existants",
+							"img": "integration-in-ihren-workflow-04.png",
+							"text": "Chez Bookinflix, vous disposez d'une synchronisation bidirectionnelle. Cela signifie que les rendez-vous enregistrés dans vos calendriers standard sont pris en compte dans votre calendrier de réservation Bookingflix grâce à une synchronisation automatique. Nous prenons en charge les fournisseurs courants tels que Google, Microsoft et Apple."
+						},
+						{
+							"headline": "Confirmation automatique du rendez-vous",
+							"img": "integration-in-ihren-workflow-05.png",
+							"text": "Avec Bookingflix, vous ne devez plus vérifier vous-même votre calendrier. Si un rendez-vous a été réservé, vous pouvez le faire confirmer immédiatement et automatiquement par le système. Si vous préférez contrôler vous-même les réservations, vous pouvez également confirmer manuellement les nouveaux rendez-vous."
+						},
+						{
+							"button": {
+								"link": "/support/video/18",
+								"more": "en savoir plus"
+							},
+							"headline": "Code QR pour la réservation de rendez-vous sur place",
+							"img": "integration-in-ihren-workflow-06.png",
+							"text": "Dans votre compte Bookingflix, vous trouverez un code QR généré automatiquement pour chaque agenda, qui mène directement à votre site de réservation. Vous pouvez l'imprimer et l'afficher dans votre vitrine afin de permettre également une réservation facile de rendez-vous sur place, par exemple dans le cadre de Click & Meet. Vos clients scannent simplement le code QR avec leur smartphone et peuvent réserver un rendez-vous chez vous sans détour."
+						},
+						{
+							"button": {
+								"link": "/support/video/12",
+								"more": ""
+							},
+							"headline": "",
+							"img": "integration-in-ihren-workflow-07.png",
+							"text": ""
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Intégration dans votre flux de travail",
+		"title": "Comment intégrer Bookingflix de manière transparente dans votre travail quotidien individuel ?"
+	}
+}

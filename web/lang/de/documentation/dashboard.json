@@ -1,0 +1,11 @@
+{
+  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termin-Übersicht***, um die Übersicht der nächsten Termin einzusehen.\n2. Klicken Sie auf ***zu Termin-Kalender wechseln***, um alle Termine des aktuellen Tages einzusehen.\n3. Klicken Sie anschließend auf den gewünschten Termin-Buchungs-Kalender, um eine Detailansicht zu diesem Kalender zu erhalten.\n4. Klicken Sie auf die Pfeil-Symbole oder die Lupe, um den Tag zu ändern.\n5. Klicken Sie auf den gewünschten Termin-Buchungs-Kalender, um nur Termine dieses Kalenders angezeigt zu bekommen.\n6. Wählen Sie den gewünschten Termin aus, um die Daten anschließend im pdf-Format herunterzuladen oder dem Kunden eine Email zu senden. Diese beiden Funktionen finden Sie oberhalb der Termindaten angezeigt.\n7. Nutzen Sie das Suchfeld, um nach Terminen oder Kunden zu suchen.\n8. Klicken Sie auf das Bearbeiten-Symbol, um die Kundendaten komplett zu sehen und diese zu bearbeiten.\n9. Klicken Sie auf ***Termin löschen***, um den Termin zu löschen.\n10. Klicken Sie auf ***Kunde bearbeiten***, um die Daten bei Bedarf anzupassen.\n11. Klicken Sie auf ***Teilnehmer bearbeiten***, um die Anzahl der Teilnehmer bei einer Gruppenbuchung anzupassen.\n12. Klicken Sie auf ***Termin löschen***, um den Termin zu löschen.\n13. Über das Termin-Übersichtsfeld können Sie die Termin-Daten einsehen, die Anzahl der Teilnehmer ändern sowie das Datum und die Uhrzeit des Termins anpassen.\n14. Unterhalb des Termin-Übersichtsfeldes finden Sie die Funktion zum Löschen des Termins sowie zum Download der Daten im csv- und im pdf-Format.\n15. Über das Chat-Fenster können Sie dem Kunden per Email eine Nachricht zukommen lassen. Der Kunde kann dann ebenfalls über das Chat-Fenster antworten. Sie und Ihr Kunde werden per Email bei neu eingetroffenen Nachrichten informiert.",
+  "img": {
+    "1": "bild12.webp",
+    "2": "bild13.webp",
+    "3": "bild13a.webp",
+    "4": "bild13b.webp",
+    "5": "bild13c.webp"
+  },
+  "title": "Terminverwaltung"
+}

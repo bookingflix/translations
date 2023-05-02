@@ -1,0 +1,33 @@
+{
+	"button": {
+		"error": "Bitte geben Sie einen Buttontext ein, der mehr als drei Zeichen lang ist",
+		"info": "Legen Sie den Text auf dem Button der Buchungseinladung fest. Diesen muss Ihr Kunde klicken, um die Terminbuchung vorzunehmen.",
+		"title": "Buttontext der Buchungseinladung"
+	},
+	"color": {
+		"info": "Wählen Sie die Akzentfarbe der Oberfläche Ihres Terminformulars und -kalenders aus. Beispielsweise können Sie hier Ihre primäre Unternehmensfarbe verwenden.",
+		"title": "Farbe des Terminkalenders"
+	},
+	"info": {
+		"button": {
+			"default": "Alles klar",
+			"text": "Button Bestätigungsmeldung"
+		},
+		"description": {
+			"default": "Liebe Kunden, gerne können Sie einen Termin jetzt buchen. Dazu einfach einen gewünschten Termin auswählen und anschließend das nachfolgende Formular ausfüllen.",
+			"text": "Informationstext"
+		},
+		"startup": {
+			"text": "Bestätigung notwendig"
+		},
+		"text": "Kalender-Informationen beifügen"
+	},
+	"name": {
+		"error": "Bitte geben Sie einen Text ein, der mehr als drei Zeichen lang ist",
+		"info": "Tragen Sie einen Titel für den Kalender ein. Dieser sollte aussagen, welche Art von Termin mit dem Formular gebucht werden kann. Bsp.: Individuelles Beratungsgespräch, Fotoshooting, Probetraining o. Ä.",
+		"placeholder": "z.B. Individuelles Beratungsgespräch",
+		"title": "Titel des Terminkalenders"
+	},
+	"preview": "Vorschau für ein Beispielformular",
+	"title": "Design"
+}

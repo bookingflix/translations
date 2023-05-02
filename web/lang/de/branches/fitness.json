@@ -1,0 +1,213 @@
+{
+	"benefits": {
+		"items": {
+			"01": "große Zeitersparnis\nFür beide Seiten. Die Terminierung dauert nur Sekunden. Auch die Terminänderung oder -Stornierung nimmt die Kundin eigenständig vor.",
+			"02": "Fokus auf das Wesentliche\nTelefonische Unterbrechungen stören im Arbeitsalltag. Online geht das schneller, einfacher und es schont die Nerven.",
+			"03": "Terminzuverlässigkeit steigern\nNutzen Sie dafür die automatischen Erinnerungen per Email und SMS. Diesen Extra-Service schätzen übrigens die meisten Kunden.",
+			"04": "Digital auf dem neuesten Stand\nTermin-Tools sind mittlerweile ein beliebter Standard. Kunden erwarten moderne digitale Services.",
+			"05": "Workflow optimieren\nDie Kundin bucht und verwaltet den Termin selbst. Die Termindaten werden übersichtlich in Ihrem Dashboard angezeigt."
+		},
+		"title": "Ihre Vorteile auf den Punkt"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Welche Kündigungsfrist muss ich beachten?",
+				"url": ""
+			},
+			"11": {
+				"title": "Kann der Kunde die Buchung selbst verwalten (Termin ändern, stornieren)",
+				"url": ""
+			},
+			"12": {
+				"title": "Können die Email-Texte individuell angepasst werden?",
+				"url": ""
+			},
+			"13": {
+				"title": "Können die System-Mails (Zusage, Absage) von der eigenen Mailadresse  aus versendet werden?",
+				"url": ""
+			},
+			"14": {
+				"title": "Was passiert mit den Termindaten nach dem Termin?",
+				"url": ""
+			},
+			"15": {
+				"title": "Kann ich Termine stornieren, löschen oder der Kundin nachträglich absagen?",
+				"url": ""
+			},
+			"16": {
+				"title": "Welcher Termin-Buchungs-Kalender ist für mein Business am besten geeignet?",
+				"url": ""
+			},
+			"17": {
+				"title": "Wie lange dauert die Terminbuchung für meine Kunden?",
+				"url": ""
+			},
+			"18": {
+				"title": "Kann ich Kundentermine auch händisch für meine Kunden eintragen?",
+				"url": ""
+			},
+			"19": {
+				"title": "Wie funktioniert das Anlegen unterschiedlicher Leistungen (Preis, Dauer des Termins)",
+				"url": ""
+			},
+			"20": {
+				"title": "Wie kann ich Ferienzeiten einstellen?",
+				"url": ""
+			},
+			"21": {
+				"title": "Wie kontaktiere ich den Kunden vor dem Termin?",
+				"url": ""
+			},
+			"22": {
+				"title": "Ich möchte eine kurze Notiz zum Kundentermin anlegen. Wie geht das?",
+				"url": ""
+			},
+			"23": {
+				"title": "Können die Termindaten heruntergeladen werden zur weiteren Verarbeitung?",
+				"url": ""
+			},
+			"24": {
+				"title": "Wie lege ich ein konkretes Event für einen Kurs an?",
+				"url": ""
+			},
+			"25": {
+				"title": "Wie erstelle ich eine Videokonferenz über Bookingflix?",
+				"url": ""
+			},
+			"26": {
+				"title": "Wie werden Überbuchungen verhindert?",
+				"url": ""
+			},
+			"01": {
+				"title": "Hat Bookingflix eine Rechteverwaltung, damit die jeweilige Abteilung die Termin-Verwaltung übernehmen kann?",
+				"url": ""
+			},
+			"02": {
+				"title": "Was passiert genau, wenn ein Kunde seinen Termin storniert?",
+				"url": ""
+			},
+			"03": {
+				"title": "Können Terminbuchungen automatisch bestätigt werden?"
+			},
+			"04": {
+				"title": "Können Termine händisch für den Kunden eingetragen werden?",
+				"url": ""
+			},
+			"05": {
+				"title": "Welchen Support bekommen wir im Rahmen der Nutzung?",
+				"url": ""
+			},
+			"06": {
+				"title": "Kann der Premium-Account auch per Rechnung bezahlt werden statt per Lastschrift?",
+				"url": ""
+			},
+			"07": {
+				"title": "Können vor dem Termin, zu einem bestimmten Zeitpunkt, Terminerinnerungen verschickt werden?",
+				"url": ""
+			},
+			"08": {
+				"title": "Was kosten die Terminerinnerungen per SMS?",
+				"url": ""
+			},
+			"09": {
+				"title": "Was kostet Bookingflix im Monat?",
+				"url": ""
+			}
+		},
+		"title": "Relevante FAQ für Ihre Branche"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Termine automatisch bestätigen lassen",
+				"url": ""
+			},
+			"11": {
+				"title": "Termine einfach ändern oder absagen",
+				"url": ""
+			},
+			"12": {
+				"title": "Weitere Infos mitteilen im Rahmen der Buchung",
+				"url": ""
+			},
+			"13": {
+				"title": "Terminerinnerungen",
+				"url": ""
+			},
+			"14": {
+				"title": "Termin-Buchungs-Kalender einfach auf eigener Website einbinden",
+				"url": ""
+			},
+			"15": {
+				"title": "Termin-Buchungs-Website nutzbar auch ohne eigene Website",
+				"url": ""
+			},
+			"16": {
+				"title": "Termin-Notizen zu Terminen und Kunden anlegen",
+				"url": ""
+			},
+			"17": {
+				"title": "Feiertage und Ferien einstellbar",
+				"url": ""
+			},
+			"18": {
+				"title": "Mehrere Termine je Termin-Slot buchbar",
+				"url": ""
+			},
+			"19": {
+				"title": "Kundenbewertungen automatisch einholen",
+				"url": ""
+			},
+			"20": {
+				"title": "Termin-Notizen anlegen",
+				"url": ""
+			},
+			"01": {
+				"title": "Terminbuchung nach DSGVO-Standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Deutschland",
+				"url": ""
+			},
+			"03": {
+				"title": "Termin-Buchungs-Kalender für feste Öffnungszeiten",
+				"url": ""
+			},
+			"04": {
+				"title": "Besserer Überblick über den Terminstatus (Zusage, Absage, noch nicht bestätigt)",
+				"url": ""
+			},
+			"05": {
+				"title": "Termin-Buchungs-Kalender für konkrete Events",
+				"url": ""
+			},
+			"06": {
+				"title": "Besserer Überblick über den Terminstatus (Zusage, Absage, noch nicht bestätigt)",
+				"url": ""
+			},
+			"07": {
+				"title": "Unterschiedliche Termindauer einstellbar. Z. B. 30 Minuten oder zwei Stunden",
+				"url": ""
+			},
+			"08": {
+				"title": "Rechteverwaltung zur Termin-Verwaltung durch zuständige Mitarbeiterin",
+				"url": ""
+			},
+			"09": {
+				"title": "Individuelle Email-Texte der System-Mails",
+				"url": ""
+			}
+		},
+		"title": "Besonders relevante Funktionen und Eigenschaften für Ihre Branche"
+	},
+	"main": {
+		"description": "Während der Corona-Pandemie durften auch Fitness-Studios nur mit Termin besucht werden. Später sogar nur mit Test oder Impfausweis. So nervig dies für viele war. So einfach und unkompliziert konnten dies viele Fitness-Studios für ihre Kunden und Kundinnen anbieten. Die Terminvergabe per Telefon erwies sich schnell als zu aufwendig, da einfach zu viele Anrufe in kurzer Zeit eingingen. Gerade größerere Studios hätten eine zusätzliche Telefonhotline einrichten müssen. Darum kamen in vielen Studios Termin-Buchungs-Tools zum Einsatz. Der Sportler musste nur noch angeben, wann er trainieren wollte. Die Terminzusage erfolgte dann automatisch vom Buchungssystem. Nachdem dann der Besuch mit Termin nicht mehr nötig war, haben viele Studios Ihre Termin-Buchungs-Kalender bei Bookingflix wieder gelöscht. Aber viele sind auch dabei geblieben. Zumindest bezüglich einiger Sonderleistungen. Kurse oder individuelle Beratungen konnten über die Website des Fitness-Studios weiterhin gebucht werden. Und die Sportler haben sich daran gewöhnt. Was erst nervig erschien, wurde dann schon fast vermisst. Die individuelle Terminbuchung im Fitness-Studio.",
+		"title": "Sport und Fitness-Studios"
+	},
+	"sub": {
+		"description": "Natürlich sollte der Besuch im Fitness-Studio auch ohne Termin möglich sein. Aber einige individuelle Leistungen können mittels Terminbuchungs-Tool separat angeboten werden. Zum Beispiel Kurse, Trainingsberatung, Probetraining oder Personaltraining mit dem eigenen Personaltrainer.\nDer Personaltrainer legt beispielsweise einen Termin-Bucnungs-Kalender auf Bookingflix an. Er definiert, wann ein Training gebucht werden kann. Welche Tage frei sind und wie lange ein Training dauert. Die Einstellmöglichkeiten sind sehr umfangreich aber gleichzeitig auch sehr einfach einstellbar. Denn über den QuickStart lässt sich, Schritt für Schritt, der benötigte Termin-Buchungs-Kalender generieren. Und mit dem Einbindungscode anschließend auf der eigenen Website einbinden. Oder man nutzt alternativ die Micro-Website von Bookingflix. Dann geht es sogar ganz ohne eigene Website.\nDer Kunde, die Sportlerin klickt dann auf den gewünschten Termin-Slot und gibt die benötigten Daten ein. Hier reicht oftmals schon der Name und die Emailadresse. Die Terminbestätigung sendet das Studio oder der Trainer dann manuell oder vollautomatisch über das System von Bookingflix. Der Sportler erhält dann die Terminbestätigung sofort.\nAuch konkrete Events lassen sich über Bookingflix anbieten und dann buchen. Man legt verschiedene Trainings-Events an. Zum Beisiel Kurse zu festgelegten Zeiten. Diese können dann von einer bestimmten Anzahl Sportler gebucht werden. Ist das Event ausgebucht, ist keine weitere Buchung mehr möglich. Außer jemand sagt ab. Dies geht mit zwei Klicks über den persönlichen Termin-Link. Der Termin  wird dann wieder frei und jemand anderes kann den Termin buchen. Der Termin-Bucnungs-Kalender von Bookingflix kann auch mit den Standardkalendern von Google, Apple und Microsoft synchronisiert werden. So sieht der Trainer auch in seinem Smartphone-Kalender, welche Termine gebucht werden. Und bereits eingetragene Termine werden an Bookingflix übertragen., Diese Termin-Slots werden somit geblockt. Es handelt sich hierbei um eine 2-Wege-Synchronisation.\nDie Kunden schätzen auch die automatischen Terminerinnerungen per SMS und per Email. Diese können individuell eingestellt werden und von beiden Seiten, also auch von den Kunden, wieder deaktiviert werden, falls doch nicht gewünscht.",
+		"title": "Warum Online-Termin-Buchung mit Bookingflix?"
+	}
+}

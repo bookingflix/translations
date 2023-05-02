@@ -1,0 +1,197 @@
+{
+	"benefits": {
+		"items": {
+			"01": "great time saving\nFor both sides. Scheduling takes only seconds. The citizen also changes or cancels the appointment independently.",
+			"02": "Focus on the essentials\nClerks have better things to do than coordinate appointments by phone or email. Citizens, too.",
+			"03": "Increase appointment reliability\nUse the automatic reminders via email and SMS. By the way, most citizens appreciate this extra service.",
+			"04": "Digitally up to date\nAppointment tools are now a popular standard. The phone is good for chatting, not booking appointments.",
+			"05": "Optimize workflow\nThe citizen books and manages the appointment himself. The appointment data is clearly displayed in your dashboard."
+		},
+		"title": "Your advantages in a nutshell"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "What is the cost of appointment reminders via SMS?",
+				"url": ""
+			},
+			"11": {
+				"title": "How much does Bookingflix cost per month?",
+				"url": ""
+			},
+			"12": {
+				"title": "What notice period do I have to observe?",
+				"url": ""
+			},
+			"13": {
+				"title": "Can the customer manage the booking himself (change appointment, cancel)",
+				"url": ""
+			},
+			"14": {
+				"title": "Can the email texts be customized?",
+				"url": ""
+			},
+			"15": {
+				"title": "Can the system mails (acceptance, rejection) be sent from your own mail address?",
+				"url": ""
+			},
+			"16": {
+				"title": "What happens to the appointment data after the appointment?",
+				"url": ""
+			},
+			"17": {
+				"title": "Can I cancel appointments, delete appointments, or cancel the prospect after the fact?",
+				"url": ""
+			},
+			"18": {
+				"title": "Which appointment booking calendar is best for my business?",
+				"url": ""
+			},
+			"19": {
+				"title": "How long does it take to book appointments for my clients?",
+				"url": ""
+			},
+			"20": {
+				"title": "Can I also enter customer appointments manually for my customers?",
+				"url": ""
+			},
+			"21": {
+				"title": "How does the creation of different services (price, duration of the appointment) work?",
+				"url": ""
+			},
+			"22": {
+				"title": "How can I set vacations when the city hall is closed?",
+				"url": ""
+			},
+			"23": {
+				"title": "How do I contact the client before the appointment?",
+				"url": ""
+			},
+			"24": {
+				"title": "I would like to create a short note for the customer appointment. How do I do that?",
+				"url": ""
+			},
+			"25": {
+				"title": "Can the appointment data be downloaded for further processing?",
+				"url": ""
+			},
+			"01": {
+				"title": "Is the appointment booking via Bookingflix.com DSGVO compliant?",
+				"url": ""
+			},
+			"02": {
+				"title": "Where are the Bookingflix servers located?",
+				"url": ""
+			},
+			"03": {
+				"title": "Does Bookingflix have a rights management so that employees can take over the appointment management?"
+			},
+			"04": {
+				"title": "What exactly happens when a customer cancels their appointment?",
+				"url": ""
+			},
+			"05": {
+				"title": "Can appointment bookings be confirmed automatically?",
+				"url": ""
+			},
+			"06": {
+				"title": "Can appointments be entered manually for the customer?",
+				"url": ""
+			},
+			"07": {
+				"title": "What support do we get within the scope of use?",
+				"url": ""
+			},
+			"08": {
+				"title": "Can the premium account also be paid by invoice instead of direct debit?",
+				"url": ""
+			},
+			"09": {
+				"title": "Can appointment reminders be sent before the appointment, at a specific time?",
+				"url": ""
+			}
+		},
+		"title": "Relevant FAQ for your industry"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Simply change or cancel appointments",
+				"url": ""
+			},
+			"11": {
+				"title": "More info communicate within the booking",
+				"url": ""
+			},
+			"12": {
+				"title": "Appointment reminders",
+				"url": ""
+			},
+			"13": {
+				"title": "Easily integrate appointment booking calendar on your own website",
+				"url": ""
+			},
+			"14": {
+				"title": "Appointment booking website usable even without own website",
+				"url": ""
+			},
+			"15": {
+				"title": "Create appointment notes for appointments and customers",
+				"url": ""
+			},
+			"16": {
+				"title": "Vacations and vacations adjustable",
+				"url": ""
+			},
+			"17": {
+				"title": "Book in customer via QR code scan",
+				"url": ""
+			},
+			"01": {
+				"title": "Appointment booking according to DSGVO standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Germany",
+				"url": ""
+			},
+			"03": {
+				"title": "Appointment booking calendar for fixed opening hours",
+				"url": ""
+			},
+			"04": {
+				"title": "Appointment booking calendar for specific services",
+				"url": ""
+			},
+			"05": {
+				"title": "Better overview of the appointment status (commitment, cancellation, not yet confirmed)",
+				"url": ""
+			},
+			"06": {
+				"title": "Different appointment durations can be set. E.g. five minutes or two hours",
+				"url": ""
+			},
+			"07": {
+				"title": "Rights management for appointment management by responsible administrator",
+				"url": ""
+			},
+			"08": {
+				"title": "Individual email texts of the system emails",
+				"url": ""
+			},
+			"09": {
+				"title": "Have appointments confirmed automatically",
+				"url": ""
+			}
+		},
+		"title": "Particularly relevant functions and features for your industry"
+	},
+	"main": {
+		"description": "Digitization is also making significant progress in the town hall. In the citizens' office, residents can access almost all services in one place. Some services can even be accessed online, from home.\nFor everything else, either a waiting ticket is drawn on site or an appointment is made in advance. More and more city halls now offer this scheduling via an appointment tool. The citizen can book the desired appointment online at any time, provided it is still available. Appointments that have already been booked are therefore no longer offered and are only automatically released again if they are cancelled.",
+		"title": "Citizen office and administration"
+	},
+	"sub": {
+		"description": "Citizens now expect a modern, service-oriented city hall. A telephone hotline is not always the best offer here. Especially not if you have to wait in a queue for a simple inquiry or to make an appointment. Or the responsible official is \"not at his desk but will gladly call you back if you leave a message on the answering machine. Appointment tools are much more customer-friendly and effective for making appointments. For both sides. That is, for citizens and for the citizens' bureau. The citizen books the desired free appointment at home on the PC or with the smartphone. The appointment request is automatically confirmed by Bookingflix. Or alternatively manually by the responsible clerk. Important information can be communicated directly during the booking. Or additionally via the appointment confirmation by email. Because this can be set, like almost everything at Bookingflix, individually and flexibly. The citizen receives his own appointment link, through which the appointment can be managed. The appointment can be changed or canceled. The clerk can be reached via a chat tool. In case of new messages, pages are informed by email. The chat history is saved, but can also be deleted. Before the appointment, the citizen can be reminded of the appointment once again by email or SMS. This increases the appointment reliability significantly. The appointment booking calendar for fixed opening hours can be set individually, depending on the opening time or other free days. If multiple appointment booking calendars are needed, this can be expanded without limit.\nBookingflix was developed in Germany, taking into account the DSGVO. All servers are stationed in Germany. All appointment data will be deleted automatically after 30 days. However, if necessary, they can be backed up in advance.",
+		"title": "Why online appointment booking with Bookingflix?"
+	}
+}

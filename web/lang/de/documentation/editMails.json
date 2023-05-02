@@ -1,0 +1,7 @@
+{
+  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***System-Mails bearbeiten***. Diesen Link finden Sie unter dem Obermenüpunkt ***Einstellungen***.\n2. Wählen Sie den gewünschten Termin-Buchungs-Kalender aus.\n3. Wählen Sie aus, welche Email-Benachrichtigung Sie bearbeiten möchten: Zusage, Absage oder Verifizierung\n4. Im Bearbeitungsfenster kann der Text angepasst werden.\n5. Fügen Sie, falls benötigt, die vorhandenen Variablen ein. Diese generieren sich automatisch aus den Formularfeldern des erstellten Formulars.\n\nUnterhalb des Bearbeitungsfensters sehen Sie die Vorschau.\n\nNach erfolgter Bearbeitung, das Speichern nicht vergessen. Den Button finden Sie unterhalb der Vorschau.",
+  "img": {
+    "1": "bild89.webp"
+  },
+  "title": "Emailtexte bearbeiten"
+}

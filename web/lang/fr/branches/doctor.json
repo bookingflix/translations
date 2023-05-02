@@ -1,0 +1,205 @@
+{
+	"benefits": {
+		"items": {
+			"01": "un grand gain de temps\nPour les deux parties. La prise de rendez-vous ne prend que quelques secondes. Le patient peut également modifier ou annuler son rendez-vous de manière autonome.",
+			"02": "Se concentrer sur l'essentiel\nLes interruptions téléphoniques perturbent le travail quotidien. En ligne, c'est plus rapide, plus simple et cela ménage les nerfs.",
+			"03": "Augmenter la fiabilité des délais\nPour cela, utilisez les rappels automatiques par e-mail et SMS. Ce service supplémentaire est d'ailleurs apprécié par la plupart des patients.",
+			"04": "Le numérique à la pointe du progrès\nLes outils de prise de rendez-vous sont devenus un standard très apprécié. Les patients attendent des services numériques modernes.",
+			"05": "Optimiser le flux de travail\nLa patiente réserve et gère elle-même son rendez-vous. Les données du rendez-vous sont affichées de manière claire dans votre tableau de bord."
+		},
+		"title": "Vos avantages en un clin d'œil"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Quel est le délai de préavis à respecter ?",
+				"url": ""
+			},
+			"11": {
+				"title": "Le client peut-il gérer lui-même la réservation (modifier le rendez-vous, l'annuler) ?",
+				"url": ""
+			},
+			"12": {
+				"title": "Les textes des e-mails peuvent-ils être personnalisés ?",
+				"url": ""
+			},
+			"13": {
+				"title": "Les e-mails du système (acceptation, refus) peuvent-ils être envoyés à partir de sa propre adresse e-mail ?",
+				"url": ""
+			},
+			"14": {
+				"title": "Que se passe-t-il avec les données de rendez-vous après le rendez-vous ?",
+				"url": ""
+			},
+			"15": {
+				"title": "Puis-je annuler des rendez-vous, les supprimer ou les refuser ultérieurement à la cliente ?",
+				"url": ""
+			},
+			"16": {
+				"title": "Quel est l'agenda le mieux adapté à mon entreprise ?",
+				"url": ""
+			},
+			"17": {
+				"title": "Combien de temps prend la réservation d'un rendez-vous pour mes clients ?",
+				"url": ""
+			},
+			"18": {
+				"title": "Puis-je également saisir manuellement les rendez-vous de mes clients ?",
+				"url": ""
+			},
+			"19": {
+				"title": "Comment puis-je programmer des vacances pendant lesquelles le cabinet est fermé ?",
+				"url": ""
+			},
+			"20": {
+				"title": "Comment contacter le client avant le rendez-vous ?",
+				"url": ""
+			},
+			"21": {
+				"title": "Je souhaite créer une courte note pour le rendez-vous avec le client. Comment faire ?",
+				"url": ""
+			},
+			"22": {
+				"title": "Les données de rendez-vous peuvent-elles être téléchargées pour un traitement ultérieur ?",
+				"url": ""
+			},
+			"23": {
+				"title": "Comment puis-je supprimer les données de rendez-vous ?",
+				"url": ""
+			},
+			"24": {
+				"title": "Quand les données de rendez-vous sont-elles automatiquement supprimées (délais de suppression) ?",
+				"url": ""
+			},
+			"01": {
+				"title": "Est-ce que Bookingflix dispose d'une gestion des droits pour que le service concerné puisse prendre en charge la gestion des rendez-vous ?",
+				"url": ""
+			},
+			"02": {
+				"title": "Que se passe-t-il exactement lorsqu'un client annule son rendez-vous ?",
+				"url": ""
+			},
+			"03": {
+				"title": "Les réservations de rendez-vous peuvent-elles être confirmées automatiquement ?"
+			},
+			"04": {
+				"title": "Les rendez-vous peuvent-ils être saisis manuellement pour le client ?",
+				"url": ""
+			},
+			"05": {
+				"title": "Quel soutien recevons-nous dans le cadre de l'utilisation ?",
+				"url": ""
+			},
+			"06": {
+				"title": "Le compte premium peut-il être payé par facture plutôt que par prélèvement automatique ?",
+				"url": ""
+			},
+			"07": {
+				"title": "Est-il possible d'envoyer des rappels de rendez-vous avant le rendez-vous, à un moment donné ?",
+				"url": ""
+			},
+			"08": {
+				"title": "Combien coûtent les rappels de rendez-vous par SMS ?",
+				"url": ""
+			},
+			"09": {
+				"title": "Combien coûte Bookingflix par mois ?",
+				"url": ""
+			}
+		},
+		"title": "FAQ pertinentes pour votre secteur"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Modifier ou annuler facilement des rendez-vous",
+				"url": ""
+			},
+			"11": {
+				"title": "Plus d'infos à communiquer dans le cadre de la réservation",
+				"url": ""
+			},
+			"12": {
+				"title": "Rappels de rendez-vous",
+				"url": ""
+			},
+			"13": {
+				"title": "Intégrer facilement le calendrier de réservation sur son propre site web",
+				"url": ""
+			},
+			"14": {
+				"title": "Site web de réservation de rendez-vous utilisable même sans propre site web",
+				"url": ""
+			},
+			"15": {
+				"title": "Créer des notes sur les rendez-vous et les clients",
+				"url": ""
+			},
+			"16": {
+				"title": "Jours fériés et vacances réglables",
+				"url": ""
+			},
+			"17": {
+				"title": "Possibilité de réserver plusieurs dates par créneau de rendez-vous",
+				"url": ""
+			},
+			"18": {
+				"title": "Processus de réservation selon le RGPD",
+				"url": ""
+			},
+			"19": {
+				"title": "Télécharger les dates",
+				"url": ""
+			},
+			"20": {
+				"title": "Suppression automatique des données de rendez-vous après 30 jours",
+				"url": ""
+			},
+			"01": {
+				"title": "Réservation de rendez-vous selon les normes du RGPD",
+				"url": ""
+			},
+			"02": {
+				"title": "Serveurs en Allemagne",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendrier de réservation de rendez-vous pour les heures d'ouverture fixes",
+				"url": ""
+			},
+			"04": {
+				"title": "Calendrier de réservation de rendez-vous pour des événements concrets",
+				"url": ""
+			},
+			"05": {
+				"title": "Meilleure vue d'ensemble du statut des rendez-vous (accepté, annulé, pas encore confirmé)",
+				"url": ""
+			},
+			"06": {
+				"title": "Différentes durées de rendez-vous réglables. Par exemple, 30 minutes ou deux heures",
+				"url": ""
+			},
+			"07": {
+				"title": "Gestion des droits pour la gestion des rendez-vous par la collaboratrice compétente",
+				"url": ""
+			},
+			"08": {
+				"title": "Textes individuels des e-mails du système",
+				"url": ""
+			},
+			"09": {
+				"title": "Confirmer automatiquement les rendez-vous",
+				"url": ""
+			}
+		},
+		"title": "Fonctions et caractéristiques particulièrement pertinentes pour votre secteur"
+	},
+	"main": {
+		"description": "\nLors de la pandémie Corona, de nombreux cabinets médicaux et aussi des pharmacies ont proposé des vaccinations et des tests Corona. Certains ont été agréablement surpris de voir à quel point cela fonctionnait bien dans leur travail quotidien et pour les clients. En effet, chez les médecins, le téléphone ne s'arrêtait souvent pas. Ici, les outils de prise de rendez-vous ont été un net soulagement. En effet, il suffisait aux patients de sélectionner la date souhaitée, de saisir leurs données et de réserver le rendez-vous. En règle générale, les données sensibles n'étaient pas nécessaires. La protection stricte des données dans ce domaine sensible ne posait donc aucun problème. Et pour les clients ou les patients, c'était également très pratique. En effet, ils n'avaient pas besoin d'appeler des dizaines de fois pour joindre quelqu'un ou de laisser un message sur le répondeur pour pouvoir ensuite fixer un rendez-vous. Tout était réglé en quelques clics. Beaucoup étaient fiers et disaient à leur famille : \"Je viens de réserver un rendez-vous sur Internet\".",
+		"title": "Cabinets médicaux et pharmacies"
+	},
+	"sub": {
+		"description": "La protection des données dans le domaine médical est, à juste titre, d'une importance capitale, c'est pourquoi aucune donnée sensible n'est généralement demandée lors de la prise de rendez-vous. Lors de la prise de rendez-vous pour des tests Corona ou des vaccinations Corona, il ne faut guère plus que le nom et l'adresse e-mail. De plus, les serveurs de Bookingflix sont situés en Allemagne. Les données ne sont donc pas transférées ou stockées dans des pays hors Europe. Toutes les données sont sécurisées par une technique de cryptage moderne. Des sauvegardes des données de rendez-vous sont effectuées automatiquement plusieurs fois par jour sur des serveurs séparés. Le délai de suppression des données est de 30 jours. Mais il est également possible de les supprimer plus tôt. Si les données sont encore nécessaires, elles peuvent être téléchargées au format PDF et CSV.\nDès sa conception, Bookingflix a été développé dans le strict respect du règlement européen RGPD. Car les données doivent être sécurisées. C'est aussi ce qu'attendent les patients.\nLors de la création d'un agenda de réservation de rendez-vous, il est possible de configurer différents types d'agenda. Par exemple, un calendrier de rendez-vous et de réservation pour des heures d'ouverture fixes ou pour des événements concrets. Si des rendez-vous ne sont proposés qu'à quelques heures déjà fixées, il est recommandé d'utiliser le calendrier pour des événements concrets. Si des rendez-vous sont proposés chaque semaine pendant plusieurs jours, le calendrier peut être utilisé pour des heures d'ouverture fixes. Les temps de pause, les jours de congé et les vacances peuvent également être pris en compte ici.\nEn option, les patients et les clients peuvent recevoir un rappel du rendez-vous par e-mail et SMS. Une inscription manuelle du rendez-vous, si un patient n'a par exemple pas accès à Internet, est également possible. Le cabinet se charge alors de l'enregistrement du rendez-vous. Les rendez-vous réservés ne sont à nouveau affichés comme libres que si le patient modifie ou annule le rendez-vous. Des créneaux de rendez-vous très courts sont également possibles. Cela s'est avéré utile pour les rendez-vous de test et de vaccination, car ces rendez-vous sont généralement de courte durée.",
+		"title": "Pourquoi réserver un rendez-vous en ligne avec Bookingflix ?"
+	}
+}

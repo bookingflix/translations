@@ -1,0 +1,56 @@
+{
+	"description": "",
+	"page": [
+		{
+			"elements": [
+				{
+					"button": "Cree una cuenta gratuita ahora",
+					"list": [
+						"1 agenda por cuenta",
+						"50 reservas de citas al mes",
+						"Plazo máximo de reserva anticipada de 12 días para sus clientes",
+						"Incluido todas las funcionalidades para las cuentas comerciales",
+						"Se pueden crear datos de perfil, pie de imprenta, información de protección de datos",
+						"16 céntimos/SMS (netos) para los recordatorios de citas por SMS",
+						"Sin duración mínima de contrato"
+					],
+					"membership": "Gratis",
+					"price": "0,00 € / mes"
+				},
+				{
+					"action": "Cuenta Premium de prueba gratuita por 14 días*.",
+					"button": "Crear una cuenta Premium ahora",
+					"list": [
+						"3 agendas por cuenta",
+						"5,00 euros mensuales (netos) por cada agenda adicional",
+						"Tarifa plana de reservas de citas por mes **",
+						"Plazo máximo de reserva anticipada de 12 días para sus clientes",
+						"Incluso todas las funcionalidades para las cuentas comerciales",
+						"Soporte de Bookingflix a través del sistema de tickets y del teléfono",
+						"Se pueden crear datos de perfil, pie de imprenta, información de protección de datos",
+						"16 céntimos/SMS (netos) para los recordatorios de citas por SMS",
+						"Sin duración mínima de contrato"
+					],
+					"membership": "Premium",
+					"price": "9,00 € (neto) / mes",
+					"tax": "Impuesto sobre el valor añadido: 19%."
+				}
+			],
+			"info": {
+				"1": {
+					"action": "No hay renovación automática - después de los 14 días gratuitos puedes renovar la cuenta premium en tu área de acceso. Si no lo hace, pasará automáticamente a la cuenta gratuita.",
+					"list": {
+						"2": "Los precios se aplican a comerciantes, empresas, proveedores de servicios, etc. en el marco de un uso medio y razonable de nuestro servicio. En caso de que se supere esta política de uso justo, coordinaríamos un acuerdo especial entre nosotros. Se ruega a las grandes empresas, a los centros de vacunación y de pruebas, así como a las cadenas de tiendas, que si es muy probable que se supere un uso medio y razonable, se pongan en contacto con nosotros antes de utilizar Bookingflix: support@bookingflix.com o 02302-4007736."
+					}
+				}
+			},
+			"title": "Uso comercial"
+		}
+	],
+	"teaser": {
+		"count": "14",
+		"description": "PRUEBA GRATUITA",
+		"time": "días"
+	},
+	"title": "Precios"
+}

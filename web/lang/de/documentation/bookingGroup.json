@@ -1,0 +1,9 @@
+{
+  "description": "Sie befinden sich im Dashboard/ Termin-Kalender/ Termin-Kalender neu erstellen. \nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf das Plus-Symbol, um ein neues Formularfeld hinzuzufügen.\n2. Klicken Sie auf das Formularfeld ***Gruppenbuchung***.\n3. Übernehmen Sie den vorgegeben Text oder ändern Sie ihn, falls gewünscht.\n4. Geben Sie an, welche Anzahl an Personen eine Gruppe maximal haben darf. Wenn Sie ***Automatisch*** wählen, berechnet Bookingflix die maximal zur Verfügung stehende Personenanzahl für den jeweiligen Termin-Slot. Eine Überbuchung ist jedoch auch dann nicht möglich, wenn Sie ***Individuell*** auswählen. Bookingflix berechnet stets, ob noch genug Restplätze frei sind.\n5. Es kann ein Hinweistext eingefügt werden. Dieser erscheint unterhalb des Formularfeldes.\n6. Das Formularfeld Gruppenbuchung kann als Pflichtfeld definiert werden.\n7. In der Termin-Übersicht sind alle Termine aufgeführt.\n8. Ob Einzel- oder Gruppentermin sowie die Gruppengröße wird unterhalb des Datums und der Uhrzeit angezeigt.\n9. Über den Button ***Teilnehmer bearbeiten*** kann die Anzahl der Teilnehmer nachträglich geändert werden.\n\nEine Überbuchung ist auch im Dashboard nicht möglich. Sie erhalten eine Fehlermeldung, falls nicht genügend freie Plätze buchbar sind.\n\nFalls Sie die Anzahl auf \"1\" ändern, ändert sich der Status von Gruppenbuchung zu Einzelbuchung.\n\nÄnderungen an der Buchung können nur Sie, also der Veranstalter, und die Person, die die Gruppenbuchung für alle Teilnehmer vorgenommen hat, nachträglich durchführen.",
+  "img": {
+    "1": "bild82.webp",
+    "2": "bild83.webp",
+    "3": "bild84.webp"
+  },
+  "title": "Formularfeld Gruppenbuchung"
+}

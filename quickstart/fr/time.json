@@ -1,0 +1,56 @@
+{
+	"advance": {
+		"description": "Au maximum {date} à l'avance. Ensuite, aucune autre date/jour ne sera affiché(e)."
+	},
+	"buffer": {
+		"option": "{time} minutes de tampon pour le rendez-vous suivant",
+		"title": "Faut-il prévoir une marge de temps ?"
+	},
+	"calendar": {
+		"allDay": "Rendez-vous d'une journée",
+		"fromTo": "Période de plusieurs jours",
+		"hours": "Rendez-vous de plusieurs heures"
+	},
+	"checkDate": "Veuillez vérifier la date du rendez-vous",
+	"duration": {
+		"info": "Indiquez la durée d'un rendez-vous. Vous proposez plusieurs services de durée différente ? Alors choisissez le format de calendrier \"Offres & services\" dans la 1ère étape.",
+		"title": "Combien de temps dure un rendez-vous ?"
+	},
+	"immediately": "Sync et corrections par n17t01",
+	"lastMinute": {
+		"description": "Au moins {date} entre la réservation et le début du rendez-vous. Cela permet d'éviter les réservations à très court terme.",
+		"info": "En définissant une période de réservation anticipée, vous pouvez empêcher les réservations de rendez-vous à très court terme. \"0 minute\" signifie que les clients peuvent réserver des rendez-vous à très court terme et les prendre immédiatement.",
+		"title": "Quel doit être le délai minimum entre la réservation et le rendez-vous ?"
+	},
+	"next": {
+		"info": "Indiquez l'heure à laquelle le rendez-vous suivant doit pouvoir être réservé. Exemple - \"A la prochaine heure pleine\" : si un rendez-vous a lieu de 9:00à 9:30 heures, le prochain rendez-vous à réserver sera 10:00à 10:30 heures. Exemple - \"Au prochain quart d'heure\". Si un rendez-vous a lieu de 9:00-10:00 , le prochain rendez-vous réservable est 9:15-10:15 . heures.",
+		"option": [
+			"à la suite du rendez-vous précédent",
+			"15 minutes après le début du rendez-vous précédent",
+			"30 minutes après le début du rendez-vous précédent",
+			"1 heure après le début du rendez-vous précédent"
+		],
+		"title": "Quand la prochaine date possible doit-elle être réservée ?"
+	},
+	"pause": {
+		"add": "Ajouter un temps de pause",
+		"info": "Les temps de pause peuvent être créés à l'étape suivante en cliquant sur l'icône suivante",
+		"title": "Temps de pause|Temps de pause"
+	},
+	"period": {
+		"description": "Les dates peuvent être réservées de {date} à {date} .",
+		"info": "Si vous souhaitez proposer vos rendez-vous uniquement sur une certaine période, vous pouvez définir ici de quand à quand vos clients peuvent réserver des rendez-vous. Avant et après, aucun rendez-vous/jour n'est affiché dans le calendrier.",
+		"title": "Dans quel laps de temps concret proposez-vous des rendez-vous ?"
+	},
+	"title": "Heures de réservation",
+	"unlimited": "Illimité",
+	"weekdays": {
+		"closed": "Fermé",
+		"fromTo": "de {date} à {date}",
+		"info": "Indiquez les jours de la semaine et les heures d'ouverture de votre magasin. Dans l'étape suivante, vous pouvez ensuite définir vos créneaux horaires individuels ainsi que les heures de pause pour la réservation de rendez-vous.",
+		"open": "Ouvrir",
+		"take": "Appliquer ce paramètre à tous les jours ouverts",
+		"title": "Quand votre magasin est-il ouvert ?"
+	},
+	"weekdaysSettings": "Paramètres pour le jour de la semaine {day}:"
+}

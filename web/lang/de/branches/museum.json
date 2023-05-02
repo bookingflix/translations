@@ -1,0 +1,235 @@
+{
+	"benefits": {
+		"items": {
+			"01": "große Zeitersparnis\nFür beide Seiten. Die Terminierung dauert nur Sekunden. Auch die Terminänderung oder -Stornierung nimmt der Kunde eigenständig vor.",
+			"02": "Fokus auf das Wesentliche und Nerven schonen\nTelefonische Unterbrechungen stören im Arbeitsalltag. Online geht das schneller, einfacher und es schont die Nerven.",
+			"03": "Terminzuverlässigkeit steigern\nNutzen Sie dafür die automatischen Erinnerungen per Email und SMS. Diesen Extra-Service schätzen übrigens die meisten Kunden.",
+			"04": "Digital auf dem neuesten Stand\nTermin-Tools sind mittlerweile ein beliebter Standard. Kunden erwarten moderne digitale Services.",
+			"05": "Workflow optimieren\nDie Kundin bucht und verwaltet den Termin selbst. Die Termindaten werden übersichtlich in Ihrem Dashboard angezeigt."
+		},
+		"title": "Ihre Vorteile auf den Punkt"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Was kostet Bookingflix im Monat?",
+				"url": ""
+			},
+			"11": {
+				"title": "Welche Kündigungsfrist muss ich beachten?",
+				"url": ""
+			},
+			"12": {
+				"title": "Kann der Kunde die Buchung selbst verwalten (Termin ändern, stornieren)",
+				"url": ""
+			},
+			"13": {
+				"title": "Können die Email-Texte individuell angepasst werden?",
+				"url": ""
+			},
+			"14": {
+				"title": "Können die System-Mails (Zusage, Absage) von der eigenen Mailadresse  aus versendet werden?",
+				"url": ""
+			},
+			"15": {
+				"title": "Was passiert mit den Termindaten nach dem Termin?",
+				"url": ""
+			},
+			"16": {
+				"title": "Kann ich Termine stornieren, löschen oder der Kundin nachträglich absagen?",
+				"url": ""
+			},
+			"17": {
+				"title": "Welcher Termin-Buchungs-Kalender ist für mein Business am besten geeignet?",
+				"url": ""
+			},
+			"18": {
+				"title": "Wie lange dauert die Terminbuchung für meine Kunden?",
+				"url": ""
+			},
+			"19": {
+				"title": "Kann ich Kundentermine auch händisch für meine Kunden eintragen?",
+				"url": ""
+			},
+			"20": {
+				"title": "Wie kann ich Ferienzeiten einstellen?",
+				"url": ""
+			},
+			"21": {
+				"title": "Wie kontaktiere ich den Kunden vor dem Termin?",
+				"url": ""
+			},
+			"22": {
+				"title": "Ich möchte eine kurze Notiz zum Kundentermin anlegen. Wie geht das?",
+				"url": ""
+			},
+			"23": {
+				"title": "Können die Termindaten heruntergeladen werden zur weiteren Verarbeitung?",
+				"url": ""
+			},
+			"24": {
+				"title": "Wie erhalte ich Kundenfeedback über Bookingflix? Geht das automatisch?",
+				"url": ""
+			},
+			"25": {
+				"title": "Wie synchronisiere ich meinen Standard-Kalender mit dem Bookingflix-Kalender?",
+				"url": ""
+			},
+			"26": {
+				"title": "Wie kann der Kunde das Termin-Ticket ausdrucken?",
+				"url": ""
+			},
+			"27": {
+				"title": "Wie buche ich den Kunden per QR-Code-Scan ein?",
+				"url": ""
+			},
+			"28": {
+				"title": "Wie werden Überbuchungen verhindert?",
+				"url": ""
+			},
+			"01": {
+				"title": "Hat Bookingflix eine Rechteverwaltung, damit der jeweilige Vertreter die Termin-Verwaltung übernehmen kann?",
+				"url": ""
+			},
+			"02": {
+				"title": "Was passiert genau, wenn ein Kunde seinen Termin storniert?",
+				"url": ""
+			},
+			"03": {
+				"title": "Können Terminbuchungen automatisch bestätigt werden?",
+				"url": ""
+			},
+			"04": {
+				"title": "Können Termine händisch für den Kunden eingetragen werden?",
+				"url": ""
+			},
+			"05": {
+				"title": "Welchen Support bekommen wir im Rahmen der Nutzung?",
+				"url": ""
+			},
+			"06": {
+				"title": "Kann der Premium-Account auch per Rechnung bezahlt werden statt per Lastschrift?",
+				"url": ""
+			},
+			"07": {
+				"title": "Können vor dem Termin, zu einem bestimmten Zeitpunkt, Terminerinnerungen verschickt werden?",
+				"url": ""
+			},
+			"08": {
+				"title": "Wie richte ich die Terminerinerungen ein?",
+				"url": ""
+			},
+			"09": {
+				"title": "Was kosten die Terminerinnerungen per SMS und wie buche ich diese?",
+				"url": ""
+			}
+		},
+		"title": "Relevante FAQ für Ihre Branche"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Termine automatisch bestätigen lassen",
+				"url": ""
+			},
+			"11": {
+				"title": "Termine einfach ändern oder absagen",
+				"url": ""
+			},
+			"12": {
+				"title": "Weitere Infos mitteilen im Rahmen der Buchung",
+				"url": ""
+			},
+			"13": {
+				"title": "Terminerinnerungen",
+				"url": ""
+			},
+			"14": {
+				"title": "Termin-Buchungs-Kalender einfach auf eigener Website einbinden",
+				"url": ""
+			},
+			"15": {
+				"title": "Termin-Buchungs-Website nutzbar auch ohne eigene Website",
+				"url": ""
+			},
+			"16": {
+				"title": "Termin-Notizen zu Terminen und Kunden anlegen",
+				"url": ""
+			},
+			"17": {
+				"title": "Feiertage und Ferien einstellbar",
+				"url": ""
+			},
+			"18": {
+				"title": "Mehrere Termine je Termin-Slot buchbar",
+				"url": ""
+			},
+			"19": {
+				"title": "Kundenbewertungen automatisch einholen",
+				"url": ""
+			},
+			"20": {
+				"title": "Synchronisation mit Standard-Kalender von Google, Apple und Microsoft",
+				"url": ""
+			},
+			"21": {
+				"title": "Kunde einbuchen per QR-Code-Scan",
+				"url": ""
+			},
+			"22": {
+				"title": "Termin-Ticket als PDF zum Ausdrucken",
+				"url": ""
+			},
+			"01": {
+				"title": "Terminbuchung nach DSGVO-Standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Deutschland",
+				"url": ""
+			},
+			"03": {
+				"title": "Terminbuchung nach DSGVO-Standard",
+				"url": ""
+			},
+			"04": {
+				"title": "Server in Deutschland",
+				"url": ""
+			},
+			"05": {
+				"title": "Termin-Buchungs-Kalender für feste Öffnungszeiten",
+				"url": ""
+			},
+			"06": {
+				"title": "Termin-Buchungs-Kalender für konkrete Events",
+				"url": ""
+			},
+			"07": {
+				"title": "Besserer Überblick über den Terminstatus (Zusage, Absage, noch nicht bestätigt)",
+				"url": ""
+			},
+			"08": {
+				"title": "Rechteverwaltung zur Termin-Verwaltung durch zuständige Mitarbeiterin",
+				"url": ""
+			},
+			"09": {
+				"title": "Individuelle Email-Texte der System-Mails",
+				"url": ""
+			}
+		},
+		"title": "Besonders relevante Funktionen und Eigenschaften für Ihre Branche"
+	},
+	"main": {
+		"description": "In der Corona-Pandemie mussten viele Veranstalter Termine anbieten. Ein freier Zugang war ohne vorherige Terminbuchung gar nicht mehr möglich. Andere Museen und Veranstalter von Ausstellungen bieten Ihren Kunden das Ticketing schon länger an. Alle gemeinsam haben den Wunsch, das Ticket, den Termin, so einfach wie möglich ihren Kunden anzubieten. Aktuell ist Bookingflix noch nicht mit einem Zahlungsdienst verbunden. Mit dieser Funktion ist zum Ende des Jahres 2022 zu rechnen. Doch für die einfache Buchung von Terminen und Tickets, ohne Einzug einer Zahlung, kann Bookingflix schon jetzt in vielen Fällen eingesetzt werden.",
+		"title": "Museen und Ausstellungen"
+	},
+	"sub": {
+		"description": "Der interessierte Museeum- oder Ausstellungsbesucher wählt den gewünschten Termin aus, gibt seine Daten ein und bucht den Termin. Per Email folgt die Verifizierungs-Email und dann die Bestätigungs-Email. Über diese Email ist auch das Ticket mit allen Termin-Informationen abrufbar. Auch ein QR-Code für den Check-In am Einlass ist darauf vorhanden. Ein großer Vorteil der Buchung über Bookingflix ist der vollautomatische Ablauf des Buchungsprozesses. Auch die Terminzusage der erfolgten Buchung kann automatisch vom System verschickt werden. Alternativ geht dies aber auch manuell, nach Prüfung der erfolgten Buchung. Vollautomatisch werden auch die Terminerinnerungen per Email und per SMS versendet. Die steigert die Terminzuverlässigkeit deutlich. Diesen digitalen Service schätzen die meisten Kunden sehr. Und optional können die Erinnerungen abgestellt werden: von Ihnen aber auch von Ihren Kunden. Auch optional: Nach dem Termin, nach den Veranstaltung, erhalten Ihre Besucher eine After-Sale-Email. In dieser Email ist ein Link aufgeführt, der die Kunden zu einer kurzen Online-Kunden-Befragung führt. So können Ihre Kunden eine Bewertung abgeben. Sie erhalten dadurch wertvolles Feedback und können diese Bewertungen auf Ihrer Website veröffentlichen. Das stärkt das Vertrauen bei den nachfolgenden Buchungen.",
+		"title": "Warum Online-Termin-Buchung mit Bookingflix?"
+	},
+	"use": {
+		"interview": "Interview ...",
+		"title": "Bookingflix vor Ort im Einsatz",
+		"video": "Youtube-Video-URL"
+	}
+}

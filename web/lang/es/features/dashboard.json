@@ -1,0 +1,85 @@
+{
+	"kontrollzentrum": {
+		"cta": {
+			"action": "Pruebe ahora Bookingflix Premium durante 14 días de forma gratuita.",
+			"button": "Crear una agenda ahora",
+			"link": "/quickstart"
+		},
+		"intro": "En tu centro de control de Bookingflix, puedes gestionar todos los calendarios de citas, las reservas y los ajustes de forma colectiva. Aquí puede configurar sus calendarios, formularios y notificaciones a los clientes de la forma que desee.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Todo de un vistazo en el cuadro de mandos",
+							"img": "kontrollzentrum-01.png",
+							"text": "En el tablero del centro de control tiene una visión general de todas las citas. Allí puede registrar el estado, la hora y la información relevante del cliente de un vistazo."
+						},
+						{
+							"headline": "Vistas flexibles del calendario",
+							"img": "kontrollzentrum-02.png",
+							"text": "En la agenda de Bookingflix, puedes visualizar tus citas según tus necesidades: obtén una visión general de la semana en la vista de semana o entra en detalles en la vista de día."
+						},
+						{
+							"button": {
+								"link": "/support/video/10",
+								"more": "Más información"
+							},
+							"headline": "Vacaciones y días libres",
+							"img": "kontrollzentrum-03.png",
+							"text": "En su calendario de citas, puede definir cuándo se pueden reservar citas y cuándo está cerrado su negocio. Para ello, es fácil añadir los días festivos alemanes a su calendario o fijar días libres individuales. Puede aplicar estos ajustes a varios calendarios que haya configurado o definirlos de forma diferente para cada calendario individual."
+						},
+						{
+							"button": {
+								"link": "/support/video/20",
+								"more": "Más información"
+							},
+							"headline": "Correos del sistema",
+							"img": "kontrollzentrum-04.png",
+							"text": "Diríjase a sus clientes de la forma en que está acostumbrado. Para ello, adapte a su estilo las confirmaciones y cancelaciones de citas, así como los correos electrónicos de verificación, de forma sencilla e individual."
+						},
+						{
+							"button": {
+								"link": "/features/reminder",
+								"more": "Más información"
+							},
+							"headline": "Recordatorios de citas",
+							"img": "kontrollzentrum-05.png",
+							"text": "Con Bookingflix puedes enviar recordatorios automáticos de citas por SMS y correo electrónico. La forma en que quiera dirigirse a sus clientes depende enteramente de usted. Personalice las cartas y las frecuencias de los recordatorios según sus necesidades."
+						},
+						{
+							"button": {
+								"link": "/support/video/14",
+								"more": "Más información"
+							},
+							"headline": "Página de destino",
+							"img": "kontrollzentrum-06.png",
+							"text": "Cuando su cliente reserva una cita, se le redirige a una página de destino específica, que puede configurarse individualmente."
+						},
+						{
+							"headline": "Formulario de reserva",
+							"img": "kontrollzentrum-07.png",
+							"text": "Defina sus campos de consulta, como nombre, dirección y teléfono, en el editor de formularios integrado. De este modo, se obtienen los datos necesarios para la cita con el cliente. La consulta puede definirse como una entrada obligatoria u opcional."
+						},
+						{
+							"button": {
+								"link": "/features/clients",
+								"more": "Más información"
+							},
+							"headline": "Individualizaciones",
+							"img": "kontrollzentrum-08.png",
+							"text": "Para que Bookingflix se adapte a su negocio, es posible personalizar el color de acento y también el texto del botón de su calendario de reservas o sitio web de reservas. Cada calendario de reservas tiene su propio título. Opcionalmente, puede asignar una dirección al respectivo calendario de reservas. Además, puede realizar varios ajustes para la gestión de sus citas y clientes."
+						},
+						{
+							"headline": "Estadísticas",
+							"img": "termin-und-kalenderverwaltung-08.png",
+							"text": "En el centro de control puede ver amplias estadísticas de todos los calendarios de citas. Puede evaluar en tiempo real cuántas citas se han reservado, cuándo suelen tener lugar, qué servicios son los más populares y mucho más."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Centro de control",
+		"title": "Mantenga una visión completa de sus citas en el centro de control"
+	}
+}

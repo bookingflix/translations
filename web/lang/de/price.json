@@ -1,0 +1,56 @@
+{
+	"description": "",
+	"page": [
+		{
+			"elements": [
+				{
+					"button": "Jetzt Free-Account erstellen",
+					"list": [
+						"1 Kalender je Account",
+						"50 Terminbuchungen pro Monat",
+						"12 Tage maximaler Vorausbuchungszeitraum für Ihre Kunden",
+						"Inklusive aller Features für Geschäftskonten",
+						"Profildaten, Impressum, Datenschutzinfos können angelegt werden",
+						"16 Cent/SMS (Netto) für die SMS-Termin-Erinnerungen",
+						"Keine Mindestvertragslaufzeit"
+					],
+					"membership": "Free",
+					"price": "0,00 € / Monat"
+				},
+				{
+					"action": "14 Tage lang Premium kostenlos testen*",
+					"button": "Jetzt Premium-Account erstellen",
+					"list": [
+						"3 Kalender je Account",
+						"Monatlich 5,00 € (Netto) für jeden weiteren Kalender",
+						"Flatrate Terminbuchungen pro Monat **",
+						"12 Monate maximaler Vorausbuchungszeitraum für Ihre Kunden",
+						"Inklusive aller Features für Geschäftskonten",
+						"Bookingflix-Support über Ticketsystem und Telefon",
+						"Profildaten, Impressum, Datenschutzinfos können angelegt werden",
+						"16 Cent/SMS (Netto) für die SMS-Termin-Erinnerungen",
+						"Keine Mindestvertragslaufzeit"
+					],
+					"membership": "Premium",
+					"price": "9,00 € (Netto) / Monat",
+					"tax": "Umsatzsteuer 19%"
+				}
+			],
+			"info": {
+				"1": {
+					"action": "Keine automatische Verlängerung – nach Ablauf der kostenlosen 14 Tagen können Sie in Ihrem Login-Bereich den Premium-Account verlängern. Tun Sie dies nicht, werden Sie automatisch zum kostenfreien Free-Account zurückgestuft. ",
+					"list": {
+						"2": "Die Preise gelten für Händler, Unternehmungen, Dienstleister, etc. im Rahmen einer durchschnittlichen, angemessenen Verwendung unseres Dienstes. Sollte diese Fair Use Policy überschritten werden, würden wir eine Sondervereinbarung miteinander abstimmen. Große Firmen, Impf- und Testzentren sowie Filialisten bitten wir, falls eine durchschnittliche, angemessene Verwendung sehr wahrscheinlich überschritten wird, vor Nutzung von Bookingflix, um Rücksprache: support@bookingflix.com oder 02302-4007736."
+					}
+				}
+			},
+			"title": "Geschäftliche Nutzung"
+		}
+	],
+	"teaser": {
+		"count": "14",
+		"description": "gratis testen",
+		"time": "Tage"
+	},
+	"title": "Preise"
+}

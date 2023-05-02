@@ -1,0 +1,49 @@
+{
+	"terminerinnerungen": {
+		"cta": {
+			"action": "Jetzt 14 Tage lang kostenlos Bookingflix Premium testen!",
+			"button": "Jetzt Terminkalender erstellen",
+			"link": "/quickstart"
+		},
+		"intro": "Bookingflix erinnert Ihre Kunden automatisch, per Email und SMS, an die gebuchten Termine. Das sorgt für eine deutlich erhöhte Termin-Zuverlässigkeit. Kunden schätzen außerdem diesen Erinnerungs-Service.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Mehr Zuverlässigkeit für Ihre Termine",
+							"img": "terminerinnerungen-01.png",
+							"text": "Erhöhen Sie mit Bookingflix die Zuverlässigkeit Ihrer Kunden um 10-20 % und lassen Sie diese automatisch per Email oder SMS benachrichtigen, sobald der Termin bei Ihnen ansteht."
+						},
+						{
+							"button": {
+								"link": "/support/video/8",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Individuelle Zeiten und Frequenzen",
+							"img": "terminerinnerungen-02.png",
+							"text": "Ob einen Tag vorher oder eine Woche: Stellen Sie in Ihrem Bookingflix-Profil individuell ein, in welchem Rhythmus und wie viele Tage im Voraus die Terminerinnerungen jeweils an Ihre Kunden verschickt werden sollen."
+						},
+						{
+							"headline": "Terminerinnerungen per Email",
+							"img": "terminerinnerungen-03.png",
+							"text": "Die Terminerinnerungen per Email sind unbegrenzt und kostenlos in Ihrer Mitgliedschaft enthalten. Den Betreff und den Email-Text können Sie dabei frei an Ihr Unternehmen sowie Ihre Leistungen anpassen."
+						},
+						{
+							"headline": "Terminerinnerungen per SMS",
+							"img": "terminerinnerungen-04.png",
+							"text": "Für den Versand von SMS-Terminerinnerungen benötigen Sie SMS-Credits. Diese können Sie in Ihrem Bookingflix-Account ganz einfach erwerben. So erreichen Sie auch die Kunden, die nicht täglich ihre Emails checken."
+						},
+						{
+							"headline": "Individuelle Erinnerungen für jeden Terminkalender",
+							"img": "terminerinnerungen-05.png",
+							"text": "Für jeden Termin-Buchungs-Kalender kann separat eingestellt werden, wie weit im Voraus eine Email- oder SMS-Terminerinnerung versendet wird."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Terminerinnerungen",
+		"title": "Mehr Zuverlässigkeit durch automatische Terminerinnerungen"
+	}
+}

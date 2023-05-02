@@ -1,0 +1,57 @@
+{
+	"add": "Neues Formular-Element beifügen",
+	"checkbox": {
+		"description": "Beschreibung (optional)",
+		"info": "Mehrfachauswahl beifügen",
+		"name": "Überschrift",
+		"option": "Option",
+		"title": "Mehrfachauswahl",
+		"values": "Auswahlmöglichkeiten"
+	},
+	"description": "Gestalten Sie hier Ihr Buchungsformular für Ihre Kunden. Über das {icon}-Symbol können Sie weitere Elemente hinzufügen. Über den {icon}-Button können Sie vorhandene Elemente verändern, verschieben oder löschen.",
+	"group": {
+		"info": "Gruppenbuchung erlauben",
+		"title": "Gruppenbuchung"
+	},
+	"heading": {
+		"info": "Große Abschnittsüberschrift",
+		"title": "Überschrift"
+	},
+	"link": {
+		"info": "Einen Link einfügen",
+		"title": "Link"
+	},
+	"paragraph": {
+		"info": "Erklärtext schreiben",
+		"title": "Erklärtext"
+	},
+	"phone": {
+		"info": "Handynummer abfragen",
+		"title": "Telefonnr."
+	},
+	"radio": {
+		"info": "Einzelauswahl beifügen",
+		"title": "Einzelauswahl"
+	},
+	"required": "Pflichtfeld",
+	"terms": {
+		"info": "Zustimmung zu AGBs einholen",
+		"name": "Überschrift",
+		"title": "AGB",
+		"warning": "Bitte URL zu den AGBs überprüfen"
+	},
+	"text": {
+		"info": "Kleines Textfeld zum Ausfüllen",
+		"title": "Textfeld"
+	},
+	"textarea": {
+		"info": "Großes Textfeld zum Ausfüllen",
+		"title": "Textblock"
+	},
+	"title": "Formular-Editor",
+	"url": {
+		"description": "Link-Beschreibung",
+		"title": "URL",
+		"warning": "Bitte URL überprüfen"
+	}
+}

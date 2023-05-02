@@ -1,0 +1,209 @@
+{
+	"benefits": {
+		"items": {
+			"01": "great time saving\nFor both sides. Scheduling takes only seconds. The customer also changes or cancels the appointment independently.",
+			"02": "Focus on the essentials\nThe scissors no longer have to be constantly put aside. Because more and more customers are booking via the new appointment tool.",
+			"03": "Increase appointment reliability\nUse the automatic reminders via email and SMS. By the way, most customers appreciate this extra service.",
+			"04": "Digitally up to date and customer acquisition\nAppointment tools are now a popular standard. Customers expect modern digital services.",
+			"05": "Optimize workflow\nThe customer books and manages the appointment herself. The appointment data is clearly displayed in your dashboard."
+		},
+		"title": "Your advantages in a nutshell"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "What notice period do I have to observe?",
+				"url": ""
+			},
+			"11": {
+				"title": "Can the customer manage the booking himself (change appointment, cancel)",
+				"url": ""
+			},
+			"12": {
+				"title": "Can the email texts be customized?",
+				"url": ""
+			},
+			"13": {
+				"title": "Can the system mails (acceptance, rejection) be sent from your own mail address?",
+				"url": ""
+			},
+			"14": {
+				"title": "What happens to the appointment data after the appointment?",
+				"url": ""
+			},
+			"15": {
+				"title": "Can I cancel appointments, delete appointments or cancel the customer after the fact?",
+				"url": ""
+			},
+			"16": {
+				"title": "Which appointment booking calendar is best for my business?",
+				"url": ""
+			},
+			"17": {
+				"title": "How long does it take to book appointments for my clients?",
+				"url": ""
+			},
+			"18": {
+				"title": "Can I also enter customer appointments manually for my customers?",
+				"url": ""
+			},
+			"19": {
+				"title": "How does the creation of different services (price, duration of the appointment) work?",
+				"url": ""
+			},
+			"20": {
+				"title": "How can I set vacation times?",
+				"url": ""
+			},
+			"21": {
+				"title": "How do I contact the client before the appointment?",
+				"url": ""
+			},
+			"22": {
+				"title": "I would like to create a short note for the customer appointment. How do I do that?",
+				"url": ""
+			},
+			"23": {
+				"title": "Can the appointment data be downloaded for further processing?",
+				"url": ""
+			},
+			"24": {
+				"title": "How do I get customer feedback about Bookingflix? Is that automatic?",
+				"url": ""
+			},
+			"25": {
+				"title": "How do I synchronize my default calendar with Bookingflix calendar?",
+				"url": ""
+			},
+			"26": {
+				"title": "Can I offer different services through the calendar?",
+				"url": ""
+			},
+			"01": {
+				"title": "Does Bookingflix have a rights management, so that the respective department can take over the appointment management?",
+				"url": ""
+			},
+			"02": {
+				"title": "What exactly happens when a customer cancels their appointment?",
+				"url": ""
+			},
+			"03": {
+				"title": "Can appointment bookings be confirmed automatically?"
+			},
+			"04": {
+				"title": "Can appointments be entered manually for the customer?",
+				"url": ""
+			},
+			"05": {
+				"title": "What support do we get within the scope of use?",
+				"url": ""
+			},
+			"06": {
+				"title": "Can the premium account also be paid by invoice instead of direct debit?",
+				"url": ""
+			},
+			"07": {
+				"title": "Can appointment reminders be sent before the appointment, at a specific time?",
+				"url": ""
+			},
+			"08": {
+				"title": "What is the cost of appointment reminders via SMS?",
+				"url": ""
+			},
+			"09": {
+				"title": "How much does Bookingflix cost per month?",
+				"url": ""
+			}
+		},
+		"title": "Relevant FAQ for your industry"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Simply change or cancel appointments",
+				"url": ""
+			},
+			"11": {
+				"title": "More info communicate within the booking",
+				"url": ""
+			},
+			"12": {
+				"title": "Appointment reminders",
+				"url": ""
+			},
+			"13": {
+				"title": "Easily integrate appointment booking calendar on your own website",
+				"url": ""
+			},
+			"14": {
+				"title": "Appointment booking website usable even without own website",
+				"url": ""
+			},
+			"15": {
+				"title": "Create appointment notes for appointments and customers",
+				"url": ""
+			},
+			"16": {
+				"title": "Vacations and vacations adjustable",
+				"url": ""
+			},
+			"17": {
+				"title": "Several dates per appointment slot bookable",
+				"url": ""
+			},
+			"18": {
+				"title": "Obtain customer reviews automatically",
+				"url": ""
+			},
+			"19": {
+				"title": "Synchronization with standard Google, Apple and Microsoft calendars",
+				"url": ""
+			},
+			"01": {
+				"title": "Appointment booking according to DSGVO standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Germany",
+				"url": ""
+			},
+			"03": {
+				"title": "Appointment booking calendar for fixed opening hours",
+				"url": ""
+			},
+			"04": {
+				"title": "Appointment booking calendar for different services",
+				"url": ""
+			},
+			"05": {
+				"title": "Better overview of the appointment status (commitment, cancellation, not yet confirmed)",
+				"url": ""
+			},
+			"06": {
+				"title": "Different appointment durations can be set. E.g. 30 minutes or two hours",
+				"url": ""
+			},
+			"07": {
+				"title": "Rights management for appointment management by responsible employee",
+				"url": ""
+			},
+			"08": {
+				"title": "Individual email texts of the system emails",
+				"url": ""
+			},
+			"09": {
+				"title": "Have appointments confirmed automatically",
+				"url": ""
+			}
+		},
+		"title": "Particularly relevant functions and features for your industry"
+	},
+	"main": {
+		"description": "The craft is a wide field. Photographers, car repair shops, hairdressers, goldsmiths, opticians, glaziers, electronics technicians, bicycle repair shops, saddlers, tailors, confectioners, hearing aid technicians, dental technicians, cosmeticians, nail designers. The list of professions that are in constant contact with customers can be continued. All of them depend on making reliable appointments with their customers. What used to happen mostly by phone call is changing. Many trades rely on appointment coordination via appointment tools. The customer no longer has to call or leave a message on the answering machine. This is done with just a few clicks on the tradesman's website. Even on weekends, holidays or late at night, outside business hours.",
+		"title": "Craft"
+	},
+	"sub": {
+		"description": "Workshop customers appreciate it when everything simply runs smoothly. When placing an order with a craftsman or service provider, but also when making an appointment. Of course, many customers will still want to make their appointments by phone. But many customers, especially the younger ones, would prefer to do everything via smartphone. Appointment tools like Bookingflix make this possible in a very simple, efficient way. The customer sees when an appointment is free and books it with just a few clicks. The workshop has set the opening hours in advance. Vacations and vacations can also be defined. After booking, the customer manages his appointment completely independently. Changing and canceling appointments also takes just a few seconds with two or three clicks. And the integrated chat tool allows workshop, craftsman and customer to get in touch with each other.\nBooked appointments can be automatically synchronized with the standard Google, Apple and Microsoft calendars. So everyone is always up to date. By the way, appointments do not have to be confirmed manually. Bookingflix can be configured so that appointments are confirmed fully automatically by the system. Manual entry by the craftsman is also possible. In case a customer wants to book an appointment by phone.\nThe automatic appointment reminders by email and by SMS are also used with pleasure. So the customer can be reminded once or several times of the appointment, at specified times.\nIf different services are offered, these can also be offered via the appointment booking calendar. The customer then first selects the desired service. This can differ in terms of title, duration and price. After the selection he chooses the preferred appointment time and books the appointment. In this way, the craftsman immediately sees which service has been booked.",
+		"title": "Why online appointment booking with Bookingflix?"
+	}
+}

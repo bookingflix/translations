@@ -1,0 +1,197 @@
+{
+	"benefits": {
+		"items": {
+			"01": "gran ahorro de tiempo\nPara ambos lados. La programación se realiza en segundos. El cliente también cambia o cancela la cita por su cuenta.",
+			"02": "Centrarse en lo esencial\nLas interrupciones telefónicas son una molestia en el trabajo diario. En línea, es más rápido, más fácil y menos estresante.",
+			"03": "Aumentar la fiabilidad de las citas\nUtilice los recordatorios automáticos por correo electrónico y SMS. Por cierto, la mayoría de los clientes agradecen este servicio extra.",
+			"04": "Actualización digital y captación de clientes\nLas herramientas de cita previa se han convertido en un estándar popular. Los clientes esperan servicios digitales modernos.",
+			"05": "Optimizar el flujo de trabajo\nEl cliente reserva y gestiona la cita por sí mismo. Los datos de las citas se muestran claramente en su panel de control."
+		},
+		"title": "Sus ventajas en pocas palabras"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "¿Qué plazo de preaviso debo respetar?",
+				"url": ""
+			},
+			"11": {
+				"title": "¿Puede el cliente gestionar la reserva por sí mismo (cambiar la cita, cancelar)?",
+				"url": ""
+			},
+			"12": {
+				"title": "¿Se pueden personalizar los textos del correo electrónico?",
+				"url": ""
+			},
+			"13": {
+				"title": "¿Se pueden enviar los correos del sistema (aceptación, rechazo) desde su propia dirección de correo?",
+				"url": ""
+			},
+			"14": {
+				"title": "¿Qué ocurre con los datos de la cita después de la misma?",
+				"url": ""
+			},
+			"15": {
+				"title": "¿Puedo anular las citas, borrarlas o dar de baja al cliente a posteriori?",
+				"url": ""
+			},
+			"16": {
+				"title": "¿Qué calendario de reserva de citas es el mejor para mi negocio?",
+				"url": ""
+			},
+			"17": {
+				"title": "¿Cuánto tiempo se tarda en reservar una cita para mis clientes?",
+				"url": ""
+			},
+			"18": {
+				"title": "¿Cómo puedo fijar los periodos de vacaciones?",
+				"url": ""
+			},
+			"19": {
+				"title": "¿Cómo puedo contactar con el cliente antes de la cita?",
+				"url": ""
+			},
+			"20": {
+				"title": "Me gustaría crear una breve nota para la cita con el cliente. ¿Cómo lo hago?",
+				"url": ""
+			},
+			"21": {
+				"title": "¿Pueden descargarse los datos de las citas para su posterior tratamiento?",
+				"url": ""
+			},
+			"22": {
+				"title": "¿Cómo se evita el exceso de reservas?",
+				"url": ""
+			},
+			"23": {
+				"title": "¿Cómo puedo definir varias tablas para reservar?",
+				"url": ""
+			},
+			"01": {
+				"title": "¿Cuenta Bookingflix con una gestión de derechos para que el departamento correspondiente pueda hacerse cargo de la gestión de las citas?",
+				"url": ""
+			},
+			"02": {
+				"title": "¿Qué ocurre exactamente cuando un cliente cancela su cita?",
+				"url": ""
+			},
+			"03": {
+				"title": "¿Se pueden confirmar automáticamente las reservas de citas?"
+			},
+			"04": {
+				"title": "¿Se pueden introducir manualmente las citas para el cliente?",
+				"url": ""
+			},
+			"05": {
+				"title": "¿Qué apoyo recibimos dentro del ámbito de uso?",
+				"url": ""
+			},
+			"06": {
+				"title": "¿Se puede pagar la Cuenta Premium también por factura en lugar de por domiciliación bancaria?",
+				"url": ""
+			},
+			"07": {
+				"title": "¿Se pueden enviar recordatorios de citas antes de la cita, a una hora determinada?",
+				"url": ""
+			},
+			"08": {
+				"title": "¿Cuánto cuestan los recordatorios de citas por SMS?",
+				"url": ""
+			},
+			"09": {
+				"title": "¿Cuánto cuesta Bookingflix al mes?",
+				"url": ""
+			}
+		},
+		"title": "Preguntas frecuentes relevantes para su sector"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Simplemente cambie o cancele las citas",
+				"url": ""
+			},
+			"11": {
+				"title": "Comunicar más información como parte de la reserva",
+				"url": ""
+			},
+			"12": {
+				"title": "Recordatorios de citas",
+				"url": ""
+			},
+			"13": {
+				"title": "Simplemente integre el calendario de reservas de citas en su propio sitio web",
+				"url": ""
+			},
+			"14": {
+				"title": "El sitio web de reserva de citas también puede utilizarse sin su propio sitio web",
+				"url": ""
+			},
+			"15": {
+				"title": "Crear notas para citas y clientes",
+				"url": ""
+			},
+			"16": {
+				"title": "Vacaciones y días festivos ajustables",
+				"url": ""
+			},
+			"17": {
+				"title": "Se pueden reservar varias fechas por turno",
+				"url": ""
+			},
+			"18": {
+				"title": "Obtenga automáticamente las opiniones de los clientes",
+				"url": ""
+			},
+			"19": {
+				"title": "Eliminación automática de los datos de las citas después de 30 días",
+				"url": ""
+			},
+			"01": {
+				"title": "Reserva de citas según la norma DSGVO",
+				"url": ""
+			},
+			"02": {
+				"title": "Servidor en Alemania",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendario de reserva de citas para los horarios de apertura fijos",
+				"url": ""
+			},
+			"04": {
+				"title": "Calendario de citas para eventos específicos",
+				"url": ""
+			},
+			"05": {
+				"title": "Mejor visión de conjunto del estado de la cita (compromiso, cancelación, aún no confirmado)",
+				"url": ""
+			},
+			"06": {
+				"title": "Se pueden establecer diferentes duraciones de las citas. Por ejemplo, 30 minutos o dos horas",
+				"url": ""
+			},
+			"07": {
+				"title": "Gestión de derechos para la gestión de citas por parte del funcionario responsable",
+				"url": ""
+			},
+			"08": {
+				"title": "Textos individuales de los correos electrónicos del sistema",
+				"url": ""
+			},
+			"09": {
+				"title": "Confirmar automáticamente las citas",
+				"url": ""
+			}
+		},
+		"title": "Funciones y características especialmente relevantes para su sector"
+	},
+	"main": {
+		"description": "Durante la pandemia de la Corona, también se permitía visitar restaurantes y pubs sólo con cita previa. Más tarde, incluso sólo con una prueba o tarjeta de vacunación. Por muy molesto que fuera para muchos. Muchas posadas pudieron ofrecer esto a sus clientes de forma sencilla y sin complicaciones. Sin embargo, la reserva de mesas también es un instrumento popular para la fidelización y la captación de clientes más allá de la pandemia. Los clientes que quieran reservar una mesa rápidamente pueden hacerlo con unos pocos clics. Para ello, muchos restaurantes han vinculado básicamente algunas mesas con Bookingflix. Esto significa que pueden reservarse preferentemente en línea. Sólo si todas las demás mesas ya están ocupadas, estas \"mesas Bookingflix\" también pueden reservarse por teléfono.\nA los clientes habituales les gusta incluso reservar con la herramienta de citas. El anfitrión, el camarero o la camarera pueden incluso llamar su atención sobre este servicio de reserva de mesa.",
+		"title": "Restaurantes y locales de comida"
+	},
+	"sub": {
+		"description": "Algunos clientes son reacios a reservar una mesa por teléfono. También piden pizza o pato con arroz a través del smartphone y la aplicación. Así que están acostumbrados a este servicio. Por lo tanto, también quieren reservar la mesa a través de la herramienta de reserva en línea.\nPor lo tanto, cada vez más restaurantes y pubs utilizan Bookingflix para poder reservar mesas libres.\nLa configuración es muy sencilla. A través de QuickStart de Bookingflix, el restaurante define cuántas mesas se pueden reservar en línea y durante qué horario se pueden reservar.\nEl calendario de reserva de citas se publica en el propio sitio web del restaurante a través de un código de integración. El invitado sólo tiene que seleccionar la fecha, introducir su nombre y su dirección de correo electrónico. Y la posada ya puede aceptar reservas en línea. De los nuevos clientes y de los clientes habituales. Y si la mesa ya se ha reservado por teléfono, se puede introducir en Bookingflix con unos pocos clics. Esto también evita el exceso de reservas.\nTambién son populares los recordatorios de citas por SMS y correo electrónico. De este modo, se recuerda a los invitados la mesa reservada con antelación. El huésped puede entonces cambiar o cancelar la cita a tiempo, si es necesario.\nEl panel de control muestra claramente todas las citas y reservas de mesas por día y hora. Las reservas también se pueden introducir manualmente para el huésped. Algunos restaurantes sólo utilizan Bookingflix. Para la reserva de mesas en línea, pero también para la entrada de reservas telefónicas.",
+		"title": "¿Por qué reservar en línea con Bookingflix?"
+	}
+}

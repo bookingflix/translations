@@ -1,0 +1,67 @@
+{
+	"integration-in-ihren-workflow": {
+		"cta": {
+			"action": "Jetzt 14 Tage lang kostenlos Bookingflix Premium testen!",
+			"button": "Jetzt Terminkalender erstellen",
+			"link": "/quickstart"
+		},
+		"intro": "Integrieren Sie die Online-Termin-Buchung über Bookingflix in Ihr Business. Bookingflix unterstützt Sie bei der Organisation Ihrer Termine, sodass Sie mehr Zeit für Ihre eigentlichen Aufgaben haben.\nAuch Ihre Kunden werden diesen Online-Service schätzen. Denn telefonische Absprachen kosten Zeit und manchmal auch Nerven. Das geht einfacher, digitaler, moderner und somit besser!",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Terminbuchung außerhalb Ihrer Geschäftszeiten",
+							"img": "integration-in-ihren-workflow-01.png",
+							"text": "Terminbuchung zu jeder Zeit! Mit dem Online-Terminkalender von Bookingflix ist es möglich, Buchungen auch außerhalb Ihrer Geschäftszeiten anzunehmen. Dadurch können Sie mehr Kunden erreichen und Ihren Umsatz steigern. Viele Kunden – besonders in der jungen und mittleren Generation – ziehen die Online-Buchung der Buchung per Telefon vor. "
+						},
+						{
+							"headline": "Echtzeit-Terminkalender",
+							"img": "integration-in-ihren-workflow-02.png",
+							"text": "Ihren Kunden werden immer nur freie Terminzeiten angezeigt. Sobald ein Termin durch einen Kunden gebucht wurde, ist der Termin nicht mehr verfügbar. So werden Doppelbuchungen verhindert und Sie haben jederzeit einen Überblick über ihre aktuelle Auslastung. Zudem können Sie die Termineintragungen auf allen stationären und mobilen Geräten einsehen."
+						},
+						{
+							"button": {
+								"link": "/support/video/11",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Manuelle Terminbuchung und -änderung",
+							"img": "integration-in-ihren-workflow-03.png",
+							"text": "Nicht jeder Kunde möchte oder kann einen Termin online buchen. Tragen Sie telefonische Terminbuchungen daher im Dashboard manuell ein. Auch Änderungen oder Stornierungen von Terminen nehmen Sie hier händisch vor."
+						},
+						{
+							"headline": "Synchronisation mit bestehenden Kalendern",
+							"img": "integration-in-ihren-workflow-04.png",
+							"text": "Mit Bookingflix synchronisieren Sie unkompliziert und vollautomatisch Ihren Buchungskalender mit Ihrem eigenen Kalender von gängigen Anbietern wie Google, Microsoft oder Apple. Dadurch können Sie die gebuchten Termine in Ihre bestehenden Standardkalender überführen. Aber auch bereits belegte Termine Ihres eigenen Kalenders automatisch im Bookingflix-Buchungskalender blocken."
+						},
+						{
+							"headline": "Automatische Terminbestätigung",
+							"img": "integration-in-ihren-workflow-05.png",
+							"text": "Mit Bookingflix müssen Sie Ihren Kalender nicht mehr selbst überprüfen. Wurde ein freier Termin gebucht, können Sie diesen unverzüglich, ganz automatisch vom System bestätigen lassen. Wenn Sie lieber selbst die Buchungen kontrollieren wollen, können Sie neue Terminbuchungen jedoch auch manuell bestätigen. "
+						},
+						{
+							"button": {
+								"link": "/support/video/18",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "QR-Code für die Terminbuchung vor Ort",
+							"img": "integration-in-ihren-workflow-06.png",
+							"text": "In Ihrem Bookingflix-Account finden Sie einen automatisch generierten QR-Code für jeden Terminkalender, der direkt zu Ihrer Buchungswebsite führt. Diesen können Sie ausdrucken und in Ihrem Schaufenster aushängen, um auch eine einfache Terminbuchung vor Ort, zum Beispiel im Rahmen von Click & Meet, zu ermöglichen. Ihre Kunden scannen den QR-Code einfach mit dem Smartphone ein und können ohne Umwege einen Termin bei Ihnen buchen."
+						},
+						{
+							"button": {
+								"link": "/support/video/12",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Anwesenheit protokollieren",
+							"img": "integration-in-ihren-workflow-07.png",
+							"text": "Jeder über Bookingflix gebuchte Termin verfügt über einen Termin-QR-Code. Dieser ermöglicht den Check-In- und Check-Out Ihrer Kunden, sodass Sie einen genauen Überblick über die Zuverlässigkeit Ihrer Kunden, die Auslastung Ihres Geschäfts erhalten und auch die Nachverfolgbarkeit für das Gesundheitsamt gewährleisten können."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Integration in Ihren Workflow",
+		"title": "Wie Sie Bookingflix nahtlos in Ihren individuellen Arbeitsalltag integrieren können"
+	}
+}

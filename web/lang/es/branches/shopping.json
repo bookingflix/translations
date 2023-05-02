@@ -1,0 +1,201 @@
+{
+	"benefits": {
+		"items": {
+			"01": "gran ahorro de tiempo\nEl tiempo suele ser escaso en el punto de venta. La programación de citas a través de la herramienta de citas resuelve el problema.",
+			"02": "No te preocupes por los nervios\nLos clientes simplemente quieren ver, hacer clic y luego comprar en el acto. Simple y sin complicaciones.",
+			"03": "Aumentar la fiabilidad de las citas\nUtilice los recordatorios automáticos por correo electrónico y SMS. Por cierto, la mayoría de los clientes agradecen este servicio extra.",
+			"04": "Actualización digital\nLas herramientas de cita previa son ahora un estándar popular. El teléfono sirve para chatear, no para reservar citas.",
+			"05": "Optimizar el flujo de trabajo\nEl cliente reserva y gestiona él mismo la cita de compra. Los datos de las citas se muestran claramente en su panel de control."
+		},
+		"title": "Sus ventajas en pocas palabras"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "¿Cuánto cuestan los recordatorios de citas por SMS?",
+				"url": ""
+			},
+			"11": {
+				"title": "¿Cuánto cuesta Bookingflix al mes?",
+				"url": ""
+			},
+			"12": {
+				"title": "¿Qué plazo de preaviso debo respetar?",
+				"url": ""
+			},
+			"13": {
+				"title": "¿Puede el cliente gestionar la reserva por sí mismo (cambiar la cita, cancelar)?",
+				"url": ""
+			},
+			"14": {
+				"title": "¿Se pueden personalizar los textos del correo electrónico?",
+				"url": ""
+			},
+			"15": {
+				"title": "¿Se pueden enviar los correos del sistema (aceptación, rechazo) desde su propia dirección de correo?",
+				"url": ""
+			},
+			"16": {
+				"title": "¿Qué ocurre con los datos de la cita después de la misma?",
+				"url": ""
+			},
+			"17": {
+				"title": "¿Puedo anular o borrar citas o anularlas posteriormente para el interesado?",
+				"url": ""
+			},
+			"18": {
+				"title": "¿Qué calendario de reserva de citas es el mejor para mi negocio?",
+				"url": ""
+			},
+			"19": {
+				"title": "¿Cuánto tiempo se tarda en reservar una cita para mis clientes?",
+				"url": ""
+			},
+			"20": {
+				"title": "¿Puedo también introducir manualmente las citas de mis clientes?",
+				"url": ""
+			},
+			"21": {
+				"title": "¿Cómo funciona la creación de diferentes servicios (precio, duración de la cita)?",
+				"url": ""
+			},
+			"22": {
+				"title": "¿Cómo puedo fijar los días festivos en los que el Ayuntamiento está cerrado?",
+				"url": ""
+			},
+			"23": {
+				"title": "¿Cómo puedo contactar con el cliente antes de la cita?",
+				"url": ""
+			},
+			"24": {
+				"title": "Me gustaría crear una breve nota para la cita con el cliente. ¿Cómo lo hago?",
+				"url": ""
+			},
+			"01": {
+				"title": "¿La reserva de citas a través de Bookingflix.com cumple con el GDPR?",
+				"url": ""
+			},
+			"02": {
+				"title": "¿Dónde se encuentran los servidores de Bookingflix?",
+				"url": ""
+			},
+			"03": {
+				"title": "¿Tiene Bookingflix una gestión de derechos para que los empleados puedan asumir la gestión de las citas?"
+			},
+			"04": {
+				"title": "¿Qué ocurre exactamente cuando un cliente cancela su cita?",
+				"url": ""
+			},
+			"05": {
+				"title": "¿Se pueden confirmar automáticamente las reservas de citas?",
+				"url": ""
+			},
+			"06": {
+				"title": "¿Se pueden introducir manualmente las citas para el cliente?",
+				"url": ""
+			},
+			"07": {
+				"title": "¿Qué apoyo recibimos dentro del ámbito de uso?",
+				"url": ""
+			},
+			"08": {
+				"title": "¿Se puede pagar la Cuenta Premium también por factura en lugar de por domiciliación bancaria?",
+				"url": ""
+			},
+			"09": {
+				"title": "¿Se pueden enviar recordatorios de citas antes de la cita, a una hora determinada?",
+				"url": ""
+			}
+		},
+		"title": "Preguntas frecuentes relevantes para su sector"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Simplemente cambie o cancele las citas",
+				"url": ""
+			},
+			"11": {
+				"title": "Comunicar más información como parte de la reserva",
+				"url": ""
+			},
+			"12": {
+				"title": "Recordatorios de citas",
+				"url": ""
+			},
+			"13": {
+				"title": "Dirección de la cita en el calendario de reservas con enlace a Google Maps",
+				"url": ""
+			},
+			"14": {
+				"title": "Simplemente integre el calendario de reservas de citas en su propio sitio web",
+				"url": ""
+			},
+			"15": {
+				"title": "El sitio web de reserva de citas también puede utilizarse sin su propio sitio web",
+				"url": ""
+			},
+			"16": {
+				"title": "Crear notas para citas y clientes",
+				"url": ""
+			},
+			"17": {
+				"title": "Vacaciones y días festivos ajustables",
+				"url": ""
+			},
+			"18": {
+				"title": "Reserva en el cliente a través del escaneo del código QR",
+				"url": ""
+			},
+			"19": {
+				"title": "Aumentar el factor de confianza mediante la evaluación posventa",
+				"url": ""
+			},
+			"01": {
+				"title": "Reserva de citas según la norma DSGVO",
+				"url": ""
+			},
+			"02": {
+				"title": "Servidor en Alemania",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendario de reserva de citas para los horarios de apertura fijos",
+				"url": ""
+			},
+			"04": {
+				"title": "Calendario de reserva de citas para servicios específicos",
+				"url": ""
+			},
+			"05": {
+				"title": "Mejor visión de conjunto del estado de la cita (compromiso, cancelación, aún no confirmado)",
+				"url": ""
+			},
+			"06": {
+				"title": "Se pueden establecer diferentes duraciones de las citas. Por ejemplo, cinco minutos o dos horas",
+				"url": ""
+			},
+			"07": {
+				"title": "Gestión de derechos para la gestión de citas por parte del administrador responsable",
+				"url": ""
+			},
+			"08": {
+				"title": "Textos individuales de los correos electrónicos del sistema",
+				"url": ""
+			},
+			"09": {
+				"title": "Confirmar automáticamente las citas",
+				"url": ""
+			}
+		},
+		"title": "Funciones y características especialmente relevantes para su sector"
+	},
+	"main": {
+		"description": "Desde la pandemia de Corona, el sector minorista también ha adquirido experiencia en el negocio de las citas. Primero fue Click & Collect, luego incluso Click & Meet. Sin una cita, ya no era posible hacer una compra. Muchas tiendas ofrecían citas directamente en la puerta. Esto también se debe a que la demanda de herramientas para citas a veces superaba con creces la oferta. Bookingflix también estaba literalmente invadido. Entre ellos se encontraban muchos pequeños comercios, así como grandes cadenas de tiendas, cadenas de moda e incluso tiendas de bricolaje con casi 200 locales.\nAquellos que podían ofrecer a sus clientes una herramienta de cita previa durante este tiempo tenían una verdadera ventaja competitiva. Porque reservar una cita era también mucho más agradable, rápido y fácil para los clientes que hacer cola en el lugar para rellenar un papel con sus propios datos.\nY si la tienda estaba llena en ese momento, la espera podía ser fácilmente de 30 a 60 minutos. Con una herramienta de cita, el cliente elegía directamente la franja horaria libre y podía estar seguro de entrar inmediatamente.\nPara el comerciante, Bookingflix también tenía algunas ventajas. El ahorro de tiempo, sobre todo en caso de tráfico de clientes intenso, era evidente. También era más fácil controlar la utilización de la capacidad. Porque sólo se podían reservar plazas libres. Y en caso de un seguimiento necesario por parte del departamento de salud, todos los datos estaban ya disponibles. Gracias a las herramientas de facturación con código QR, los clientes podían registrarse en la entrada del segundo. Incluso la salida, también a través del escaneo del código QR, fue posible sin ningún problema.\nDespués de Click & Meet, es cierto que la demanda de herramientas de cita previa en el comercio minorista ha disminuido considerablemente. Pero algunos comercios no han cancelado su herramienta de citas. Ahora ofrecen un asesoramiento exclusivo (compras personales) a través de ella o los clientes pueden reservar servicios de reparación, por ejemplo. La recogida de productos ya comprados en línea también se sigue gestionando a través de herramientas de cita previa. Una tienda de deportes, por ejemplo, ofrece asesoramiento sobre zapatillas de correr a través de Bookingflix. El cliente reserva una cita, el minorista confirma la cita. El asesoramiento y la venta tienen lugar en el punto de venta. Se recuerda al cliente la cita con varias veces de antelación por correo electrónico y mensaje de texto. Si es necesario, ambas partes pueden cancelar o volver a reservar la cita con dos clics. Son servicios digitales que el cliente simplemente espera y a los que se ha acostumbrado. Sobre todo por la pandemia de Corona.",
+		"title": "Venta al por menor"
+	},
+	"sub": {
+		"description": "Hoy en día, el comercio minorista es a menudo más que un paseo por la calle comercial y una compra espontánea según el principio del placer. El cliente espera, en función de sus necesidades, un asesoramiento ampliado y exclusivo y servicios posventa.\nUn ejemplo sería una tienda de moda nupcial. En este caso, el asesoramiento personal es imprescindible. A menudo, esta consulta se programa con el cliente por adelantado. Después de todo, ¿quién quiere probarse los mismos vestidos de novia con otras cinco clientas al mismo tiempo, una tras otra? El cliente reserva la cita y nos informa de cualquier deseo o requisito especial durante el proceso de reserva. Por ejemplo, la talla del vestido y otros accesorios necesarios para el día especial. Por supuesto, la coordinación y la programación también pueden hacerse por teléfono. Pero una herramienta de citas es también un instrumento de contacto y de marketing. Porque suele ser el primer punto de contacto. El cliente puede entonces decidir cómo y a través de qué se produce el primer contacto y la coordinación de la cita.\nA través del calendario de reserva de citas, el cliente ve directamente la dirección de la tienda. Incluye un enlace a Google Maps. Al reservar, se muestran todas las citas posibles. La clienta puede reservar la fecha deseada para la compra del vestido de novia deseado en la comodidad de su propia casa.\nSe envía un recordatorio de la cita con antelación. Opcional por correo electrónico y SMS. El cliente puede enviar mensajes a la tienda a través de una herramienta de chat. O el asesor de ventas envía información importante sobre la cita de compras al cliente.\nDespués de la cita, el cliente recibe un correo electrónico opcional de posventa. Por ejemplo, con la solicitud de valoración de la cita de compras. Para ello, Bookingflix está conectado a la herramienta de calificación Hitklick.com. Las opiniones de los clientes son muy prácticas para mejorar constantemente el propio servicio. También apoyan el factor de confianza cuando los nuevos clientes leen las reseñas de los clientes anteriores. Esto refuerza la confianza.\nY si hay vacaciones, una reunión de la empresa o un día festivo, esto se puede establecer fácilmente en el tablero de control de Bookingflix. En ese caso, no es posible hacer una reserva en esos días. Bookingflix también tiene un sistema de gestión de derechos. De este modo, los calendarios de reserva de citas individuales pueden ser gestionados por los departamentos o empleados responsables:innen . De este modo, sólo tienen acceso a los datos de las citas liberadas y relevantes. Se pueden crear diferentes servicios a través del calendario de reserva de citas. La duración de la cita, el precio, la imagen y el nombre de la cita pueden configurarse individualmente. A continuación, el cliente reserva el servicio deseado.",
+		"title": "¿Por qué reservar en línea con Bookingflix?"
+	}
+}

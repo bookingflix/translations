@@ -1,0 +1,8 @@
+{
+  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Einstellungen***.\n2. Klicken Sie auf ***System-Mails bearbeiten***.\n3. Wählen Sie den gewünschten Termin-Buchungs-Kalender aus.\n4. Klicken Sie auf ***Zusage***.\n5. Setzen Sie einen Haken, wenn die Terminzusage zusätzlich per SMS erfolgen soll.\n6. Klicken Sie auf ***jetzt speichern***.",
+  "img": {
+    "1": "bild10.webp",
+    "2": "bild11.webp"
+  },
+  "title": "Terminzusage per SMS"
+}

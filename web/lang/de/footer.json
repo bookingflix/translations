@@ -1,0 +1,28 @@
+{
+	"0": {
+		"parts": [
+			"Login",
+			"Kontakt",
+			""
+		],
+		"title": "Benutzer"
+	},
+	"1": {
+		"parts": [
+			"Hilfe",
+			"Über Bookingflix",
+			"Status",
+			""
+		],
+		"title": "Support"
+	},
+	"2": {
+		"parts": [
+			"Impressum",
+			"AGB",
+			"Datenschutz"
+		],
+		"title": "Rechtliches"
+	},
+	"description": "Alle Rechte vorbehalten"
+}

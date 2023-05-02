@@ -1,0 +1,148 @@
+{
+	"benefits": {
+		"items": {
+			"01": "gran ahorro de tiempo\nLa reserva le cuesta cero minutos. Los padres sólo necesitan uno o dos minutos para la reserva.",
+			"02": "No te pongas nervioso\n¿Por qué concertar citas cuando puede seleccionarlas y reservarlas directamente?",
+			"03": "Aumentar la fiabilidad de las citas\nA los padres y alumnos les gusta que les recuerden la cita. Esto reduce significativamente el índice de inasistencia.",
+			"04": "Actualización digital\nSí, el teléfono era muy moderno. Pero el tiempo no se detiene. Los padres y los estudiantes esperan servicios modernos y digitales."
+		},
+		"title": "Sus ventajas en pocas palabras"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "¿Se puede pagar la Cuenta Premium también por factura en lugar de por domiciliación bancaria?",
+				"url": ""
+			},
+			"11": {
+				"title": "¿Qué tipo de calendario es el más utilizado por los colegios?",
+				"url": ""
+			},
+			"12": {
+				"title": "¿Se pueden sincronizar o transferir las citas de Bookingflix con un calendario estándar de Google, Microsoft o Apple?",
+				"url": ""
+			},
+			"13": {
+				"title": "¿Pueden dos profesores:innen compartir un calendario o una cuenta?",
+				"url": ""
+			},
+			"14": {
+				"title": "¿Se pueden enviar recordatorios de citas antes de la cita, a una hora determinada?",
+				"url": ""
+			},
+			"15": {
+				"title": "¿Cuánto cuestan los recordatorios de citas por SMS?",
+				"url": ""
+			},
+			"16": {
+				"title": "¿Cuánto cuesta Bookingflix al mes?",
+				"url": ""
+			},
+			"17": {
+				"title": "¿Qué plazo de preaviso debo respetar?",
+				"url": ""
+			},
+			"18": {
+				"title": "¿Qué calendario de reserva de citas es mejor para las reuniones de padres y profesores?",
+				"url": ""
+			},
+			"19": {
+				"title": "¿Cuánto tiempo se tarda en reservar una cita para mis clientes?",
+				"url": ""
+			},
+			"01": {
+				"title": "¿La reserva de citas a través de Bookingflix.com cumple con el GDPR?",
+				"url": ""
+			},
+			"02": {
+				"title": "¿Dónde se encuentran los servidores de Bookingflix?",
+				"url": ""
+			},
+			"03": {
+				"title": "¿Puede cada profesor utilizar su propio calendario de reserva de citas?"
+			},
+			"04": {
+				"title": "¿Cómo llegan los padres al calendario de reserva de citas?",
+				"url": ""
+			},
+			"05": {
+				"title": "¿Cuenta Bookingflix con un sistema de gestión de derechos para que cada colega pueda ver sólo los datos relevantes?",
+				"url": ""
+			},
+			"06": {
+				"title": "¿Se pueden confirmar automáticamente las reservas de citas?",
+				"url": ""
+			},
+			"07": {
+				"title": "¿Qué apoyo recibimos dentro del ámbito de uso?",
+				"url": ""
+			},
+			"08": {
+				"title": "¿Se pueden pausar los calendarios de reserva de citas?",
+				"url": ""
+			},
+			"09": {
+				"title": "¿Es posible un descuento o una oferta individual si se necesitan muchos calendarios de reserva de citas?",
+				"url": ""
+			}
+		},
+		"title": "Preguntas frecuentes relevantes para su sector"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Exportar los datos de las citas (pdf, csv)",
+				"url": ""
+			},
+			"11": {
+				"title": "Introducir las citas manualmente",
+				"url": ""
+			},
+			"01": {
+				"title": "Reserva de citas según la norma DSGVO",
+				"url": ""
+			},
+			"02": {
+				"title": "Servidor en Alemania",
+				"url": ""
+			},
+			"03": {
+				"title": "Mejor visión de conjunto del estado de la cita (compromiso, cancelación, aún no confirmado)",
+				"url": ""
+			},
+			"04": {
+				"title": "Confirmar automáticamente las citas",
+				"url": ""
+			},
+			"05": {
+				"title": "Simplemente cambie o cancele las citas",
+				"url": ""
+			},
+			"06": {
+				"title": "Comunicar más información como parte de la reserva",
+				"url": ""
+			},
+			"07": {
+				"title": "Escribir con los clientes/padres directamente a través de Bookingflix",
+				"url": ""
+			},
+			"08": {
+				"title": "Recordatorios de citas",
+				"url": ""
+			},
+			"09": {
+				"title": "Sitio web de reserva de citas utilizable para cualquier calendario de reservas incluso sin sitio web propio",
+				"url": ""
+			}
+		},
+		"title": "Funciones y características especialmente relevantes para su sector"
+	},
+	"main": {
+		"description": "\nCada vez más escuelas y profesores utilizan Bookingflix. Las citas con los padres para las reuniones de padres y profesores son especialmente populares. O también el arreglo de la cita para la reinscripción de los niños al cambiar de escuela.\nPor supuesto, Bookingflix se ha desarrollado de acuerdo con la norma de protección de datos DSGVO.",
+		"title": "Escuelas e instituciones educativas"
+	},
+	"sub": {
+		"description": "Los padres no tienen que ponerse en contacto con el profesor de la clase por correo electrónico o por teléfono. También se elimina el correo silencioso, es decir, la concertación de citas a través del niño como facilitador de las mismas. El profesor crea un calendario de reserva de citas en pocos minutos. Recomendamos el calendario de reservas para eventos específicos. Se trata, por ejemplo, de la jornada de consulta con los padres o de la discusión sobre el progreso del aprendizaje con los padres o tutores. Se pueden establecer varios horarios para este evento. De este modo, cada padre puede reservar la fecha que prefiera. Puede ver directamente qué fecha está todavía libre. La confirmación de la cita puede enviarse de forma inmediata y automática a través del sistema Bookingflix. Sin embargo, el profesor también puede realizar una entrada manual en cualquier momento.\nSi los padres quieren cambiar o cancelar la cita, esto también es posible directamente a través de Bookingflix. Una coordinación de citas tediosa y a veces molesta no es necesaria.\nPor cada calendario de reserva de citas creado, se crea automáticamente una página web de reserva de citas. De este modo, cada profesor puede compartir con sus padres el enlace a su propia página web de reserva de citas. Por lo tanto, no es necesario incluirlo en el sitio web de la escuela. El sitio web de reserva de citas puede adaptarse individualmente y llenarse con más información. También se puede añadir fácilmente el sello y la información de protección de datos.\nBookingflix también ofrece una función de chat. Los padres pueden utilizar esta función para enviar un correo electrónico a los profesores en caso de preocupaciones especiales. Por supuesto, también es posible el camino inverso.\nLa protección de datos está garantizada en todo momento. Por regla general, los datos sensibles no son necesarios. El nombre de los padres o el nombre del niño es suficiente para concertar una cita. Los datos se almacenan en servidores de Alemania. Después de 30 días, los datos de las citas son borrados automáticamente por el sistema (períodos de borrado). También es posible un borrado anterior o una copia de seguridad de los datos mediante una exportación.\nLos recordatorios de citas son un servicio especial. Por correo electrónico o SMS. Los profesores:innen pueden establecer ellos mismos si se envía un recordatorio de cita por correo electrónico o por SMS y cuándo. Esto aumenta la fiabilidad de las citas.\nLos calendarios pueden ser gestionados de forma centralizada por una persona. Los profesores:innen tienen acceso a la administración completa o sólo acceso limitado a los datos o a los ajustes del calendario individual. De este modo, también se garantiza la protección de los datos dentro de la escuela y sólo se muestra a todo el mundo lo que es realmente relevante.",
+		"title": "¿Por qué reservar en línea con Bookingflix?"
+	}
+}

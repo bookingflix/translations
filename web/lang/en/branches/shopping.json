@@ -1,0 +1,201 @@
+{
+	"benefits": {
+		"items": {
+			"01": "great time saving\nTime is often tight at the point of sale. Appointment scheduling via appointment tool solves the problem.",
+			"02": "Save nerves\nCustomers simply want to see, click and then buy on the spot. Simple and straightforward.",
+			"03": "Increase appointment reliability\nUse the automatic reminders via email and SMS. By the way, most customers appreciate this extra service.",
+			"04": "Digitally up to date\nAppointment tools are now a popular standard. The phone is good for chatting, not booking appointments.",
+			"05": "Optimize workflow\nThe customer books and manages the shopping appointment himself. The appointment data is clearly displayed in your dashboard."
+		},
+		"title": "Your advantages in a nutshell"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "What is the cost of appointment reminders via SMS?",
+				"url": ""
+			},
+			"11": {
+				"title": "How much does Bookingflix cost per month?",
+				"url": ""
+			},
+			"12": {
+				"title": "What notice period do I have to observe?",
+				"url": ""
+			},
+			"13": {
+				"title": "Can the customer manage the booking himself (change appointment, cancel)",
+				"url": ""
+			},
+			"14": {
+				"title": "Can the email texts be customized?",
+				"url": ""
+			},
+			"15": {
+				"title": "Can the system mails (acceptance, rejection) be sent from your own mail address?",
+				"url": ""
+			},
+			"16": {
+				"title": "What happens to the appointment data after the appointment?",
+				"url": ""
+			},
+			"17": {
+				"title": "Can I cancel appointments, delete appointments, or cancel the prospect after the fact?",
+				"url": ""
+			},
+			"18": {
+				"title": "Which appointment booking calendar is best for my business?",
+				"url": ""
+			},
+			"19": {
+				"title": "How long does it take to book appointments for my clients?",
+				"url": ""
+			},
+			"20": {
+				"title": "Can I also enter customer appointments manually for my customers?",
+				"url": ""
+			},
+			"21": {
+				"title": "How does the creation of different services (price, duration of the appointment) work?",
+				"url": ""
+			},
+			"22": {
+				"title": "How can I set vacations when the city hall is closed?",
+				"url": ""
+			},
+			"23": {
+				"title": "How do I contact the client before the appointment?",
+				"url": ""
+			},
+			"24": {
+				"title": "I would like to create a short note for the customer appointment. How do I do that?",
+				"url": ""
+			},
+			"01": {
+				"title": "Is the appointment booking via Bookingflix.com DSGVO compliant?",
+				"url": ""
+			},
+			"02": {
+				"title": "Where are the Bookingflix servers located?",
+				"url": ""
+			},
+			"03": {
+				"title": "Does Bookingflix have a rights management so that employees can take over the appointment management?"
+			},
+			"04": {
+				"title": "What exactly happens when a customer cancels their appointment?",
+				"url": ""
+			},
+			"05": {
+				"title": "Can appointment bookings be confirmed automatically?",
+				"url": ""
+			},
+			"06": {
+				"title": "Can appointments be entered manually for the customer?",
+				"url": ""
+			},
+			"07": {
+				"title": "What support do we get within the scope of use?",
+				"url": ""
+			},
+			"08": {
+				"title": "Can the premium account also be paid by invoice instead of direct debit?",
+				"url": ""
+			},
+			"09": {
+				"title": "Can appointment reminders be sent before the appointment, at a specific time?",
+				"url": ""
+			}
+		},
+		"title": "Relevant FAQ for your industry"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Simply change or cancel appointments",
+				"url": ""
+			},
+			"11": {
+				"title": "More info communicate within the booking",
+				"url": ""
+			},
+			"12": {
+				"title": "Appointment reminders",
+				"url": ""
+			},
+			"13": {
+				"title": "Address of the appointment in appointment booking calendar with link to Google Maps",
+				"url": ""
+			},
+			"14": {
+				"title": "Easily integrate appointment booking calendar on your own website",
+				"url": ""
+			},
+			"15": {
+				"title": "Appointment booking website usable even without own website",
+				"url": ""
+			},
+			"16": {
+				"title": "Create appointment notes for appointments and customers",
+				"url": ""
+			},
+			"17": {
+				"title": "Vacations and vacations adjustable",
+				"url": ""
+			},
+			"18": {
+				"title": "Book in customer via QR code scan",
+				"url": ""
+			},
+			"19": {
+				"title": "Increase trust factor through after-sale evaluation",
+				"url": ""
+			},
+			"01": {
+				"title": "Appointment booking according to DSGVO standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Germany",
+				"url": ""
+			},
+			"03": {
+				"title": "Appointment booking calendar for fixed opening hours",
+				"url": ""
+			},
+			"04": {
+				"title": "Appointment booking calendar for specific services",
+				"url": ""
+			},
+			"05": {
+				"title": "Better overview of the appointment status (commitment, cancellation, not yet confirmed)",
+				"url": ""
+			},
+			"06": {
+				"title": "Different appointment durations can be set. E.g. five minutes or two hours",
+				"url": ""
+			},
+			"07": {
+				"title": "Rights management for appointment management by responsible administrator",
+				"url": ""
+			},
+			"08": {
+				"title": "Individual email texts of the system emails",
+				"url": ""
+			},
+			"09": {
+				"title": "Have appointments confirmed automatically",
+				"url": ""
+			}
+		},
+		"title": "Particularly relevant functions and features for your industry"
+	},
+	"main": {
+		"description": "Since the Corona pandemic, the retail sector has also experienced appointment business. First came Click & Collect, then even Click & Meet. Without an appointment, a shopping experience was no longer possible. Many stores offered appointments right at the door. This was also due to the fact that the demand for appointment tools at times greatly exceeded the supply. Bookingflix was also literally overrun. This included many small stores as well as large chain stores, fashion chains and even DIY stores with almost 200 locations.\nThose who could offer their customers an appointment tool during this time had a real competitive advantage. Because booking an appointment was also much more convenient, faster and easier for customers than standing in line on site to fill out a piece of paper with their own data.\nAnd if the store was crowded at the time, the wait could easily be 30-60 minutes. With an appointment tool, the customer directly chose the free appointment slot and could be sure to get in immediately.\nFor the dealer Bookingflix also had some advantages. The time savings, especially with busy customer traffic, was significant. Also the capacity utilization could be controlled better. Because only free appointment slots could be booked. And in case of a necessary follow-up by the health department, all data was already available. Using the QR code check-in tools, customers could be booked in at the entrance to the second. Even a check-out, also via QR code scan, was possible without any problems.\nAfter Click & Meet, the demand for appointment tools in retail has admittedly dropped significantly. But some stores have not cancelled their appointment tool. They now offer exclusive one-on-one advice (personal shopping) via it or customers can book repair services, for example. Even the collection of goods already purchased online continues to be handled via appointment tools. One sports store, for example, offers running shoe advice via Bookingflix. The customer books an appointment, and the retailer confirms the appointment. At the point-of-sale, the consultation and the sale then take place. In advance, the customer is reminded of the appointment several times by email and SMS. If necessary, or appointment can be canceled or rebooked by both sides with two clicks. These are digital services that customers simply expect and have become accustomed to. Not least because of the Corona pandemic.",
+		"title": "Retail"
+	},
+	"sub": {
+		"description": "Today, retailing is often more than strolling down the shopping street and spontaneous shopping on a whim. Customers expect, depending on their needs, extended, exclusive advice and after-sale services.\nAn example would be a bridal fashion store. Here, personal advice is an absolute must. Often, this consultation is scheduled with the customer in advance. After all, who wants to try on the same wedding dresses with five other customers, simultaneously, one after the other. The customer books the appointment and communicates in the booking process if necessary still special wishes or special needs. For example, the dress size and other accessories needed for the special day. Of course, the coordination and scheduling can also be done by phone. But an appointment tool is also a contact and marketing instrument. Because often the first contact takes place via it. The customer or the customer can then decide how and through what the first contact and appointment coordination takes place.\nVia the appointment booking calendar, the customer sees the address of the store directly. Including a link to Google Maps. When booking, all possible appointments are displayed. The customer books thus, completely relaxed at home, the desired date for the purchase of the desire wedding dress.\nBy date reminder is reminded in advance again of the date. Optionally by email and SMS. The customer can send messages to the store via a chat tool. Or the sales consultant sends important information about the shopping appointment to the customer.\nAfter the appointment, the customer receives, optionally, an after-sale email. For example with the request to rate the shopping appointment. For this Bookingflix is connected with the rating tool Hitklick.com. Customer reviews are very practical to constantly improve the own service. Moreover, they support the trust factor when new customers read the reviews of previous customers. This strengthens trust.\nAnd if there are vacations, a company meeting or a public holiday, this can be set very easily in the dashboard of Bookingflix. A booking is then not possible on those days. Bookingflix also has a rights management. So individual appointment booking calendars can be managed by the responsible departments or employees:innen . They then only have access to the released, relevant appointment data. Different services can be created via the appointment booking calendar. Appointment duration, price, image and appointment name can be set individually. The customer then books the service that is desired.",
+		"title": "Why online appointment booking with Bookingflix?"
+	}
+}

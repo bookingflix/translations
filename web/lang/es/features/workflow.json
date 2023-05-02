@@ -1,0 +1,67 @@
+{
+	"integration-in-ihren-workflow": {
+		"cta": {
+			"action": "Pruebe ahora Bookingflix Premium durante 14 días de forma gratuita.",
+			"button": "Crear una agenda ahora",
+			"link": "/quickstart"
+		},
+		"intro": "Puedes integrar fácilmente y sin problemas las funciones de Bookingflix en tu trabajo diario. Bookingflix te ayuda a organizar tus citas para que tengas más tiempo para tu negocio real.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Reservar citas fuera del horario comercial",
+							"img": "integration-in-ihren-workflow-01.png",
+							"text": "Reservar citas en cualquier momento Con el calendario de citas online de Bookingflix, es posible aceptar reservas fuera de su horario comercial. Esto le permite llegar a más clientes y aumentar su volumen de negocio. Muchos clientes -sobre todo de la generación joven y media- prefieren reservar por Internet a hacerlo por teléfono."
+						},
+						{
+							"headline": "Diario en tiempo real",
+							"img": "integration-in-ihren-workflow-02.png",
+							"text": "Sólo se muestran a sus clientes los horarios de las citas libres. En cuanto un cliente haya reservado una cita, ésta dejará de estar disponible. Así se evitan las reservas dobles y siempre se tiene una visión general de la carga de trabajo actual. Además, puede ver las entradas de las citas en todos los dispositivos fijos y móviles."
+						},
+						{
+							"button": {
+								"link": "/support/video/11",
+								"more": "Más información"
+							},
+							"headline": "Reserva y cambio manual de citas",
+							"img": "integration-in-ihren-workflow-03.png",
+							"text": "No todos los clientes quieren o pueden reservar una cita en línea. Por lo tanto, introduzca las citas telefónicas manualmente en el tablero. Aquí también puede realizar cambios o cancelar citas manualmente."
+						},
+						{
+							"headline": "Sincronización con los calendarios existentes",
+							"img": "integration-in-ihren-workflow-04.png",
+							"text": "Bookinflix te ofrece una sincronización bidireccional. Esto significa que las citas almacenadas en sus calendarios estándar se tienen en cuenta en su calendario de reservas de Bookingflix a través de una sincronización automática. Somos compatibles con proveedores habituales como Google, Microsoft y Apple."
+						},
+						{
+							"headline": "Confirmación automática de citas",
+							"img": "integration-in-ihren-workflow-05.png",
+							"text": "Con Bookingflix, ya no tienes que comprobar tu calendario. Si se reserva una cita libre, puede hacer que el sistema la confirme de forma inmediata y automática. Si prefiere comprobar usted mismo las reservas, también puede confirmar manualmente las nuevas citas."
+						},
+						{
+							"button": {
+								"link": "/support/video/18",
+								"more": "Más información"
+							},
+							"headline": "Código QR para reservar una cita in situ",
+							"img": "integration-in-ihren-workflow-06.png",
+							"text": "En tu cuenta de Bookingflix encontrarás un código QR generado automáticamente para cada calendario de citas que lleva directamente a tu sitio web de reservas. Puede imprimirlo y exponerlo en su escaparate para facilitar la reserva de citas in situ, por ejemplo en el marco de Click & Meet. Sus clientes sólo tienen que escanear el código QR con su smartphone y pueden reservar una cita con usted sin necesidad de dar rodeos."
+						},
+						{
+							"button": {
+								"link": "/support/video/12",
+								"more": ""
+							},
+							"headline": "",
+							"img": "integration-in-ihren-workflow-07.png",
+							"text": ""
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Integración en su flujo de trabajo",
+		"title": "Cómo puedes integrar perfectamente Bookingflix en tu jornada laboral individual"
+	}
+}

@@ -1,0 +1,148 @@
+{
+	"benefits": {
+		"items": {
+			"01": "große Zeitersparnis\nDie Buchung kostet Sie Null Minuten. Die Eltern benötigen nur ein bis zwei Minuten für die Buchung.",
+			"02": "Nerven schonen\nWarum Termine absprechen, wenn man sie auch einfach auswählen und direkt buchen kann?",
+			"03": "Terminzuverlässigkeit steigern\nEltern und Schüler werden gerne an den Termin erinnert. Die NoShow-Rate sinkt hierdurch deutlich.",
+			"04": "Digital auf dem neuesten Stand\nJa, das Telefon war mal sehr modern. Aber die Zeit bleibt nicht stehen. Eltern und Schüler erwarten moderne, digitale Services."
+		},
+		"title": "Ihre Vorteile auf den Punkt"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Kann der Premium-Account auch per Rechnung bezahlt werden statt per Lastschrift?",
+				"url": ""
+			},
+			"11": {
+				"title": "Welcher Kalender-Typ wird am meisten genutzt von Schulen?",
+				"url": ""
+			},
+			"12": {
+				"title": "Können die Termine von Bookingflix mit einem Standard-Kalender von Google, Microsoft oder Apple synchronisiert oder übertragen werden?",
+				"url": ""
+			},
+			"13": {
+				"title": "Können sich zwei Lehrer:innen einen Kalender oder einen  Account teilen?",
+				"url": ""
+			},
+			"14": {
+				"title": "Können vor dem Termin, zu einem bestimmten Zeitpunkt, Terminerinnerungen verschickt werden?",
+				"url": ""
+			},
+			"15": {
+				"title": "Was kosten die Terminerinnerungen per SMS?",
+				"url": ""
+			},
+			"16": {
+				"title": "Was kostet Bookingflix im Monat?",
+				"url": ""
+			},
+			"17": {
+				"title": "Welche Kündigungsfrist muss ich beachten?",
+				"url": ""
+			},
+			"18": {
+				"title": "Welcher Termin-Buchungs-Kalender ist für Elternsprechtage am besten geeignet?",
+				"url": ""
+			},
+			"19": {
+				"title": "Wie lange dauert die Terminbuchung für meine Kunden?",
+				"url": ""
+			},
+			"01": {
+				"title": "Ist die Terminbuchung über Bookingflix.com DSGVO-konform?",
+				"url": ""
+			},
+			"02": {
+				"title": "Wo stehen die Server von Bookingflix?",
+				"url": ""
+			},
+			"03": {
+				"title": "Kann jeder Lehrer, jede Lehrerin einen eigenen Termin-Buchungs-Kalender nutzen?"
+			},
+			"04": {
+				"title": "Wie kommen die Eltern zum Termin-Buchungs-Kalender?",
+				"url": ""
+			},
+			"05": {
+				"title": "Hat Bookingflix eine Rechteverwaltung, damit jeder Kollege, jede Kollegin nur die jeweils relevanten Daten einsehen kann?",
+				"url": ""
+			},
+			"06": {
+				"title": "Können Terminbuchungen automatisch bestätigt werden?",
+				"url": ""
+			},
+			"07": {
+				"title": "Welchen Support bekommen wir im Rahmen der Nutzung?",
+				"url": ""
+			},
+			"08": {
+				"title": "Können Termin-Buchungs-Kalender pausiert werden?",
+				"url": ""
+			},
+			"09": {
+				"title": "Ist ein Rabatt  beziehungsweise ein individuelles Angebot möglich, wenn viele Termin-Buchungs-Kalender benötigt werden?",
+				"url": ""
+			}
+		},
+		"title": "Relevante FAQ für Ihre Branche"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Termin-Daten exportieren (pdf, csv)",
+				"url": ""
+			},
+			"11": {
+				"title": "Termine händisch eintragen",
+				"url": ""
+			},
+			"01": {
+				"title": "Terminbuchung nach DSGVO-Standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Deutschland",
+				"url": ""
+			},
+			"03": {
+				"title": "Besserer Überblick über den Terminstatus (Zusage, Absage, noch nicht bestätigt)",
+				"url": ""
+			},
+			"04": {
+				"title": "Termine automatisch bestätigen lassen",
+				"url": ""
+			},
+			"05": {
+				"title": "Termine einfach ändern oder absagen",
+				"url": ""
+			},
+			"06": {
+				"title": "Weitere Infos mitteilen im Rahmen der Buchung",
+				"url": ""
+			},
+			"07": {
+				"title": "Mit Kunden/Eltern direkt über Bookingflix schreiben",
+				"url": ""
+			},
+			"08": {
+				"title": "Terminerinnerungen",
+				"url": ""
+			},
+			"09": {
+				"title": "Termin-Buchungs-Website für jeden Buchungskalender nutzbar auch ohne eigene Website",
+				"url": ""
+			}
+		},
+		"title": "Besonders relevante Funktionen und Eigenschaften für Ihre Branche"
+	},
+	"main": {
+		"description": "\nImmer mehr Schulen und Lehrer nutzen Bookingflix. Besonders die Terminvereinbarung mit den Eltern für Elternsprechtage ist sehr gefragt. Oder auch die Termin-Vereinbarung für die Neuanmeldung der Kinder beim Schulwechsel.\nBookingflix ist selbstverständlich datenschutzkonform nach DSGVO-Standard entwickelt worden.",
+		"title": "Schulen und Bildungseinrichtungen"
+	},
+	"sub": {
+		"description": "Die Eltern müssen nicht per Email oder Telefon den Klassenlehrer kontaktieren. Auch die stille Post, also die Terminabsprache über das Kind als Termin-Vermittler, fällt weg. Der Lehrer, die Lehrerin erstellt in wenigen Minuten einen Termin-Buchungs-Kalender. Wir empfehlen den Buchungs-Kalender für konkrete Events. Das Event ist hierbei beispielsweise der Elternsprechtag beziehungsweise Lernstandsgespräche mit den Erziehungsberechtigten. Für dieses Event können dann mehrere Uhrzeiten festgelegt werden. So bucht jedes Elternteil den eigenen Wunschtermin. Sie sehen dabei direkt, welcher Termin noch frei ist. Die Terminzusage kann sofort und automatisch über das Bookingflix-System versendet werden. Aber auch eine händische Eintragung ist optional jederzeit für den Lehrer, die Lehrerin möglich.\nFalls die Eltern den Termin doch ändern oder absagen möchten, ist dies ebenfalls direkt über Bookingflix möglich. Eine langwierige, teilweise nervige Terminkoordination entfällt ganz einfach.\nFür jeden erstellten Termin-Buchungs-Kalender wird automatisch eine Termin-Buchungs-Website mit erstellt. So kann jeder Lehrer, jede Lehrerin den Link zur eigenen Termin-Buchungs-Website mit den Eltern teilen. Ein Einbinden auf der Website der Schule ist somit gar nicht nötig. Die Termin-Buchungs-Website kann individuell angepasst und mit weiteren Infos gefüllt werden. Auch das Impressum und die Angaben zum Datenschutz lassen sich einfach einfügen.\nBookingflix bietet außerdem eine Chat-Funktion. Hierüber schreiben die Eltern bei besonderen Anliegen den Lehrern eine Email. Der umgekehrte Weg ist selbstverständlich ebenso möglich.\nDer Datenschutz ist hierbei jederzeit gewährleistet. Sensible Daten werden in der Regel nicht benötigt. Der Name der Eltern oder der Vorname des Kindes reicht aus für die Terminvereinbarung. Die Daten liegen auf Servern innerhalb von Deutschland. Nach 30 Tagen werden die Termindaten automatisch systemseitig gelöscht (Löschfristen). Eine frühere Löschung oder eine Sicherung der Daten über einen Export ist ebenso möglich.\nEin besonderer Service sind die Terminerinnerungen. Per Email oder per SMS. Die Lehrer:innen können selbst einstellen, ob und wann eine Terminerinnerung per Email oder SMS versendet wird. Das erhöht die Terminzuverlässigkeit.\nDie Kalender können von einer Person zentral verwaltet werden. Die Lehrer:innen erhalten Zugriff auf die komplette Verwaltung oder nur einen eingeschränkten Zugriff auf die Daten oder die Einstellungen des einzelnen Kalenders. So ist der Datenschutz auch innerhalb der Schule gesichert und jeder bekommt nur das angezeigt, was wirklich relevant ist.",
+		"title": "Warum Online-Termin-Buchung mit Bookingflix?"
+	}
+}

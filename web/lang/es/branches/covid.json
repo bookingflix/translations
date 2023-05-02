@@ -1,0 +1,189 @@
+{
+	"benefits": {
+		"items": {
+			"01": "gran ahorro de tiempo\n¿Quién quiere coordinar varios miles de citas para pruebas y vacunas por teléfono y luego introducirlas manualmente?",
+			"02": "No te pongas nervioso\nAhórrese el esfuerzo y a los vacunados. Reservar una cita en línea es simplemente más relajado.",
+			"03": "Aumentar la fiabilidad de las citas\nA los clientes les gusta que les recuerden la cita. Y el cliente también puede cancelar la cita rápidamente, con sólo unos clics.",
+			"04": "Actualización digital\n¿Conoce algún centro de vacunación o de pruebas importante que no ofrezca citas en línea? ¡Eso es simplemente estándar!",
+			"05": "Optimizar el flujo de trabajo\nEl cliente reserva y gestiona la cita. Llega a tiempo y se registra mediante el escaneo del código QR. El cliente recibe el resultado de la prueba por correo electrónico."
+		},
+		"title": "Sus ventajas en pocas palabras"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "¿Se pueden enviar recordatorios de citas antes de la cita, a una hora determinada?",
+				"url": ""
+			},
+			"11": {
+				"title": "¿Cuánto cuestan los recordatorios de citas por SMS?",
+				"url": ""
+			},
+			"12": {
+				"title": "¿Cuánto cuesta Bookingflix al mes?",
+				"url": ""
+			},
+			"13": {
+				"title": "¿Qué plazo de preaviso debo respetar?",
+				"url": ""
+			},
+			"14": {
+				"title": "¿Podemos registrar a los clientes en la entrada mediante el escaneo del código QR?",
+				"url": ""
+			},
+			"15": {
+				"title": "¿Es posible fijar días festivos en los que no se pueda reservar una cita?",
+				"url": ""
+			},
+			"16": {
+				"title": "¿Puede el cliente gestionar la reserva por sí mismo (cambiar la cita, cancelar)?",
+				"url": ""
+			},
+			"17": {
+				"title": "¿Qué franjas horarias se pueden fijar?",
+				"url": ""
+			},
+			"18": {
+				"title": "¿Se pueden personalizar los textos del correo electrónico?",
+				"url": ""
+			},
+			"19": {
+				"title": "¿Se pueden enviar los correos del sistema (aceptación, rechazo) desde su propia dirección de correo?",
+				"url": ""
+			},
+			"20": {
+				"title": "¿Dónde puede encontrar el cliente el ticket de la cita con el código QR?",
+				"url": ""
+			},
+			"21": {
+				"title": "¿Se puede introducir información importante directamente en el formulario de reserva de citas, que debe confirmarse antes de la reserva?",
+				"url": ""
+			},
+			"22": {
+				"title": "¿Qué calendario de reserva de citas es el mejor para mi negocio?",
+				"url": ""
+			},
+			"23": {
+				"title": "¿Cuánto tiempo se tarda en reservar una cita para mis clientes?",
+				"url": ""
+			},
+			"01": {
+				"title": "¿La reserva de citas a través de Bookingflix.com cumple con el GDPR?",
+				"url": ""
+			},
+			"02": {
+				"title": "¿Dónde se encuentran los servidores de Bookingflix?",
+				"url": ""
+			},
+			"03": {
+				"title": "¿Tiene Bookingflix una gestión de derechos para que los empleados puedan asumir la gestión de las citas?"
+			},
+			"04": {
+				"title": "¿Pueden los grupos también hacer una reserva y se tendrá en cuenta el número?",
+				"url": ""
+			},
+			"05": {
+				"title": "¿Está limitado el número de citas mensuales?",
+				"url": ""
+			},
+			"06": {
+				"title": "¿Se pueden confirmar automáticamente las reservas de citas?",
+				"url": ""
+			},
+			"07": {
+				"title": "¿Se pueden introducir manualmente las citas para el cliente?",
+				"url": ""
+			},
+			"08": {
+				"title": "¿Qué apoyo recibimos dentro del ámbito de uso?",
+				"url": ""
+			},
+			"09": {
+				"title": "¿Se puede pagar la Cuenta Premium también por factura en lugar de por domiciliación bancaria?",
+				"url": ""
+			}
+		},
+		"title": "Preguntas frecuentes relevantes para su sector"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Confirmar automáticamente las citas",
+				"url": ""
+			},
+			"11": {
+				"title": "Simplemente cambie o cancele las citas",
+				"url": ""
+			},
+			"12": {
+				"title": "Comunicar más información como parte de la reserva",
+				"url": ""
+			},
+			"13": {
+				"title": "Recordatorios de citas",
+				"url": ""
+			},
+			"14": {
+				"title": "Exportar los datos de las citas (pdf, csv)",
+				"url": ""
+			},
+			"15": {
+				"title": "Ticket de cita con código QR para imprimir",
+				"url": ""
+			},
+			"16": {
+				"title": "Búsqueda de texto completo en el cuadro de mandos",
+				"url": ""
+			},
+			"17": {
+				"title": "Dirección de la cita en el calendario de reservas con enlace a Google Maps",
+				"url": ""
+			},
+			"01": {
+				"title": "Reserva de citas según la norma DSGVO",
+				"url": ""
+			},
+			"02": {
+				"title": "Servidor en Alemania",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendario de reserva de citas para los horarios de apertura fijos",
+				"url": ""
+			},
+			"04": {
+				"title": "Mejor visión de conjunto del estado de la cita (compromiso, cancelación, aún no confirmado)",
+				"url": ""
+			},
+			"05": {
+				"title": "Reservas para grupos",
+				"url": ""
+			},
+			"06": {
+				"title": "También se pueden establecer citas de muy corta duración. Por ejemplo, cinco minutos",
+				"url": ""
+			},
+			"07": {
+				"title": "Vacaciones y descansos ajustables",
+				"url": ""
+			},
+			"08": {
+				"title": "Función de entrada y salida con escaneo de código QR",
+				"url": ""
+			},
+			"09": {
+				"title": "Textos individuales de los correos electrónicos del sistema",
+				"url": ""
+			}
+		},
+		"title": "Funciones y características especialmente relevantes para su sector"
+	},
+	"main": {
+		"description": "Aquellos que nunca reservaron una cita a través de una herramienta de citas antes de 2020 pueden no haber sabido que existía. A continuación, a partir de 2021, se abrieron innumerables centros de vacunación y pruebas en todo el país. La demanda de potentes herramientas de cita que puedan funcionar de forma estable incluso en medio de un gran ajetreo aumentó considerablemente. Desde entonces, también se utiliza Bookingflix en muchos centros de pruebas y vacunación. Incluso se han implementado algunas funciones nuevas especialmente para este fin. Por ejemplo, el sistema de check-in y check-out mediante el escaneo de códigos QR.\nEste fuerte aumento de la demanda también llevó a que Bookingflix funcionara en una potente estructura de servidores del líder mundial del mercado AWS. Y esto es muy estable, incluso bajo alta carga.\nEl cliente final, también conocido cariñosamente como vacunador, quiere seleccionar y reservar la fecha deseada de forma rápida y sencilla. Y si se puede vacunar más rápidamente, por ejemplo, de forma espontánea en el médico de cabecera, se puede anular la cita ya reservada sin necesidad de escribir un correo electrónico o llamar por teléfono.\nLa seguridad y la protección de los datos desempeñan, naturalmente, un papel especial en este ámbito tan sensible. Aunque se trate principalmente de datos sobre citas, cualquier dato en el servicio de salud es de especial relevancia. Aquí Bookingflix podría demostrar que es un socio fiable de las consultas médicas, los centros de pruebas y los centros de vacunación. Con cierto orgullo, el equipo de Bookingflix puede afirmar que ha participado un poco en la lucha contra la pandemia.",
+		"title": "Centros de pruebas y vacunación"
+	},
+	"sub": {
+		"description": "Como ya se ha descrito, el cliente final, la persona vacunada, quiere llegar a la cita de vacunación o prueba deseada sin largos tiempos de espera, sin llamar, sin esperar en espera, sin líneas ocupadas.\nA través del calendario de reserva de citas, el cliente selecciona la cita deseada, introduce sus datos y confirma las condiciones relativas a la protección de datos. Una vez verificada, la cita es confirmada directamente por el sistema o puede ser confirmada manualmente por el centro de vacunación o de pruebas con un solo clic. El cliente recibe la confirmación de la cita con el enlace de la cita personal por correo electrónico. La reserva se puede editar o cancelar a través de este enlace. El billete de la cita con el código QR también está disponible allí. Mediante el código QR, el equipo del centro de vacunación o de pruebas puede documentar la asistencia. Se trata de una función práctica o incluso necesaria para la facturación o la trazabilidad.\nIncluso se pueden establecer citas de grupo. Se trata de una petición urgente de un centro de vacunación para que las parejas también puedan acudir juntas a la vacunación y no tengan que reservar citas con mucha diferencia.\nLas franjas horarias de las citas se pueden fijar individualmente. Incluso se pueden preestablecer citas cortas de cinco minutos.\nLa dirección del centro de vacunación o del centro de pruebas puede aparecer directamente en el calendario de reserva de citas. Incluso incluye un enlace a Google Maps.\nY si una persona vacunada tiene problemas con Internet, se puede introducir rápidamente una cita a mano para la persona vacunada.",
+		"title": "¿Por qué reservar en línea con Bookingflix?"
+	}
+}

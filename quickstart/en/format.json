@@ -1,0 +1,21 @@
+{
+	"business": "Business appointments",
+	"description": "What is an online appointment calendar needed for?",
+	"info": "Select for which type of appointment you want to set up an online appointment calendar. In the format \"Fixed opening hours\" you can offer appointments with constant duration during your opening hours. In the format \"Concrete event\" you create one or more fixed events that can be booked. In \"Offers & services\" you can create specific services and offer them to your customers.",
+	"parts": {
+		"datepicker": {
+			"info": "For retail stores and service providers e.g. hairdressers, consultants, photo studios",
+			"title": "Fixed opening hours"
+		},
+		"eventpicker": {
+			"info": "For fixed dates: e.g. webinars, meetings, events",
+			"title": "Flix calendar"
+		},
+		"services": {
+			"info": "For services with different appointment durations: e.g. service calls, friezeur services.",
+			"title": "Offers / Services"
+		}
+	},
+	"private": "Private dates",
+	"title": "Calendar"
+}

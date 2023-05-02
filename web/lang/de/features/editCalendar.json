@@ -1,0 +1,80 @@
+{
+	"termin-und-kalenderverwaltung": {
+		"cta": {
+			"action": "Jetzt 14 Tage lang kostenlos Bookingflix Premium testen!",
+			"button": "Jetzt Terminkalender erstellen",
+			"link": "/quickstart"
+		},
+		"intro": "Ordnung ist das halbe Leben! Darum stehen Ihnen im Dashboard alle nötigen Tools für die Kunden- und Terminverwaltung zur Verfügung: verschiedene Kalenderansichten, manuelle Termin-Eintragung, Termine automatisch zusagen, Kunden kontaktieren und suchen, Termin-Notizen, Download der Termindaten, Synchronisation mit anderen Kalendern und mehr...",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"button": {
+								"link": "/features/dashboard",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Übersicht über alle Termine",
+							"img": "termin-und-kalenderverwaltung-01.png",
+							"text": "Im Kontrollzentrum können Sie alle gebuchten Termine sowie deren Status, Zeitpunkt und relevante Kundeninformationen einsehen. Sie erhalten automatische Benachrichtigungen sobald Kundentermine zugesagt, geändert oder storniert wurden. Mittels der Check-In- und Check-Out-Funktionen sehen Sie, wann ein Kunde erschienen ist und wann er Ihr Geschäft wieder verlassen hat."
+						},
+						{
+							"button": {
+								"link": "/support/video/11",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Termine manuell buchen und ändern",
+							"img": "termin-und-kalenderverwaltung-02.png",
+							"text": "Erhalten Sie weiterhin Buchungen per Telefon oder direkt mündlich vor Ort? Dann ergänzen Sie diese manuell in Ihrem Terminkalender mitsamt aller relevanten Informationen."
+						},
+						{
+							"headline": "Terminen zu- und absagen",
+							"img": "termin-und-kalenderverwaltung-03.png",
+							"text": "Wenn ein freier Termin gebucht wurde, können Sie diesen automatisch vom System bestätigen lassen oder aber selbst in Ihrem Profil zu- oder absagen."
+						},
+						{
+							"headline": "Kunden kontaktieren",
+							"img": "termin-und-kalenderverwaltung-04.png",
+							"text": "Kontaktieren Sie Ihre Kunden einfach und direkt über das Chat-Tool. Diese erhalten sofort eine Email mit Ihrer Nachricht und können darauf wiederum antworten. Alle Mails werden im Posteingang des Kontrollzentrums gespeichert. "
+						},
+						{
+							"button": {
+								"link": "/support/video/17",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Notizen zu Terminen",
+							"img": "termin-und-kalenderverwaltung-05.png",
+							"text": "Erstellen Sie Notizen zu einzelnen Terminen. So behalten Sie den Überblick. Zum Beispiel bei besonderen Kundenwünschen. Ihre Mitarbeiter können hierdurch, ohne gesonderte Zettelwirtschaft, alle Informationen zum jeweiligen Termin an einem Ort aufrufen."
+						},
+						{
+							"button": {
+								"link": "/support/video/13",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Download der Termindaten",
+							"img": "termin-und-kalenderverwaltung-06.png",
+							"text": "In Ihrem Bookingflix-Profil laden Sie die Termindaten eines kompletten Kalenders oder einzelner Termine im PDF-,CSV- und ICS-Format herunter. Diese Daten können Sie zur weiteren Datenverarbeitung nutzen. Filtern Sie hierbei nach bestimmten Tagen oder Zeiträumen."
+						},
+						{
+							"button": {
+								"link": "/support/video/15",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Termine mit Google-, Microsoft- oder Apple-Kalender synchronisieren",
+							"img": "termin-und-kalenderverwaltung-07.png",
+							"text": "Mit Bookingflix synchronisieren Sie unkompliziert und vollautomatisch Ihren Termin-Buchungs-Kalender mit Ihren Standard-Kalendern von Google, Microsoft oder Apple. Dadurch können Sie die gebuchten Termine in Ihre bestehenden Standard-Kalender überführen. Oder blocken Sie, dank Synchronisation, bereits belegte Termine im Bookingflix-Termin-Buchungs-Kalender."
+						},
+						{
+							"headline": "Statistiken",
+							"img": "termin-und-kalenderverwaltung-08.png",
+							"text": "Im Kontrollzentrum sehen Sie zu allen Termin-Buchungs-Kalendern umfangreiche Statistiken. So können Sie in Echtzeit auswerten, wie viele Termine gebucht wurden, wann diese üblicherweise stattfinden, welche Leistungen am beliebtesten sind und vieles mehr."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Termin- und Kundenverwaltung",
+		"title": "Einfach über alles den Überblick behalten"
+	}
+}

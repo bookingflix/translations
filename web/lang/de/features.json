@@ -1,0 +1,98 @@
+{
+	"description": "Was kann man mit Bookingflix machen?",
+	"features": {
+		"1": {
+			"features": {
+				"1": "Termine zusagen, absagen und verschieben",
+				"2": "Kunden kontaktieren",
+				"3": "Notizen zu Terminen und Kunden",
+				"4": "Terminerinnerung per Email und SMS"
+			},
+			"title": "Ganzheitliche Terminplanung"
+		},
+		"2": {
+			"features": {
+				"1": "Überblick über Termine und Kundenbewertungen behalten",
+				"2": "alle Termine im Bookingflix-Kalender gespeichert",
+				"3": "einfache Bedienbarkeit"
+			},
+			"title": "Einfach den Überblick behalten"
+		},
+		"3": {
+			"features": {
+				"1": "Terminformular auf bereits bestehender Website einbinden",
+				"2": "Eigenständige Termin-Buchungs-Website erstellen"
+			},
+			"title": "Technische Lösung für jede Voraussetzung"
+		}
+	},
+	"overview": "Die wichtigsten Funktionen im Überblick",
+	"page": {
+		"elements": [
+			{
+				"list": [
+					{
+						"items": [
+							"Private Termine",
+							"Gleichbleibende Termine während der Öffnungszeiten",
+							"Konkrete Events",
+							"Termine für Angebote & Dienstleistungen"
+						],
+						"title": "Verschiede Kalenderformate"
+					},
+					{
+						"items": [
+							"Individuelle Dauer und Taktung der buchbaren Termine",
+							"anpassbares Design"
+						],
+						"title": "Personalisierung"
+					}
+				],
+				"title": "Terminkalender"
+			},
+			{
+				"list": [
+					{
+						"items": [
+							"Termine zusagen, absagen und verschieben",
+							"umkompliziert Kunden kontaktieren",
+							"Notizen zu Terminen und Kunden anlegen",
+							"automatische Terminerinnerungen per Email und SMS versenden"
+						],
+						"title": "Einfache Terminplanung"
+					},
+					{
+						"items": [
+							"Überblick über Termine und Kundenbewertungen behalten",
+							"alle Termine im Bookingflix-Kalender gespeichert",
+							"einfach bedienbar"
+						],
+						"title": "Übersichtliches Dashboard"
+					},
+					{
+						"items": [
+							"Automatisches Einholen von Kundenbewertungen nach dem Termin",
+							"Individualisierbare Bewertungsfragen",
+							"Einbettung auf Ihrer Website"
+						],
+						"title": "Kundenbewertungen"
+					}
+				],
+				"title": "Planung und Organisation"
+			},
+			{
+				"list": [
+					{
+						"items": [
+							"Terminformular auf bereits bestehender Website einbinden",
+							" Eigenständige Termin-Buchungs-Website erstellen"
+						],
+						"title": ""
+					}
+				],
+				"title": "Integration"
+			}
+		]
+	},
+	"title": "Features"
+}

@@ -1,0 +1,201 @@
+{
+	"benefits": {
+		"items": {
+			"01": "große Zeitersparnis\nAm Point-of-Sale ist die Zeit oft knapp. Terminabsprache per Termin-Tool löst das Problem.",
+			"02": "Nerven schonen\nKunden möchten einfach sehen, klicken und vor Ort dann kaufen. Einfach und unkompliziert.",
+			"03": "Terminzuverlässigkeit steigern\nNutzen Sie dafür die automatischen Erinnerungen per Email und SMS. Diesen Extra-Service schätzen übrigens die meisten Kunden.",
+			"04": "Digital auf dem neuesten Stand\nTermin-Tools sind mittlerweile ein beliebter Standard. Das Telefon ist gut zum Quatschen, nicht zum Buchen von Terminen.",
+			"05": "Workflow optimieren\nDer Kunde bucht und verwaltet den Shopping-Termin selbst. Die Termindaten werden übersichtlich in Ihrem Dashboard angezeigt."
+		},
+		"title": "Ihre Vorteile auf den Punkt"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Was kosten die Terminerinnerungen per SMS?",
+				"url": ""
+			},
+			"11": {
+				"title": "Was kostet Bookingflix im Monat?",
+				"url": ""
+			},
+			"12": {
+				"title": "Welche Kündigungsfrist muss ich beachten?",
+				"url": ""
+			},
+			"13": {
+				"title": "Kann der Kunde die Buchung selbst verwalten (Termin ändern, stornieren)",
+				"url": ""
+			},
+			"14": {
+				"title": "Können die Email-Texte individuell angepasst werden?",
+				"url": ""
+			},
+			"15": {
+				"title": "Können die System-Mails (Zusage, Absage) von der eigenen Mailadresse  aus versendet werden?",
+				"url": ""
+			},
+			"16": {
+				"title": "Was passiert mit den Termindaten nach dem Termin?",
+				"url": ""
+			},
+			"17": {
+				"title": "Kann ich Termine stornieren, löschen oder dem Interessent nachträglich absagen?",
+				"url": ""
+			},
+			"18": {
+				"title": "Welcher Termin-Buchungs-Kalender ist für mein Business am besten geeignet?",
+				"url": ""
+			},
+			"19": {
+				"title": "Wie lange dauert die Terminbuchung für meine Kunden?",
+				"url": ""
+			},
+			"20": {
+				"title": "Kann ich Kundentermine auch händisch für meine Kunden eintragen?",
+				"url": ""
+			},
+			"21": {
+				"title": "Wie funktioniert das Anlegen unterschiedlicher Leistungen (Preis, Dauer des Termins)",
+				"url": ""
+			},
+			"22": {
+				"title": "Wie kann ich Ferien einstellen, an denen das Rathaus geschlossen hat?",
+				"url": ""
+			},
+			"23": {
+				"title": "Wie kontaktiere ich den Kunden vor dem Termin?",
+				"url": ""
+			},
+			"24": {
+				"title": "Ich möchte eine kurze Notiz zum Kundentermin anlegen. Wie geht das?",
+				"url": ""
+			},
+			"01": {
+				"title": "Ist die Terminbuchung über Bookingflix.com DSGVO-konform?",
+				"url": ""
+			},
+			"02": {
+				"title": "Wo stehen die Server von Bookingflix?",
+				"url": ""
+			},
+			"03": {
+				"title": "Hat Bookingflix eine Rechteverwaltung, damit Mitarbeiter die Termin-Verwaltung übernehmen können?"
+			},
+			"04": {
+				"title": "Was passiert genau, wenn ein Kunde seinen Termin storniert?",
+				"url": ""
+			},
+			"05": {
+				"title": "Können Terminbuchungen automatisch bestätigt werden?",
+				"url": ""
+			},
+			"06": {
+				"title": "Können Termine händisch für den Kunden eingetragen werden?",
+				"url": ""
+			},
+			"07": {
+				"title": "Welchen Support bekommen wir im Rahmen der Nutzung?",
+				"url": ""
+			},
+			"08": {
+				"title": "Kann der Premium-Account auch per Rechnung bezahlt werden statt per Lastschrift?",
+				"url": ""
+			},
+			"09": {
+				"title": "Können vor dem Termin, zu einem bestimmten Zeitpunkt, Terminerinnerungen verschickt werden?",
+				"url": ""
+			}
+		},
+		"title": "Relevante FAQ für Ihre Branche"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Termine einfach ändern oder absagen",
+				"url": ""
+			},
+			"11": {
+				"title": "Weitere Infos mitteilen im Rahmen der Buchung",
+				"url": ""
+			},
+			"12": {
+				"title": "Terminerinnerungen",
+				"url": ""
+			},
+			"13": {
+				"title": "Adresse des Termins in Termin-Buchungs-Kalender mit Verlinkung zu Google Maps",
+				"url": ""
+			},
+			"14": {
+				"title": "Termin-Buchungs-Kalender einfach auf eigener Website einbinden",
+				"url": ""
+			},
+			"15": {
+				"title": "Termin-Buchungs-Website nutzbar auch ohne eigene Website",
+				"url": ""
+			},
+			"16": {
+				"title": "Termin-Notizen zu Terminen und Kunden anlegen",
+				"url": ""
+			},
+			"17": {
+				"title": "Feiertage und Ferien einstellbar",
+				"url": ""
+			},
+			"18": {
+				"title": "Kunde einbuchen per QR-Code-Scan",
+				"url": ""
+			},
+			"19": {
+				"title": "Trust-Faktor erhöhen durch After-Sale-Bewertung",
+				"url": ""
+			},
+			"01": {
+				"title": "Terminbuchung nach DSGVO-Standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Deutschland",
+				"url": ""
+			},
+			"03": {
+				"title": "Termin-Buchungs-Kalender für feste Öffnungszeiten",
+				"url": ""
+			},
+			"04": {
+				"title": "Termin-Buchungs-Kalender für bestimmte Dienstleistungen",
+				"url": ""
+			},
+			"05": {
+				"title": "Besserer Überblick über den Terminstatus (Zusage, Absage, noch nicht bestätigt)",
+				"url": ""
+			},
+			"06": {
+				"title": "Unterschiedliche Termindauer einstellbar. Z. B. fünf Minuten oder zwei Stunden",
+				"url": ""
+			},
+			"07": {
+				"title": "Rechteverwaltung zur Termin-Verwaltung durch zuständigen Sachbearbeiter",
+				"url": ""
+			},
+			"08": {
+				"title": "Individuelle Email-Texte der System-Mails",
+				"url": ""
+			},
+			"09": {
+				"title": "Termine automatisch bestätigen lassen",
+				"url": ""
+			}
+		},
+		"title": "Besonders relevante Funktionen und Eigenschaften für Ihre Branche"
+	},
+	"main": {
+		"description": "Seit der Corona-Pandemie hat auch der Einzelhandel Erfahrung mit Termin-Geschäft gemacht. Erst kam Click & Collect, dann sogar Click & Meet. Ohne Termin war ein Shopping-Erlebnis nicht mehr möglich. Viele Geschäfte haben die Termine direkt an der Tür angeboten. Dies lag auch daran, dass die Nachfrage nach Termin-Tools zeitweise das Angebot stark überstiegen hat. Auch Bookingflix wurde regelrecht überrannt. Dazu gehörten neben vielen kleinen Geschäften auch große Filialisten, Modeketten und sogar Baumärkte mit fast 200 Standorten.\nWer seinen Kunden ein Termin-Tool in dieser Zeit anbieten konnte, hatte einen echten Wettbewerbsvorteil. Denn die Terminbuchung war auch für die Kunden viel angenehmen, schneller und einfacher, als vor Ort Schlange zu stehen um einen Zettel mit den eigenen Daten auszufüllen.\nUnd wenn das Geschäft gerade überfüllt war, konnte die Wartezeit durchaus mal 30-60 Minuten dauern. Mit einem Termin-Tool hat der Kunde direkt den freien Termin-Slot gewählt und konnte sicher sein, dass er auch sofort Einlass erhielt.\nFür den Händler hatte Bookingflix auch einige Vorteile. Die Zeitersparnis, gerade bei regem Kundenverkehr, war deutlich. Auch lies sich die Auslastung besser steuern. Denn nur freie Termin-Slot konnten gebucht werden. Und im Falle einer nötigen Nachverfolgung durch das Gesundheitsamt lagen alle Daten bereits vor. Mittels der QR-Code-Checkin-Tools konnten die Kunden sekundengenau eingebucht werden am Eingang. Sogar eine Ausbuchung, ebenfalls über QR-Code-Scan, war problemlos möglich.\nNach Click & Meet ist die Nachfrage nach Termin-Tools im Einzelhandel freilich deutlich gesunken. Doch einige Geschäfte haben ihr Termin-Tool nicht gekündigt. Sie bieten jetzt eine exklusive Einzelberatung (Personal Shopping) darüber an oder Kunden können zum Beispiel Reparaturleistungen buchen. Auch die Abholung bereits Online gekaufter Ware wird weiterhin über Termin-Tools abgewickelt. Ein Sportgeschäft bietet zum Beispiel die Laufschuhberatung über Bookingflix an. Der Kunde bucht einen Termin, der Händler bestätigt den Termin. Am Point-of-Sale erfolgt dann die Beratung und der Verkauf. Vorab wird der Kunde an den Termin mehrfach per Email und SMS erinnert. Bei Bedarf kann oder Termin von beiden Seiten mit zwei Klicks storniert oder umgebucht werden. Das sind digitale Services, die der Kunde einfach erwartet und an die er sich gewöhnt hat. Nicht zuletzt aufgrund der Corona-Pandemie.",
+		"title": "Einzelhandel"
+	},
+	"sub": {
+		"description": "Einzelhandel ist heute oft mehr als Bummeln durch die Einkaufstraße und spontanes Shopping nach dem Lustprinzip. Der Kunde erwartet, je nach Bedarf, eine erweiterte, exklusive Beratung und After-Sale-Services.\nEin Beispiel wäre ein Brautmodengeschäft. Hier ist eine persönliche Beratung ein absolutes Muss. Oftmals wird dieser Beratung mit der Kundin vorab terminiert. Denn wer möchte schon mit fünf anderen Kundinnen, gleichzeitig, nacheinander, die gleichen Brautkleider anprobieren. Die Kundin bucht den Termin und teilt im Buchungsprozess ggf. noch Sonderwünsche oder Sonderbedarfe mit. Zum Beispiel die Kleidergröße und weitere benötigte Accessoires für den besonderen Tag. Natürlich kann die Abstimmung und Terminierung auch per Telefon erfolgen. Aber ein Termintool ist auch ein Kontakt- und Marketinginstrument. Denn darüber findet oftmals der erste Kontakt statt. Der Kunde oder die Kundin kann dann entscheiden, wie und worüber der erste Kontakt und die Terminabstimmung erfolgt.\nÜber das Termin-Buchungs-Kalender sieht die Kundin direkt die Adresse des Geschäfts. Inklusive Verlinkung zu Google Maps. Bei der Buchung werden alle möglichen Termine angezeigt. Die Kundin bucht so, ganz entspannt daheim, den Wunschtermin zum Kauf des Wunschbrautkleides.\nPer Terminerinnerung wird vorab nochmal an den Termin erinnert. Optional per Email und SMS. Die Kundin kann per Chat-Tool Nachrichten an das Geschäft senden. Oder der Verkaufsberater sendet wichtige Informationen zum Shopping-Termin an die Kundin.\nNach dem Termin erhält die Kundin, optional, eine After-Sale-Email. Zum Beispiel mit der Bitte, den Shopping-Termin zu bewerten. Hierfür ist Bookingflix mit dem Bewertungs-Tool Hitklick.com verbunden. Kundenrezensionen sind sehr praktisch, um den eigenen Service stetig zu verbessern. Außerdem unterstützen sie den Trust-Faktor, wenn Neukunden die Bewertungen vorheriger Kunden lesen. Das stärkt das Vertrauen.\nUnd falls mal Ferien, eine Betriebsversammlung oder ein Feiertag anstehen, kann dies im Dashboard von Bookingflix sehr einfach eingestellt werden. Eine Buchung ist an den Tagen dann nicht möglich. Bookingflix verfügt darüber hinaus über eine Rechteverwaltung. So können einzelne Termin-Buchungs-Kalender von den verantwortlichen Abteilungen oder Mitarbeiter:innen verwaltet werden. Sie haben dann nur Zugriff auf die freigegebenen, relevanten Termin-Daten. Über den Termin-Buchungs-Kalender können unterschiedliche Leistungen angelegt werden. Termindauer, Preis, Bild und Terminbezeichnung lassen sich individuell einstellen. Der Kunde, die Kundin bucht dann die Leistung, die erwünscht ist. ",
+		"title": "Warum Online-Termin-Buchung mit Bookingflix?"
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"description": {
+		"info": "Vous pouvez éventuellement ajouter une description pour ces services.",
+		"title": "description (facultatif)"
+	},
+	"duration": {
+		"info": "Indiquez la durée habituelle de la prestation. Si vous réservez un rendez-vous, la période correspondante sera bloquée dans votre agenda.",
+		"title": "Durée"
+	},
+	"editor": {
+		"add": "{count} Ajouter un service",
+		"close": "Fermer le traitement",
+		"copy": "Dupliquer le service",
+		"delete": "Supprimer un service"
+	},
+	"image": {
+		"add": "Ajouter une image",
+		"info": "En option, vous pouvez télécharger une image de votre service.",
+		"upload": "Télécharger l'image"
+	},
+	"name": {
+		"info": "Indiquez le titre du service.",
+		"title": "Titre"
+	},
+	"price": {
+		"description": "EUR",
+		"info": "Indiquez le prix du service.",
+		"title": "Prix (facultatif)"
+	},
+	"tags": {
+		"add": "ajouter une catégorie",
+		"category": "catégorie de service",
+		"close": "Fermer",
+		"info": "Pour mieux organiser vos offres et services, vous pouvez attribuer des tags. Vous pouvez par exemple attribuer différents tags à vos jours d'ouverture afin de proposer vos services de manière confortable à différents jours. En outre, vous pouvez filtrer vos rendez-vous dans votre agenda en fonction des paramètres que vous avez choisis. Exemples d'applications : - Tags pour vos collaborateurs, Anna ne se charge que du stylisme et Erik ne se charge que des coupes de cheveux pour dames. (Tags : Anna, Erik) - Tags pour les services liés aux jours de la semaine, par exemple les rendez-vous de stylisme ne sont en principe effectués que le vendredi. (Tag : vendredi)",
+		"save": "sauvegarder",
+		"select": "Veuillez sélectionner",
+		"title": "CATÉGORIE"
+	},
+	"title": "Services",
+	"withService": "avec prestations"
+}

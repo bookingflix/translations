@@ -1,0 +1,205 @@
+{
+	"benefits": {
+		"items": {
+			"01": "gran ahorro de tiempo\nPara ambos lados. La programación se realiza en segundos. El cliente también cambia o cancela la cita por su cuenta.",
+			"02": "Centrarse en lo esencial\nYa no hay que dejar de lado la máquina de tatuar constantemente. Porque cada vez son más los clientes que reservan a través de la nueva herramienta de citas.",
+			"03": "Aumentar la fiabilidad de las citas\nUtilice los recordatorios automáticos por correo electrónico y SMS. Por cierto, la mayoría de los clientes agradecen este servicio extra.",
+			"04": "Actualización digital\nLas herramientas de cita previa se han convertido en un estándar popular. Los clientes esperan servicios digitales modernos.",
+			"05": "Optimizar el flujo de trabajo\nEl cliente reserva y gestiona la cita por sí mismo. Los datos de las citas se muestran claramente en su panel de control."
+		},
+		"title": "Sus ventajas en pocas palabras"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "¿Qué plazo de preaviso debo respetar?",
+				"url": ""
+			},
+			"11": {
+				"title": "¿Puede el cliente gestionar la reserva por sí mismo (cambiar la cita, cancelar)?",
+				"url": ""
+			},
+			"12": {
+				"title": "¿Se pueden personalizar los textos del correo electrónico?",
+				"url": ""
+			},
+			"13": {
+				"title": "¿Se pueden enviar los correos del sistema (aceptación, rechazo) desde su propia dirección de correo?",
+				"url": ""
+			},
+			"14": {
+				"title": "¿Qué ocurre con los datos de la cita después de la misma?",
+				"url": ""
+			},
+			"15": {
+				"title": "¿Puedo anular las citas, borrarlas o dar de baja al cliente a posteriori?",
+				"url": ""
+			},
+			"16": {
+				"title": "¿Qué calendario de reserva de citas es el mejor para mi negocio?",
+				"url": ""
+			},
+			"17": {
+				"title": "¿Qué calendario de reserva de citas es el mejor para mi negocio?",
+				"url": ""
+			},
+			"18": {
+				"title": "¿Cuánto tiempo se tarda en reservar una cita para mis clientes?",
+				"url": ""
+			},
+			"19": {
+				"title": "¿Puedo también introducir manualmente las citas de mis clientes?",
+				"url": ""
+			},
+			"20": {
+				"title": "¿Cómo funciona la creación de diferentes servicios (precio, duración de la cita)?",
+				"url": ""
+			},
+			"21": {
+				"title": "¿Cómo puedo fijar los periodos de vacaciones?",
+				"url": ""
+			},
+			"22": {
+				"title": "¿Cómo puedo contactar con el cliente antes de la cita?",
+				"url": ""
+			},
+			"23": {
+				"title": "Me gustaría crear una breve nota para la cita con el cliente. ¿Cómo lo hago?",
+				"url": ""
+			},
+			"24": {
+				"title": "¿Pueden descargarse los datos de las citas para su posterior tratamiento?",
+				"url": ""
+			},
+			"25": {
+				"title": "¿Pueden ofrecerse diferentes servicios a través del calendario de reserva de citas?",
+				"url": ""
+			},
+			"26": {
+				"title": "Somos varios compañeros en el estudio y, por tanto, siempre se puede atender a cuatro clientes al mismo tiempo. ¿Se puede tener esto en cuenta a la hora de reservar las citas?",
+				"url": ""
+			},
+			"01": {
+				"title": "¿Cuenta Bookingflix con una gestión de derechos para que el respectivo representante pueda hacerse cargo de la gestión de la cita?",
+				"url": ""
+			},
+			"02": {
+				"title": "¿Qué ocurre exactamente cuando un cliente cancela su cita?",
+				"url": ""
+			},
+			"03": {
+				"title": "¿Se pueden confirmar automáticamente las reservas de citas?"
+			},
+			"04": {
+				"title": "¿Se pueden introducir manualmente las citas para el cliente?",
+				"url": ""
+			},
+			"05": {
+				"title": "¿Qué apoyo recibimos dentro del ámbito de uso?",
+				"url": ""
+			},
+			"06": {
+				"title": "¿Se puede pagar la Cuenta Premium también por factura en lugar de por domiciliación bancaria?",
+				"url": ""
+			},
+			"07": {
+				"title": "¿Se pueden enviar recordatorios de citas antes de la cita, a una hora determinada?",
+				"url": ""
+			},
+			"08": {
+				"title": "¿Cuánto cuestan los recordatorios de citas por SMS?",
+				"url": ""
+			},
+			"09": {
+				"title": "¿Cuánto cuesta Bookingflix al mes?",
+				"url": ""
+			}
+		},
+		"title": "Preguntas frecuentes relevantes para su sector"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Simplemente cambie o cancele las citas",
+				"url": ""
+			},
+			"11": {
+				"title": "Comunicar más información como parte de la reserva",
+				"url": ""
+			},
+			"12": {
+				"title": "Recordatorios de citas",
+				"url": ""
+			},
+			"13": {
+				"title": "Simplemente integre el calendario de reservas de citas en su propio sitio web",
+				"url": ""
+			},
+			"14": {
+				"title": "El sitio web de reserva de citas también puede utilizarse sin su propio sitio web",
+				"url": ""
+			},
+			"15": {
+				"title": "Crear notas para citas y clientes",
+				"url": ""
+			},
+			"16": {
+				"title": "Vacaciones y días festivos ajustables",
+				"url": ""
+			},
+			"17": {
+				"title": "Se pueden reservar varias fechas por turno",
+				"url": ""
+			},
+			"18": {
+				"title": "Obtenga automáticamente las opiniones de los clientes",
+				"url": ""
+			},
+			"01": {
+				"title": "Reserva de citas según la norma DSGVO",
+				"url": ""
+			},
+			"02": {
+				"title": "Servidor en Alemania",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendario de reserva de citas para los horarios de apertura fijos",
+				"url": ""
+			},
+			"04": {
+				"title": "Calendario de reserva de citas para servicios específicos",
+				"url": ""
+			},
+			"05": {
+				"title": "Mejor visión de conjunto del estado de la cita (compromiso, cancelación, aún no confirmado)",
+				"url": ""
+			},
+			"06": {
+				"title": "Se pueden establecer diferentes duraciones de las citas. Por ejemplo, 30 minutos o dos horas",
+				"url": ""
+			},
+			"07": {
+				"title": "Gestión de derechos para la gestión de citas por parte del funcionario responsable",
+				"url": ""
+			},
+			"08": {
+				"title": "Textos individuales de los correos electrónicos del sistema",
+				"url": ""
+			},
+			"09": {
+				"title": "Confirmar automáticamente las citas",
+				"url": ""
+			}
+		},
+		"title": "Funciones y características especialmente relevantes para su sector"
+	},
+	"main": {
+		"description": "\nEs difícil hacer una llamada telefónica con una máquina de tatuajes en la mano. Cada vez más artistas del tatuaje se dan cuenta de ello. El cliente quiere reservar una cita para una sesión informativa o una cita de seguimiento. Esto es mucho más fácil con la herramienta de citas. El cliente selecciona la fecha deseada e introduce los datos de contacto necesarios. La dirección de correo electrónico y el nombre suelen ser suficientes para ello. Ya no es necesario pedir cita por teléfono. Especialmente el grupo de jóvenes aficionados a los tatuajes prefiere hacer todo con su smartphone. Esto incluye también la reserva en línea de una cita.",
+		"title": "Estudios de tatuaje"
+	},
+	"sub": {
+		"description": "Para muchos, la reserva de citas en línea es algo imprescindible. Esto es válido para los clientes, pero también para los proveedores de servicios y los organizadores que ofrecen citas. Es muy cómodo y ahorra tiempo. Una gran ventaja es la autogestión de la cita por parte del cliente. Las citas se hacen, se cambian y se cancelan completamente por el cliente. El proveedor de servicios se limita a especificar cuándo se pueden reservar las citas. A continuación, el cliente reserva el turno deseado. La gestión de las citas se puede gestionar de forma independiente para el cliente a través del enlace de citas personales. Las citas pueden sincronizarse con los calendarios estándar de Google, Apple y Microsoft. De este modo, se bloquean las citas que ya están ocupadas. Y las nuevas citas aparecen en el propio smartphone del proveedor de servicios. Los días libres y los días festivos se pueden establecer en el tablero de mandos. Para que los clientes no puedan reservar citas en esos días. La integración del calendario de reserva de citas es muy sencilla. A través de un código de integración HTML, el calendario de reservas de Bookingflix puede integrarse en su propio sitio web. Como alternativa, se crea un sitio web de microrreservas con cada calendario de reservas. Esto se puede personalizar. De este modo, los proveedores de servicios que no tienen su propio sitio web también pueden ofrecer la reserva de citas en línea. También son populares los recordatorios de citas por correo electrónico y SMS. Esto aumenta significativamente la fiabilidad de las citas. O lo que es lo mismo: el índice de inasistencia disminuye.\nLos recordatorios de citas pueden adaptarse individualmente en cuanto a contenido y hora de envío.",
+		"title": "¿Por qué reservar en línea con Bookingflix?"
+	}
+}

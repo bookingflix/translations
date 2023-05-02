@@ -1,0 +1,12 @@
+{
+	"description": "Comment utiliser Bookingflix ?",
+	"functionality": {
+		"1": "Créer un formulaire de rendez-vous avec Bookingflix",
+		"2": "Intégrer le formulaire dans votre site web ou créer un site web de rendez-vous",
+		"3": "Réservation de rendez-vous par vos clients",
+		"4": "Confirmer le rendez-vous du client",
+		"5": "Rappel automatique des rendez-vous par e-mail ou SMS au client",
+		"6": "Le rendez-vous est fixé",
+		"7": "Obtenir des avis de clients"
+	}
+}

@@ -1,0 +1,165 @@
+{
+	"benefits": {
+		"items": {
+			"01": "great time saving\nWe have customers or users who save several hours of time every day through Bookingflix.",
+			"02": "Spare your nerves\nWhy make appointments when you can simply select and book them directly?",
+			"03": "Increase appointment reliability\nCustomers like to be reminded of their appointments. This significantly reduces the no-show rate.",
+			"04": "Digitally up to date\nYes, the telephone used to be very modern. But time does not stand still. Customers expect modern, digital services.",
+			"05": "Improve service and strengthen trust factor\nBookingflix can query customer opinions, after the appointment, fully automatically for you."
+		},
+		"title": "Your advantages in a nutshell"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "What is the cost of appointment reminders via SMS?",
+				"url": ""
+			},
+			"11": {
+				"title": "How much does Bookingflix cost per month?",
+				"url": ""
+			},
+			"12": {
+				"title": "What notice period do I have to observe?",
+				"url": ""
+			},
+			"13": {
+				"title": "Can we check in customers at the entrance by QR code scan?",
+				"url": ""
+			},
+			"14": {
+				"title": "Is it possible to set vacations in which no appointment is bookable?",
+				"url": ""
+			},
+			"15": {
+				"title": "Can the customer manage the booking himself (change appointment, cancel)",
+				"url": ""
+			},
+			"16": {
+				"title": "Can the system mails (acceptance, rejection) be sent from your own mail address?",
+				"url": ""
+			},
+			"17": {
+				"title": "Which appointment booking calendar is best for my business?",
+				"url": ""
+			},
+			"18": {
+				"title": "How long does it take to book appointments for my clients?",
+				"url": ""
+			},
+			"01": {
+				"title": "Is the appointment booking via Bookingflix.com DSGVO compliant?",
+				"url": ""
+			},
+			"02": {
+				"title": "Where are the Bookingflix servers located?",
+				"url": ""
+			},
+			"03": {
+				"title": "Does Bookingflix have a rights management so that employees can take over the appointment management?"
+			},
+			"04": {
+				"title": "Can groups also make a booking and will the number be taken into account?",
+				"url": ""
+			},
+			"05": {
+				"title": "Is the number of monthly appointment bookings limited?",
+				"url": ""
+			},
+			"06": {
+				"title": "Can appointment bookings be confirmed automatically?",
+				"url": ""
+			},
+			"07": {
+				"title": "What support do we get within the scope of use?",
+				"url": ""
+			},
+			"08": {
+				"title": "Can the premium account also be paid by invoice instead of direct debit?",
+				"url": ""
+			},
+			"09": {
+				"title": "Can appointment reminders be sent before the appointment, at a specific time?",
+				"url": ""
+			}
+		},
+		"title": "Relevant FAQ for your industry"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Have appointments confirmed automatically",
+				"url": ""
+			},
+			"11": {
+				"title": "Simply change or cancel appointments",
+				"url": ""
+			},
+			"12": {
+				"title": "More info communicate within the booking",
+				"url": ""
+			},
+			"13": {
+				"title": "Appointment reminders",
+				"url": ""
+			},
+			"14": {
+				"title": "Export appointment data (pdf, csv)",
+				"url": ""
+			},
+			"15": {
+				"title": "Appointment ticket with QR code for printing",
+				"url": ""
+			},
+			"18": {
+				"title": "Obtain customer reviews automatically",
+				"url": ""
+			},
+			"01": {
+				"title": "Appointment booking according to DSGVO standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Germany",
+				"url": ""
+			},
+			"03": {
+				"title": "Appointment booking calendar for specific events",
+				"url": ""
+			},
+			"04": {
+				"title": "Appointment booking calendar for fixed opening hours",
+				"url": ""
+			},
+			"05": {
+				"title": "Better overview of the appointment status (commitment, cancellation, not yet confirmed)",
+				"url": ""
+			},
+			"06": {
+				"title": "Group bookings",
+				"url": ""
+			},
+			"07": {
+				"title": "Vacations and break times adjustable",
+				"url": ""
+			},
+			"08": {
+				"title": "Rights management for appointment management by employees",
+				"url": ""
+			},
+			"09": {
+				"title": "Check-in and check-out function with QR code scan",
+				"url": ""
+			}
+		},
+		"title": "Particularly relevant functions and features for your industry"
+	},
+	"main": {
+		"description": "In this industry in particular, the average age is relatively young. And the younger generation is used to organizing their lives using smartphones, apps and the Internet. There is a large proportion in this group who only reach for the phone to make a call in an absolute emergency. The phone or smartphone is mainly used for entertainment and organization. For communication, too, of course. But messenger and social web services dominate here. This rather young generation therefore does not want to make an appointment by phone. They want to surf to a service provider's website, select the appointment and book it quickly and easily. So whoever is convincing as a service provider here. Digitally convincing. They have a real advantage.",
+		"title": "Leisure and fun"
+	},
+	"sub": {
+		"description": "The use cases are so diverse that a list can only be incomplete.\nAmusement parks, sports parks, climbing parks, concerts, theaters, cinemas, drive-in cinemas, zoos, wildlife parks, mini-golf courses, escape rooms, leisure centers, indoor skiing, boat rentals, event gastronomy, excursion organizers, open-air events. Everywhere tickets are booked or appointments are made.\nThe customer wants to click on the desired service online and book it immediately. The moment the appointment is confirmed is a moment of inner satisfaction. Like buying or owning a long cherished desire. Bookingflix offers a powerful, customizable appointment tool that meets this need. The appointment is confirmed immediately. If necessary, it can be changed or cancelled later. Important information can be communicated to the customer via chat function.\nThe appointment confirmation can be easily transferred to the standard calendar of the smartphone. In addition, the appointment confirmation contains a PDF ticket with QR code. This can be printed out or presented digitally at the entrance. Using the QR code, the event organizer can check the customer in and also check them out again when they leave the event.\nAppointment bookings can be confirmed automatically by Bookingflix. In case of a cancellation, the appointment slot is immediately released again. Group bookings, with a predefined maximum group size, can also be set up very easily.\nWhen creating the appointment booking calendar, you can set the regular opening, break and vacation times. If the event is held only once or a few times a year, we recommend using the appointment-booking calendar for specific events. The maximum number of participants can be set.\nThe appointment management can also be handed over to an employee. An extensive rights management is available for this purpose.\nIf the event data is to be processed further, it can be downloaded and imported in just a few seconds. For example, into Excel or into a CRM.\nReduce the NoShow rate significantly. Simply send customers a reminder by email or by SMS at self-defined times. Better a customer who cancels than a customer who doesn't show up anyway.",
+		"title": "Why online appointment booking with Bookingflix?"
+	}
+}

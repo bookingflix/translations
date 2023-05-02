@@ -1,0 +1,201 @@
+{
+	"benefits": {
+		"items": {
+			"01": "un grand gain de temps\nAu point de vente, le temps est souvent compté. La prise de rendez-vous via un outil de prise de rendez-vous résout le problème.",
+			"02": "Ménager ses nerfs\nLes clients veulent simplement voir, cliquer et acheter sur place. Simple et facile.",
+			"03": "Augmenter la fiabilité des délais\nPour cela, utilisez les rappels automatiques par e-mail et SMS. Ce service supplémentaire est d'ailleurs apprécié par la plupart des clients.",
+			"04": "Le numérique à la pointe du progrès\nLes outils de prise de rendez-vous sont devenus un standard très apprécié. Le téléphone est bon pour bavarder, pas pour réserver des rendez-vous.",
+			"05": "Optimiser le flux de travail\nLe client réserve et gère lui-même son rendez-vous shopping. Les données du rendez-vous sont affichées de manière claire dans votre tableau de bord."
+		},
+		"title": "Vos avantages en un clin d'œil"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Combien coûtent les rappels de rendez-vous par SMS ?",
+				"url": ""
+			},
+			"11": {
+				"title": "Combien coûte Bookingflix par mois ?",
+				"url": ""
+			},
+			"12": {
+				"title": "Quel est le délai de préavis à respecter ?",
+				"url": ""
+			},
+			"13": {
+				"title": "Le client peut-il gérer lui-même la réservation (modifier le rendez-vous, l'annuler) ?",
+				"url": ""
+			},
+			"14": {
+				"title": "Les textes des e-mails peuvent-ils être personnalisés ?",
+				"url": ""
+			},
+			"15": {
+				"title": "Les e-mails du système (acceptation, refus) peuvent-ils être envoyés à partir de sa propre adresse e-mail ?",
+				"url": ""
+			},
+			"16": {
+				"title": "Que se passe-t-il avec les données de rendez-vous après le rendez-vous ?",
+				"url": ""
+			},
+			"17": {
+				"title": "Puis-je annuler des rendez-vous, les supprimer ou les refuser ultérieurement à la personne intéressée ?",
+				"url": ""
+			},
+			"18": {
+				"title": "Quel est l'agenda le mieux adapté à mon entreprise ?",
+				"url": ""
+			},
+			"19": {
+				"title": "Combien de temps prend la réservation d'un rendez-vous pour mes clients ?",
+				"url": ""
+			},
+			"20": {
+				"title": "Puis-je également saisir manuellement les rendez-vous de mes clients ?",
+				"url": ""
+			},
+			"21": {
+				"title": "Comment fonctionne la création de différentes prestations (prix, durée du rendez-vous) ?",
+				"url": ""
+			},
+			"22": {
+				"title": "Comment puis-je programmer des vacances pendant lesquelles la mairie est fermée ?",
+				"url": ""
+			},
+			"23": {
+				"title": "Comment contacter le client avant le rendez-vous ?",
+				"url": ""
+			},
+			"24": {
+				"title": "Je souhaite créer une courte note pour le rendez-vous avec le client. Comment faire ?",
+				"url": ""
+			},
+			"01": {
+				"title": "La réservation de rendez-vous via Bookingflix.com est-elle conforme au RGPD ?",
+				"url": ""
+			},
+			"02": {
+				"title": "Où se trouvent les serveurs de Bookingflix ?",
+				"url": ""
+			},
+			"03": {
+				"title": "Est-ce que Bookingflix dispose d'une gestion des droits pour que les collaborateurs puissent prendre en charge la gestion des rendez-vous ?"
+			},
+			"04": {
+				"title": "Que se passe-t-il exactement lorsqu'un client annule son rendez-vous ?",
+				"url": ""
+			},
+			"05": {
+				"title": "Les réservations de rendez-vous peuvent-elles être confirmées automatiquement ?",
+				"url": ""
+			},
+			"06": {
+				"title": "Les rendez-vous peuvent-ils être saisis manuellement pour le client ?",
+				"url": ""
+			},
+			"07": {
+				"title": "Quel soutien recevons-nous dans le cadre de l'utilisation ?",
+				"url": ""
+			},
+			"08": {
+				"title": "Le compte premium peut-il être payé par facture plutôt que par prélèvement automatique ?",
+				"url": ""
+			},
+			"09": {
+				"title": "Est-il possible d'envoyer des rappels de rendez-vous avant le rendez-vous, à un moment donné ?",
+				"url": ""
+			}
+		},
+		"title": "FAQ pertinentes pour votre secteur"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Modifier ou annuler facilement des rendez-vous",
+				"url": ""
+			},
+			"11": {
+				"title": "Plus d'infos à communiquer dans le cadre de la réservation",
+				"url": ""
+			},
+			"12": {
+				"title": "Rappels de rendez-vous",
+				"url": ""
+			},
+			"13": {
+				"title": "Adresse du rendez-vous dans l'agenda de réservation de rendez-vous avec lien vers Google Maps",
+				"url": ""
+			},
+			"14": {
+				"title": "Intégrer facilement le calendrier de réservation sur son propre site web",
+				"url": ""
+			},
+			"15": {
+				"title": "Site web de réservation de rendez-vous utilisable même sans propre site web",
+				"url": ""
+			},
+			"16": {
+				"title": "Créer des notes sur les rendez-vous et les clients",
+				"url": ""
+			},
+			"17": {
+				"title": "Jours fériés et vacances réglables",
+				"url": ""
+			},
+			"18": {
+				"title": "Enregistrer le client par scan du code QR",
+				"url": ""
+			},
+			"19": {
+				"title": "Augmenter le facteur de confiance grâce à l'évaluation après la vente",
+				"url": ""
+			},
+			"01": {
+				"title": "Réservation de rendez-vous selon les normes du RGPD",
+				"url": ""
+			},
+			"02": {
+				"title": "Serveurs en Allemagne",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendrier de réservation de rendez-vous pour les heures d'ouverture fixes",
+				"url": ""
+			},
+			"04": {
+				"title": "Calendrier de réservation de rendez-vous pour certains services",
+				"url": ""
+			},
+			"05": {
+				"title": "Meilleure vue d'ensemble du statut des rendez-vous (accepté, annulé, pas encore confirmé)",
+				"url": ""
+			},
+			"06": {
+				"title": "Différentes durées de rendez-vous réglables. Par exemple, cinq minutes ou deux heures",
+				"url": ""
+			},
+			"07": {
+				"title": "Gestion des droits pour la gestion des rendez-vous par le gestionnaire compétent",
+				"url": ""
+			},
+			"08": {
+				"title": "Textes individuels des e-mails du système",
+				"url": ""
+			},
+			"09": {
+				"title": "Confirmer automatiquement les rendez-vous",
+				"url": ""
+			}
+		},
+		"title": "Fonctions et caractéristiques particulièrement pertinentes pour votre secteur"
+	},
+	"main": {
+		"description": "Depuis la pandémie de Corona, le commerce de détail a lui aussi fait l'expérience du commerce sur rendez-vous. Il y a d'abord eu le click & collect, puis même le click & meet. Sans rendez-vous, il n'était plus possible de vivre une expérience de shopping. De nombreux magasins ont proposé les rendez-vous directement à la porte. Cela s'explique aussi par le fait que la demande d'outils de prise de rendez-vous a parfois largement dépassé l'offre. Bookingflix a également été littéralement pris d'assaut. Outre de nombreux petits magasins, il s'agissait aussi de grandes chaînes de magasins, de chaînes de mode et même de magasins de bricolage avec près de 200 sites.\nCeux qui pouvaient proposer un outil de prise de rendez-vous à leurs clients à cette époque avaient un véritable avantage concurrentiel. En effet, la prise de rendez-vous était également beaucoup plus agréable, rapide et simple pour les clients que de faire la queue sur place pour remplir un papier avec ses propres données.\nEt si le magasin était justement bondé, le temps d'attente pouvait très bien durer 30 à 60 minutes. Avec un outil de prise de rendez-vous, le client choisissait directement le créneau de rendez-vous libre et était sûr d'être admis immédiatement.\nPour le commerçant, Bookingflix présentait également quelques avantages. Le gain de temps, notamment en cas d'affluence de clients, était évident. Il était également possible de mieux gérer l'occupation. En effet, seuls les créneaux de rendez-vous libres pouvaient être réservés. Et en cas de suivi nécessaire par le service de santé, toutes les données étaient déjà disponibles. Grâce aux outils de contrôle par code QR, les clients pouvaient être enregistrés à l'entrée à la seconde près. Il était même possible de se désinscrire sans problème, également via le scan du code QR.\nAprès Click & Meet, la demande d'outils de prise de rendez-vous dans le commerce de détail a bien sûr nettement baissé. Mais certains magasins n'ont pas résilié leur outil de prise de rendez-vous. Ils proposent désormais un conseil individuel exclusif (Personal Shopping) ou les clients peuvent par exemple réserver des prestations de réparation. L'enlèvement de marchandises déjà achetées en ligne continue également d'être effectué via les outils de rendez-vous. Un magasin de sport propose par exemple des conseils en matière de chaussures de course via Bookingflix. Le client réserve un rendez-vous, le commerçant confirme le rendez-vous. Le conseil et la vente ont ensuite lieu sur le point de vente. Au préalable, le rendez-vous est rappelé au client à plusieurs reprises par e-mail et SMS. En cas de besoin, le rendez-vous peut être annulé ou modifié en deux clics par les deux parties. Ce sont des services numériques que le client attend tout simplement et auxquels il s'est habitué. Notamment en raison de la pandémie de Corona.",
+		"title": "Commerce de détail"
+	},
+	"sub": {
+		"description": "Aujourd'hui, le commerce de détail est souvent plus qu'une simple flânerie dans une rue commerçante et un shopping spontané selon le principe du plaisir. Le client attend, selon ses besoins, un conseil élargi et exclusif ainsi que des services après-vente.\nPrenons l'exemple d'un magasin de robes de mariée. Ici, un conseil personnalisé est un must absolu. Souvent, ce conseil est fixé à l'avance avec la cliente. En effet, qui voudrait essayer les mêmes robes de mariée avec cinq autres clientes, en même temps, l'une après l'autre ? La cliente réserve le rendez-vous et fait part, le cas échéant, de ses souhaits ou de ses besoins particuliers lors du processus de réservation. Par exemple, la taille de la robe et d'autres accessoires nécessaires pour ce jour particulier. Bien sûr, la coordination et la prise de rendez-vous peuvent aussi se faire par téléphone. Mais un outil de prise de rendez-vous est aussi un instrument de contact et de marketing. En effet, c'est souvent par ce biais que le premier contact a lieu. Le client ou la cliente peut alors décider comment et par quel biais le premier contact et la prise de rendez-vous ont lieu.\nGrâce à l'agenda de réservation de rendez-vous, la cliente voit directement l'adresse du magasin. Y compris un lien vers Google Maps. Lors de la réservation, tous les rendez-vous possibles sont affichés. La cliente réserve ainsi chez elle, en toute décontraction, la date souhaitée pour l'achat de la robe de mariée de son choix.\nLe rendez-vous est rappelé à l'avance par un message de rappel. En option par e-mail et SMS. La cliente peut envoyer des messages au magasin via l'outil de chat. Ou bien le conseiller de vente envoie à la cliente des informations importantes sur le rendez-vous d'achat.\nAprès le rendez-vous, la cliente reçoit, en option, un e-mail d'après-vente. Par exemple, en lui demandant d'évaluer le rendez-vous shopping. Pour cela, Bookingflix est relié à l'outil d'évaluation Hitklick.com. Les avis des clients sont très pratiques pour améliorer en permanence son propre service. De plus, ils renforcent le facteur de confiance lorsque les nouveaux clients lisent les évaluations des clients précédents. Cela renforce la confiance.\nEt s'il y a des vacances, une réunion d'entreprise ou un jour férié, il est très facile de le configurer dans le tableau de bord de Bookingflix. La réservation n'est alors pas possible ces jours-là. Bookingflix dispose en outre d'une gestion des droits. Ainsi, les calendriers de réservation et de rendez-vous individuels peuvent être gérés par les services ou les collaborateurs responsables:innen . Ils n'ont alors accès qu'aux données de rendez-vous validées et pertinentes. Différentes prestations peuvent être créées via le calendrier de réservation de rendez-vous. La durée du rendez-vous, le prix, l'image et le nom du rendez-vous peuvent être définis individuellement. Le client ou la cliente réserve ensuite la prestation qu'il souhaite.",
+		"title": "Pourquoi réserver un rendez-vous en ligne avec Bookingflix ?"
+	}
+}

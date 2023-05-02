@@ -1,0 +1,53 @@
+{
+	"terminverwaltung-fuer-endkunden": {
+		"cta": {
+			"action": "Try Bookingflix Premium for 14 days for free!",
+			"button": "Create appointment calendar now",
+			"link": "/quickstart"
+		},
+		"intro": "Your customers manage themselves completely in the customer portal. After registration and login, all booked appointments can be viewed clearly here. Customers can change and rate their appointments and contact you directly via the customer chat.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Book, change and cancel appointments",
+							"img": "terminverwaltung-fuer-endkunden-01.png",
+							"text": "Your customers no longer need to call to book, change or cancel an appointment. They do it themselves in the customer portal. That saves time and nerves for everyone."
+						},
+						{
+							"button": {
+								"link": "/support/video/18",
+								"more": "Learn more"
+							},
+							"headline": "QR code for each appointment",
+							"img": "terminverwaltung-fuer-endkunden-02.png",
+							"text": "Bookingflix offers you an integrated check-in and check-out function. Each booked appointment has its own QR code and individual appointment ID. These make it possible to check in every customer within seconds and check them out again later.\n\nThis gives you an accurate overview of your customers' reliability, utilization and can even provide traceability for the health department if necessary."
+						},
+						{
+							"headline": "Customer chat",
+							"img": "terminverwaltung-fuer-endkunden-03.png",
+							"text": "Get in touch with your customers and vice versa via all end devices with the integrated chat function. The chat history is documented. You and your customers will be informed about new messages via email."
+						},
+						{
+							"button": {
+								"link": "/features/votes",
+								"more": "Learn more"
+							},
+							"headline": "Reminder of the deadline evaluation",
+							"img": "terminverwaltung-fuer-endkunden-04.png",
+							"text": "After the appointment has taken place, your customers are reminded to rate it. The ratings are then published in the customer portal. You can define yourself which evaluation questions you want to ask your customers."
+						},
+						{
+							"headline": "More information about your business",
+							"img": "terminverwaltung-fuer-endkunden-05.png",
+							"text": "In the customer portal, all important information about your company, such as opening hours, location as well as special offers and ratings, are available to your customers. These are transferred from your Bookingflix account."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Appointment management for end customers",
+		"title": "Manage booked appointments and a place to contact you"
+	}
+}

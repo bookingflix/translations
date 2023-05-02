@@ -1,0 +1,85 @@
+{
+	"kontrollzentrum": {
+		"cta": {
+			"action": "Jetzt 14 Tage lang kostenlos Bookingflix Premium testen!",
+			"button": "Jetzt Terminkalender erstellen",
+			"link": "/quickstart"
+		},
+		"intro": "In Ihrem Bookingflix-Dashboard können Sie alle Terminkalender, Buchungen und Einstellungen verwalten. Erstellen oder bearbeiten Sie neue Termin-Buchungs-Kalender. Checken Sie neue Termin-Buchungen. Richten Sie Termin-Erinnerungen und System-Mails individuell ein.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Alles auf einen Blick im Dashboard",
+							"img": "kontrollzentrum-01.png",
+							"text": "Im Dashboard des Kontrollzentrums haben Sie einen Überblick über alle Termine. Dort können Sie den Status, Zeitpunkt und relevante Kundeninformationen auf einen Blick erfassen."
+						},
+						{
+							"headline": "Flexible Kalenderansichten",
+							"img": "kontrollzentrum-02.png",
+							"text": "Lassen Sie sich Im Bookingflix Kalender ihre Termine nach Ihren Bedürfnissen anzeigen: verschaffen Sie sich einen Überblick über die Woche in der Wochenansicht oder gehen Sie ins Detail in der Tagesansicht."
+						},
+						{
+							"button": {
+								"link": "/support/video/10",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Ferien und freie Tage",
+							"img": "kontrollzentrum-03.png",
+							"text": "In Ihrem Terminkalender können Sie festlegen, wann Termine buchbar sind und wann Ihr Geschäft geschlossen ist. Dazu ist es unkompliziert möglich, die deutschen Feiertage zu Ihrem Kalender hinzuzufügen oder ganz individuelle freie Tage festzulegen. Diese Einstellungen können Sie für mehrere eingerichteten Kalender übernehmen oder für jeden einzelnen Kalender unterschiedlich definieren."
+						},
+						{
+							"button": {
+								"link": "/support/video/20",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "System-Mails",
+							"img": "kontrollzentrum-04.png",
+							"text": "Sprechen Sie Ihre Kunden so an, wie Sie es gewohnt sind. Passen Sie hierfür Ihre Terminzusagen und -absagen sowie Verifizierungsmails unkompliziert und individuell an Ihren Stil an."
+						},
+						{
+							"button": {
+								"link": "/features/reminder",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Terminerinnerungen",
+							"img": "kontrollzentrum-05.png",
+							"text": "Mit Bookingflix können Sie automatische Terminerinnerungen per SMS und Email versenden. Wie Sie Ihre Kunden dabei ansprechen wollen, ist ganz Ihnen überlassen. Passen Sie frei nach Ihren Bedürfnissen die Anschreiben und Erinnerungsfrequenzen an."
+						},
+						{
+							"button": {
+								"link": "/support/video/14",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Zielseite",
+							"img": "kontrollzentrum-06.png",
+							"text": "Wenn Ihr Kunde einen Termin bucht, wird er auf eine bestimmte Zielseite weitergeleitet, welche individuell festgelegt werden kann."
+						},
+						{
+							"headline": "Buchungsformular",
+							"img": "kontrollzentrum-07.png",
+							"text": "Im Formular-Editor definieren Sie die benötigten Daten-Abfragefelder. Zum Beispiel Name, Adresse und Telefon. Die Abfrage kann als Pflicht- oder als optionales Eingabefeld definiert werden. Für die Zustimmung zu Ihren AGB und dem Datenschutz sind vordefinierte Abfragefelder nutzbar."
+						},
+						{
+							"button": {
+								"link": "/features/clients",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Individualisierungen",
+							"img": "kontrollzentrum-08.png",
+							"text": "Damit Bookingflix zu Ihrem Unternehmen passt, ist es möglich, die Akzentfarbe und auch den Button-Text Ihres Buchungskalenders oder Ihrer Buchungswebsite zu individualisieren. Jeder Buchungskalender bekommt einen eigenen Titel. Optional vergeben Sie eine Adresse zum jeweiligen Buchungskalender. Darüber hinaus können Sie diverse Einstellungen für Ihre Termin- und Kundenverwaltung vornehmen."
+						},
+						{
+							"headline": "Statistiken",
+							"img": "termin-und-kalenderverwaltung-08.png",
+							"text": "Im Kontrollzentrum sehen Sie zu allen Terminkalendern umfangreiche Statistiken. So können Sie in Echtzeit auswerten, wie viele Termine gebucht wurden, wann diese üblicherweise stattfinden, welche Leistungen am beliebtesten sind und vieles mehr."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Kontrollzentrum",
+		"title": "Behalten Sie den vollständigen Überblick über Ihre Termine im Kontrollzentrum"
+	}
+}

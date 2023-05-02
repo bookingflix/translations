@@ -1,0 +1,50 @@
+{
+	"dsgvo-und-datenschutzkonformitaet": {
+		"cta": {
+			"action": "Pruebe ahora Bookingflix Premium durante 14 días de forma gratuita.",
+			"button": "Crear una agenda ahora",
+			"link": "/quickstart"
+		},
+		"intro": "La protección de datos y la privacidad nos importan mucho. Por eso garantizamos un alto nivel de transparencia y la mejor seguridad posible para sus datos en una amplia gama de niveles.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Ubicación del servidor en Alemania",
+							"img": "dsgvo-und-datenschutzkonformitaet-01.png",
+							"text": "El tratamiento de datos se realiza en Alemania. Bookingflix se encuentra en Alemania y seguimos estrictamente la DSGVO europea. Así, todos los datos se encuentran en servidores situados en Alemania. De este modo, se garantiza la mayor seguridad jurídica y de datos posible."
+						},
+						{
+							"headline": "Copias de seguridad periódicas",
+							"img": "dsgvo-und-datenschutzkonformitaet-02.png",
+							"text": "Con Bookingflix no tienes que preocuparte por tus datos. Las copias de seguridad de los calendarios se realizan varias veces al día en un servidor de copias de seguridad. Si alguna vez es necesario, puede reactivar el stock de datos de una copia de seguridad específica. Además, creamos otras copias de seguridad en un servidor independiente."
+						},
+						{
+							"headline": "Procesamiento de datos de pedidos",
+							"img": "dsgvo-und-datenschutzkonformitaet-03.png",
+							"text": "Es posible celebrar un contrato de tratamiento de datos con nosotros. Este contrato regula todos los aspectos importantes del tratamiento de datos, la seguridad de los datos y las medidas (denominadas TOM) relacionadas con los temas pertinentes al GDPR. Estaremos encantados de enviarle una muestra del contrato por adelantado."
+						},
+						{
+							"headline": "Verificación de sus clientes",
+							"img": "dsgvo-und-datenschutzkonformitaet-04.png",
+							"text": "La identidad y autenticidad de todos los clientes que reservan se comprueba mediante una verificación basada en el correo electrónico. Esto permite evitar las entradas de spam y las reservas falsas. Este tipo de verificación forma parte del proceso de reserva conforme a la DSGVO. Alternativamente, por ejemplo para las reservas internas de su empresa, también puede desactivar la verificación."
+						},
+						{
+							"headline": "Cifrado y cortafuegos",
+							"img": "dsgvo-und-datenschutzkonformitaet-05.png",
+							"text": "Para la transmisión de datos, utilizamos la última tecnología de encriptación según el estándar HTTPS. Sólo podemos ver los detalles de sus reservas o clientes con su consentimiento expreso, por ejemplo en asuntos de asistencia. Nuestro servidor AWS ofrece más medidas de seguridad."
+						},
+						{
+							"headline": "Plazos de supresión",
+							"img": "dsgvo-und-datenschutzkonformitaet-06.png",
+							"text": "Después de 30 días, los datos de las citas anteriores se eliminan. La eliminación anterior está abierta a usted."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "DSGVO y cumplimiento de la protección de datos",
+		"title": "Sus datos están seguros con nosotros"
+	}
+}

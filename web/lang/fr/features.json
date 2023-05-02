@@ -1,0 +1,98 @@
+{
+	"description": "Que peut-on faire avec Bookingflix ?",
+	"features": {
+		"1": {
+			"features": {
+				"1": "Accepter, annuler et déplacer des rendez-vous",
+				"2": "Contacter les clients",
+				"3": "Notes sur les rendez-vous et les clients",
+				"4": "Rappel de rendez-vous par e-mail et SMS"
+			},
+			"title": "Gestion holistique des rendez-vous"
+		},
+		"2": {
+			"features": {
+				"1": "Garder une vue d'ensemble des rendez-vous et des avis des clients",
+				"2": "tous les rendez-vous enregistré dans l'agenda de Bookingflix",
+				"3": "Facilité d'utilisation"
+			},
+			"title": "Garder facilement une vue d'ensemble"
+		},
+		"3": {
+			"features": {
+				"1": "Intégrer le formulaire de rendez-vous sur un site web déjà existant",
+				"2": "Créer un site web autonome de réservation de rendez-vous"
+			},
+			"title": "Une solution technique pour chaque besoin"
+		}
+	},
+	"overview": "Aperçu des principales fonctions",
+	"page": {
+		"elements": [
+			{
+				"list": [
+					{
+						"items": [
+							"Rendez-vous privés",
+							"Rendez-vous réguliers pendant les horaires d'ouverture",
+							"Des événements concrets",
+							"Rendez-vous pour les offres & services"
+						],
+						"title": "Différents types d'agenda"
+					},
+					{
+						"items": [
+							"Durée et rythme individuels des rendez-vous pouvant être réservés",
+							"Design personnalisable"
+						],
+						"title": "Personnalisation"
+					}
+				],
+				"title": "Agenda"
+			},
+			{
+				"list": [
+					{
+						"items": [
+							"Accepter, annuler et reporter des rendez-vous",
+							"contacter facilement les clients",
+							"Créer des notes sur les rendez-vous et les clients",
+							"envoyer des rappels de rendez-vous automatiques par e-mail et SMS"
+						],
+						"title": "Planification simple des rendez-vous"
+					},
+					{
+						"items": [
+							"Garder une vue d'ensemble des rendez-vous et des avis des clients",
+							"tous les rendez-vous enregistré dans l'agenda de Bookingflix",
+							"Facile à utiliser"
+						],
+						"title": "Tableau de bord clair"
+					},
+					{
+						"items": [
+							"Obtenir automatiquement les avis des clients après le rendez-vous",
+							"Questions d'évaluation personnalisables",
+							"Intégration sur votre site web"
+						],
+						"title": "Avis des clients"
+					}
+				],
+				"title": "Planification et organisation"
+			},
+			{
+				"list": [
+					{
+						"items": [
+							"Intégrer le formulaire de rendez-vous sur un site web déjà existant",
+							" Créer un site web autonome de réservation de rendez-vous"
+						],
+						"title": ""
+					}
+				],
+				"title": "Intégration"
+			}
+		]
+	},
+	"title": "caractéristiques"
+}

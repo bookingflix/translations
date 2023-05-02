@@ -1,0 +1,189 @@
+{
+	"benefits": {
+		"items": {
+			"01": "große Zeitersparnis\nWer möchte schon mehrere Tausend Test- und Impftermine per Telefon koordinieren und dann händisch eintragen?",
+			"02": "Nerven schonen\nSchonen Sie sich und die Impflinge. Online einen Termin buchen ist einfach entspannter.",
+			"03": "Terminzuverlässigkeit steigern\nKunden werden gerne an den Termin erinnert. Und der Kunde kann den Termin auch schnell, mit wenigen Klicks, wieder absagen.",
+			"04": "Digital auf dem neuesten Stand\nKennen Sie ein großes Impf- oder Testzentrum, das keine Termine Online anbietet? Das ist einfach Standard!",
+			"05": "Workflow optimieren\nDer Kunde bucht und verwaltet den Termin. Er oder Sie erscheint pünktlich und checken per QR-Code-Scan ein. Der Kunde, die Kundin erhält das Testergebnis per Email."
+		},
+		"title": "Ihre Vorteile auf den Punkt"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Können vor dem Termin, zu einem bestimmten Zeitpunkt, Terminerinnerungen verschickt werden?",
+				"url": ""
+			},
+			"11": {
+				"title": "Was kosten die Terminerinnerungen per SMS?",
+				"url": ""
+			},
+			"12": {
+				"title": "Was kostet Bookingflix im Monat?",
+				"url": ""
+			},
+			"13": {
+				"title": "Welche Kündigungsfrist muss ich beachten?",
+				"url": ""
+			},
+			"14": {
+				"title": "Können wir die Kunden am Einlass Einchecken per QR-Code-Scan?",
+				"url": ""
+			},
+			"15": {
+				"title": "Kann man Ferien einstellen in denen kein Termin buchbar ist?",
+				"url": ""
+			},
+			"16": {
+				"title": "Kann der Kunde die Buchung selbst verwalten (Termin ändern, stornieren)",
+				"url": ""
+			},
+			"17": {
+				"title": "Welche Termin-Slots sind einstellbar?",
+				"url": ""
+			},
+			"18": {
+				"title": "Können die Email-Texte individuell angepasst werden?",
+				"url": ""
+			},
+			"19": {
+				"title": "Können die System-Mails (Zusage, Absage) von der eigenen Mailadresse  aus versendet werden?",
+				"url": ""
+			},
+			"20": {
+				"title": "Wo findet der Kunde das Termin-Ticket mit dem QR-Code?",
+				"url": ""
+			},
+			"21": {
+				"title": "Können direkt im Termin-Buchungs-Formular wichtige Infos hinterlegt werden, die bestätigt werden müssen vor der Buchung?",
+				"url": ""
+			},
+			"22": {
+				"title": "Welcher Termin-Buchungs-Kalender ist für mein Business am besten geeignet?",
+				"url": ""
+			},
+			"23": {
+				"title": "Wie lange dauert die Terminbuchung für meine Kunden?",
+				"url": ""
+			},
+			"01": {
+				"title": "Ist die Terminbuchung über Bookingflix.com DSGVO-konform?",
+				"url": ""
+			},
+			"02": {
+				"title": "Wo stehen die Server von Bookingflix?",
+				"url": ""
+			},
+			"03": {
+				"title": "Hat Bookingflix eine Rechteverwaltung, damit Mitarbeiter die Termin-Verwaltung übernehmen können?"
+			},
+			"04": {
+				"title": "Können auch Gruppen eine Buchung vornehmen und wird die Anzahl berücksichtigt?",
+				"url": ""
+			},
+			"05": {
+				"title": "Ist die Anzahl an monatlichen Terminbuchungen begrenzt?",
+				"url": ""
+			},
+			"06": {
+				"title": "Können Terminbuchungen automatisch bestätigt werden?",
+				"url": ""
+			},
+			"07": {
+				"title": "Können Termine händisch für den Kunden eingetragen werden?",
+				"url": ""
+			},
+			"08": {
+				"title": "Welchen Support bekommen wir im Rahmen der Nutzung?",
+				"url": ""
+			},
+			"09": {
+				"title": "Kann der Premium-Account auch per Rechnung bezahlt werden statt per Lastschrift?",
+				"url": ""
+			}
+		},
+		"title": "Relevante FAQ für Ihre Branche"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Termine automatisch bestätigen lassen",
+				"url": ""
+			},
+			"11": {
+				"title": "Termine einfach ändern oder absagen",
+				"url": ""
+			},
+			"12": {
+				"title": "Weitere Infos mitteilen im Rahmen der Buchung",
+				"url": ""
+			},
+			"13": {
+				"title": "Terminerinnerungen",
+				"url": ""
+			},
+			"14": {
+				"title": "Termin-Daten exportieren (pdf, csv)",
+				"url": ""
+			},
+			"15": {
+				"title": "Terminticket mit QR-Code zum Ausdrucken",
+				"url": ""
+			},
+			"16": {
+				"title": "Volltext-Suche im Dashboard",
+				"url": ""
+			},
+			"17": {
+				"title": "Adresse des Termins in Termin-Buchungs-Kalender mit Verlinkung zu Google Maps",
+				"url": ""
+			},
+			"01": {
+				"title": "Terminbuchung nach DSGVO-Standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Deutschland",
+				"url": ""
+			},
+			"03": {
+				"title": "Termin-Buchungs-Kalender für feste Öffnungszeiten",
+				"url": ""
+			},
+			"04": {
+				"title": "Besserer Überblick über den Terminstatus (Zusage, Absage, noch nicht bestätigt)",
+				"url": ""
+			},
+			"05": {
+				"title": "Gruppenbuchungen",
+				"url": ""
+			},
+			"06": {
+				"title": "Auch sehr kurze Termindauer einstellbar. Z. B. fünf Minuten",
+				"url": ""
+			},
+			"07": {
+				"title": "Ferien und Pausenzeiten einstellbar",
+				"url": ""
+			},
+			"08": {
+				"title": "Check-In und Check-Out-Funktion mit QR-Code-Scan",
+				"url": ""
+			},
+			"09": {
+				"title": "Individuelle Email-Texte der System-Mails",
+				"url": ""
+			}
+		},
+		"title": "Besonders relevante Funktionen und Eigenschaften für Ihre Branche"
+	},
+	"main": {
+		"description": "Wer vor 2020 noch nie einen Termin über ein Termin-Tool gebucht hat, wusste vielleicht gar nicht, dass es das gibt. Ab 2021 wurden dann unzählige Impf- und Testzentren im ganzen Land eröffnet. Die Nachfrage nach leistungsstarken Termin-Tools, die auch bei einem großen Andrang stabil laufen, nach stark zu. Auch Bookingflix wird seitdem in vielen Test- und Impfzentren eingesetzt. Manche neue Funktionen wurden sogar extra für diesen Einsatzzweck umgesetzt. So zum Beispiel das Check-in- und Check-out-System per QR-Code-Scan.\nDiese stark erhöhte Nachfrage führte auch dazu, das Bookingflix seitdem auf einer leistungsstarken Server-Struktur des Weltmarktführers AWS läuft. Und dies sehr stabil, auch bei hoher Last.\nDer Endkunde, oder auch liebevoll Impfling genannt, möchte schnell und einfach den Wunschtermin auswählen und buchen. Und falls eine Impfung doch schneller möglich ist, zum Beispiel spontan beim Hausarzt, den bereits gebuchten Termin, ohne das Schreiben einer Email oder eines Anruf, wieder absagen.\nDatensicherheit und Datenschutz spielen in diesem sensiblen Bereich selbstredend eine besondere Rolle. Auch wenn es hauptsächlich um Termindaten geht, sind jegliche Daten im Gesundheitsdienst, von besonderer Relevanz. Hier konnte sich sich Bookingflix als zuverlässiger Partner von Arztpraxen, Testzentren und Impfzentren beweisen. Mit einem gewissen Stolz, kann das Team von Bookingflix somit behaupten, an der Bekämpfung der Pandemie, ein klein wenig beteiligt gewesen zu sein.",
+		"title": "Test- und Impfzentren"
+	},
+	"sub": {
+		"description": "Wie bereits beschrieben, möchte der Endkunde,der Impfling, ohne langes Warten, ohne Anrufen, ohne Warten in der Warteschleife, ohne besetzte Leitungen, an den ersehnten Impf- oder Testtermin kommen.\nÜber den Termin-Buchungs-Kalender wählt der Kunde den Wunschtermin aus, gibt seine Daten ein und bestätigt die Bedingungen zum Datenschutz. Der Termin wird nach der Verifizierung direkt vom System bestätigt oder kann, manuell vom Impf- oder Testzentrum, mit einem Klick bestätigt werden. Der Kunde erhält per Email die Terminbestätigung mit dem persönlichen Termin-Link. Über diesen kann die Buchung bearbeitet oder auch storniert werden. Das Termin-Ticket mit QR-Code steht dort ebenfalls bereit. Mittels QR-Code kann das Team vom Impf- oder Testzentrum die Anwesenheit dokumentieren. Für die Abrechnung oder die Nachverfolgbarkeit ist dies eine praktisch oder sogar notwendige Funktion.\nEs lassen sich sogar Gruppentermine einstellen. Dies war von einem Impfzentrum ein dringender Wunsch, damit auch Paare gemeinsam zur Impfung erscheinen können und nicht weit auseinander liegende Termine buchen müssen.\nDie Termin-Slots lassen sich individuell einstellen. Auch kurze Termine von fünf Minuten lassen sich so voreinstellen.\nDirekt im Termin-Buchungs-Kalender kann die Adresse des Impfzentrums oder des Testzentrums angezeigt werden. Dies sogar mit Verlinkung zu Google Maps.\nUnd falls ein Impfling doch mal Probleme mit dem Internet hat, ist ein Termin auch schnell, für die Impflinge, per Hand eingetragen.",
+		"title": "Warum Online-Termin-Buchung mit Bookingflix?"
+	}
+}

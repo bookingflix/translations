@@ -1,0 +1,10 @@
+{
+  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termin-Kalender*** und dann auf ***Termin-Buchungs-Website***.\n2. Wählen Sie den gewünschten Termin-Buchungs-Kalender aus.\n3. Über den QR-Code und den roten Link, erreichen Sie die Termin-Buchungs-Website. Klicken Sie auf den QR-Code, um diesen zu vergrößern. \n4. Klicken Sie auf ***Standard-Termin-Buchungs-Website wiederherstellen***, um alle bisherigen Änderungen zu löschen.\n5. Klicken Sie auf ***Termin-Buchungs-Website bearbeiten***, um Änderungen vorzunehmen.\n6. Klicken Sie auf die weißen Pfeile, um das Service-Menü zu öffnen.\n7. Klicken Sie auf **Layout bearbeiten**, um die Layout-Bearbeitungsansicht zu öffnen. Über den Link ***Designelemente hinzufügen***, fügen Sie Standard-Design-Elemente hinzu.\n8. Klicken Sie auf die weißen Pfeile, um die Reihenfolge der Design-Elemente zu ändern.\n9. Klicken Sie direkt auf ein Design-Element, um den Inhalt des Elements anzupassen.\n10. Klicken Sie auf das rote Kreuz, um das Design-Element zu löschen. Über den Link ***Designelemente hinzufügen*** im Service-Menü, fügen Sie Standard-Design-Elemente wieder hinzu.\n11. Klicken Sie auf die geschweiften Klammern, um den HTML-Code der Seite zu bearbeiten.\n12. Klicken Sie auf ***Layout speichern***, wenn die Bearbeitung übernommen werden soll. Über den Link Editor beenden, verlassen Sie den Bearbeitungs-Modus.\n\nDie Profil-Angaben zum Impressum, dem Datenschutz und den AGB werden automatisch in die Termin-Buchungs-Website übertragen. Falls Sie die Angaben individuell ändern möchten, ist dies möglich. Klicken Sie auf das blau umrandete Feld bei imprint, privacy oder terms. Löschen Sie :imprintTXT, :privacyTXT, :termsTXT. Anschließend können die Angaben an gewünschter Stelle eingetragen werden.",
+  "img": {
+    "1": "bild27.webp",
+    "2": "bild28.webp",
+    "3": "bild29.webp",
+    "4": "bild30.webp"
+  },
+  "title": "Termin-Buchungs-Website bearbeiten"
+}

@@ -1,0 +1,53 @@
+{
+	"terminverwaltung-fuer-endkunden": {
+		"cta": {
+			"action": "Testez maintenant Bookingflix Premium gratuitement pendant 14 jours !",
+			"button": "Créer un agenda maintenant",
+			"link": "/quickstart"
+		},
+		"intro": "Dans le portail clients, vos clients se gèrent entièrement eux-mêmes. Après l'enregistrement et le login, tous les rendez-vous réservés sont clairement visibles ici. Les clients peuvent modifier et évaluer leurs rendez-vous et vous contacter directement via le chat client.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Réserver, modifier et annuler des rendez-vous",
+							"img": "terminverwaltung-fuer-endkunden-01.png",
+							"text": "Pour réserver, modifier ou annuler un rendez-vous, vos clients n'ont plus besoin de vous appeler. Ils le font eux-mêmes sur le portail clients. Cela permet d'économiser du temps et de l'énergie pour tout le monde."
+						},
+						{
+							"button": {
+								"link": "/support/video/18",
+								"more": "en savoir plus"
+							},
+							"headline": "Code QR pour chaque rendez-vous",
+							"img": "terminverwaltung-fuer-endkunden-02.png",
+							"text": "Bookingflix propose une fonction intégrée de check-in et de check-out. Chaque rendez-vous réservé dispose de son propre code QR et d'un identifiant de rendez-vous individuel. Ceux-ci permettent à chaque client de s'enregistrer et de se désinscrire en quelques secondes.\n\nVous avez ainsi un aperçu précis de la fiabilité de vos clients, du taux d'occupation et pouvez même, le cas échéant, assurer la traçabilité pour le service de santé."
+						},
+						{
+							"headline": "Chat client",
+							"img": "terminverwaltung-fuer-endkunden-03.png",
+							"text": "Entrez en contact avec vos clients et vice-versa sur tous les terminaux grâce à la fonction de chat intégrée. Le déroulement du chat est documenté. Vous et vos clients êtes informés par e-mail des nouveaux messages."
+						},
+						{
+							"button": {
+								"link": "/features/votes",
+								"more": "en savoir plus"
+							},
+							"headline": "Rappel de l'évaluation des rendez-vous",
+							"img": "terminverwaltung-fuer-endkunden-04.png",
+							"text": "Une fois que le rendez-vous a eu lieu, vos clients sont rappelés pour l'évaluer. Les évaluations sont ensuite publiées sur le portail clients. Vous pouvez alors définir vous-même les questions d'évaluation que vous souhaitez poser à vos clients."
+						},
+						{
+							"headline": "Plus d'informations sur votre entreprise",
+							"img": "terminverwaltung-fuer-endkunden-05.png",
+							"text": "Dans le portail client, vos clients disposent de toutes les informations importantes sur votre entreprise, telles que les heures d'ouverture, la localisation ainsi que les offres spéciales et les évaluations. Celles-ci sont transférées depuis votre compte Bookingflix."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Gestion des rendez-vous pour les clients finaux",
+		"title": "Gérer les rendez-vous réservés et un lieu pour vous contacter"
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"button": "Réserver un rendez-vous maintenant",
+	"form": [
+		{
+			"title": "Réservation de rendez-vous"
+		},
+		{
+			"title": "Pour réserver un rendez-vous, les informations suivantes sont nécessaires. Tous les champs obligatoires sont marqués d'un astérisque. Après avoir rempli le formulaire, le système envoie directement un e-mail de vérification. Une confirmation/annulation définitive de la date ne peut avoir lieu qu'après une vérification réussie."
+		},
+		{
+			"title": "Vos coordonnées"
+		},
+		{
+			"title": "Prénom"
+		},
+		{
+			"title": "Nom de famille"
+		},
+		{
+			"info": "pour les rappels de rendez-vous",
+			"title": "Adresse électronique"
+		},
+		{
+			"info": "pour les rappels de rendez-vous (en option)",
+			"title": "Numéro de téléphone mobile"
+		},
+		{
+			"info": "En option",
+			"title": "Champ de texte libre pour les remarques / informations au prestataire de services"
+		},
+		{
+			"title": "Protection des données"
+		},
+		{
+			"info": "Vous avez la possibilité de révoquer à tout moment votre consentement à l'utilisation de vos données personnelles.",
+			"options": [
+				{
+					"info": "Consentement aux données à caractère personnel",
+					"title": "J'autorise la collecte de mes données personnelles (voir formulaire)"
+				},
+				{
+					"info": "Prise de contact Fixation d'un rendez-vous",
+					"title": "J'accepte d'être contacté(e) pour fixer un rendez-vous"
+				},
+				{
+					"info": "Exactitude des données",
+					"title": "Je confirme l'exactitude de mes données"
+				}
+			],
+			"title": "Informations sur la protection des données (Veuillez confirmer)"
+		}
+	],
+	"question": "Comment évaluez-vous notre service ?"
+}

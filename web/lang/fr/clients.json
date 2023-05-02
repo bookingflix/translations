@@ -1,0 +1,28 @@
+{
+	"client": {
+		"1": {
+			"comment": "Lorsque l'AGNF a obtenu le contrat pour le centre d'essai COVID-19 commun à la ville et au district de Fürth, notre équipe a dû rapidement mettre en place l'infrastructure nécessaire pour la réservation de rendez-vous. Nous avons opté pour Bookingflix en raison de la simplicité du processus et de la bonne protection des données. L'agenda a été mis en place rapidement et facilement et s'est intégré sans problème sur notre site web.\n\nLa région métropolitaine de Fürth-Nuremberg a été fortement touchée par la deuxième vague de la pandémie, avec une valeur d'incidence de 7 jours dépassant parfois 250 cas. En raison de cela, nous avons dû adapter continuellement le nombre de réservations à la demande de test de la population. De huit rendez-vous par quart d'heure au début, nous sommes passés à 16 rendez-vous par quart d'heure pendant la période précédant Noël. L'équipe de Bookingflix a toujours été d'une aide précieuse et rapide pour tous les changements ou même les problèmes qui se sont présentés. Bookingflix nous a toujours aidés à gérer cette situation en temps réel et a toujours été conscient de la gravité de la situation. Nous tenons à les en remercier chaleureusement !",
+			"image": "",
+			"logo": "",
+			"name": "Klaus Meyer - Président de l'AGNF e.V.",
+			"slug": "L'agenda a été mis en place rapidement et facilement et s'est intégré sans problème sur notre site web."
+		},
+		"2": {
+			"comment": "XrawStudios.com propose des services photographiques classiques aux particuliers et aux entreprises dans la ville de Witten, dans la Ruhr, près de Dortmund.\n\nDe plus, les photographes peuvent louer les locaux à l'heure pour leurs propres shootings via https://xrawstudios.com/.\n\nDeux photographes, une visagiste et un graphiste travaillent dans le studio.\n\nAu moins 50 % des clients réservent leur rendez-vous en ligne, via l'outil de prise de rendez-vous de bookingflix.com. Les rappels de rendez-vous par e-mail et SMS sont également très pratiques. La fiabilité des rendez-vous a nettement augmenté depuis l'utilisation de Bookingflix.",
+			"image": "",
+			"logo": "",
+			"name": "Studios Xraw",
+			"slug": "Au moins 50 % des clients réservent le rendez-vous en ligne, via l'outil de prise de rendez-vous [...] La fiabilité des rendez-vous a considérablement augmenté depuis l'utilisation de Bookingflix."
+		},
+		"3": {
+			"comment": "L'agence de photos utilise Bookingflix avant tout parce que cela permet de gagner du temps. Les clients ne doivent pas appeler, ils réservent directement en ligne via le site web. Si un client doit tout de même annuler son rendez-vous, cela se fait via le lien de rendez-vous personnel. Le rendez-vous est immédiatement libéré pour d'autres clients. Le message d'annulation est affiché dans la zone d'administration. Le studio photo a opté pour Bookingflix en raison de sa simplicité d'utilisation et de ses faibles coûts fixes. Un service client qui porte ses fruits. Les rappels de rendez-vous sont ceux que notre équipe utilise le plus souvent. La fiabilité des clients a ainsi augmenté d'un peu plus de 30 %. Depuis, 'Désolé, rendez-vous oublié!' n'est plus une excuse.",
+			"image": "",
+			"logo": "",
+			"name": "Agence de photos",
+			"slug": "Un service client qui porte ses fruits. La fiabilité des clients a ainsi augmenté d'un bon 30 %."
+		}
+	},
+	"description": "Voici l'utilisation de Bookingflix",
+	"info": "En cliquant sur ce lien, vous trouverez d'autres exemples :",
+	"title": "Nos clients"
+}
