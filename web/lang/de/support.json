@@ -1,0 +1,361 @@
+{
+	"chat": {
+		"title": "Support-Chat"
+	},
+	"demo": {
+		"description": "Testen Sie das Bookingflix-Dashboard",
+		"title": "Demo / Testzugang"
+	},
+	"phone": {
+		"title": "Telefon-Support"
+	},
+	"title": "Auf welche Weise benötigen Sie Support?",
+	"videos": {
+		"description": "Schritt-für-Schritt Anleitung",
+		"list": {
+			"701936220": {
+				"title": "Account löschen",
+				"url": {
+					"vimeo": "701936220"
+				}
+			},
+			"701936634": {
+				"title": "Account-Daten Profil-Daten ändern",
+				"url": {
+					"vimeo": "701936634"
+				}
+			},
+			"701936699": {
+				"title": "Adresse des Termins",
+				"url": {
+					"vimeo": "701936699"
+				}
+			},
+			"701936778": {
+				"title": "Automatische Termin-Bestätigung",
+				"url": {
+					"vimeo": "701936778"
+				}
+			},
+			"701936839": {
+				"title": "Check-In und Check-Out-Prozess Anwesenheit Abwesenheit protokollieren",
+				"url": {
+					"vimeo": "701936839"
+				}
+			},
+			"701936872": {
+				"title": "Download der Termin-Daten csv, pdf",
+				"url": {
+					"vimeo": "701936872"
+				}
+			},
+			"701936959": {
+				"title": "Einbindungs-Code Widget-Code",
+				"url": {
+					"vimeo": "701936959"
+				}
+			},
+			"701937005": {
+				"title": "einzelne Timeslots deaktivieren, Pausenzeiten festlegentcsproj",
+				"url": {
+					"vimeo": "701937005"
+				}
+			},
+			"701937046": {
+				"title": "Email-Benachrichtigungen bei neuen Terminbuchungen deaktivieren",
+				"url": {
+					"vimeo": "701937046"
+				}
+			},
+			"701937089": {
+				"title": "Ferien und freie Tage festlegen",
+				"url": {
+					"vimeo": "701937089"
+				}
+			},
+			"701937176": {
+				"title": "Formularfeld AGB",
+				"url": {
+					"vimeo": "701937176"
+				}
+			},
+			"701937249": {
+				"title": "Formularfeld Gruppenbuchung",
+				"url": {
+					"vimeo": "701937249"
+				}
+			},
+			"701937361": {
+				"title": "Individuelle Email-Texte",
+				"url": {
+					"vimeo": "701937361"
+				}
+			},
+			"701937493": {
+				"title": "Individuelle Zielseite",
+				"url": {
+					"vimeo": "701937493"
+				}
+			},
+			"701937587": {
+				"title": "Kalender Dienstleistungen",
+				"url": {
+					"vimeo": "701937587"
+				}
+			},
+			"701937701": {
+				"title": "Kalender feste Öffnungszeiten",
+				"url": {
+					"vimeo": "701937701"
+				}
+			},
+			"701937808": {
+				"title": "Kalender konkretes Event",
+				"url": {
+					"vimeo": "701937808"
+				}
+			},
+			"701937938": {
+				"title": "Kalender-Synchronisation mit Google",
+				"url": {
+					"vimeo": "701937938"
+				}
+			},
+			"701938017": {
+				"title": "Kalenderverwaltung übergeben an Dritte",
+				"url": {
+					"vimeo": "701938017"
+				}
+			},
+			"701938063": {
+				"title": "Kauf von SMS-Credits via PayPal",
+				"url": {
+					"vimeo": "701938063"
+				}
+			},
+			"701938116": {
+				"title": "Kundenbewertungen automatisch einholen",
+				"url": {
+					"vimeo": "701938116"
+				}
+			},
+			"701938172": {
+				"title": "Leistungen definieren",
+				"url": {
+					"vimeo": "701938172"
+				}
+			},
+			"701938282": {
+				"title": "mehrere Termin-Kalender verknüpfen",
+				"url": {
+					"vimeo": "701938282"
+				}
+			},
+			"701938338": {
+				"title": "Nachrichten-Zentrale Kunden-Chat",
+				"url": {
+					"vimeo": "701938338"
+				}
+			},
+			"701938430": {
+				"title": "Name und Email-Adresse der Kontaktperson",
+				"url": {
+					"vimeo": "701938430"
+				}
+			},
+			"701938483": {
+				"title": "Serientermine anlegen Wiederholungen",
+				"url": {
+					"vimeo": "701938483"
+				}
+			},
+			"701938543": {
+				"title": "Statistiken zu den bisherigen Buchungen",
+				"url": {
+					"vimeo": "701938543"
+				}
+			},
+			"701938600": {
+				"title": "Suchfunktion",
+				"url": {
+					"vimeo": "701938600"
+				}
+			},
+			"701938668": {
+				"title": "Termin- und Kunden-Verwaltung",
+				"url": {
+					"vimeo": "701938668"
+				}
+			},
+			"701938865": {
+				"title": "Termine händisch eintragen",
+				"url": {
+					"vimeo": "701938865"
+				}
+			},
+			"701938945": {
+				"title": "Termin-Buchungs-Website bearbeiten",
+				"url": {
+					"vimeo": "701938945"
+				}
+			},
+			"701939035": {
+				"title": "Termin-Erinnerungen per Email",
+				"url": {
+					"vimeo": "701939035"
+				}
+			},
+			"701939104": {
+				"title": "Termin-Erinnerungen per SMS",
+				"url": {
+					"vimeo": "701939104"
+				}
+			},
+			"701939196": {
+				"title": "variable Kundenzahl je Termin",
+				"url": {
+					"vimeo": "701939196"
+				}
+			},
+			"701939301": {
+				"title": "Verifizierung nach DSGVO",
+				"url": {
+					"vimeo": "701939301"
+				}
+			},
+			"701939388": {
+				"title": "Versand der Systemmails mit eigener Mailadresse",
+				"url": {
+					"vimeo": "701939388"
+				}
+			},
+			"701939458": {
+				"title": "Videokonferenz On-Board",
+				"url": {
+					"vimeo": "701939458"
+				}
+			},
+			"704027330": {
+				"title": "Kalender-Synchronisation mit Microsoft",
+				"url": {
+					"vimeo": "704027330"
+				}
+			},
+			"704029436": {
+				"title": "QR-Code zu jedem Terminkalender",
+				"url": {
+					"vimeo": "704029436"
+				}
+			},
+			"704029457": {
+				"title": "Termin-Link und Kunden-Login-Bereich",
+				"url": {
+					"vimeo": "704029457"
+				}
+			},
+			"704029491": {
+				"title": "Termin-Notizen",
+				"url": {
+					"vimeo": "704029491"
+				}
+			},
+			"704029517": {
+				"title": "Terminzusage per sms",
+				"url": {
+					"vimeo": "704029517"
+				}
+			},
+			"704029542": {
+				"title": "Angaben zum Impressum, AGB und Datenschutz ändern",
+				"url": {
+					"vimeo": "704029542"
+				}
+			},
+			"704029564": {
+				"title": "Automatischer Termin-Export in Google-Kalender Microsoft-Kalender Apple-Kalender",
+				"url": {
+					"vimeo": "704029564"
+				}
+			}
+		},
+		"title": "Bookingflix Erklärvideos"
+	},
+	"webinar": {
+		"title": "Webinar / Schulung",
+		"video": {
+			"20220510": {
+				"content": {
+					"1": "Termin-Buchungs-Kalender erstellen für feste Öffnungszeiten",
+					"2": "für Events",
+					"3": "für Dienstleistungen"
+				},
+				"title": "Webinar vom 10.05.2022",
+				"video": "webinar_terminbuchungskalender_anlegen"
+			},
+			"20220519": {
+				"content": {
+					"1": "Terminerinnerungen per Email",
+					"2": "Terminerinnerungen per SMS",
+					"3": "Systemmails",
+					"4": "Versand über eigenes Postfach"
+				},
+				"title": "Webinar vom 19.05.2022",
+				"video": "webinar_terminerinnerungen_systemmails_versand_eigenes_postfach"
+			},
+			"20220522": {
+				"content": {
+					"1": "Bedienung und Buchung eines Termins aus Endkundensicht",
+					"2": "Buchung, Verifizierung, Stornierung, Änderung eines Termins",
+					"3": "Login-Bereich für Endkunden"
+				},
+				"title": "Webinar vom 22.05.2022",
+				"video": "webinar_bedienung_aus_sicht_des_kunden"
+			},
+			"20220524": {
+				"content": {
+					"1": "Veröffentlichen des Termin-Buchungs-Kalenders",
+					"2": "Einbindungscode/ Widget-Code",
+					"3": "Termin-Buchungs-Website",
+					"4": "QR-Code"
+				},
+				"title": "Webinar vom 24.05.2022",
+				"video": "webinar_veroffentlichen"
+			},
+			"20220526": {
+				"content": {
+					"1": "Termine händisch eintragen",
+					"2": "Zusage, Absage",
+					"3": "Check-In/ Check-Out eines Kunden",
+					"4": "Suche",
+					"5": "Termindaten herunterladen/exportieren",
+					"6": "Serientermine anlegen",
+					"7": "Chat-Funktion",
+					"8": "Termin-Notizen"
+				},
+				"title": "Webinar vom 26.05.2022",
+				"video": "webinar_terminverwaltung"
+			},
+			"202205191": {
+				"content": {
+					"1": "Freie Tage und Ferien einstellen"
+				},
+				"title": "Webinar vom 19.05.2022",
+				"video": "webinar_freie_Tage_und_Ferien"
+			},
+			"202205192": {
+				"content": {
+					"1": "Account löschen",
+					"2": "Account-Daten/Profil-Daten ändern",
+					"3": "Impressum, AGB und Datenschutz ändern",
+					"4": "Kauf von SMS-Credits via PayPal",
+					"5": "DSGVO",
+					"6": "Statistiken zu den bisherigen Buchungen",
+					"7": "Rechtliches",
+					"8": "Kosten"
+				},
+				"title": "Webinar vom 19.05.2022",
+				"video": "webinar_rechtliches_kosten_accountverwaltung_statistiken"
+			}
+		}
+	}
+}

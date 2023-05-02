@@ -1,0 +1,69 @@
+{
+	"buchungskalender-veroeffentlichen": {
+		"cta": {
+			"action": "Jetzt 14 Tage lang kostenlos Bookingflix Premium testen!",
+			"button": "Jetzt Terminkalender erstellen",
+			"link": "/quickstart"
+		},
+		"intro": "Egal ob mit oder ohne eigene Website – mit Bookingflix können Sie einfach und flexibel Ihren Kunden die Online-Terminbuchung anbieten. Entweder über einen kleinen Einbindungscode, den Sie auf Ihrer Website einfügen, oder über eine separate Buchungswebsite. Alles wird automatisch für Sie generiert. Eine individuelle Anpassung ist jederzeit möglich.",
+		"sections": [
+			{
+				"widget": {
+					"infos": [
+						{
+							"button": {
+								"link": "/support/video/6",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Einbindung in Ihre Website",
+							"img": "buchungskalender-veroeffentlichen-01.png",
+							"text": "Wenn Sie bereits eine eigene Website haben, können Sie das Bookingflix Buchungswidget mittels HTML-Code darin einbinden. In Ihrem Account finden Sie dazu die Schritt-für-Schritt-Anleitung sowie weitere Hinweise in unserem Supportbereich."
+						},
+						{
+							"headline": "Individualisierbares Design",
+							"img": "buchungskalender-veroeffentlichen-02.png",
+							"text": "Damit sich das Buchungs-Widget nahtlos in Ihre Website einfügt, passen Sie dessen Farbgebung individuell an Ihre Unternehmensfarben an."
+						}
+					],
+					"section": {
+						"title": "Einbinden mit dem Buchungs-Widget"
+					}
+				}
+			},
+			{
+				"website": {
+					"infos": [
+						{
+							"button": {
+								"link": "/support/video/7",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Online-Termine verwalten – auch ohne eigene Website",
+							"img": "buchungskalender-veroeffentlichen-03.png",
+							"text": "Auch ohne eigene Website, erstellen Sie mit Bookingflix unkompliziert eine Micropage, auf welcher Ihre Kunden Termine buchen können."
+						},
+						{
+							"headline": "Freie Gestaltungsoptionen",
+							"img": "buchungskalender-veroeffentlichen-04.png",
+							"text": "Mit unserem Pagebuilder ist es möglich, Ihre Buchungswebsite individuell zu konfigurieren. Fügen Sie Überschriften, Texte und Bilder nach Ihren Bedürfnissen hinzu und passen Sie die Farben an Ihr Unternehmen an. Das Beste daran: Sie müssen nicht programmieren können! Und falls Sie doch mal nicht weiter wissen, hilft Ihnen gerne unser Support."
+						},
+						{
+							"button": {
+								"link": "/features/privacy",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "DSGVO-konform und sicher",
+							"img": "buchungskalender-veroeffentlichen-05.png",
+							"text": "Wir helfen Ihnen, einen sicheren Webauftritt zu gestalten, der die DSGVO-Bestimmungen erfüllt. Das Impressum, die AGBs und die Datenschutzinformationen werden automatisch von Ihrem Bookingflix-Profil bezogen."
+						}
+					],
+					"section": {
+						"title": "Buchungswebsite"
+					}
+				}
+			}
+		],
+		"subtitle": "Buchungskalender veröffentlichen",
+		"title": "Ganz einfach: Den Termin-Buchungs-Kalender auf Ihrer Website einbinden. Oder die separate Buchungsseite von Bookingflix nutzen."
+	}
+}

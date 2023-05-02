@@ -1,0 +1,80 @@
+{
+	"termin-und-kalenderverwaltung": {
+		"cta": {
+			"action": "Try Bookingflix Premium for 14 days for free!",
+			"button": "Create appointment calendar now",
+			"link": "/quickstart"
+		},
+		"intro": "Bookingflix offers many different features to manage your appointments the way you need it in your business.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"button": {
+								"link": "/features/dashboard",
+								"more": "Learn more"
+							},
+							"headline": "Overview of all dates",
+							"img": "termin-und-kalenderverwaltung-01.png",
+							"text": "In the control center you can view all booked appointments as well as their status, time and relevant customer information. You receive automatic notifications as soon as customer appointments are confirmed, changed or cancelled. Using the check-in and check-out functions, you can see when a customer has appeared and when they have left your store."
+						},
+						{
+							"button": {
+								"link": "/support/video/11",
+								"more": "Learn more"
+							},
+							"headline": "Manually book and change appointments",
+							"img": "termin-und-kalenderverwaltung-02.png",
+							"text": "Do you still receive bookings by phone or directly verbally on site? Then add them manually to your appointment calendar along with all relevant information."
+						},
+						{
+							"headline": "Confirm and cancel appointments",
+							"img": "termin-und-kalenderverwaltung-03.png",
+							"text": "If a free appointment has been booked, you can have it confirmed automatically by the system or you can confirm or cancel it yourself in your profile."
+						},
+						{
+							"headline": "Contact customers",
+							"img": "termin-und-kalenderverwaltung-04.png",
+							"text": "Contact your customers easily and directly via the notification field in your customer's profile. He will immediately receive an email with your message and can reply to it in turn. All mails are saved in the inbox of the control panel. By the way, you can also have Bookingflix mails sent from your own email address.\n\nIf your customer has an account in the customer portal, he can also reply to your message with the chat function there."
+						},
+						{
+							"button": {
+								"link": "/support/video/17",
+								"more": "Learn more"
+							},
+							"headline": "Appointment notes",
+							"img": "termin-und-kalenderverwaltung-05.png",
+							"text": "Create notes for individual appointments. This allows you to keep track of personal appointments and special customer requests. This allows your employees to access all information in one place without having to keep separate pieces of paper."
+						},
+						{
+							"button": {
+								"link": "/support/video/13",
+								"more": "Learn more"
+							},
+							"headline": "Download the appointment data",
+							"img": "termin-und-kalenderverwaltung-06.png",
+							"text": "In your Bookingflix profile you download the appointment data of a complete calendar or individual appointments in PDF,CSV and ICS format. You can use this data for further data processing. You can filter by specific days or time periods."
+						},
+						{
+							"button": {
+								"link": "/support/video/15",
+								"more": "Learn more"
+							},
+							"headline": "Synchronize appointments with Google, Microsoft or Apple calendar",
+							"img": "termin-und-kalenderverwaltung-07.png",
+							"text": "With Bookingflix you can easily and fully automatically synchronize your booking calendar with your own calendar from popular providers like Google, Microsoft or Apple. On the one hand, you can transfer the booked appointments into your existing standard calendars and on the other hand, you can automatically block already occupied appointments of your own calendar in the booking calendar."
+						},
+						{
+							"headline": "Statistics",
+							"img": "termin-und-kalenderverwaltung-08.png",
+							"text": "In the control center you can see various statistics for all appointment calendars. You can evaluate individually and in real time how many appointments have been booked, when they usually take place, which calendars are most booked and much more."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Appointment and customer management",
+		"title": "You decide how you want to use Bookingflix"
+	}
+}

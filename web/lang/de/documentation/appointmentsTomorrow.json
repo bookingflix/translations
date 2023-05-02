@@ -1,0 +1,7 @@
+{
+	"description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\nSie erhalten jeden Tag um 20.00 Uhr eine Email mit den Terminen des nächsten Tages.\n1. Klicken Sie auf den Link in der Email, um die Termindaten im Dashboard einzusehen.",
+	"img": {
+		"1": "bild31.webp"
+	},
+	"title": "Termin-Übersicht per Email"
+}

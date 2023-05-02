@@ -1,0 +1,11 @@
+{
+	"description": "Définissez de manière flexible dans notre agenda quand un rendez-vous doit être disponible. Cliquez sur l'icône {icon}pour supprimer un créneau de rendez-vous et sur l'icône {icon}pour l'ajouter.",
+	"max": {
+		"event": {
+			"title": "Quel est le nombre maximal de participants au rendez-vous ?"
+		},
+		"info": "Si vous définissez par exemple \"5\", 5 clients peuvent réserver un rendez-vous dans la période indiquée. Ce n'est qu'après la 5e réservation (vérifiée) que le créneau de rendez-vous n'est plus affiché comme disponible.",
+		"title": "Quel est le nombre maximal de rendez-vous clients pouvant avoir lieu en même temps ?"
+	},
+	"title": "Agenda"
+}

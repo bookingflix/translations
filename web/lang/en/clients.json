@@ -1,0 +1,30 @@
+{
+	"client": {
+		"1": {
+			"comment": "When AGNF was awarded the contract for the joint COVID 19 test center of the city and district of Fürth, our team had to quickly set up the necessary infrastructure for booking appointments. We chose Bookingflix because of its uncomplicated handling and good data protection. The appointment calendar was set up quickly and easily and could be integrated on our website without any problems.\n\nThe Fürth-Nuremberg metropolitan region was heavily affected by the second wave of the pandemic, with a 7-day incidence of over 250 cases at times. Due to this, we had to continuously adjust the number of bookings to the test demand from the population. From eight appointments per 15 minutes in the beginning, we increased to 16 appointments per 15 minutes in the pre-Christmas period. The Bookingflix team was always helpful and quick to assist with any changes or even problems that arose. Bookingflix always helped us in a timely manner to cope with this situation and was always aware of the seriousness of the situation. For this, a big thank you at this point!",
+			"image": "",
+			"logo": "",
+			"name": "Klaus Meyer - Chairman AGNF e.V.",
+			"slug": "The appointment calendar was quick and easy to set up and integrated smoothly into our website."
+		},
+		"2": {
+			"comment": "XrawStudios.com offers classic photo services for private and commercial customers in the Ruhr city of Witten, near Dortmund.\n\nIn addition, photographers can rent the premises for their own shoots by the hour via https://xrawstudios.com/.\n\nTwo photographers, a make-up artist and a graphic designer work in the studio.\n\nAt least 50% of the customers book the appointment online, via the appointment tool of bookingflix.com. Appointment reminders via email and SMS are also practical. The appointment reliability has increased significantly since the use of Bookingflix.",
+			"image": "",
+			"logo": "",
+			"name": "Xraw Studios",
+			"slug": "At least 50% of customers book the appointment online, via the appointment tool [...] Appointment reliability has increased significantly since using Bookingflix."
+		},
+		"3": {
+			"comment": "Photo agency uses Bookingflix mainly because it saves time. Customers do not have to call but book directly online via the website. If a customer does have to cancel, this is done via the personal appointment link. The appointment is immediately released for other customers. The cancellation message is displayed in the admin area. The photo studio has chosen Bookingflix because it is easy to use and there are only low fixed costs. It's a customer service that pays off. Our team uses the appointment reminders most often. It has increased customer reliability by a good 30%. Since then, 'Sorry, I forgot my appointment' is no longer an excuse.",
+			"image": "",
+			"logo": "",
+			"name": "Photo agency",
+			"slug": "Customer service that pays off. Customer reliability has increased by a good 30 % as a result."
+		}
+	},
+	"description": "Bookingflix in action",
+	"info": "You can find more examples via this link:",
+	"title": "Best practice",
+	"hometitle": "Customers"
+
+}

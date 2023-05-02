@@ -1,0 +1,16 @@
+{
+	"email": {
+		"info": "Être informé par e-mail des messages entrants",
+		"text": "Avec cet e-mail, nous envoyons des informations importantes sur l'agenda {name}.\n\nLien de la page de réservation de rendez-vous :\n---------------------------------\n{bookingLink}\n---------------------------------\n\nLien pour éditer* le calendrier des rendez-vous :\n---------------------------------\n{editLink}*mot de passe : {password}\n---------------------------------\n\nPDF récapitulatif avec toutes les informations :\n---------------------------------\n{PDFLink}\n---------------------------------\n\n",
+		"title": "Adresse e-mail du gestionnaire de rendez-vous",
+		"warning": "Veuillez indiquer une adresse e-mail correcte"
+	},
+	"password": {
+		"info": "La protection par mot de passe est facultative",
+		"title": "Mot de passe d'accès à l'agenda"
+	},
+	"save": {
+		"button": "Créer un calendrier maintenant",
+		"info": "Vous recevrez toutes les informations complémentaires sur votre e-mail {email} ."
+	}
+}

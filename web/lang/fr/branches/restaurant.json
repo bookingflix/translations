@@ -1,0 +1,197 @@
+{
+	"benefits": {
+		"items": {
+			"01": "un grand gain de temps\nPour les deux parties. La prise de rendez-vous ne prend que quelques secondes. La cliente modifie ou annule également le rendez-vous de manière autonome.",
+			"02": "Se concentrer sur l'essentiel\nLes interruptions téléphoniques perturbent le travail quotidien. En ligne, c'est plus rapide, plus simple et cela ménage les nerfs.",
+			"03": "Augmenter la fiabilité des délais\nPour cela, utilisez les rappels automatiques par e-mail et SMS. Ce service supplémentaire est d'ailleurs apprécié par la plupart des clients.",
+			"04": "Le numérique à la pointe et l'acquisition de clients\nLes outils de prise de rendez-vous sont devenus un standard très apprécié. Les clients attendent des services numériques modernes.",
+			"05": "Optimiser le flux de travail\nLa cliente réserve et gère elle-même le rendez-vous. Les données du rendez-vous sont affichées de manière claire dans votre tableau de bord."
+		},
+		"title": "Vos avantages en un clin d'œil"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Quel est le délai de préavis à respecter ?",
+				"url": ""
+			},
+			"11": {
+				"title": "Le client peut-il gérer lui-même la réservation (modifier le rendez-vous, l'annuler) ?",
+				"url": ""
+			},
+			"12": {
+				"title": "Les textes des e-mails peuvent-ils être personnalisés ?",
+				"url": ""
+			},
+			"13": {
+				"title": "Les e-mails du système (acceptation, refus) peuvent-ils être envoyés à partir de sa propre adresse e-mail ?",
+				"url": ""
+			},
+			"14": {
+				"title": "Que se passe-t-il avec les données de rendez-vous après le rendez-vous ?",
+				"url": ""
+			},
+			"15": {
+				"title": "Puis-je annuler des rendez-vous, les supprimer ou les refuser ultérieurement à la cliente ?",
+				"url": ""
+			},
+			"16": {
+				"title": "Quel est l'agenda le mieux adapté à mon entreprise ?",
+				"url": ""
+			},
+			"17": {
+				"title": "Combien de temps prend la réservation d'un rendez-vous pour mes clients ?",
+				"url": ""
+			},
+			"18": {
+				"title": "Comment régler les périodes de vacances ?",
+				"url": ""
+			},
+			"19": {
+				"title": "Comment contacter le client avant le rendez-vous ?",
+				"url": ""
+			},
+			"20": {
+				"title": "Je souhaite créer une courte note pour le rendez-vous avec le client. Comment faire ?",
+				"url": ""
+			},
+			"21": {
+				"title": "Les données de rendez-vous peuvent-elles être téléchargées pour un traitement ultérieur ?",
+				"url": ""
+			},
+			"22": {
+				"title": "Comment éviter les surréservations ?",
+				"url": ""
+			},
+			"23": {
+				"title": "Comment puis-je définir plusieurs tables pour la réservation ?",
+				"url": ""
+			},
+			"01": {
+				"title": "Est-ce que Bookingflix dispose d'une gestion des droits pour que le service concerné puisse prendre en charge la gestion des rendez-vous ?",
+				"url": ""
+			},
+			"02": {
+				"title": "Que se passe-t-il exactement lorsqu'un client annule son rendez-vous ?",
+				"url": ""
+			},
+			"03": {
+				"title": "Les réservations de rendez-vous peuvent-elles être confirmées automatiquement ?"
+			},
+			"04": {
+				"title": "Les rendez-vous peuvent-ils être saisis manuellement pour le client ?",
+				"url": ""
+			},
+			"05": {
+				"title": "Quel soutien recevons-nous dans le cadre de l'utilisation ?",
+				"url": ""
+			},
+			"06": {
+				"title": "Le compte premium peut-il être payé par facture plutôt que par prélèvement automatique ?",
+				"url": ""
+			},
+			"07": {
+				"title": "Est-il possible d'envoyer des rappels de rendez-vous avant le rendez-vous, à un moment donné ?",
+				"url": ""
+			},
+			"08": {
+				"title": "Combien coûtent les rappels de rendez-vous par SMS ?",
+				"url": ""
+			},
+			"09": {
+				"title": "Combien coûte Bookingflix par mois ?",
+				"url": ""
+			}
+		},
+		"title": "FAQ pertinentes pour votre secteur"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Modifier ou annuler facilement des rendez-vous",
+				"url": ""
+			},
+			"11": {
+				"title": "Plus d'infos à communiquer dans le cadre de la réservation",
+				"url": ""
+			},
+			"12": {
+				"title": "Rappels de rendez-vous",
+				"url": ""
+			},
+			"13": {
+				"title": "Intégrer facilement le calendrier de réservation sur son propre site web",
+				"url": ""
+			},
+			"14": {
+				"title": "Site web de réservation de rendez-vous utilisable même sans propre site web",
+				"url": ""
+			},
+			"15": {
+				"title": "Créer des notes sur les rendez-vous et les clients",
+				"url": ""
+			},
+			"16": {
+				"title": "Jours fériés et vacances réglables",
+				"url": ""
+			},
+			"17": {
+				"title": "Possibilité de réserver plusieurs dates par créneau de rendez-vous",
+				"url": ""
+			},
+			"18": {
+				"title": "Obtenir automatiquement les évaluations des clients",
+				"url": ""
+			},
+			"19": {
+				"title": "Suppression automatique des données de rendez-vous après 30 jours",
+				"url": ""
+			},
+			"01": {
+				"title": "Réservation de rendez-vous selon les normes du RGPD",
+				"url": ""
+			},
+			"02": {
+				"title": "Serveurs en Allemagne",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendrier de réservation de rendez-vous pour les heures d'ouverture fixes",
+				"url": ""
+			},
+			"04": {
+				"title": "Calendrier de réservation de rendez-vous pour des événements concrets",
+				"url": ""
+			},
+			"05": {
+				"title": "Meilleure vue d'ensemble du statut des rendez-vous (accepté, annulé, pas encore confirmé)",
+				"url": ""
+			},
+			"06": {
+				"title": "Différentes durées de rendez-vous réglables. Par exemple, 30 minutes ou deux heures",
+				"url": ""
+			},
+			"07": {
+				"title": "Gestion des droits pour la gestion des rendez-vous par la collaboratrice compétente",
+				"url": ""
+			},
+			"08": {
+				"title": "Textes individuels des e-mails du système",
+				"url": ""
+			},
+			"09": {
+				"title": "Confirmer automatiquement les rendez-vous",
+				"url": ""
+			}
+		},
+		"title": "Fonctions et caractéristiques particulièrement pertinentes pour votre secteur"
+	},
+	"main": {
+		"description": "Pendant la pandémie de Corona, les restaurants et les cafés ne pouvaient être visités que sur rendez-vous. Plus tard, il fallait même un test ou un certificat de vaccination. Aussi pénible que cela ait été pour beaucoup. De nombreuses auberges ont pu proposer cela à leurs clients et clientes de manière simple et facile. Mais la réservation de tables est également un instrument apprécié de fidélisation et d'acquisition de clients au-delà de la pandémie. Ainsi, les clients qui souhaitent réserver rapidement une table peuvent le faire en quelques clics. Pour ce faire, de nombreux restaurants ont en principe associé quelques tables à Bookingflix. Cela signifie que celles-ci peuvent être réservées en ligne en priorité. Ce n'est que lorsque toutes les autres tables sont déjà prises que ces \"tables Bookingflix\" peuvent être réservées par téléphone.\nLes clients réguliers réservent même volontiers au moyen de l'outil de prise de rendez-vous. Le restaurateur, le serveur ou la serveuse peut même attirer leur attention sur ce service de réservation de tables.",
+		"title": "Restaurants et débits de boissons"
+	},
+	"sub": {
+		"description": "Certains clients n'aiment pas réserver une table par téléphone. Ils commandent également la pizza ou le canard au riz au moyen d'un smartphone et d'une application. Ils sont donc habitués à ce service. C'est pourquoi ils souhaitent également réserver leur table via l'outil de réservation en ligne.\nC'est pourquoi de plus en plus de restaurants et d'établissements de restauration utilisent Bookingflix pour rendre les tables libres réservables.\nL'installation est très simple. Via le QuickStart de Bookingflix, le restaurant définit le nombre de tables pouvant être réservées en ligne et les heures d'ouverture de celles-ci.\nUn code d'intégration permet ensuite de publier le calendrier de rendez-vous et de réservations sur son propre site web. Le client n'a plus qu'à choisir la date et à indiquer son nom et son adresse e-mail. Et voilà que l'auberge peut également prendre des réservations en ligne. De nouveaux clients et de clients réguliers. Et si la table a déjà été attribuée par téléphone, il est possible de l'inscrire en quelques clics sur Bookingflix. Ainsi, il n'y a pas de surréservation.\nLes rappels de rendez-vous par SMS et e-mail sont également très appréciés. Les invités sont ainsi rappelés à l'avance de la table réservée. Le client peut alors modifier ou annuler lui-même la date de son rendez-vous, si nécessaire.\nLe tableau de bord permet de visualiser clairement toutes les réservations de rendez-vous ou de tables par jour et par heure. Les réservations peuvent également être saisies manuellement par le client. Certains restaurants n'utilisent plus que Bookingflix. Pour la réservation de tables en ligne mais aussi pour l'enregistrement des réservations par téléphone.",
+		"title": "Pourquoi réserver un rendez-vous en ligne avec Bookingflix ?"
+	}
+}

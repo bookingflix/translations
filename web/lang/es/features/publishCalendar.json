@@ -1,0 +1,69 @@
+{
+	"buchungskalender-veroeffentlichen": {
+		"cta": {
+			"action": "Pruebe ahora Bookingflix Premium durante 14 días de forma gratuita.",
+			"button": "Crear una agenda ahora",
+			"link": "/quickstart"
+		},
+		"intro": "Tanto si ya tienes tu propia página web como si no, con Bookingflix puedes ofrecer fácilmente y de forma flexible la reserva de citas online. Ya sea a través de un widget de reservas que usted integra en su sitio web o a través de un sitio web de reservas independiente.",
+		"sections": [
+			{
+				"widget": {
+					"infos": [
+						{
+							"button": {
+								"link": "/support/video/6",
+								"more": "Más información"
+							},
+							"headline": "Integración en su sitio web",
+							"img": "buchungskalender-veroeffentlichen-01.png",
+							"text": "Si ya tienes tu propia página web, puedes integrar el widget de reservas de Bookingflix en ella mediante código HTML. Encontrará instrucciones paso a paso en su cuenta y más información en nuestra área de soporte."
+						},
+						{
+							"headline": "Diseño personalizable",
+							"img": "buchungskalender-veroeffentlichen-02.png",
+							"text": "Para que el widget de reservas se integre perfectamente en su sitio web, puede personalizar su esquema de colores para que coincida con sus colores corporativos."
+						}
+					],
+					"section": {
+						"title": "Widget de reserva mediante código de inserción"
+					}
+				}
+			},
+			{
+				"website": {
+					"infos": [
+						{
+							"button": {
+								"link": "/support/video/7",
+								"more": "Más información"
+							},
+							"headline": "Gestione las citas en línea, incluso sin su propio sitio web",
+							"img": "buchungskalender-veroeffentlichen-03.png",
+							"text": "Si no tienes tu propia página web, puedes crear fácilmente una micropágina con Bookingflix en la que tus clientes puedan reservar citas."
+						},
+						{
+							"headline": "Opciones de diseño gratuitas",
+							"img": "buchungskalender-veroeffentlichen-04.png",
+							"text": "Con nuestro constructor de páginas es posible configurar su sitio web de reservas de forma individual. Añada titulares, textos e imágenes según sus necesidades y adapte los colores a su empresa. Lo mejor de todo es que no tienes que saber programar. Y si te quedas atascado, nuestro equipo de asistencia estará encantado de ayudarte."
+						},
+						{
+							"button": {
+								"link": "/features/privacy",
+								"more": "Más información"
+							},
+							"headline": "Conforme a la DSGVO y seguro",
+							"img": "buchungskalender-veroeffentlichen-05.png",
+							"text": "Le ayudamos a crear una presencia web segura que cumpla con la normativa de la DSGVO. El sello, los T&Cs y la información de protección de datos se obtienen automáticamente de tu perfil de Bookingflix."
+						}
+					],
+					"section": {
+						"title": "Sitio web de reservas"
+					}
+				}
+			}
+		],
+		"subtitle": "Publicar el calendario de reservas",
+		"title": "Habilitar la reserva de citas en línea en su propio sitio web o a través de una página de reserva independiente"
+	}
+}

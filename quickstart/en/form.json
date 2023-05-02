@@ -1,0 +1,57 @@
+{
+	"add": "Attach new form element",
+	"checkbox": {
+		"description": "Description (optional)",
+		"info": "Attach multiple selection",
+		"name": "Headline",
+		"option": "Option",
+		"title": "Multiple selection",
+		"values": "Selection options"
+	},
+	"description": "Design your booking form for your customers here. Via the {icon} icon you can add more elements. Via the {icon} button you can change, move or delete existing elements.",
+	"group": {
+		"info": "Allow group booking",
+		"title": "group booking"
+	},
+	"heading": {
+		"info": "Large section heading",
+		"title": "Headline"
+	},
+	"link": {
+		"info": "Insert a link",
+		"title": "Link"
+	},
+	"paragraph": {
+		"info": "Write explanatory text",
+		"title": "Explanatory text"
+	},
+	"phone": {
+		"info": "Query cell phone number",
+		"title": "Phone no."
+	},
+	"radio": {
+		"info": "Attach single selection",
+		"title": "Single selection"
+	},
+	"required": "Mandatory field",
+	"terms": {
+		"info": "Obtain consent to GTCs",
+		"name": "Headline",
+		"title": "terms",
+		"warning": "Please check URL to terms"
+	},
+	"text": {
+		"info": "Small text field to fill in",
+		"title": "Text field"
+	},
+	"textarea": {
+		"info": "Large text field for filling",
+		"title": "Text block"
+	},
+	"title": "Form Editor",
+	"url": {
+		"description": "Link description",
+		"title": "URL",
+		"warning": "Please check URL"
+	}
+}

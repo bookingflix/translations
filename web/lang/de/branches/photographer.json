@@ -1,0 +1,189 @@
+{
+	"benefits": {
+		"items": {
+			"01": "große Zeitersparnis\nGerade bei vielen Terminen und Buchungen ist die Zeitersparnis enorm.",
+			"02": "Nerven schonen\nWer hat schon Lust auf Email-Ping-Pong? Kunden im Jahr 2022 sicherlich nicht.",
+			"03": "Terminzuverlässigkeit steigern\nNutzen Sie dafür die automatischen Erinnerungen per Email und SMS. Diesen Extra-Service schätzen übrigens die meisten Kunden.",
+			"04": "Digital auf dem neuesten Stand\nTermin-Tools sind mittlerweile ein beliebter Standard. Kunden erwarten moderne digitale Services.",
+			"05": "Workflow optimieren\nDie Kundin bucht und verwaltet den Termin selbst. Die Termindaten werden übersichtlich in Ihrem Dashboard angezeigt."
+		},
+		"title": "Ihre Vorteile auf den Punkt"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Können vor dem Termin, zu einem bestimmten Zeitpunkt, Terminerinnerungen verschickt werden?",
+				"url": ""
+			},
+			"11": {
+				"title": "Was kosten die Terminerinnerungen per SMS?",
+				"url": ""
+			},
+			"12": {
+				"title": "Was kostet Bookingflix im Monat?",
+				"url": ""
+			},
+			"13": {
+				"title": "Welche Kündigungsfrist muss ich beachten?",
+				"url": ""
+			},
+			"14": {
+				"title": "Kann der Kunde die Buchung selbst verwalten (Termin ändern, stornieren)",
+				"url": ""
+			},
+			"15": {
+				"title": "Können die Email-Texte individuell angepasst werden?",
+				"url": ""
+			},
+			"16": {
+				"title": "Können die System-Mails (Zusage, Absage) von der eigenen Mailadresse  aus versendet werden?",
+				"url": ""
+			},
+			"17": {
+				"title": "Was passiert mit den Termindaten nach dem Termin?",
+				"url": ""
+			},
+			"18": {
+				"title": "Kann ich Termine stornieren, löschen oder dem Interessent nachträglich absagen?",
+				"url": ""
+			},
+			"19": {
+				"title": "Welcher Termin-Buchungs-Kalender ist für mein Business am besten geeignet?",
+				"url": ""
+			},
+			"20": {
+				"title": "Wie lange dauert die Terminbuchung für meine Kunden?",
+				"url": ""
+			},
+			"01": {
+				"title": "Ist die Terminbuchung über Bookingflix.com DSGVO-konform?",
+				"url": ""
+			},
+			"02": {
+				"title": "Wo stehen die Server von Bookingflix?",
+				"url": ""
+			},
+			"03": {
+				"title": "Hat Bookingflix eine Rechteverwaltung, damit Mitarbeiter die Termin-Verwaltung übernehmen können?"
+			},
+			"04": {
+				"title": "Kann ich meine Termine mit meinem Standard-Kalender synchronisieren?",
+				"url": ""
+			},
+			"05": {
+				"title": "Was passiert genau, wenn ein Interessent seinen Termin storniert?",
+				"url": ""
+			},
+			"06": {
+				"title": "Können Terminbuchungen automatisch bestätigt werden?",
+				"url": ""
+			},
+			"07": {
+				"title": "Können Termine händisch für den Kunden eingetragen werden?",
+				"url": ""
+			},
+			"08": {
+				"title": "Welchen Support bekommen wir im Rahmen der Nutzung?",
+				"url": ""
+			},
+			"09": {
+				"title": "Kann der Premium-Account auch per Rechnung bezahlt werden statt per Lastschrift?",
+				"url": ""
+			}
+		},
+		"title": "Relevante FAQ für Ihre Branche"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Individuelle Email-Texte der System-Mails",
+				"url": ""
+			},
+			"11": {
+				"title": "Termine automatisch bestätigen lassen",
+				"url": ""
+			},
+			"12": {
+				"title": "Termine einfach ändern oder absagen",
+				"url": ""
+			},
+			"13": {
+				"title": "Weitere Infos mitteilen im Rahmen der Buchung",
+				"url": ""
+			},
+			"14": {
+				"title": "Terminerinnerungen",
+				"url": ""
+			},
+			"15": {
+				"title": "Adresse des Termins in Termin-Buchungs-Kalender mit Verlinkung zu Google Maps",
+				"url": ""
+			},
+			"16": {
+				"title": "Termin-Buchungs-Kalender einfach auf eigener Website einbinden",
+				"url": ""
+			},
+			"17": {
+				"title": "Termin-Buchungs-Website nutzbar auch ohne eigene Website",
+				"url": ""
+			},
+			"18": {
+				"title": "Termin-Notizen zu Terminen und Kunden anlegen",
+				"url": ""
+			},
+			"19": {
+				"title": "Feiertage und Ferien einstellbar",
+				"url": ""
+			},
+			"20": {
+				"title": "Bookingflix-Kalender mit Kalender von Google, Microsoft und Apple synchronisieren",
+				"url": ""
+			},
+			"01": {
+				"title": "Terminbuchung nach DSGVO-Standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Deutschland",
+				"url": ""
+			},
+			"03": {
+				"title": "Termin-Buchungs-Kalender für konkrete Events",
+				"url": ""
+			},
+			"04": {
+				"title": "Termin-Buchungs-Kalender für feste Öffnungszeiten",
+				"url": ""
+			},
+			"05": {
+				"title": "Termin-Buchungs-Kalender für bestimmte Dienstleistungen",
+				"url": ""
+			},
+			"06": {
+				"title": "Besserer Überblick über den Terminstatus (Zusage, Absage, noch nicht bestätigt)",
+				"url": ""
+			},
+			"07": {
+				"title": "Anzahl Teilnehmer je Event einstellbar",
+				"url": ""
+			},
+			"08": {
+				"title": "Auch sehr kurze Termindauer einstellbar. Z. B. fünf Minuten",
+				"url": ""
+			},
+			"09": {
+				"title": "Rechteverwaltung zur Termin-Verwaltung durch Mitarbeiter",
+				"url": ""
+			}
+		},
+		"title": "Besonders relevante Funktionen und Eigenschaften für Ihre Branche"
+	},
+	"main": {
+		"description": "Fotografie ist zum Großteil ein Termingeschäft. Familienbilder, Bewerbungsportraits, Hochzeitsfotos oder Kita-Bilder. Fast jeder Fotograf oder jedes Fotostudio ist auf eine zuverlässige Terminvereinbarung angewiesen. Das ging früher zumeist per Email und Telefon. Heute setzen immer mehr Lichtbildner auf Termin-Tools. Der erste Nutzer von Bookingflix war übrigens ein Fotograf beziehungsweise eine Fotoagentur. Für die wöchentlich stattfindenden Testshootings und Castings wurde ein Termin-Tool gesucht, das einfach zu bedienen war und die Modelle per Email und SMS an den vereinbarten Termin erinnerte. Bookingflix ist hier seit Jahren im Einsatz. Zu sehen auf Foto-Agentur.de.\nMit diesen ersten Nutzererfahrung wurde Bookingflix anschließend weiter ausgebaut und optimiert. Und mittlerweile nutzen viele weitere Fotografen und Fotostudios Bookingflix für die unkomplizierte, schnelle und zuverlässige Terminvereinbarung per Klick. Und beim Termin im Studio oder on-location klickt dann die Kamera.",
+		"title": "Fotografen und Fotostudios"
+	},
+	"sub": {
+		"description": "Fotografen nutzen Bookingflix für sehr unterschiedliche Anwendungszwecke oder Geschäftsmodelle. Da ist die oben bereits erwähnte Foto-Agentur.de. Hier geht es um einzelne Events in verschiedenen Städten. Für jede Stadt steht ein eigener Termin-Buchungs-Kalender zur Verfügung. Die Modelle können den gewünschten Kalender und anschließend den bevorzugten Termin auswählen. Falls ein Termin bereits ausgebucht ist, wird dieser gar nicht erst angezeigt. Nach der Buchung wird der Veranstalter informiert und kann den Termin manuell bestätigen oder eine Absage senden. Über einen persönlichen Termin-Link verwalten die Modelle ihren Termin eigenständig. Das bedeutet, dass sie den Termin ändern oder auch stornieren können. Auch eine Email an den Veranstalter kann über das integrierte Chat-Tool versendet werden. Nach dem Termin erhält jedes Model einen After-Sale-Link mit der Bitte, das Shooting zu bewerten. So konnten über die vergangenen Jahre der Service und die Shootings von Foto-Agentur.de, mehr und mehr verbessert werden. Hauptgrund für die Nutzung eines Termin-Tools war die deutliche Zeitersparnis. Was früher ein ewiges Email-Ping-Pong war, ist heute einer Automatisierung gewichen: Termin buchen, Zusage senden, Termin findet statt. Oder Termin buchen, Zusage senden, Termin-Absage durch Kunden, Neubuchung eines Termins, Termin findet statt. Einfach und effektiv. Auch für die Modelle.\n\nAndere Fotografen betreiben ein stationäres Fotostudio. Xrawstudios.com hat sich beispielsweise auf Kinder-Foto-Partys sowie auf der Vermietung der Räumlichkeiten spezialisiert. Beide Leistungen können über die Website gebucht werden. Auch hier kommen die Bewertungen vorheriger Kunden zum Einsatz, die nach ihren Shootings eine Rezension verfasst haben. Diese werden direkt beim Termin-Buchungs-Kalender dargestellt, was einen deutlichen Einfluss auf den Trust-Faktor hat. Gerade auch für Dienstleister, die nicht durchgehend geöffnet haben oder nicht immer telefonisch erreichbar sind, ist ein Termin-Tool fast schon ein Muss. Denn so können die Kunden zu jeder Zeit buchen. Auch wenn der Fotograf gerade eine Hochzeit fotografiert oder im Urlaub ist.",
+		"title": "Warum Online-Termin-Buchung mit Bookingflix?"
+	}
+}

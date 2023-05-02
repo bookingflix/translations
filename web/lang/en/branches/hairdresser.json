@@ -1,0 +1,209 @@
+{
+	"benefits": {
+		"items": {
+			"01": "great time saving\nFor both sides. Scheduling takes only seconds. The customer also changes or cancels the appointment independently.",
+			"02": "Focus on the essentials\nThe scissors no longer have to be constantly put aside. Because more and more customers are booking via the new appointment tool.",
+			"03": "Increase appointment reliability\nUse the automatic reminders via email and SMS. By the way, most customers appreciate this extra service.",
+			"04": "Digitally up to date and customer acquisition\nAppointment tools are now a popular standard. Customers expect modern digital services.",
+			"05": "Optimize workflow\nThe customer books and manages the appointment herself. The appointment data is clearly displayed in your dashboard."
+		},
+		"title": "Your advantages in a nutshell"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "What notice period do I have to observe?",
+				"url": ""
+			},
+			"11": {
+				"title": "Can the customer manage the booking himself (change appointment, cancel)",
+				"url": ""
+			},
+			"12": {
+				"title": "Can the email texts be customized?",
+				"url": ""
+			},
+			"13": {
+				"title": "Can the system mails (acceptance, rejection) be sent from your own mail address?",
+				"url": ""
+			},
+			"14": {
+				"title": "What happens to the appointment data after the appointment?",
+				"url": ""
+			},
+			"15": {
+				"title": "Can I cancel appointments, delete appointments or cancel the customer after the fact?",
+				"url": ""
+			},
+			"16": {
+				"title": "Which appointment booking calendar is best for my business?",
+				"url": ""
+			},
+			"17": {
+				"title": "How long does it take to book appointments for my clients?",
+				"url": ""
+			},
+			"18": {
+				"title": "Can I also enter customer appointments manually for my customers?",
+				"url": ""
+			},
+			"19": {
+				"title": "How does the creation of different services (price, duration of the appointment) work?",
+				"url": ""
+			},
+			"20": {
+				"title": "How can I set vacation times?",
+				"url": ""
+			},
+			"21": {
+				"title": "How do I contact the client before the appointment?",
+				"url": ""
+			},
+			"22": {
+				"title": "I would like to create a short note for the customer appointment. How do I do that?",
+				"url": ""
+			},
+			"23": {
+				"title": "Can the appointment data be downloaded for further processing?",
+				"url": ""
+			},
+			"24": {
+				"title": "Can different services be offered via the appointment booking calendar?",
+				"url": ""
+			},
+			"25": {
+				"title": "We are several colleagues in the salon and therefore four customers can always be served at the same time. Can this be taken into account when booking appointments?",
+				"url": ""
+			},
+			"26": {
+				"title": "How are overbookings prevented?",
+				"url": ""
+			},
+			"01": {
+				"title": "Does Bookingflix have a rights management, so that the respective department can take over the appointment management?",
+				"url": ""
+			},
+			"02": {
+				"title": "What exactly happens when a customer cancels their appointment?",
+				"url": ""
+			},
+			"03": {
+				"title": "Can appointment bookings be confirmed automatically?"
+			},
+			"04": {
+				"title": "Can appointments be entered manually for the customer?",
+				"url": ""
+			},
+			"05": {
+				"title": "What support do we get within the scope of use?",
+				"url": ""
+			},
+			"06": {
+				"title": "Can the premium account also be paid by invoice instead of direct debit?",
+				"url": ""
+			},
+			"07": {
+				"title": "Can appointment reminders be sent before the appointment, at a specific time?",
+				"url": ""
+			},
+			"08": {
+				"title": "What is the cost of appointment reminders via SMS?",
+				"url": ""
+			},
+			"09": {
+				"title": "How much does Bookingflix cost per month?",
+				"url": ""
+			}
+		},
+		"title": "Relevant FAQ for your industry"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Have appointments confirmed automatically",
+				"url": ""
+			},
+			"11": {
+				"title": "Simply change or cancel appointments",
+				"url": ""
+			},
+			"12": {
+				"title": "More info communicate within the booking",
+				"url": ""
+			},
+			"13": {
+				"title": "Appointment reminders",
+				"url": ""
+			},
+			"14": {
+				"title": "Easily integrate appointment booking calendar on your own website",
+				"url": ""
+			},
+			"15": {
+				"title": "Appointment booking website usable even without own website",
+				"url": ""
+			},
+			"16": {
+				"title": "Create appointment notes for appointments and customers",
+				"url": ""
+			},
+			"17": {
+				"title": "Vacations and vacations adjustable",
+				"url": ""
+			},
+			"18": {
+				"title": "Several dates per appointment slot bookable",
+				"url": ""
+			},
+			"19": {
+				"title": "Obtain customer reviews automatically",
+				"url": ""
+			},
+			"01": {
+				"title": "Appointment booking according to DSGVO standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Germany",
+				"url": ""
+			},
+			"03": {
+				"title": "Appointment booking calendar for fixed opening hours",
+				"url": ""
+			},
+			"04": {
+				"title": "Better overview of the appointment status (commitment, cancellation, not yet confirmed)",
+				"url": ""
+			},
+			"05": {
+				"title": "Appointment booking calendar for specific services",
+				"url": ""
+			},
+			"06": {
+				"title": "Better overview of the appointment status (commitment, cancellation, not yet confirmed)",
+				"url": ""
+			},
+			"07": {
+				"title": "Different appointment durations can be set. E.g. 30 minutes or two hours",
+				"url": ""
+			},
+			"08": {
+				"title": "Rights management for appointment management by responsible employee",
+				"url": ""
+			},
+			"09": {
+				"title": "Individual email texts of the system emails",
+				"url": ""
+			}
+		},
+		"title": "Particularly relevant functions and features for your industry"
+	},
+	"main": {
+		"description": "The old braid must come off. A sentence that probably every hairdresser has heard from a customer. The change, or the change, is not easy for everyone. Neither for the customer who wants to have a radically different hairstyle. But often even traditional craft businesses have a hard time with digitalization and change. One of our customer consultants had a visit to a hairdresser in Bochum at the end of 2019. He wanted to introduce Bookingflix and explain the advantages. He didn't really get very far. But the rejection came mainly from the employee, who said the following to her boss: \"Do I really have to learn something new now? You don't want to do that to me, do you?!\"\nOf course, a new tool must first be introduced and learned. But life is also learning and that can be fun and bring success. Plus, Bookingflix is very easy to learn. The setup often takes only about ten minutes. Then the appointment tool is already usable and customers can book their first appointment. And Bookingflix, of course, does not replace the appointment by phone in its entirety. Because many customers, especially older ones, still want to make their appointment by phone. Bookingflix is just another channel to enable customers to book appointments. Many customers are now simply used to doing everything online. Shopping, entertainment and also booking appointments online. These customers have no desire to book an appointment over the phone. So why lose these customers or not even win them in the first place?",
+		"title": "Hairdressers"
+	},
+	"sub": {
+		"description": "As described above, online appointment booking is increasingly becoming a must-have. Many modern, Internet-savvy customers appreciate the fast, uncomplicated option of online booking.\nThey see on your hairdresser's website when an appointment is available, select the service they want and click on BOOK NOW. With one click on the link in the verification email, the appointment is firmly booked. Optionally, the customer can still be reminded of the appointment by email or SMS. Here, the text in the reminder email and the time can be freely selected.\nAnd if Ms. Meier, who has no Internet or cell phone, needs an appointment? Then she still calls, of course. The appointment can then be entered by the team in the salon with just a few clicks in the login area. Just as if Ms. Meier had booked the appointment herself. This has the advantage that the appointment slot cannot be assigned twice. And if several colleagues are on duty at the same time, this can be taken into account in the appointment booking calendar. It can even be set so that the customer selects her favorite hairdresser when booking. Either each employee receives their own appointment booking calendar. This can even be managed by respective colleagues via rights management. Or in the appointment booking form, the customer selects which colleague is her favorite. This can then, as far as possible, be taken into account during planning and on site. Of course, it can happen that an appointment has to be canceled. This can be done by the customer with just two clicks. The appointment slot is then immediately released. Or the customer calls about the cancellation and the team in the salon does the cancellation quickly and easily in the dashboard of Bookingflix.\nNone of this is complicated, nor is it witchcraft. It's modern, digital and customer-friendly. The old braids don't have to come off completely. Maybe the braid just needs to be shortened a bit or the color refreshed. In the salon for the customer but also figuratively when setting up and using a cool appointment tool.",
+		"title": "Why online appointment booking with Bookingflix?"
+	}
+}

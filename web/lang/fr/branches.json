@@ -1,0 +1,27 @@
+{
+	"covid": {
+		"info": "Bookingflix est un outil précieux pour la prise de rendez-vous en ligne dans le cadre de la pandémie de Covid-19 actuelle. Utilisez l'outil de prise de rendez-vous pour prendre des rendez-vous de dépistage du Coronavirus Covid-19 ou de vaccination contre celui-ci. Ou mettez en place un formulaire de prise de rendez-vous pour le service Click & Collect de votre magasin. Les exemples d'application d'un outil de prise de rendez-vous en ligne sont multiples. Nous vous conseillons volontiers dans le cadre d'une visioconférence avec partage d'écran.",
+		"link": "Réservez votre consultation individuelle en cliquant ici.",
+		"title": "Bookingflix vous soutient même dans les moments difficiles"
+	},
+	"description": "Bookingflix soutient tous les secteurs qui dépendent d'une prise de rendez-vous fiable. Grâce aux options de paramètre flexibles de l'outil de prise de rendez-vous, vous pouvez ajuster votre formulaire individuellement à vos exigences.",
+	"icons": {
+		"title": "Secteurs utilisant Bookingflix"
+	},
+	"parts": {
+		"consultant": "Consultation | Consultations",
+		"cosmetics": "Institut de beauté | Instituts de beauté",
+		"covid": "Centre de dépistage et de vaccination Covid-19 | Centres de dépistage et de vaccination Covid-19",
+		"craftsmen": "Artisans",
+		"doctor": "Cabinet médical | Cabinets médicaux",
+		"fitness": "Salle de sport | Salles de sport",
+		"hairdresser": "Coiffeur | Coiffeurs",
+		"insurance": "Agence d'assurances | Agences d'assurances",
+    "museum": "Musée | Musées",
+		"photographer": "Photographe | Photographes",
+		"restaurant": "Restaurant | Restaurants",
+		"tattoo": "Salon de tatouage | Salons de tatouage",
+		"workshop": "Garage | Garage"
+	},
+	"title": "À qui est destiné Bookingflix ?"
+}

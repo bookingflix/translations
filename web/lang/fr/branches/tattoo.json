@@ -1,0 +1,205 @@
+{
+	"benefits": {
+		"items": {
+			"01": "un grand gain de temps\nPour les deux parties. La prise de rendez-vous ne prend que quelques secondes. La cliente modifie ou annule également le rendez-vous de manière autonome.",
+			"02": "Se concentrer sur l'essentiel\nIl n'est plus nécessaire de mettre constamment la machine à tatouer de côté. En effet, de plus en plus de clients réservent via le nouvel outil de prise de rendez-vous.",
+			"03": "Augmenter la fiabilité des délais\nPour cela, utilisez les rappels automatiques par e-mail et SMS. Ce service supplémentaire est d'ailleurs apprécié par la plupart des clients.",
+			"04": "Le numérique à la pointe du progrès\nLes outils de prise de rendez-vous sont devenus un standard très apprécié. Les clients attendent des services numériques modernes.",
+			"05": "Optimiser le flux de travail\nLa cliente réserve et gère elle-même le rendez-vous. Les données du rendez-vous sont affichées de manière claire dans votre tableau de bord."
+		},
+		"title": "Vos avantages en un clin d'œil"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Quel est le délai de préavis à respecter ?",
+				"url": ""
+			},
+			"11": {
+				"title": "Le client peut-il gérer lui-même la réservation (modifier le rendez-vous, l'annuler) ?",
+				"url": ""
+			},
+			"12": {
+				"title": "Les textes des e-mails peuvent-ils être personnalisés ?",
+				"url": ""
+			},
+			"13": {
+				"title": "Les e-mails du système (acceptation, refus) peuvent-ils être envoyés à partir de sa propre adresse e-mail ?",
+				"url": ""
+			},
+			"14": {
+				"title": "Que se passe-t-il avec les données de rendez-vous après le rendez-vous ?",
+				"url": ""
+			},
+			"15": {
+				"title": "Puis-je annuler des rendez-vous, les supprimer ou les refuser ultérieurement à la cliente ?",
+				"url": ""
+			},
+			"16": {
+				"title": "Quel est l'agenda le mieux adapté à mon entreprise ?",
+				"url": ""
+			},
+			"17": {
+				"title": "Quel est l'agenda le mieux adapté à mon entreprise ?",
+				"url": ""
+			},
+			"18": {
+				"title": "Combien de temps prend la réservation d'un rendez-vous pour mes clients ?",
+				"url": ""
+			},
+			"19": {
+				"title": "Puis-je également saisir manuellement les rendez-vous de mes clients ?",
+				"url": ""
+			},
+			"20": {
+				"title": "Comment fonctionne la création de différentes prestations (prix, durée du rendez-vous) ?",
+				"url": ""
+			},
+			"21": {
+				"title": "Comment régler les périodes de vacances ?",
+				"url": ""
+			},
+			"22": {
+				"title": "Comment contacter le client avant le rendez-vous ?",
+				"url": ""
+			},
+			"23": {
+				"title": "Je souhaite créer une courte note pour le rendez-vous avec le client. Comment faire ?",
+				"url": ""
+			},
+			"24": {
+				"title": "Les données de rendez-vous peuvent-elles être téléchargées pour un traitement ultérieur ?",
+				"url": ""
+			},
+			"25": {
+				"title": "Est-il possible de proposer différents services via l'agenda de réservation ?",
+				"url": ""
+			},
+			"26": {
+				"title": "Nous sommes plusieurs collègues dans le studio et il est donc toujours possible de servir quatre clients en même temps. Est-il possible d'en tenir compte lors de la réservation du rendez-vous ?",
+				"url": ""
+			},
+			"01": {
+				"title": "Est-ce que Bookingflix dispose d'une gestion des droits pour que le représentant concerné puisse prendre en charge la gestion des rendez-vous ?",
+				"url": ""
+			},
+			"02": {
+				"title": "Que se passe-t-il exactement lorsqu'un client annule son rendez-vous ?",
+				"url": ""
+			},
+			"03": {
+				"title": "Les réservations de rendez-vous peuvent-elles être confirmées automatiquement ?"
+			},
+			"04": {
+				"title": "Les rendez-vous peuvent-ils être saisis manuellement pour le client ?",
+				"url": ""
+			},
+			"05": {
+				"title": "Quel soutien recevons-nous dans le cadre de l'utilisation ?",
+				"url": ""
+			},
+			"06": {
+				"title": "Le compte premium peut-il être payé par facture plutôt que par prélèvement automatique ?",
+				"url": ""
+			},
+			"07": {
+				"title": "Est-il possible d'envoyer des rappels de rendez-vous avant le rendez-vous, à un moment donné ?",
+				"url": ""
+			},
+			"08": {
+				"title": "Combien coûtent les rappels de rendez-vous par SMS ?",
+				"url": ""
+			},
+			"09": {
+				"title": "Combien coûte Bookingflix par mois ?",
+				"url": ""
+			}
+		},
+		"title": "FAQ pertinentes pour votre secteur"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Modifier ou annuler facilement des rendez-vous",
+				"url": ""
+			},
+			"11": {
+				"title": "Plus d'infos à communiquer dans le cadre de la réservation",
+				"url": ""
+			},
+			"12": {
+				"title": "Rappels de rendez-vous",
+				"url": ""
+			},
+			"13": {
+				"title": "Intégrer facilement le calendrier de réservation sur son propre site web",
+				"url": ""
+			},
+			"14": {
+				"title": "Site web de réservation de rendez-vous utilisable même sans propre site web",
+				"url": ""
+			},
+			"15": {
+				"title": "Créer des notes sur les rendez-vous et les clients",
+				"url": ""
+			},
+			"16": {
+				"title": "Jours fériés et vacances réglables",
+				"url": ""
+			},
+			"17": {
+				"title": "Possibilité de réserver plusieurs dates par créneau de rendez-vous",
+				"url": ""
+			},
+			"18": {
+				"title": "Obtenir automatiquement les évaluations des clients",
+				"url": ""
+			},
+			"01": {
+				"title": "Réservation de rendez-vous selon les normes du RGPD",
+				"url": ""
+			},
+			"02": {
+				"title": "Serveurs en Allemagne",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendrier de réservation de rendez-vous pour les heures d'ouverture fixes",
+				"url": ""
+			},
+			"04": {
+				"title": "Calendrier de réservation de rendez-vous pour certains services",
+				"url": ""
+			},
+			"05": {
+				"title": "Meilleure vue d'ensemble du statut des rendez-vous (accepté, annulé, pas encore confirmé)",
+				"url": ""
+			},
+			"06": {
+				"title": "Différentes durées de rendez-vous réglables. Par exemple, 30 minutes ou deux heures",
+				"url": ""
+			},
+			"07": {
+				"title": "Gestion des droits pour la gestion des rendez-vous par la collaboratrice compétente",
+				"url": ""
+			},
+			"08": {
+				"title": "Textes individuels des e-mails du système",
+				"url": ""
+			},
+			"09": {
+				"title": "Confirmer automatiquement les rendez-vous",
+				"url": ""
+			}
+		},
+		"title": "Fonctions et caractéristiques particulièrement pertinentes pour votre secteur"
+	},
+	"main": {
+		"description": "\nIl est difficile de téléphoner avec une machine à tatouer dans la main. De plus en plus de tatoueurs le constatent. Le client souhaite réserver un rendez-vous pour un entretien d'information ou un rendez-vous de suivi. Cela est beaucoup plus facile avec l'outil de prise de rendez-vous. Le client choisit la date souhaitée et saisit les données de contact nécessaires. Pour cela, l'adresse e-mail et le nom suffisent la plupart du temps. L'accord par téléphone n'est plus nécessaire. Le jeune groupe cible des fans de tatouage préfère tout faire avec son smartphone. Il en va de même pour la réservation d'un rendez-vous en ligne.",
+		"title": "Salons de tatouage"
+	},
+	"sub": {
+		"description": "Pour beaucoup, la réservation de rendez-vous en ligne est un \"must-have\". C'est vrai pour les clients, mais aussi pour les prestataires de services et les organisateurs qui proposent des rendez-vous. C'est tellement pratique et cela permet de gagner du temps. Un grand avantage est la gestion autonome du rendez-vous par le client. Le client se charge lui-même de la prise de rendez-vous, de leur modification et de leur annulation. Le prestataire de services indique simplement quand les rendez-vous doivent être réservés. Le client réserve alors le créneau de rendez-vous souhaité. La gestion des rendez-vous peut ensuite être gérée de manière autonome par le client via le lien de rendez-vous personnel. Les rendez-vous peuvent être synchronisés avec le calendrier standard de Google, Apple et Microsoft. Les rendez-vous déjà pris sont ainsi bloqués. Et les nouveaux rendez-vous apparaissent sur le propre smartphone du prestataire de services. Les jours de congé et les vacances peuvent être définis dans le tableau de bord. Ainsi, les clients ne peuvent pas réserver de rendez-vous ces jours-là. L'intégration du calendrier de rendez-vous et de réservation est très simple. Un code d'intégration HTML permet d'intégrer le calendrier de réservation Bookingflix sur son propre site web. Alternativement, un micro site web de réservation est créé avec chaque calendrier de réservation. Celui-ci peut être adapté. Ainsi, les prestataires de services qui n'ont pas de site web peuvent également proposer la réservation de rendez-vous en ligne. Les rappels de rendez-vous par e-mail et SMS sont également très appréciés. La fiabilité des rendez-vous augmente ainsi considérablement. En d'autres termes, le taux de non-présentation diminue.\nLes rappels de rendez-vous peuvent être personnalisés en termes de contenu et de date d'envoi.",
+		"title": "Pourquoi réserver un rendez-vous en ligne avec Bookingflix ?"
+	}
+}

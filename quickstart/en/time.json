@@ -1,0 +1,56 @@
+{
+	"advance": {
+		"description": "Maximum {date} in advance. After that, no more dates/days will be displayed."
+	},
+	"buffer": {
+		"option": "{time} minutes buffer to the follow-up date",
+		"title": "Should there be a time buffer?"
+	},
+	"calendar": {
+		"allDay": "Full day appointment",
+		"fromTo": "Multiday period",
+		"hours": "Appointment for several hours"
+	},
+	"checkDate": "Please check appointment date",
+	"duration": {
+		"info": "Specify the duration of an appointment. Do you offer several services with different duration? Then select the \"Offers & Services\" calendar format in the 1st step.",
+		"title": "How long does an appointment take?"
+	},
+	"immediately": "Immediately",
+	"lastMinute": {
+		"description": "At least {date} between booking and start of appointment. This can prevent very last minute bookings.",
+		"info": "By setting an advance booking period, you can prevent very short-term appointment bookings. \"0 minutes\" means that customers can book appointments at very short notice and take them immediately.",
+		"title": "What is the minimum period between booking and appointment?"
+	},
+	"next": {
+		"info": "Geben Sie an, wann der jeweils nachfolgende Termin buchbar sein soll. Beispiel – „Zur nächsten vollen Stunde“: Findet ein Termin von 9:00–9:30 Uhr statt, ist der nächste buchbare Termin 10:00–10:30 Uhr. Beispiel – „Zur nächsten Viertelstunde“. Findet ein Termin von 9:00–10:00 statt, so ist der nächste buchbare Termin 9:15–10:15 Uhr.",
+		"option": [
+			"following previous appointment",
+			"15 minutes after the start of the previous appointment",
+			"30 minutes after the start of the previous appointment",
+			"1 hour after the start of the previous appointment"
+		],
+		"title": "When should the next possible date be bookable?"
+	},
+	"pause": {
+		"add": "Add pause time",
+		"info": "Break times can be created in the next step via the following icon",
+		"title": "Break time|Break times"
+	},
+	"period": {
+		"description": "Dates can be booked from {date} to {date} ",
+		"info": "If you want to offer your appointments only over a certain period, you can define here from when to when your customers can book appointments. Before and after that, no appointments/days are displayed in the calendar.",
+		"title": "Within what specific time period do you offer appointments?"
+	},
+	"title": "Booking times",
+	"unlimited": "Unlimited",
+	"weekdays": {
+		"closed": "Closed",
+		"fromTo": "from {date} to {date}",
+		"info": "Specify the weekdays and opening hours of your store. In the next step, you can then define your individual time slots as well as the break times for booking appointments.",
+		"open": "Open",
+		"take": "Apply this setting for all open days",
+		"title": "When is your store open?"
+	},
+	"weekdaysSettings": "Weekday settings {day}:"
+}

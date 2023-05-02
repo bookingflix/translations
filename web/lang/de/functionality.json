@@ -1,0 +1,12 @@
+{
+	"description": "Kalender erstellen - einbinden - Terminbuchung starten",
+	"functionality": {
+		"1": "Terminformular über Quick-Start einrichten",
+		"2": "Formular in Ihrer Website einbinden oder Termin-Website erstellen",
+		"3": "Buchung von Terminen durch Ihre Kunden",
+		"4": "Termin des Kunden bestätigen",
+		"5": "Automatische Terminerinnerung per Mail oder SMS an den Kunden",
+		"6": "Termin findet statt",
+		"7": "Kundenbewertung erhalten"
+	}
+}

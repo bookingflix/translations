@@ -1,0 +1,9 @@
+{
+  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\nFür den Versand von Termin-Zusagen per SMS benötigen Sie SMS-Credits. Diese können über bookingflix.com/dashboard/credits.html gekauft und eingesehen werden. Neunutzer von Bookingflix erhalten 10 SMS-Credits kostenfrei. Der Versand stoppt, sobald die SMS-Credits aufgebraucht sind.\n1. Klicken Sie auf ***Profil***.\n2. Klicken Sie auf ***Guthaben***.\n3. Klicken Sie auf ***Guthaben für SMS-Credits kaufen***.\n4. Im unteren Bereich sind die bereits versendeten SMS sowie das noch verfügbare Guthaben aufgeführt.\n5. Geben Sie an, welche Anzahl an SMS-Credits Sie kaufen möchten. Die Mindestbestellmenge beträgt 100 Credits.\n6. Klicken Sie auf ***SMS-Guthaben jetzt kaufen***. Anschließend öffnet sich das PayPal-Bestellformular.\n\nSie erhalten nach dem Bestellprozess automatisch eine Rechnung mit ausgewiesener Umsatzsteuer.",
+  "img": {
+    "1": "bild63.webp",
+    "2": "bild64.webp",
+    "3": "bild65.webp"
+  },
+  "title": "Kauf von SMS-Credits via PayPal"
+}

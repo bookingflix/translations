@@ -1,0 +1,7 @@
+{
+  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termine*** und auf ***Kunden***, um zur Kunden-Übersicht zu gelangen.\n2. Wählen Sie den gewünschten Termin-Buchungs-Kalender aus, um im nächsten Schritt in diesem die Suche durchzuführen.\n3. Nutzen Sie das Suchfeld, um nach Terminen oder Kunden zu suchen.\n4. Nutzen Sie den Zeitfilter, um die Suche auf einen bestimmten zeitlichen Bereich einzugrenzen.",
+  "img": {
+    "1": "bild49.webp"
+  },
+  "title": "Suchfunktion"
+}

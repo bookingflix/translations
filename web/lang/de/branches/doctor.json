@@ -1,0 +1,205 @@
+{
+	"benefits": {
+		"items": {
+			"01": "große Zeitersparnis\nFür beide Seiten. Die Terminierung dauert nur Sekunden. Auch die Terminänderung oder -Stornierung nimmt der Patient eigenständig vor.",
+			"02": "Fokus auf das Wesentliche\nTelefonische Unterbrechungen stören im Arbeitsalltag. Online geht das schneller, einfacher und es schont die Nerven.",
+			"03": "Terminzuverlässigkeit steigern\nNutzen Sie dafür die automatischen Erinnerungen per Email und SMS. Diesen Extra-Service schätzen übrigens die meisten Patienten.",
+			"04": "Digital auf dem neuesten Stand\nTermin-Tools sind mittlerweile ein beliebter Standard. Patienten erwarten moderne digitale Services.",
+			"05": "Workflow optimieren\nDie Patientin bucht und verwaltet den Termin selbst. Die Termindaten werden übersichtlich in Ihrem Dashboard angezeigt."
+		},
+		"title": "Ihre Vorteile auf den Punkt"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Welche Kündigungsfrist muss ich beachten?",
+				"url": ""
+			},
+			"11": {
+				"title": "Kann der Kunde die Buchung selbst verwalten (Termin ändern, stornieren)",
+				"url": ""
+			},
+			"12": {
+				"title": "Können die Email-Texte individuell angepasst werden?",
+				"url": ""
+			},
+			"13": {
+				"title": "Können die System-Mails (Zusage, Absage) von der eigenen Mailadresse  aus versendet werden?",
+				"url": ""
+			},
+			"14": {
+				"title": "Was passiert mit den Termindaten nach dem Termin?",
+				"url": ""
+			},
+			"15": {
+				"title": "Kann ich Termine stornieren, löschen oder der Kundin nachträglich absagen?",
+				"url": ""
+			},
+			"16": {
+				"title": "Welcher Termin-Buchungs-Kalender ist für mein Business am besten geeignet?",
+				"url": ""
+			},
+			"17": {
+				"title": "Wie lange dauert die Terminbuchung für meine Kunden?",
+				"url": ""
+			},
+			"18": {
+				"title": "Kann ich Kundentermine auch händisch für meine Kunden eintragen?",
+				"url": ""
+			},
+			"19": {
+				"title": "Wie kann ich Ferien einstellen, an denen die Praxis geschlossen ist?",
+				"url": ""
+			},
+			"20": {
+				"title": "Wie kontaktiere ich den Kunden vor dem Termin?",
+				"url": ""
+			},
+			"21": {
+				"title": "Ich möchte eine kurze Notiz zum Kundentermin anlegen. Wie geht das?",
+				"url": ""
+			},
+			"22": {
+				"title": "Können die Termindaten heruntergeladen werden zur weiteren Verarbeitung?",
+				"url": ""
+			},
+			"23": {
+				"title": "Wie kann ich die Termindaten löschen?",
+				"url": ""
+			},
+			"24": {
+				"title": "Wann werden die Termindaten automatisch gelöscht (Löschfristen)?",
+				"url": ""
+			},
+			"01": {
+				"title": "Hat Bookingflix eine Rechteverwaltung, damit die jeweilige Abteilung die Termin-Verwaltung übernehmen kann?",
+				"url": ""
+			},
+			"02": {
+				"title": "Was passiert genau, wenn ein Kunde seinen Termin storniert?",
+				"url": ""
+			},
+			"03": {
+				"title": "Können Terminbuchungen automatisch bestätigt werden?"
+			},
+			"04": {
+				"title": "Können Termine händisch für den Kunden eingetragen werden?",
+				"url": ""
+			},
+			"05": {
+				"title": "Welchen Support bekommen wir im Rahmen der Nutzung?",
+				"url": ""
+			},
+			"06": {
+				"title": "Kann der Premium-Account auch per Rechnung bezahlt werden statt per Lastschrift?",
+				"url": ""
+			},
+			"07": {
+				"title": "Können vor dem Termin, zu einem bestimmten Zeitpunkt, Terminerinnerungen verschickt werden?",
+				"url": ""
+			},
+			"08": {
+				"title": "Was kosten die Terminerinnerungen per SMS?",
+				"url": ""
+			},
+			"09": {
+				"title": "Was kostet Bookingflix im Monat?",
+				"url": ""
+			}
+		},
+		"title": "Relevante FAQ für Ihre Branche"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Termine einfach ändern oder absagen",
+				"url": ""
+			},
+			"11": {
+				"title": "Weitere Infos mitteilen im Rahmen der Buchung",
+				"url": ""
+			},
+			"12": {
+				"title": "Terminerinnerungen",
+				"url": ""
+			},
+			"13": {
+				"title": "Termin-Buchungs-Kalender einfach auf eigener Website einbinden",
+				"url": ""
+			},
+			"14": {
+				"title": "Termin-Buchungs-Website nutzbar auch ohne eigene Website",
+				"url": ""
+			},
+			"15": {
+				"title": "Termin-Notizen zu Terminen und Kunden anlegen",
+				"url": ""
+			},
+			"16": {
+				"title": "Feiertage und Ferien einstellbar",
+				"url": ""
+			},
+			"17": {
+				"title": "Mehrere Termine je Termin-Slot buchbar",
+				"url": ""
+			},
+			"18": {
+				"title": "Buchungsprozess nach DSGVO",
+				"url": ""
+			},
+			"19": {
+				"title": "Download der Termindaten",
+				"url": ""
+			},
+			"20": {
+				"title": "Automatische Löschung der Termindaten nach 30 Tagen",
+				"url": ""
+			},
+			"01": {
+				"title": "Terminbuchung nach DSGVO-Standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Deutschland",
+				"url": ""
+			},
+			"03": {
+				"title": "Termin-Buchungs-Kalender für feste Öffnungszeiten",
+				"url": ""
+			},
+			"04": {
+				"title": "Termin-Buchungs-Kalender für konkrete Events",
+				"url": ""
+			},
+			"05": {
+				"title": "Besserer Überblick über den Terminstatus (Zusage, Absage, noch nicht bestätigt)",
+				"url": ""
+			},
+			"06": {
+				"title": "Unterschiedliche Termindauer einstellbar. Z. B. 30 Minuten oder zwei Stunden",
+				"url": ""
+			},
+			"07": {
+				"title": "Rechteverwaltung zur Termin-Verwaltung durch zuständige Mitarbeiterin",
+				"url": ""
+			},
+			"08": {
+				"title": "Individuelle Email-Texte der System-Mails",
+				"url": ""
+			},
+			"09": {
+				"title": "Termine automatisch bestätigen lassen",
+				"url": ""
+			}
+		},
+		"title": "Besonders relevante Funktionen und Eigenschaften für Ihre Branche"
+	},
+	"main": {
+		"description": "\nIn der Corona-Pandemie haben viele Arztpraxen und auch Apotheken Corona-Impfungen und Corona-Tests angeboten. Nicht wenige waren positiv überrascht, wie gut dies im Arbeitsalltag und für die Kunden funktionierte. Denn gerade bei den Ärzten stand das Telefon oftmals kaum still. Hier waren Termin-Tools eine deutliche Erleichterung. Denn die Patienten und Patientinnen musste nur den Wunschtermin auswählen, Ihre Daten eingeben und den Termin buchen. Sensible Daten wurde in der Regel nicht benötigt. Daher war auch der strenge Datenschutz in diesem sensiblen Bereich kein Problem. Und für die Kunden beziehungsweise Patienten war es auch sehr praktisch. Denn sie mussten nicht zig Mal anrufen um jemanden zu erreichen oder auf den Anrufbeantworter sprechen, um anschließend einen Termin absprechen zu können. Mit wenigen Klicks war alles erledigt. Viele waren regelrecht stolz und berichteten in der Familie:\"Ich habe gerade einen Termin übers Internet gebucht!\"",
+		"title": "Arztpraxen und Apotheken"
+	},
+	"sub": {
+		"description": "Der Datenschutz im medizinischen Bereich ist völlig zurecht von höchster Bedeutung.Daher werden bei der Terminvereinbarung in der Regel keine sensiblen Daten abgefragt. Bei der Terminbuchung von Corona-Tests oder Corona-Impfungen wird kaum mehr als der Name und die Emailadresse benötigt. Außerdem stehen die Server von Bookingflix in Deutschland. Daten werden also nicht ins außereuropäische Ausland übertragen oder gespeichert. Alle Daten sind mittels moderner Verschlüsselungstechnik gesichert. Backups der Termindaten werden mehrmals täglich, auf separaten Servern, automatisch gesichert. Die Löschfrist der Daten beträgt 30 Tage. Aber auch eine frühere Löschung ist möglich. Falls die Daten noch benötigt werden, können diese heruntergeladen werden im PDF- und CSV-Format.\nBookingflix wurde bereits bei der Entwicklung streng nach der europäischen DSGVO-Verordnung entwickelt. Denn die Daten müssen sicher sein. Das erwarten auch die Patienten.\nBeim Anlegen eines Termin-Buchungs-Kalenders können verschiedene Kalenderarten eingerichtet werden. Zum Beispiel ein Termin-Buchungs-Kalender für feste Öffnungszeiten oder für konkrete Events. Wenn nur zu wenigen, bereits festgelegten Zeiten Termine angeboten werden, empfiehlt sich die Nutzung des Kalenders für konkrete Events. Werden jede Woche an mehreren Tagen Termine angeboten, kann der Kalender für feste Öffnungszeiten genutzt werden. Hier können auch Pausenzeiten, freie Tage und Ferien berücksichtigt werden.\nOptional werden die Patienten und Kunden per Email und SMS an den Termin erinnert. Eine manuelle Eintragung des Termins, falls ein Patient zum Beispiel keinen Internetzugriff hat, ist auch möglich. Die Praxis übernimmt dann die Termineintragung. Gebuchte Termine werden erst wieder als frei angezeigt, wenn der Patient den Termin ändert oder storniert. Auch sehr kurze Termin-Slots sind möglich. Dies hat sich für Test- und Impftermine bewährt, da diese Termine in der Regel nur von kurzer Dauer sind.",
+		"title": "Warum Online-Termin-Buchung mit Bookingflix?"
+	}
+}

@@ -1,0 +1,123 @@
+{
+	"individuelle-terminkalender": {
+		"cta": {
+			"action": "Try Bookingflix Premium for 14 days for free!",
+			"button": "Create appointment calendar now",
+			"link": "/quickstart"
+		},
+		"intro": "At Bookingflix there are three different types of appointment calendars you can set up. Depending on the type of business you want to offer appointments for, one of the three calendars is best suited.",
+		"sections": [
+			{
+				"01_dienstleistungen": {
+					"infos": [
+						{
+							"button": {
+								"link": "/support/video/3",
+								"more": "Learn more"
+							},
+							"headline": "Create various services",
+							"img": "individuelle-terminkalender-09.png",
+							"text": "Create different services and individually define duration, price, category, description text and image. This way, your customers can select the desired service in the first step. The free appointment slots are then displayed. Appointment slots that are already occupied are thus left out."
+						}
+					],
+					"section": {
+						"intro": "Do you have different services that you want to offer to your clients, this diary is best for you.",
+						"title": "Calendar of offers and services"
+					}
+				},
+				"02_event": {
+					"infos": [
+						{
+							"button": {
+								"link": "/support/video/2",
+								"more": "Learn more"
+							},
+							"headline": "Ideal for courses and group events",
+							"img": "individuelle-terminkalender-11.png",
+							"text": "Create appointment booking calendars for single or multiple events and individually define how many people can participate. This booking option is especially suitable for temporary, not regularly recurring events."
+						}
+					],
+					"section": {
+						"intro": "This calendar is suitable for you if you offer single events like trainings, performances or fairs.",
+						"title": "Schedule for specific events"
+					}
+				},
+				"03_oeffnungszeiten": {
+					"infos": [
+						{
+							"button": {
+								"link": "/support/video/1",
+								"more": "Learn more"
+							},
+							"headline": "Set individual opening hours",
+							"img": "individuelle-terminkalender-05.png",
+							"text": "No matter how your business works: tailor your appointment booking to your needs with Bookingflix. You can create your own opening hours for each day of the week and easily set up holidays or company vacations. You decide on which days appointments can be booked and which break times apply."
+						}
+					],
+					"section": {
+						"intro": "This appointment calendar is suitable for you if you want to offer appointments of the same length during your opening hours. These could be consultation appointments or test appointments in a test center.",
+						"title": "Schedule for fixed opening hours"
+					}
+				},
+				"04_individual": {
+					"infos": [
+						{
+							"headline": "Easy setup via calendar generator",
+							"img": "individuelle-terminkalender-01.png",
+							"text": "With the quick start calendar generator you can configure your complete online booking calendar within 10 minutes. Our calendar generator guides you step by step through the individual settings. Here you have the option to set up a calendar for fixed opening hours, individual events or specific services."
+						},
+						{
+							"button": {
+								"link": "/support/video/3b",
+								"more": "Learn more"
+							},
+							"headline": "Individual and group booking in real time",
+							"img": "individuelle-terminkalender-02.png",
+							"text": "With the online booking calendar it is possible to accept new appointment bookings at any time. Your customers can book individual appointments or group appointments, i.e. an appointment for several people."
+						},
+						{
+							"headline": "Individual diaries for each employee",
+							"img": "individuelle-terminkalender-10.png",
+							"text": "Create an appointment calendar for each of your employees and define the associated services. By assigning access rights, your employees can view appointment information as well as set and edit appointments. However, information from other calendars and other account setting options remain hidden from the respective employee."
+						},
+						{
+							"headline": "Full customizability",
+							"img": "individuelle-terminkalender-03.png",
+							"text": "Determine how long in advance and how quickly an appointment booking should be possible. Should your customers be shown the number of free appointments per appointment slot or should the appointment booking be confirmed automatically by the system? This is also optionally possible. Just like the publication of the exact address for the appointment. In the integrated form editor, you can freely define the query fields, such as name, address, telephone."
+						},
+						{
+							"button": {
+								"link": "/support",
+								"more": "Learn more"
+							},
+							"headline": "Help for every step",
+							"img": "individuelle-terminkalender-04.png",
+							"text": "If you sometimes don't know exactly what you have to do or what has to be considered, you can find more detailed information in the question mark symbols next to the individual steps of the calendar generator. Still have questions? Then take a look at our explanatory videos in our support area."
+						},
+						{
+							"headline": "Free appointment timing and multiple customers per appointment slot",
+							"img": "individuelle-terminkalender-06.png",
+							"text": "Offer your customers fixed appointment slots. 15 minutes, 30 minutes, 60 minutes. When setting up the appointment calendar, determine how many customers can be served per time unit. Once the maximum number per appointment slot is reached, the respective appointment time is no longer displayed in the booking calendar.\n\nIf you want to offer different time units, we recommend setting up an appointment calendar for different services.\nOr simply set up multiple calendars. You can use up to three booking calendars per premium account. We will gladly activate additional calendars if needed."
+						},
+						{
+							"headline": "Multiple store management",
+							"img": "individuelle-terminkalender-07.png",
+							"text": "Create multiple appointment calendars for different branches with your Bookingflix account. Each appointment calendar can be assigned a different contact person and email address, so appointment management is easy even in larger companies with multiple locations."
+						},
+						{
+							"headline": "Own accounts for employees",
+							"img": "individuelle-terminkalender-08.png",
+							"text": "In your Bookingflix control panel you can create employee accounts. Via these restricted sub-accounts your employees have access to the appointment data and the appointment management only."
+						}
+					],
+					"section": {
+						"intro": "",
+						"title": ""
+					}
+				}
+			}
+		],
+		"subtitle": "Individual diaries",
+		"title": "Create your booking calendar easily and quickly"
+	}
+}

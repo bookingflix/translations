@@ -1,0 +1,235 @@
+{
+	"benefits": {
+		"items": {
+			"01": "great time saving\nFor both sides. Scheduling takes only seconds. The customer also changes or cancels the appointment independently.",
+			"02": "Focus on the essentials and spare your nerves\nTelephone interruptions are a nuisance in everyday work. Online, it's faster, easier and easier on the nerves.",
+			"03": "Increase appointment reliability\nUse the automatic reminders via email and SMS. By the way, most customers appreciate this extra service.",
+			"04": "Digitally up to date\nAppointment tools have become a popular standard. Customers expect modern digital services.",
+			"05": "Optimize workflow\nThe customer books and manages the appointment herself. The appointment data is clearly displayed in your dashboard."
+		},
+		"title": "Your advantages in a nutshell"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "How much does Bookingflix cost per month?",
+				"url": ""
+			},
+			"11": {
+				"title": "What notice period do I have to observe?",
+				"url": ""
+			},
+			"12": {
+				"title": "Can the customer manage the booking himself (change appointment, cancel)",
+				"url": ""
+			},
+			"13": {
+				"title": "Can the email texts be customized?",
+				"url": ""
+			},
+			"14": {
+				"title": "Can the system mails (acceptance, rejection) be sent from your own mail address?",
+				"url": ""
+			},
+			"15": {
+				"title": "What happens to the appointment data after the appointment?",
+				"url": ""
+			},
+			"16": {
+				"title": "Can I cancel appointments, delete appointments or cancel the customer after the fact?",
+				"url": ""
+			},
+			"17": {
+				"title": "Which appointment booking calendar is best for my business?",
+				"url": ""
+			},
+			"18": {
+				"title": "How long does it take to book appointments for my clients?",
+				"url": ""
+			},
+			"19": {
+				"title": "Can I also enter customer appointments manually for my customers?",
+				"url": ""
+			},
+			"20": {
+				"title": "How can I set vacation times?",
+				"url": ""
+			},
+			"21": {
+				"title": "How do I contact the client before the appointment?",
+				"url": ""
+			},
+			"22": {
+				"title": "I would like to create a short note for the customer appointment. How do I do that?",
+				"url": ""
+			},
+			"23": {
+				"title": "Can the appointment data be downloaded for further processing?",
+				"url": ""
+			},
+			"24": {
+				"title": "How do I get customer feedback about Bookingflix? Is that automatic?",
+				"url": ""
+			},
+			"25": {
+				"title": "How do I synchronize my default calendar with Bookingflix calendar?",
+				"url": ""
+			},
+			"26": {
+				"title": "How can the customer print the appointment ticket?",
+				"url": ""
+			},
+			"27": {
+				"title": "How do I book in the customer via QR code scan?",
+				"url": ""
+			},
+			"28": {
+				"title": "How are overbookings prevented?",
+				"url": ""
+			},
+			"01": {
+				"title": "Does Bookingflix have a rights management, so that the respective representative can take over the appointment management?",
+				"url": ""
+			},
+			"02": {
+				"title": "What exactly happens when a customer cancels their appointment?",
+				"url": ""
+			},
+			"03": {
+				"title": "Can appointment bookings be confirmed automatically?",
+				"url": ""
+			},
+			"04": {
+				"title": "Can appointments be entered manually for the customer?",
+				"url": ""
+			},
+			"05": {
+				"title": "What support do we get within the scope of use?",
+				"url": ""
+			},
+			"06": {
+				"title": "Can the premium account also be paid by invoice instead of direct debit?",
+				"url": ""
+			},
+			"07": {
+				"title": "Can appointment reminders be sent before the appointment, at a specific time?",
+				"url": ""
+			},
+			"08": {
+				"title": "How do I set up the appointments?",
+				"url": ""
+			},
+			"09": {
+				"title": "What is the cost of appointment reminders via SMS and how do I book them?",
+				"url": ""
+			}
+		},
+		"title": "Relevant FAQ for your industry"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Have appointments confirmed automatically",
+				"url": ""
+			},
+			"11": {
+				"title": "Simply change or cancel appointments",
+				"url": ""
+			},
+			"12": {
+				"title": "More info communicate within the booking",
+				"url": ""
+			},
+			"13": {
+				"title": "Appointment reminders",
+				"url": ""
+			},
+			"14": {
+				"title": "Easily integrate appointment booking calendar on your own website",
+				"url": ""
+			},
+			"15": {
+				"title": "Appointment booking website usable even without own website",
+				"url": ""
+			},
+			"16": {
+				"title": "Create appointment notes for appointments and customers",
+				"url": ""
+			},
+			"17": {
+				"title": "Vacations and vacations adjustable",
+				"url": ""
+			},
+			"18": {
+				"title": "Several dates per appointment slot bookable",
+				"url": ""
+			},
+			"19": {
+				"title": "Obtain customer reviews automatically",
+				"url": ""
+			},
+			"20": {
+				"title": "Synchronization with standard Google, Apple and Microsoft calendars",
+				"url": ""
+			},
+			"21": {
+				"title": "Book in customer via QR code scan",
+				"url": ""
+			},
+			"22": {
+				"title": "Appointment ticket as PDF for printing",
+				"url": ""
+			},
+			"01": {
+				"title": "Appointment booking according to DSGVO standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Germany",
+				"url": ""
+			},
+			"03": {
+				"title": "Appointment booking according to DSGVO standard",
+				"url": ""
+			},
+			"04": {
+				"title": "Server in Germany",
+				"url": ""
+			},
+			"05": {
+				"title": "Appointment booking calendar for fixed opening hours",
+				"url": ""
+			},
+			"06": {
+				"title": "Appointment booking calendar for specific events",
+				"url": ""
+			},
+			"07": {
+				"title": "Better overview of the appointment status (commitment, cancellation, not yet confirmed)",
+				"url": ""
+			},
+			"08": {
+				"title": "Rights management for appointment management by responsible employee",
+				"url": ""
+			},
+			"09": {
+				"title": "Individual email texts of the system emails",
+				"url": ""
+			}
+		},
+		"title": "Particularly relevant functions and features for your industry"
+	},
+	"main": {
+		"description": "In the Corona pandemic, many organizers had to offer appointments. Free access was no longer possible without booking an appointment in advance. Other museums and exhibition organizers have been offering ticketing to their customers for some time. All of them have in common the desire to offer the ticket, the appointment, as easy as possible to their customers. Currently Bookingflix is not yet connected to a payment service. This function is expected at the end of 2022. But for the simple booking of appointments and tickets, without collecting a payment, Bookingflix can already be used in many cases.",
+		"title": "Museums and exhibitions"
+	},
+	"sub": {
+		"description": "The interested museum or exhibition visitor selects the desired date, enters his data and books the appointment. The verification email follows and then the confirmation email. The ticket with all appointment information is also available via this email. There is also a QR code for check-in at the entrance. A big advantage of booking through Bookingflix is the fully automated booking process. Even the appointment confirmation of the successful booking can be sent automatically by the system. Alternatively, this can also be done manually, after checking the booking. The appointment reminders are also sent automatically via email and SMS. This significantly increases the reliability of appointments. Most customers really appreciate this digital service. And optionally, the reminders can be turned off: by you but also by your customers. Also optional: After the appointment, after the event, your visitors receive an after-sale email. This email lists a link that takes customers to a short online customer survey. This allows your customers to submit an evaluation. This gives you valuable feedback and allows you to publish these reviews on your website. This boosts confidence in subsequent bookings.",
+		"title": "Why online appointment booking with Bookingflix?"
+	},
+	"use": {
+		"interview": "Interview ...",
+		"title": "Bookingflix on site in action",
+		"video": "Youtube video URL"
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Teilen***.\n2. Klicken Sie auf ***Termin-Kalender auf Google-Kalender***, ***Android***, ***iPhone*** etc. nutzen \n3. Wählen Sie den Termin-Buchungs-Kalender aus, den Sie mit Ihrem Standard-Kalender von Google, Microsoft oder Apple synchronisieren möchten.\n4. Kopieren Sie den ics-Link. Diesen anschließend in Ihrem Standard-Kalender von Google, Microsoft oder Apple hinzufügen. Dadurch werde alle bestätigten Termine von Bookingflix, zum jeweiligen Standard-Kalender, überspielt.\n5. Eine Anleitung, wie der Link eingefügt wird, finden Sie unterhalb des ics-Links.",
+  "img": {
+    "1": "bild95.webp",
+    "2": "bild96.webp"
+  },
+  "title": "Automatischer Termin-Export in Google-, Microsoft-, Apple-Kalender"
+}

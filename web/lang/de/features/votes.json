@@ -1,0 +1,39 @@
+{
+	"kundenbewertungen": {
+		"cta": {
+			"action": "Jetzt 14 Tage lang kostenlos Bookingflix Premium testen!",
+			"button": "Jetzt Terminkalender erstellen",
+			"link": "/quickstart"
+		},
+		"intro": "Bookingflix ist mit dem Bewertungs-Tool von HitKlick.com verbunden. So können nach dem Termin, ganz automatisch, Kundenbewertungen abgefragt werden. Dies steigert den Trust-Factor gegenüber Nekunden und Sie können Ihren Service, dank des Feedbacks, stetig verbessern.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Automatisches Einholen von Kundenbewertungen",
+							"img": "kundenbewertungen-01.png",
+							"text": "Wenn der Termin durchgeführt wurde, können automatisch Kundenbewertungen abfgefragt werden.\nIhre Kunden erhalten nach dem Termin eine Email mit der Bitte um eine Rezension. Diese Funktion kann selbstverständlich abgeschaltet werden.\nAlternativ haben Sie die Möglichkeit, die Bewertungen nicht zu veröffentlichen. Sie nutzen die Kundenstimmen also nur dafür, um Ihren Service zu optimieren."
+						},
+						{
+							"button": {
+								"link": "/features/individualCalendar",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Individuelle Bewertungsfragen",
+							"img": "kundenbewertungen-02.png",
+							"text": "Beim Einrichten des Termin-Buchungs-Kalenders legen Sie die Fragen fest, die Ihre Kunden nach dem Termin beantworten sollen. Die Kundebefragung ist selbstverständlich nur eine Option und lässt sich jederzeit abschalten. "
+						},
+						{
+							"headline": "Einbindung auf Ihrer Website und im Kundenportal",
+							"img": "kundenbewertungen-03.png",
+							"text": "Optional können Ihre erhaltenen Bewertungen direkt unterhalb des Termin-Buchungs-Kalenders angezeigt werden. Das stärkt das Vertrauen gegenüber Neukunden. Die Bewertungen werden zudem auf Ihrem Dienstleisterprofil im Kundenportal veröffentlicht. Dies lässt sich jederzeit abschalten."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Kundenbewertungen",
+		"title": "Verbessern Sie stetig Ihren Service durch die Bewertungen Ihrer Kunden"
+	}
+}

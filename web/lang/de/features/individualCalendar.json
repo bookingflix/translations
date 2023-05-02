@@ -1,0 +1,123 @@
+{
+	"individuelle-terminkalender": {
+		"cta": {
+			"action": "Jetzt 14 Tage lang kostenlos Bookingflix Premium testen!",
+			"button": "Jetzt Terminkalender erstellen",
+			"link": "/quickstart"
+		},
+		"intro": "Bookingflix bietet drei verschiedene Arten von Termin-Buchungs-Kalendern. Wenn Ihre Kunden verschiedene Leistungen buchen können, dann wählen Sie den Termin-Buchungs-Kalender für Angebote und Dienstleistungen. Der Termin-Buchungs-Kalender für konkrete Events ist zu empfehlen, wenn Sie einmalig stattfindende Veranstaltungen anbieten. Sie haben ein Geschäft mit festen Öffnungszeiten? Dann nutzen Sie am besten den Termin-Buchungs-Kalender für feste Öffnungzeiten.",
+		"sections": [
+			{
+				"01_dienstleistungen": {
+					"infos": [
+						{
+							"button": {
+								"link": "/support/video/3",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Verschiedene Dienstleistungen anlegen",
+							"img": "individuelle-terminkalender-09.png",
+							"text": "Legen Sie verschiedene Dienstleistungen an und definieren Sie individuell Dauer, Preis, Kategorie, Beschreibungstext und Bild. So können Ihre Kunden im ersten Schritt die gewünschte Dienstleistung auswählen. Anschließend werden die freien Termin-Slots angezeigt. Bereits belegte Termin-Slots werden somit ausgespart."
+						}
+					],
+					"section": {
+						"intro": "Haben Sie verschiedene Dienstleistungen, die Sie Ihren Kunden anbieten wollen, ist dieser Terminkalender am besten für Sie geeignet.",
+						"title": "Terminkalender für Angebote und Dienstleistungen"
+					}
+				},
+				"02_event": {
+					"infos": [
+						{
+							"button": {
+								"link": "/support/video/2",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Ideal für Kurse und Gruppenveranstaltungen",
+							"img": "individuelle-terminkalender-11.png",
+							"text": "Erstellen Sie Terminbuchungskalender für einzelne oder mehrere Events und legen Sie individuell fest, wieviele Personen daran teilnehmen können. Diese Buchungsoption ist besonders für zeitlich befristete, nicht regelmäßig wiederkehrende Veranstaltungen geeignet."
+						}
+					],
+					"section": {
+						"intro": "Dieser Kalender ist für Sie geeignet, wenn Sie einzelne Events wie Schulungen, Aufführungen oder Messen anbieten.",
+						"title": "Terminkalender für konkrete Events"
+					}
+				},
+				"03_oeffnungszeiten": {
+					"infos": [
+						{
+							"button": {
+								"link": "/support/video/1",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Individuelle Öffnungszeiten festlegen",
+							"img": "individuelle-terminkalender-05.png",
+							"text": "Egal wie Ihr Geschäft funktioniert: schneiden Sie mit Bookingflix  Ihre Terminbuchung auf Ihre Bedürfnisse zu. Sie können für jeden Wochentag eigene Öffnungszeiten anlegen sowie Feiertage oder Betriebsferien unkompliziert einrichten. Sie entscheiden, an welchen Tagen Termine gebucht werden können und welche Pausenzeiten gelten."
+						}
+					],
+					"section": {
+						"intro": "Dieser Terminkalender ist für Sie geeignet, wenn Sie gleichlange Termine während Ihrer Öffnungszeiten anbieten wollen. Dies könnten Beratungstermine sein oder auch Testtermine in einem Testzentrum.",
+						"title": "Terminkalender für feste Öffnungszeiten"
+					}
+				},
+				"04_individual": {
+					"infos": [
+						{
+							"headline": "Einfache Einrichtung per Kalendergenerator",
+							"img": "individuelle-terminkalender-01.png",
+							"text": "Mit dem Quick-Start-Kalendergenerator können Sie schon innerhalb von 10 Minuten Ihren vollständigen Online-Buchungskalender konfigurieren. Unser Kalendergenerator führt Sie dabei Schritt für Schritt durch die einzelnen Einstellungen. Sie haben hier die Möglichkeit, einen Kalender für feste Öffnungszeiten, einzelne Events oder bestimmte Dienstleistungen einzurichten."
+						},
+						{
+							"button": {
+								"link": "/support/video/3b",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Einzel- und Gruppenbuchung in Echtzeit",
+							"img": "individuelle-terminkalender-02.png",
+							"text": "Mit dem Online-Buchungskalender ist es möglich, zu jeder Zeit neue Terminbuchungen entgegenzunehmen. Dabei können Ihre Kunden Einzeltermine oder Gruppentermine, also einen Termin für mehrere Personen, buchen."
+						},
+						{
+							"headline": "Eigene Terminkalender für jeden Mitarbeiter",
+							"img": "individuelle-terminkalender-10.png",
+							"text": "Legen Sie für jeden Ihrer Mitarbeitenden einen Terminkalender an und definieren Sie die dazugehörigen Dienstleistungen. Mit der Vergabe von Zugriffsrechten können Ihre Mitarbeitenden Termininformationen einsehen sowie Termine einstellen und bearbeiten. Informationen von anderen Kalendern und sonstige Account-Einstellmöglichkeiten bleiben dem jeweiligen Mitarbeiter jedoch verborgen."
+						},
+						{
+							"headline": "Volle Individualisierbarkeit",
+							"img": "individuelle-terminkalender-03.png",
+							"text": "Bestimmen Sie, wie lange im Voraus und wie kurzfristig eine Terminbuchung möglich sein soll. Soll Ihren Kunden die Anzahl der freien Termine je Termin-Slot angezeigt werden oder die Terminbuchung automatisch vom System bestätigt werden? Auch dies ist optional möglich. Genauso wie die Veröffentlichung der genauen Adresse für den Termin. Im integrierten Formulareditor können Sie die Abfragefelder, wie zum Beispiel Name, Adresse, Telefon, frei definieren."
+						},
+						{
+							"button": {
+								"link": "/support",
+								"more": "Mehr Erfahren"
+							},
+							"headline": "Hilfestellungen für jeden Schritt",
+							"img": "individuelle-terminkalender-04.png",
+							"text": "Falls Sie mal nicht genau wissen, was Sie genau tun müssen oder was zu beachten ist, finden Sie tiefergehende Informationen in den Fragezeichensymbolen neben den einzelnen Schritten des Kalendergenerators. Noch immer Fragen offen? Dann schauen Sie sich unsere Erklärvideos in unserem Support-Bereich an."
+						},
+						{
+							"headline": "Freie Termintaktung und mehrere Kunden je Termin-Slot",
+							"img": "individuelle-terminkalender-06.png",
+							"text": "Bieten Sie Ihren Kunden feste Termin-Slots an. 15 Minuten, 30 Minuten, 60 Minuten. Bestimmen Sie bei Einrichtung des Terminkalenders, wieviele Kunden je Zeiteinheit bedient werden können. Sobald die Höchstzahl je Termin-Slot erreicht ist, wird die jeweilige Terminzeit nicht mehr im Buchungskalender angezeigt.\n\nWenn Sie unterschiedliche Zeiteinheiten anbieten möchten, empfehlen wir Ihnen die Einrichtung eines Terminkalenders für unterschiedliche Dienstleistungen.\nOder richten Sie einfach mehrere Kalender ein. Je Premium-Account können Sie bis zu drei Buchungskalender nutzen. Weitere Kalender schalten wir gerne frei, falls benötigt."
+						},
+						{
+							"headline": "Verwaltung mehrerer Filialen",
+							"img": "individuelle-terminkalender-07.png",
+							"text": "Erstellen Sie mit Ihrem Bookingflix-Account mehrere Terminkalender für unterschiedliche Filialen. Jedem Terminkalender kann eine andere Kontaktperson und Emailadresse zugeordnet werden, sodass das Terminmanagement auch in größeren Unternehmen mit mehreren Standorten problemlos möglich ist."
+						},
+						{
+							"headline": "Eigene Accounts für Mitarbeiter",
+							"img": "individuelle-terminkalender-08.png",
+							"text": "In Ihrem Bookingflix-Kontrollzentrum können Sie Mitarbeiter-Accounts anlegen. Über diese eingeschränkten Unter-Accounts haben Ihre Mitarbeiter ausschließlich Zugriff auf die Termindaten und die Terminverwaltung."
+						}
+					],
+					"section": {
+						"intro": "",
+						"title": "Einfach individuell einstellbar"
+					}
+				}
+			}
+		],
+		"subtitle": "Individuelle Termin-Buchungs-Kalender",
+		"title": "Erstellen Sie unkompliziert und schnell Ihren Termin-Buchungs-Kalender"
+	}
+}

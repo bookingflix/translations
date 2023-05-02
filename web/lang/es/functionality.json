@@ -1,0 +1,12 @@
+{
+	"description": "¿Cómo se utiliza Bookingflix?",
+	"functionality": {
+		"1": "Crear un formulario de cita a través de Quick-Start",
+		"2": "Integrar el formulario en su sitio web o crear un sitio web de citas",
+		"3": "Reserva de citas por parte de los clientes",
+		"4": "Confirmar la cita del cliente",
+		"5": "Recordatorio automático de la cita por correo electrónico o SMS al cliente",
+		"6": "La cita tiene lugar",
+		"7": "Recibir la valoración del cliente"
+	}
+}

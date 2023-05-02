@@ -1,0 +1,123 @@
+{
+	"individuelle-terminkalender": {
+		"cta": {
+			"action": "Pruebe ahora Bookingflix Premium durante 14 días de forma gratuita.",
+			"button": "Crear una agenda ahora",
+			"link": "/quickstart"
+		},
+		"intro": "En Bookingflix, hay tres tipos diferentes de calendarios de citas que puedes configurar. Dependiendo del tipo de negocio para el que quiera ofrecer citas, uno de los tres calendarios es el más adecuado.",
+		"sections": [
+			{
+				"01_dienstleistungen": {
+					"infos": [
+						{
+							"button": {
+								"link": "/support/video/3",
+								"more": "Más información"
+							},
+							"headline": "Crear varios servicios",
+							"img": "individuelle-terminkalender-09.png",
+							"text": "Cree diferentes servicios y defina individualmente la duración, el precio, la categoría, el texto de descripción y la imagen. De este modo, sus clientes pueden seleccionar el servicio deseado en el primer paso. A continuación, se muestran las franjas horarias libres para las citas. De este modo, las franjas horarias que ya están ocupadas quedan fuera."
+						}
+					],
+					"section": {
+						"intro": "Si tienes diferentes servicios que quieres ofrecer a tus clientes, esta agenda es la mejor para ti.",
+						"title": "Calendario de citas para ofertas y servicios"
+					}
+				},
+				"02_event": {
+					"infos": [
+						{
+							"button": {
+								"link": "/support/video/2",
+								"more": "Más información"
+							},
+							"headline": "Ideal para cursos y eventos de grupo",
+							"img": "individuelle-terminkalender-11.png",
+							"text": "Cree calendarios de reserva de citas para uno o varios eventos y defina individualmente cuántas personas pueden participar. Esta opción de reserva es especialmente adecuada para eventos temporales y no recurrentes."
+						}
+					],
+					"section": {
+						"intro": "Este calendario es adecuado para usted si ofrece eventos individuales como cursos de formación, espectáculos o ferias.",
+						"title": "Calendario de citas para eventos específicos"
+					}
+				},
+				"03_oeffnungszeiten": {
+					"infos": [
+						{
+							"button": {
+								"link": "/support/video/1",
+								"more": "Más información"
+							},
+							"headline": "Establezca un horario de apertura individual",
+							"img": "individuelle-terminkalender-05.png",
+							"text": "No importa cómo funcione su negocio: adapte su reserva de citas a sus necesidades con Bookingflix. Puede crear sus propios horarios de apertura para cada día de la semana y establecer fácilmente los días festivos o las vacaciones de la empresa. Usted decide qué días se pueden reservar citas y qué horarios de pausa se aplican."
+						}
+					],
+					"section": {
+						"intro": "Este calendario de citas es adecuado para usted si quiere ofrecer citas de la misma duración durante su horario de apertura. Puede tratarse de citas de asesoramiento o de citas de examen en un centro de pruebas.",
+						"title": "Calendario de citas para los horarios de apertura fijos"
+					}
+				},
+				"04_individual": {
+					"infos": [
+						{
+							"headline": "Configuración sencilla mediante el generador de calendarios",
+							"img": "individuelle-terminkalender-01.png",
+							"text": "Con el generador de calendarios de inicio rápido, puede configurar su calendario de reservas online completo en 10 minutos. Nuestro generador de calendarios le guía paso a paso por los distintos ajustes. Aquí tiene la opción de establecer un calendario de horarios fijos, de eventos individuales o de servicios específicos."
+						},
+						{
+							"button": {
+								"link": "/support/video/3b",
+								"more": "Más información"
+							},
+							"headline": "Reservas individuales y de grupo en tiempo real",
+							"img": "individuelle-terminkalender-02.png",
+							"text": "Con el calendario de reservas en línea, es posible aceptar nuevas reservas de citas en cualquier momento. Sus clientes pueden reservar citas individuales o en grupo, es decir, una cita para varias personas."
+						},
+						{
+							"headline": "Agendas individuales para cada empleado",
+							"img": "individuelle-terminkalender-10.png",
+							"text": "Cree un calendario de citas para cada uno de sus empleados y defina los servicios asociados. Al asignar derechos de acceso, sus empleados pueden ver la información de las citas y establecer y editar las mismas. Sin embargo, la información de otros calendarios y otras opciones de configuración de la cuenta permanecen ocultas para el empleado correspondiente."
+						},
+						{
+							"headline": "Personalización total",
+							"img": "individuelle-terminkalender-03.png",
+							"text": "Determine con cuánto tiempo de antelación y con qué rapidez debe ser posible reservar una cita. ¿Debe mostrarse a los clientes el número de citas libres por turno o el sistema debe confirmar automáticamente la reserva de la cita? Esto también es posible como opción. Al igual que la publicación de la dirección exacta de la cita. En el editor de formularios integrado, puede definir libremente los campos de consulta, como el nombre, la dirección o el teléfono."
+						},
+						{
+							"button": {
+								"link": "/support",
+								"more": "Más información"
+							},
+							"headline": "Asistencia para cada paso",
+							"img": "individuelle-terminkalender-04.png",
+							"text": "Si no sabe exactamente lo que tiene que hacer o lo que debe tener en cuenta, encontrará información más detallada en los símbolos de interrogación que aparecen junto a los distintos pasos del generador de calendarios. ¿Todavía tiene preguntas? Entonces, eche un vistazo a nuestros vídeos explicativos en nuestra área de soporte."
+						},
+						{
+							"headline": "Registro gratuito de citas y varios clientes por turno",
+							"img": "individuelle-terminkalender-06.png",
+							"text": "Ofrezca a sus clientes franjas horarias fijas. 15 minutos, 30 minutos, 60 minutos. Al configurar el calendario de citas, determine cuántos clientes pueden ser atendidos por unidad de tiempo. En cuanto se alcance el número máximo por franja horaria, la hora de la cita correspondiente dejará de aparecer en el calendario de reservas.\n\nSi quiere ofrecer diferentes unidades de tiempo, le recomendamos que establezca un calendario de citas para diferentes servicios.\nO simplemente, configure varios calendarios. Puede utilizar hasta tres calendarios de reservas por cuenta premium. Estaremos encantados de activar calendarios adicionales si es necesario."
+						},
+						{
+							"headline": "Gestión de múltiples sucursales",
+							"img": "individuelle-terminkalender-07.png",
+							"text": "Crea múltiples calendarios de citas para diferentes sucursales con tu cuenta de Bookingflix. A cada calendario de citas se le puede asignar una persona de contacto y una dirección de correo electrónico diferentes, lo que facilita la gestión de las citas incluso en empresas grandes con múltiples ubicaciones."
+						},
+						{
+							"headline": "Cuentas propias para los empleados",
+							"img": "individuelle-terminkalender-08.png",
+							"text": "En su centro de control de Bookingflix, puede crear cuentas de empleados. A través de estas subcuentas restringidas, sus empleados sólo tienen acceso a los datos de las citas y a la gestión de las mismas."
+						}
+					],
+					"section": {
+						"intro": "",
+						"title": ""
+					}
+				}
+			}
+		],
+		"subtitle": "Diarios individuales",
+		"title": "Cree su calendario de reservas de forma rápida y sencilla"
+	}
+}

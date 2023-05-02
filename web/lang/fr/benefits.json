@@ -1,0 +1,36 @@
+{
+	"description": "Que m'apporte Bookingflix ?",
+	"parts": [
+		{
+			"detailHeader": "en 10 minutes sur votre site web",
+			"detailHeaderTop": "Votre formulaire de rendez-vous prêt à l'emploi",
+			"detailText": "Il suffit de saisir vos informations via le Quickstart et d'intégrer immédiatement le formulaire sur votre site web. Gratuit et en 10 minutes.",
+			"text": "Mise en place rapide et facile"
+		},
+		{
+			"detailHeader": "Plus de temps pour votre travail.",
+			"detailHeaderTop": "Prise de rendez-vous efficace -",
+			"detailText": "Prendre rendez-vous 24 heures sur 24 sans devoir téléphoner. Avec Bookingflix, vous et vos clients gagnez du temps lors de la prise de rendez-vous.",
+			"text": "Travailler plus efficacement"
+		},
+		{
+			"detailHeader": "plus de rendez-vous oubliés !",
+			"detailHeaderTop": "Grâce à des rappels automatiques",
+			"detailText": "Améliorez la fiabilité de vos rendez-vous en envoyant des rappels de rendez-vous automatisés par SMS à vos clients...",
+			"text": "Meilleure fiabilité des rendez-vous"
+		},
+		{
+			"detailHeader": "prise de rendez-vous simple",
+			"detailHeaderTop": "Acquisition de nouveaux clients par",
+			"detailText": "Réservez des rendez-vous à tout moment et de n'importe où - même via votre smartphone. Facilitez la prise de contact de vos clients avec vous.",
+			"text": "Attirer de nouveaux clients"
+		},
+		{
+			"detailHeader": "les normes les plus récentes",
+			"detailHeaderTop": "Sécurité des données selon",
+			"detailText": "Enregistrement plusieurs fois par jour des données de rendez-vous et de clients sur des serveurs distincts, cryptage HTTPS et conformité au RGPD. Vos données sont en sécurité chez nous !",
+			"text": "Conforme au RGPD et sûr"
+		}
+	],
+	"title": "Avantages"
+}

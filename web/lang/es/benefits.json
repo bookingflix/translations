@@ -1,0 +1,36 @@
+{
+	"description": "¿Qué me ofrece Bookingflix?",
+	"parts": [
+		{
+			"detailHeader": "en su sitio web en 10 minutos",
+			"detailHeaderTop": "Su formulario de cita previa",
+			"detailText": "Sólo tiene que introducir sus datos a través del inicio rápido e integrar inmediatamente el formulario en su sitio web. Gratis y en 10 minutos.",
+			"text": "Rápido y fácil de instalar"
+		},
+		{
+			"detailHeader": "Más tiempo para su trabajo.",
+			"detailHeaderTop": "Gestión eficiente de citas - ",
+			"detailText": "Atienda las citas las 24 horas del día sin verse obligado a llamar por teléfono. Con Bookingflix, tanto usted como sus clientes ahorrarán tiempo a la hora de concertar citas.",
+			"text": "Trabajar más eficazmente"
+		},
+		{
+			"detailHeader": "¡no más citas olvidadas!",
+			"detailHeaderTop": "Con recordatorios automáticos",
+			"detailText": "Haga que sus citas sean más fiables con recordatorios automáticos de citas por SMS a sus clientes.",
+			"text": "Mayor fiabilidad a la hora de cumplir las citas"
+		},
+		{
+			"detailHeader": "creación de citas de forma sencilla",
+			"detailHeaderTop": "Captar nuevos clientes a través de",
+			"detailText": "Reserve sus citas en cualquier momento y desde cualquier lugar, incluso a través de un smartphone. Haga que sus clientes se pongan en contacto con usted fácilmente.",
+			"text": "Captar nuevos clientes"
+		},
+		{
+			"detailHeader": "los estándares más recientes",
+			"detailHeaderTop": "Seguridad de datos según",
+			"detailText": "Almacenamiento diario múltiple de los datos de las citas y de los clientes en servidores separados, cifrado HTTPS y conformidad con el RGPD. Sus datos están seguros con nosotros.",
+			"text": "Conforme al RGPD y seguro"
+		}
+	],
+	"title": "Ventajas"
+}

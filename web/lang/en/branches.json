@@ -1,0 +1,29 @@
+{
+	"covid": {
+		"info": "Bookingflix is of great value in the current Corona pandemic for making appointments online. Use the appointment tool to schedule Corona test appointments or Corona vaccinations. Or set up an appointment booking form for your retail store's Click & Collect service. There are many possible applications for an online appointment tool. We would also be happy to advise you in the context of a video conference with screen sharing.",
+		"link": "Book your individual consultation here.",
+		"title": "Bookingflix supports you even in difficult times"
+	},
+	"description": "Bookingflix supports various industries and everyone who loves appointments",
+	"icons": {
+		"title": "Industries that use Bookingflix"
+	},
+	"parts": {
+		"consultant": "consultant | consultants",
+		"cosmetics": "cosmetic | cosmetics",
+		"covid": "Covid-19-Test- und Impfzentrum | Covid-19-Test und Impfzentren",
+		"craftsmen": "craftsman | craftsmen",
+		"doctor": "doctor | doctors",
+		"fitness": "fitness",
+		"hairdresser": "hairdresser | hairdressers",
+		"insurance": "insurance | insurances",
+		"museum": "Museum | Museums",
+		"photographer": "photographer | photographers",
+		"restaurant": "restaurant | restaurants",
+		"tattoo": "tattoo | tattoos",
+		"workshop": "workshop | workshops"
+	},
+	"title": "Who is Bookingflix for?",
+	"subtitle": "Can be used flexibly",
+	"branchDescription": "Mit der Tattomaschine in der Hand lässt sich schlecht telefonieren. Das stellen immer mehr Tätowierer fest. Der Kunde möchte einen Termin buchen für ein Infogespräch oder einen Folgetermin. Das geht per Termin-Tool wesentlich einfacher. Der Kunde wählt den Wunschtermin aus und gibt die benötigten Kontaktdaten ein. Hierfür reicht zumeist die Emailadresse und der Name. Die Absprache per Telefon ist nicht mehr nötig. Gerade die junge Zielgruppe des Tattoo-Fans, erledigt am liebsten alle mit dem Smartphone. Somit auch die Online-Buchung eines Termins."
+}

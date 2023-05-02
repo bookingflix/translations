@@ -1,0 +1,39 @@
+{
+	"kundenbewertungen": {
+		"cta": {
+			"action": "Pruebe ahora Bookingflix Premium durante 14 días de forma gratuita.",
+			"button": "Crear una agenda ahora",
+			"link": "/quickstart"
+		},
+		"intro": "Bookingflix te ofrece la posibilidad de recoger sin problemas las opiniones de tus clientes. De este modo, podrá convencer a nuevos clientes, mejorar constantemente su servicio y generar más confianza.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Recogida automática de opiniones de clientes",
+							"img": "kundenbewertungen-01.png",
+							"text": "Una vez realizada la cita, puede solicitar automáticamente las evaluaciones de los clientes. Esto se hace a través de un correo electrónico con las preguntas de evaluación, que se envía a sus clientes después, o como una notificación en el portal del cliente."
+						},
+						{
+							"button": {
+								"link": "/features/individualCalendar",
+								"more": "Más información"
+							},
+							"headline": "Preguntas de evaluación individual",
+							"img": "kundenbewertungen-02.png",
+							"text": "Defina qué y cuántas preguntas de evaluación quiere hacer a sus clientes de forma sencilla cuando configure su calendario de citas."
+						},
+						{
+							"headline": "Integración en su sitio web y en el portal del cliente",
+							"img": "kundenbewertungen-03.png",
+							"text": "Puede integrar las valoraciones recibidas directamente en su sitio web a través de un widget. Las valoraciones también se publican en su perfil de proveedor de servicios en el portal del cliente."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Comentarios de los clientes",
+		"title": "Mejore constantemente su servicio gracias a las opiniones de sus clientes"
+	}
+}

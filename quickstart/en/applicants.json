@@ -1,0 +1,11 @@
+{
+	"description": "Flexibly set up when an appointment should be bookable in our appointment scheduler. Click the {icon}icon to remove an appointment slot and the {icon}icon to add it.",
+	"max": {
+		"event": {
+			"title": "What is the maximum number of participants that can attend the appointment?"
+		},
+		"info": "For example, if you set \"5\", 5 customers can book an appointment in the specified period. Only after the 5th (verified) booking, the appointment slot will no longer be displayed as available.",
+		"title": "What is the maximum number of customer appointments that can take place at the same time?"
+	},
+	"title": "Appointment planner"
+}

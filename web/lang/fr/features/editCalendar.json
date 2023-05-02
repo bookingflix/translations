@@ -1,0 +1,80 @@
+{
+	"termin-und-kalenderverwaltung": {
+		"cta": {
+			"action": "Testez maintenant Bookingflix Premium gratuitement pendant 14 jours !",
+			"button": "Créer un agenda maintenant",
+			"link": "/quickstart"
+		},
+		"intro": "Bookingflix offre de nombreuses fonctions différentes pour gérer vos rendez-vous de la manière dont vous en avez besoin dans votre entreprise.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"button": {
+								"link": "/features/dashboard",
+								"more": "en savoir plus"
+							},
+							"headline": "Aperçu de toutes les dates",
+							"img": "termin-und-kalenderverwaltung-01.png",
+							"text": "Dans le centre de contrôle, vous pouvez voir tous les rendez-vous réservés ainsi que leur statut, leur date et les informations pertinentes sur les clients. Vous recevez des notifications automatiques dès que les rendez-vous des clients ont été acceptés, modifiés ou annulés. Les fonctions de check-in et de check-out vous permettent de savoir quand un client s'est présenté et quand il a quitté votre entreprise."
+						},
+						{
+							"button": {
+								"link": "/support/video/11",
+								"more": "en savoir plus"
+							},
+							"headline": "Enregistrer et modifier manuellement des rendez-vous",
+							"img": "termin-und-kalenderverwaltung-02.png",
+							"text": "Vous continuez à recevoir des réservations par téléphone ou directement de vive voix sur place ? Dans ce cas, ajoutez-les manuellement dans votre agenda avec toutes les informations pertinentes."
+						},
+						{
+							"headline": "accepter ou annuler des rendez-vous",
+							"img": "termin-und-kalenderverwaltung-03.png",
+							"text": "Si un rendez-vous libre a été réservé, vous pouvez le faire confirmer automatiquement par le système ou l'accepter ou l'annuler vous-même dans votre profil."
+						},
+						{
+							"headline": "Contacter les clients",
+							"img": "termin-und-kalenderverwaltung-04.png",
+							"text": "Contactez vos clients facilement et directement via le champ de notification dans le profil de votre client. Celui-ci reçoit immédiatement un e-mail avec votre message et peut y répondre à son tour. Tous les e-mails sont enregistrés dans la boîte de réception du centre de contrôle. Vous pouvez également faire envoyer des e-mails par Bookingflix à partir de votre propre adresse e-mail.\n\nSi votre client dispose d'un compte sur le portail client, il peut également répondre à votre message via la fonction de chat."
+						},
+						{
+							"button": {
+								"link": "/support/video/17",
+								"more": "en savoir plus"
+							},
+							"headline": "Notes sur les rendez-vous",
+							"img": "termin-und-kalenderverwaltung-05.png",
+							"text": "Créez des notes pour les différents rendez-vous. Vous gardez ainsi une vue d'ensemble des rendez-vous personnels et des demandes spécifiques des clients. Vos collaborateurs peuvent ainsi consulter toutes les informations en un seul endroit, sans avoir besoin de recourir à un système de fiches."
+						},
+						{
+							"button": {
+								"link": "/support/video/13",
+								"more": "en savoir plus"
+							},
+							"headline": "Télécharger les dates",
+							"img": "termin-und-kalenderverwaltung-06.png",
+							"text": "Dans votre profil Bookingflix, vous téléchargez les données de rendez-vous d'un calendrier complet ou de rendez-vous individuels au format PDF,CSV et ICS. Vous pouvez utiliser ces données pour un traitement ultérieur. Vous pouvez filtrer par jour ou par période."
+						},
+						{
+							"button": {
+								"link": "/support/video/15",
+								"more": "en savoir plus"
+							},
+							"headline": "Synchroniser les rendez-vous avec les calendriers Google, Microsoft ou Apple",
+							"img": "termin-und-kalenderverwaltung-07.png",
+							"text": "Avec Bookingflix, vous synchronisez facilement et automatiquement votre calendrier de réservation avec votre propre calendrier de fournisseurs courants comme Google, Microsoft ou Apple. Cela vous permet d'une part de transférer les rendez-vous réservés dans vos calendriers standard existants et d'autre part de bloquer automatiquement les rendez-vous déjà pris dans votre propre calendrier dans le calendrier de réservation."
+						},
+						{
+							"headline": "statistiques",
+							"img": "termin-und-kalenderverwaltung-08.png",
+							"text": "Dans le centre de contrôle, vous voyez les statistiques les plus diverses pour tous les agendas. Vous pouvez ainsi évaluer individuellement et en temps réel combien de rendez-vous ont été réservés, quand ils ont généralement lieu, quels calendriers sont les plus remplis et bien plus encore."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Gestion des rendez-vous et des clients",
+		"title": "Vous décidez de la manière dont vous souhaitez utiliser Bookingflix"
+	}
+}

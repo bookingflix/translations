@@ -1,0 +1,16 @@
+{
+	"email": {
+		"info": "Per E-Mail über eingehende Nachrichten informiert werden",
+		"text": "Mit dieser E-Mail senden wir wichtige Informationen zum Termin-Kalender {name}.\n\nLink der Termin-Buchungs-Seite:\n---------------------------------\n{bookingLink}\n---------------------------------\n\nLink zum Editieren* des Termin-Kalenders:\n---------------------------------\n{editLink}\n*Passwort: {password}\n---------------------------------\n\nÜbersichts-PDF mit allen Infos:\n---------------------------------\n{PDFLink}\n---------------------------------\n\n",
+		"title": "E-Mailadresse des Terminverwalters",
+		"warning": "Bitte eine richtige Emailadresse angeben"
+	},
+	"password": {
+		"info": "Passwortschutz ist optional",
+		"title": "Zugangs-Passwort des Terminkalenders"
+	},
+	"save": {
+		"button": "Kalender jetzt erstellen",
+		"info": "Sie erhalten alle weiteren Informationen an Ihre Email {email} gesendet"
+	}
+}

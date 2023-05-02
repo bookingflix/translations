@@ -1,0 +1,165 @@
+{
+	"benefits": {
+		"items": {
+			"01": "große Zeitersparnis\nWir haben Kunden bzw. Nutzer, die durch Bookingflix täglich mehrere Stunden an Zeit einsparen.",
+			"02": "Nerven schonen\nWarum Termine absprechen, wenn man sie auch einfach auswählen und direkt buchen kann?",
+			"03": "Terminzuverlässigkeit steigern\nKunden werden gerne an den Termin erinnert. Die NoShow-Rate sinkt hierdurch deutlich.",
+			"04": "Digital auf dem neuesten Stand\nJa, das Telefon war mal sehr modern. Aber die Zeit bleibt nicht stehen. Kunden erwarten moderne, digitale Services.",
+			"05": "Service verbessern und Trust-Faktor stärken\nBookingflix kann Kundenmeinungen, nach dem Termin, vollautomatisch für Sie abfragen."
+		},
+		"title": "Ihre Vorteile auf den Punkt"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Was kosten die Terminerinnerungen per SMS?",
+				"url": ""
+			},
+			"11": {
+				"title": "Was kostet Bookingflix im Monat?",
+				"url": ""
+			},
+			"12": {
+				"title": "Welche Kündigungsfrist muss ich beachten?",
+				"url": ""
+			},
+			"13": {
+				"title": "Können wir die Kunden am Einlass Einchecken per QR-Code-Scan?",
+				"url": ""
+			},
+			"14": {
+				"title": "Kann man Ferien einstellen in denen kein Termin buchbar ist?",
+				"url": ""
+			},
+			"15": {
+				"title": "Kann der Kunde die Buchung selbst verwalten (Termin ändern, stornieren)",
+				"url": ""
+			},
+			"16": {
+				"title": "Können die System-Mails (Zusage, Absage) von der eigenen Mailadresse  aus versendet werden?",
+				"url": ""
+			},
+			"17": {
+				"title": "Welcher Termin-Buchungs-Kalender ist für mein Business am besten geeignet?",
+				"url": ""
+			},
+			"18": {
+				"title": "Wie lange dauert die Terminbuchung für meine Kunden?",
+				"url": ""
+			},
+			"01": {
+				"title": "Ist die Terminbuchung über Bookingflix.com DSGVO-konform?",
+				"url": ""
+			},
+			"02": {
+				"title": "Wo stehen die Server von Bookingflix?",
+				"url": ""
+			},
+			"03": {
+				"title": "Hat Bookingflix eine Rechteverwaltung, damit Mitarbeiter die Termin-Verwaltung übernehmen können?"
+			},
+			"04": {
+				"title": "Können auch Gruppen eine Buchung vornehmen und wird die Anzahl berücksichtigt?",
+				"url": ""
+			},
+			"05": {
+				"title": "Ist die Anzahl an monatlichen Terminbuchungen begrenzt?",
+				"url": ""
+			},
+			"06": {
+				"title": "Können Terminbuchungen automatisch bestätigt werden?",
+				"url": ""
+			},
+			"07": {
+				"title": "Welchen Support bekommen wir im Rahmen der Nutzung?",
+				"url": ""
+			},
+			"08": {
+				"title": "Kann der Premium-Account auch per Rechnung bezahlt werden statt per Lastschrift?",
+				"url": ""
+			},
+			"09": {
+				"title": "Können vor dem Termin, zu einem bestimmten Zeitpunkt, Terminerinnerungen verschickt werden?",
+				"url": ""
+			}
+		},
+		"title": "Relevante FAQ für Ihre Branche"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Termine automatisch bestätigen lassen",
+				"url": ""
+			},
+			"11": {
+				"title": "Termine einfach ändern oder absagen",
+				"url": ""
+			},
+			"12": {
+				"title": "Weitere Infos mitteilen im Rahmen der Buchung",
+				"url": ""
+			},
+			"13": {
+				"title": "Terminerinnerungen",
+				"url": ""
+			},
+			"14": {
+				"title": "Termin-Daten exportieren (pdf, csv)",
+				"url": ""
+			},
+			"15": {
+				"title": "Terminticket mit QR-Code zum Ausdrucken",
+				"url": ""
+			},
+			"18": {
+				"title": "Kundenbewertungen automatisch einholen",
+				"url": ""
+			},
+			"01": {
+				"title": "Terminbuchung nach DSGVO-Standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Deutschland",
+				"url": ""
+			},
+			"03": {
+				"title": "Termin-Buchungs-Kalender für konkrete Events",
+				"url": ""
+			},
+			"04": {
+				"title": "Termin-Buchungs-Kalender für feste Öffnungszeiten",
+				"url": ""
+			},
+			"05": {
+				"title": "Besserer Überblick über den Terminstatus (Zusage, Absage, noch nicht bestätigt)",
+				"url": ""
+			},
+			"06": {
+				"title": "Gruppenbuchungen",
+				"url": ""
+			},
+			"07": {
+				"title": "Ferien und Pausenzeiten einstellbar",
+				"url": ""
+			},
+			"08": {
+				"title": "Rechteverwaltung zur Termin-Verwaltung durch Mitarbeiter",
+				"url": ""
+			},
+			"09": {
+				"title": "Check-In und Check-Out-Funktion mit QR-Code-Scan",
+				"url": ""
+			}
+		},
+		"title": "Besonders relevante Funktionen und Eigenschaften für Ihre Branche"
+	},
+	"main": {
+		"description": "Gerade in dieser Branche ist der Altersdurchschnitt relativ jung. Und die junge Generation ist es gewohnt, ihr Leben mittels Smartphone, Apps und dem Internet zu organisieren. Es gibt einen großen Anteil in dieser Gruppe, die nur im absoluten Notfall zum Telefon greifen, um damit zu telefonieren. Das Telefon bzw. das Smartphone wird hauptsächlich zur Unterhaltung und zur Organisation verwendet. Natürlich auch zur Kommunikation. Aber hier dominieren Messenger und soziale Webdienste. Diese eher junge Generation möchte daher auch keinen Termin per Telefon absprechen. Sie möchten auf die Website eines Dienstleisters surfen, den Termin auswählen und schnell und einfach buchen. Wer also als Dienstleister hier überzeugt. Digital überzeugt. Der hat einen echten Vorteil.",
+		"title": "Freizeit und Fun"
+	},
+	"sub": {
+		"description": "Die Anwendungsfälle sind so vielfältig, dass eine Liste nur unvollständig sein kann.\nFreizeitparks, Sportparks, Kletterparks, Konzerte, Theater, Kino, Autokino Zoos, Wildparks, Minigolf-Anlagen, Escape-Rooms, Freizeitzentren, Ski-Halle, Bootsverleih, Erlebnis-Gastronomie, Ausflugsveranstalter, Open-Air-Events. Überall werden Tickets gebucht oder Termine vergeben.\nDer Kunde möchte online die gewünschte Leistung anklicken und diese sofort buchen. Der Moment der Terminbestätigung ist ein Moment der inneren Befriedigung. Wie der Kauf oder Besitz eines lang gehegten Wunsches. Bookingflix bietet ein leistungsstarkes, individuell einstellbares Termin-Tool, welches diesem Bedürfnis entspricht. Der Termin wird sofort bestätigt. Falls nötig, kann dieser später geändert oder storniert werden. Wichtige Informationen können dem Kunden per Chat-Funktion mitgeteilt werden.\nDie Terminbestätigung kann einfach in den Standard-Kalender des Smartphones übertragen werden. Zusätzlich enthält die Terminbestätigung ein PDF-Ticket mit QR-Code. Dieses lässt sich ausdrucken oder digital vorzeigen am Einlass. Mittels des QR-Codes kann der Veranstalter den Kunden einchecken und auch wieder auschecken, beim Verlassen des Events.\nTerminbuchungen lassen sich automatisch von Bookingflix bestätigen. Bei einer Stornierung wird der Termin-Slot sofort wieder freigegeben. Auch Gruppenbuchungen, mit einer vorgegebenen maximalen Gruppengröße, lassen sich sehr einfach einrichten.\nBeim Anlegen des Termin-Buchungs-Kalenders können Sie die regelmäßigen Öffnungs-, Pausen- und Ferienzeiten einstellen. Falls das Event nur einmal oder wenige Maile stattfindet, empfehlen wir den Termin-Buchungs-Kalender für konkrete Events. Die maximale Teilnehmerzahl lässt sich einstellen.\nDie Terminverwaltung kann auch an einen Mitarbeiter, eine Mitarbeiterin übergeben werden. Hierfür steht eine umfangreiche Rechteverwaltung zur Verfügung.\nFalls die Termindaten weiter verarbeitet werden sollen, lassen sich diese in wenigen Sekunden herunterladen und importieren. Zum Beispiel in Excel oder in ein CRM.\nReduzieren Sie die NoShow-Rate deutlich. Einfach den Kunden zu selbst festgelegten Zeiten eine Erinnerung per Email oder per SMS senden. Lieber ein Kunde, der storniert, als ein Kunde, der eh nicht erscheint.",
+		"title": "Warum Online-Termin-Buchung mit Bookingflix?"
+	}
+}

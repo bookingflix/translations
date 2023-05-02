@@ -1,0 +1,98 @@
+{
+	"description": "¿Qué puedes hacer con Bookingflix?",
+	"features": {
+		"1": {
+			"features": {
+				"1": "Confirmar, anular y cambiar citas",
+				"2": "Contactar con los clientes",
+				"3": "Notas sobre las citas y los clientes",
+				"4": "Recordatorio de citas por correo electrónico y SMS"
+			},
+			"title": "Programación holística"
+		},
+		"2": {
+			"features": {
+				"1": "Seguimiento de las citas y de los comentarios de los clientes",
+				"2": "todas las citas se guardan en la agenda de Bookingflix",
+				"3": "fácil manejo"
+			},
+			"title": "Tener simplemente la visión general"
+		},
+		"3": {
+			"features": {
+				"1": "Integrar el formulario de citas en el sitio web existente",
+				"2": "Cree su propio sitio web de reserva de citas"
+			},
+			"title": "Soluciones técnicas para todas las necesidades\n"
+		}
+	},
+	"overview": "Las funciones más importantes de un vistazo",
+	"page": {
+		"elements": [
+			{
+				"list": [
+					{
+						"items": [
+							"Citas privadas",
+							"Citas constantes durante el horario de apertura",
+							"Eventos concretos",
+							"Citas para ofertas y servicios"
+						],
+						"title": "Diferentes tipos de agenda"
+					},
+					{
+						"items": [
+							"Duración individual y ritmo de las citas reservadas",
+							"diseño personalizable"
+						],
+						"title": "personalización"
+					}
+				],
+				"title": "Agenda"
+			},
+			{
+				"list": [
+					{
+						"items": [
+							"Confirmar, anular y cambiar citas",
+							"Contactar fácilmente con los clientes",
+							"Crear notas sobre las citas y los clientes",
+							"Enviar recordatorios automáticos de citas por correo electrónico y SMS"
+						],
+						"title": "Programación sencilla"
+					},
+					{
+						"items": [
+							"Seguimiento de las citas y de los comentarios de los clientes",
+							"todas las citas se guardan en la agenda de Bookingflix",
+							"Fácil de manejar"
+						],
+						"title": "Tablero de mandos claro"
+					},
+					{
+						"items": [
+							"Recogida automática de las opiniones de los clientes después de la cita",
+							"Preguntas de evaluación individualizables",
+							"Integración en su sitio web"
+						],
+						"title": "Comentarios de los clientes"
+					}
+				],
+				"title": "Planificación y organización"
+			},
+			{
+				"list": [
+					{
+						"items": [
+							"Integrar el formulario de citas en el sitio web existente",
+							" Cree su propio sitio web de reserva de citas"
+						],
+						"title": ""
+					}
+				],
+				"title": "integración"
+			}
+		]
+	},
+	"title": "Caracteristicas"
+}

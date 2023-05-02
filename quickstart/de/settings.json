@@ -1,0 +1,64 @@
+{
+	"autoConfirm": {
+		"info": "Wenn Sie \"Ja\" auswählen, wird gebuchten Terminen automatisch zugesagt. Wenn Sie \"Nein\" auswählen, können Sie bei jedem Termin selbst entscheiden.",
+		"title": "Soll gebuchten Terminen automatisch zugesagt werden?"
+	},
+	"contact": {
+		"email": {
+			"info": "An die Email-Adresse der Kontaktpersonen werden alle Terminanfragen sowie (wenn gewünscht) Kundenbewertungen gesendet.",
+			"title": "Email-Adresse der Kontaktperson"
+		},
+		"name": {
+			"info": "Geben Sie den Namen der Kontaktperson für Ihre Kunden an. Die Kontaktperson muss dabei nicht zwingend die Person sein, über die Ihr Bookingflix Account laufen wird. Die Accounterstellung erfolgt im letzten Schritt des Quickstarts.",
+			"title": "Name der Kontaktperson"
+		}
+	},
+	"event": {
+		"add": "{count}. Termin hinzufügen",
+		"addEnd": "Ende hinzufügen",
+		"appointment": {
+			"info": "Geben Sie hier zusätzliche Infos zum Termin an (optional)",
+			"placeholder": "z.B. Event im Schlosspark Berlin",
+			"title": "Zusätzliche Infos zum Termin"
+		},
+		"description": "Events",
+		"name": {
+			"info": "Geben Sie den Titel des Events an.",
+			"placeholder": "z.B. Tag der offenen Tür",
+			"title": "Titel des Events"
+		},
+		"same": "Innerhalb eines Terminkalenders dürfen keine Event-Termine zur exakt gleichen Zeit stattfinden. Bitte korrigieren.",
+		"sameTimerange": "Termin {event1} und Termin {event2} überschneiden sich (Terminkonflikt). Überschneidungen sind bei Event-Kalendern nicht möglich. Ein Terminkonflikt kann dadurch umgangen werden, indem das Termin-Ende weggelassen und nur ein Termin-Anfang definiert wird.",
+		"time": {
+			"info": "Legen Sie den Beginn des Events fest. Über die Checkbox können Sie auch das Ende Ihres Events hinzufügen.",
+			"title": "Zeit"
+		},
+		"title": "Termin {count}"
+	},
+	"location": {
+		"info": "Geben Sie die Adresse an, wo die Termine stattfinden werden. Ihre Kunden können sich dann per Google Maps sofort die Navigation zur Location anzeigen lassen.",
+		"title": "Adresse des Termins"
+	},
+	"showAppointments": {
+		"info": "Wenn mehrere Termine zur gleichen Zeit stattfinden können, können Sie hier festlegen, ob Ihre Kunden die Anzahl an verfügbaren Terminen einsehen können sollen oder nicht.",
+		"title": "Soll Ihren Kunden die Anzahl noch verfügbarer Termine angezeigt werden?"
+	},
+	"title": "Einstellungen",
+	"verify": {
+		"info": "Mit der Email-Verifizierung bestätigen Ihre Kunden, dass Sie einen Termin bei Ihnen gebucht haben. Dieses Vorgehen entspricht damit der europäischen Datenschutzgrundverordnung. Wir empfehlen die Deaktivierung der Email-Verifizierung ausschließlich zu Testzwecken.",
+		"time": {
+			"info": "Der Termin bleibt geblockt (nicht buchbar), bis der buchende Kunde diesen verifiziert hat oder die hier angegebene Zeit abgelaufen ist. Die Verifizierung erfolgt, wenn der Link in der Verifizierungsmail geklickt wurde.",
+			"title": "Zeit für die Verifizierung des Termins"
+		},
+		"title": "Email-Verifizierung aktivieren",
+		"warning": "Dieser Buchungsmodus entspricht nicht der europäischen Datenschutzgrundverordnung. Wir empfehlen die Nutzung ausschließlich zu Testzwecken."
+	},
+	"webinar": {
+		"info": "Wenn Sie Ihre Termine digital durchführen wollen, können Sie einfach und umkompliziert das Webinarsystem von Bookingflix verwenden. Die Einladung zu der Videokonferenz erfolgt automatisch mit der Buchung des Termins und kann in Ihrem Bookingflix-Account angepasst werden.",
+		"system": {
+			"bookingflix": "Bookingflix (Beta-Version)",
+			"title": "Webinarsystem"
+		},
+		"title": "Kundentermine als Videokonferenz durchführen"
+	}
+}

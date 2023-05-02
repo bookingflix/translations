@@ -1,0 +1,39 @@
+{
+	"kundenbewertungen": {
+		"cta": {
+			"action": "Try Bookingflix Premium now for 14 days free of charge!",
+			"button": "Create diary now",
+			"link": "/quickstart"
+		},
+		"intro": "Bookingflix offers you the possibility to seamlessly collect reviews from your customers. This way, you can convince new customers, constantly improve your service and create more trust.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Automatic collection of customer reviews",
+							"img": "kundenbewertungen-01.png",
+							"text": "When the appointment has been carried out, you can automatically request customer evaluations. This is done either via an email with the evaluation questions, which is sent to your customers afterwards, or as a notification in the customer portal."
+						},
+						{
+							"button": {
+								"link": "/features/individualCalendar",
+								"more": "Learn more"
+							},
+							"headline": "Individual assessment questions",
+							"img": "kundenbewertungen-02.png",
+							"text": "Define which and how many evaluation questions you would like to ask your customers in an uncomplicated way when you set up your appointment calendar."
+						},
+						{
+							"headline": "Integration on your website and in the customer portal",
+							"img": "kundenbewertungen-03.png",
+							"text": "You can integrate the ratings you have received directly on your website via a widget. The ratings are also published under your service provider profile in the customer portal."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Customer reviews",
+		"title": "Constantly improve your service through the reviews of your customers"
+	}
+}

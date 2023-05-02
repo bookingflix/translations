@@ -1,0 +1,39 @@
+{
+	"kundenbewertungen": {
+		"cta": {
+			"action": "Testez maintenant Bookingflix Premium gratuitement pendant 14 jours !",
+			"button": "Créer un agenda maintenant",
+			"link": "/quickstart"
+		},
+		"intro": "Bookingflix vous offre la possibilité d'obtenir de manière transparente des évaluations de vos clients. Cela vous permet de convaincre de nouveaux clients, d'améliorer constamment votre service et d'instaurer une plus grande confiance.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Obtention automatique d'évaluations de la part des clients",
+							"img": "kundenbewertungen-01.png",
+							"text": "Une fois le rendez-vous effectué, vous pouvez demander automatiquement les évaluations des clients. Cela se fait soit par un e-mail avec les questions d'évaluation, qui est envoyé à vos clients par la suite, soit sous forme de notification dans le portail clients."
+						},
+						{
+							"button": {
+								"link": "/features/individualCalendar",
+								"more": "en savoir plus"
+							},
+							"headline": "Questions d'évaluation individuelles",
+							"img": "kundenbewertungen-02.png",
+							"text": "Définissez facilement, dès la mise en place de votre agenda, quelles et combien de questions d'évaluation vous souhaitez poser à vos clients."
+						},
+						{
+							"headline": "Intégration sur votre site web et sur le portail client",
+							"img": "kundenbewertungen-03.png",
+							"text": "Vous pouvez intégrer les évaluations que vous avez reçues directement sur votre site web via un widget. Les évaluations sont en outre publiées sous votre profil de prestataire de services dans le portail clients."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Témoignages de clients",
+		"title": "Améliorez constamment votre service grâce aux évaluations de vos clients"
+	}
+}

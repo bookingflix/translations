@@ -1,0 +1,28 @@
+{
+	"description": "Apprenez à nous connaître",
+	"development": {
+		"description": "Nous souhaitons nous développer lentement mais régulièrement, sans pour autant devoir recourir à un marketing agressif. Nous générons la croissance grâce à l'expérience positive des utilisateurs. Cela vaut pour nos clients. Mais aussi pour les clients finaux qui réservent un rendez-vous. Nous saluons la concurrence comme un élan supplémentaire. Notre objectif est clair, c'est de proposer un outil plus facile à utiliser, plus flexible et moins cher que les outils comparables.\n\nLa protection des données conformément au RGPD et la sécurité des données sont considérées comme prioritaires et prises en compte lors du développement. Le développement ne finit jamais.\n\nNous apprécions personnellement nos collaborateurs et les freelances impliqués. Il est important pour nous que chacun se sente à l'aise, se réjouisse de son travail et soit motivé pour atteindre ensemble les objectifs convenus.",
+		"title": "Le développement ne finit jamais."
+	},
+	"feedback": {
+		"description": "L'objectif était et reste de développer un outil de prise de rendez-vous fiable pour les petits et grands prestataires de services.  L'accent est mis sur la simplicité d'utilisation et la flexibilité.  Nous développons de nouvelles fonctions grâce aux commentaires de nos clients et utilisateurs. Nous les traitons comme des partenaires, avec l'aide desquels nous optimisons Bookingflix de manière agile.\n\nNous essayons d'améliorer Bookingflix un peu plus chaque jour. Les feedbacks positifs nous motivent.  Les feedbacks négatifs nous stimulent. Le support personnel est pour nous un outil important pour obtenir de nouvelles suggestions et corriger les erreurs.  Nous considérons les erreurs comme une expérience d'apprentissage nécessaire.",
+		"title": "Les feedbacks positifs nous motivent.  Les feedbacks négatifs nous stimulent."
+	},
+	"startup": {
+		"description": "Bookingflix est une petite startup établie à Witten, sur la Ruhr. Notre équipe de développeurs agile est toutefois organisée de manière décentralisée. Les vidéoconférences et le télétravail caractérisent donc le développement de Bookingflix depuis 2017, année de sa création.",
+		"title": "Une petite startup de Witten"
+	},
+	"targets": {
+		"description": [
+			"Plus d'aperçu de réservation pour les clients finaux.",
+			"nouveaux thèmes pour le site web de prise de rendez-vous",
+			"Interfaces API via, par exemple, Zapier.com",
+			"Billetterie avec connexion au service de paiement",
+			"Refonte du tableau de bord",
+			"Gestion des droits pour les employés",
+			"Extension du domaine de l'assistance"
+		],
+		"title": "Nos objectifs pour 2022"
+	},
+	"title": "À propos de Bookingflix"
+}

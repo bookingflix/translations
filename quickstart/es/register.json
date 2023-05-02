@@ -1,0 +1,45 @@
+{
+	"button": "Registro",
+	"doublicatedAccount": "El nombre de usuario o la dirección de correo electrónico ya están en uso. Por favor, utilice otros detalles allí.",
+	"email": {
+		"title": "Dirección de correo electrónico",
+		"warning": "Introduzca una dirección de correo electrónico válida"
+	},
+	"isNotRegistred": "... o registrarse de nuevo?",
+	"isRegistred": "... o ya está registrado?",
+	"loginIncorrect": "El inicio de sesión no es correcto",
+	"newAssistent": {
+		"emailText": "¡Muy bien! La agenda {name} ha sido creada con éxito. Se puede utilizar inmediatamente de dos maneras.\n\n1. a través de la página web de reserva de citas\n---------------------------------\n{link}\n2. a través de un código de inserción en el propio sitio web\n---------------------------------\n<!-- Folgenden Einbettungscode auf Website kopieren -->\n{embedcode}\n<!-- Ende Einbettungscode -->\nEl calendario de citas puede editarse a través del siguiente enlace:\n---------------------------------\n{editLink}\n2 recordatorios de citas estándar en el calendario de citas\n---------------------------------\nSe han creado automáticamente 2 recordatorios de citas estándar para este calendario de citas. Un recordatorio de cita por correo electrónico 7 días antes de la cita y un recordatorio de cita por correo electrónico 24 horas antes de la cita. Los recordatorios de citas pueden ajustarse individualmente en el área de administración.\n\nNota para probar el calendario de citas\n---------------------------------\nPor favor, utilice diferentes dispositivos finales. Si está conectado al área de acceso (tablero) y reserva una cita con el mismo dispositivo al mismo tiempo, pueden producirse errores. Sin embargo, esto sólo afecta al envío de confirmaciones de citas. Por lo tanto, por favor, haz la reserva de prueba con otro dispositivo con el que no estés conectado a Bookingflix. Introduce también una dirección de correo electrónico para la reserva diferente a la que utilizaste al configurar la cuenta de Bookingflix. Esto garantiza un entorno de prueba realista.\n\n¿Más preguntas? Abra el centro de asistencia ahora:\n---------------------------------\n{supportcenter}",
+		"emailTitle": " {name}"
+	},
+	"password": {
+		"title": "Contraseña",
+		"warning": "Su contraseña debe contener al menos 5 caracteres"
+	},
+	"preview": "Vista previa del calendario",
+	"signIn": {
+		"button": "Entra.",
+		"email": "Nombre de usuario / dirección de correo electrónico",
+		"title": "Acceder a la cuenta existente"
+	},
+	"success": {
+		"info": "Toda la información ha sido enviada a {email} .",
+		"title": "¡Salvado con éxito!"
+	},
+	"terms": {
+		"info": "Ver GTCs",
+		"title": "Acepto los términos y condiciones de Bookingflix",
+		"warning": "Por favor, acepte nuestros términos y condiciones para crear su cuenta"
+	},
+	"title": "Cree una cuenta ahora e integre el formulario de citas en su sitio web",
+	"username": {
+		"info": "Por favor, elija su nombre de usuario con cuidado. Se publicará en varios lugares y no podrá modificarse posteriormente. Por favor, utilice sólo letras minúsculas para el nombre de usuario, sin caracteres especiales y sin espacios.",
+		"title": "Nombre de usuario deseado",
+		"warning": "Por favor, introduzca un nombre de usuario que contenga al menos 5 caracteres"
+	},
+	"validateUseraccount": {
+		"emailText": "Por favor, haga clic en el siguiente enlace de confirmación:<hr> {link} <hr>La cuenta ha sido verificada con éxito y está lista para ser utilizada.\n\nLa cuenta premium de Bookingflix se puede utilizar de forma gratuita durante 14 días.\n\nLas opciones después de los 14 días gratuitos:\n- Pasar a la cuenta gratuita FREE\n- Renovación de la Cuenta Premium (¡No hay renovación automática!)\n\nMás información sobre servicios y costes: <a href='{url}/price.html'>{url}/price.html</a>",
+		"emailTitle": "Completar el registro de la cuenta de Bookingflix ahora"
+	},
+	"warning": "Por favor, introduzca al menos 5 caracteres"
+}

@@ -1,0 +1,209 @@
+{
+	"benefits": {
+		"items": {
+			"01": "gran ahorro de tiempo\nPara ambos lados. La programación se realiza en segundos. El cliente también cambia o cancela la cita de forma independiente.",
+			"02": "Concéntrese en lo esencial y evite los nervios\nLas interrupciones telefónicas son una molestia en el trabajo diario. En línea, es más rápido, más sencillo y más fácil para los nervios.",
+			"03": "Aumentar la fiabilidad de las citas\nUtilice los recordatorios automáticos por correo electrónico y SMS. Por cierto, la mayoría de los clientes agradecen este servicio extra.",
+			"04": "Actualización digital\nLas herramientas de cita previa se han convertido en un estándar popular. Los clientes esperan servicios digitales modernos.",
+			"05": "Optimizar el flujo de trabajo\nEl cliente reserva y gestiona la cita por sí mismo. Los datos de las citas se muestran claramente en su panel de control."
+		},
+		"title": "Sus ventajas en pocas palabras"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "¿Cuánto cuesta Bookingflix al mes?",
+				"url": ""
+			},
+			"11": {
+				"title": "¿Qué plazo de preaviso debo respetar?",
+				"url": ""
+			},
+			"12": {
+				"title": "¿Puede el cliente gestionar la reserva por sí mismo (cambiar la cita, cancelar)?",
+				"url": ""
+			},
+			"13": {
+				"title": "¿Se pueden personalizar los textos del correo electrónico?",
+				"url": ""
+			},
+			"14": {
+				"title": "¿Se pueden enviar los correos del sistema (aceptación, rechazo) desde su propia dirección de correo?",
+				"url": ""
+			},
+			"15": {
+				"title": "¿Qué ocurre con los datos de la cita después de la misma?",
+				"url": ""
+			},
+			"16": {
+				"title": "¿Puedo anular las citas, borrarlas o dar de baja al cliente a posteriori?",
+				"url": ""
+			},
+			"17": {
+				"title": "¿Qué calendario de reserva de citas es el mejor para mi negocio?",
+				"url": ""
+			},
+			"18": {
+				"title": "¿Cuánto tiempo se tarda en reservar una cita para mis clientes?",
+				"url": ""
+			},
+			"19": {
+				"title": "¿Puedo también introducir manualmente las citas de mis clientes?",
+				"url": ""
+			},
+			"20": {
+				"title": "¿Cómo puedo fijar los periodos de vacaciones?",
+				"url": ""
+			},
+			"21": {
+				"title": "¿Cómo puedo contactar con el cliente antes de la cita?",
+				"url": ""
+			},
+			"22": {
+				"title": "Me gustaría crear una breve nota para la cita con el cliente. ¿Cómo lo hago?",
+				"url": ""
+			},
+			"23": {
+				"title": "¿Pueden descargarse los datos de las citas para su posterior tratamiento?",
+				"url": ""
+			},
+			"24": {
+				"title": "¿Cómo puedo obtener comentarios de los clientes sobre Bookingflix? ¿Es automático?",
+				"url": ""
+			},
+			"25": {
+				"title": "¿Cómo puedo sincronizar mi calendario estándar con el calendario de Bookingflix?",
+				"url": ""
+			},
+			"26": {
+				"title": "¿Puedo ofrecer diferentes servicios a través del calendario?",
+				"url": ""
+			},
+			"01": {
+				"title": "¿Cuenta Bookingflix con una gestión de derechos para que el respectivo representante pueda hacerse cargo de la gestión de la cita?",
+				"url": ""
+			},
+			"02": {
+				"title": "¿Qué ocurre exactamente cuando un cliente cancela su cita?",
+				"url": ""
+			},
+			"03": {
+				"title": "¿Se pueden confirmar automáticamente las reservas de citas?"
+			},
+			"04": {
+				"title": "¿Se pueden introducir manualmente las citas para el cliente?",
+				"url": ""
+			},
+			"05": {
+				"title": "¿Qué apoyo recibimos dentro del ámbito de uso?",
+				"url": ""
+			},
+			"06": {
+				"title": "¿Se puede pagar la Cuenta Premium también por factura en lugar de por domiciliación bancaria?",
+				"url": ""
+			},
+			"07": {
+				"title": "¿Se pueden enviar recordatorios de citas antes de la cita, a una hora determinada?",
+				"url": ""
+			},
+			"08": {
+				"title": "¿Cómo configuro los recordatorios de citas?",
+				"url": ""
+			},
+			"09": {
+				"title": "¿Cuánto cuestan los recordatorios de citas por SMS y cómo los reservo?",
+				"url": ""
+			}
+		},
+		"title": "Preguntas frecuentes relevantes para su sector"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Simplemente cambie o cancele las citas",
+				"url": ""
+			},
+			"11": {
+				"title": "Comunicar más información como parte de la reserva",
+				"url": ""
+			},
+			"12": {
+				"title": "Recordatorios de citas",
+				"url": ""
+			},
+			"13": {
+				"title": "Simplemente integre el calendario de reservas de citas en su propio sitio web",
+				"url": ""
+			},
+			"14": {
+				"title": "El sitio web de reserva de citas también puede utilizarse sin su propio sitio web",
+				"url": ""
+			},
+			"15": {
+				"title": "Crear notas para citas y clientes",
+				"url": ""
+			},
+			"16": {
+				"title": "Vacaciones y días festivos ajustables",
+				"url": ""
+			},
+			"17": {
+				"title": "Se pueden reservar varias fechas por turno",
+				"url": ""
+			},
+			"18": {
+				"title": "Obtenga automáticamente las opiniones de los clientes",
+				"url": ""
+			},
+			"19": {
+				"title": "Sincronización con calendarios estándar de Google, Apple y Microsoft",
+				"url": ""
+			},
+			"01": {
+				"title": "Reserva de citas según la norma DSGVO",
+				"url": ""
+			},
+			"02": {
+				"title": "Servidor en Alemania",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendario de reserva de citas para los horarios de apertura fijos",
+				"url": ""
+			},
+			"04": {
+				"title": "Calendario de reserva de citas para diferentes servicios",
+				"url": ""
+			},
+			"05": {
+				"title": "Mejor visión de conjunto del estado de la cita (compromiso, cancelación, aún no confirmado)",
+				"url": ""
+			},
+			"06": {
+				"title": "Se pueden establecer diferentes duraciones de las citas. Por ejemplo, 30 minutos o dos horas",
+				"url": ""
+			},
+			"07": {
+				"title": "Gestión de derechos para la gestión de citas por parte del funcionario responsable",
+				"url": ""
+			},
+			"08": {
+				"title": "Textos individuales de los correos electrónicos del sistema",
+				"url": ""
+			},
+			"09": {
+				"title": "Confirmar automáticamente las citas",
+				"url": ""
+			}
+		},
+		"title": "Funciones y características especialmente relevantes para su sector"
+	},
+	"main": {
+		"description": "Los grandes talleres con muchas sucursales ofrecen ahora casi todos ellos la posibilidad de reservar citas en línea. Esto se debe a que los clientes insisten en estos servicios digitales. Cada vez son más los pequeños talleres que incluyen calendarios de reserva de citas en sus sitios web. Porque es muy práctico. El cliente entra en el sitio web del taller y reserva la cita deseada. El servicio requerido puede ser seleccionado directamente como una opción. De este modo, el equipo que se encuentra en la obra sabe qué trabajo hay que hacer ese día en concreto. Cambiar los neumáticos, reparar o sustituir el parabrisas, cambiar el aceite, hacer un chip tuning, pasar la ITV o una inspección.",
+		"title": "Talleres"
+	},
+	"sub": {
+		"description": "Los clientes del taller aprecian que todo vaya bien. Con el coche y a la hora de concertar citas. Por supuesto, muchos clientes seguirán queriendo concertar su cita por teléfono. Pero muchos clientes, sobre todo los más jóvenes, prefieren hacerlo todo a través del smartphone. Las herramientas de cita previa como Bookingflix lo hacen posible de forma muy sencilla. El cliente ve cuándo hay una cita libre y la reserva con unos pocos clics. El taller ha fijado el horario de apertura con antelación. También se pueden definir los días festivos y las vacaciones. Tras la reserva, el cliente gestiona su cita de forma independiente. Las citas también pueden modificarse y cancelarse en segundos con unos pocos clics. Y la herramienta de chat integrada permite que el taller y el propietario del coche se pongan en contacto.\nLas citas reservadas pueden sincronizarse automáticamente con los calendarios estándar de Google, Apple y Microsoft. Para que todo el mundo esté siempre al día. Por cierto, las citas no tienen que ser confirmadas manualmente. Bookingflix puede configurarse para que las citas sean confirmadas de forma totalmente automática por el sistema. También es posible la entrada manual por parte del taller. Si un cliente quiere reservar una cita por teléfono.\nTambién son muy populares los recordatorios automáticos de citas por correo electrónico y SMS. De este modo, se puede recordar al cliente una o varias veces la cita, en horarios establecidos.\nSi se ofrecen diferentes servicios, estos también pueden ofrecerse a través del calendario de reserva de citas. A continuación, el cliente selecciona primero el servicio deseado. Por ejemplo, el cambio de aceite o la inspección. Este servicio puede variar en cuanto a título, duración y precio. Tras la selección, elige la hora preferida y reserva la cita. De este modo, el artesano ve inmediatamente qué servicio se ha reservado.",
+		"title": "¿Por qué reservar en línea con Bookingflix?"
+	}
+}

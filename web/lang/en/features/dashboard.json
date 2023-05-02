@@ -1,0 +1,85 @@
+{
+	"kontrollzentrum": {
+		"cta": {
+			"action": "Try Bookingflix Premium for 14 days for free!",
+			"button": "Create appointment calendar now",
+			"link": "/quickstart"
+		},
+		"intro": "In your Bookingflix control panel you can manage all your appointment calendars, bookings and settings collectively. Here you can configure their calendars, forms and customer notifications the way you want.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Everything at a glance in the dashboard",
+							"img": "kontrollzentrum-01.png",
+							"text": "In the Control Center dashboard, you have an overview of all appointments. There you can capture the status, timing and relevant customer information at a glance."
+						},
+						{
+							"headline": "Flexible calendar views",
+							"img": "kontrollzentrum-02.png",
+							"text": "View your appointments in the Bookingflix calendar according to your needs: get an overview of the week in the week view or go into detail in the day view."
+						},
+						{
+							"button": {
+								"link": "/support/video/10",
+								"more": "Learn more"
+							},
+							"headline": "Vacations and days off",
+							"img": "kontrollzentrum-03.png",
+							"text": "In your appointment calendar you can define when appointments are bookable and when your business is closed. For this purpose, it is uncomplicatedly possible to add the German holidays to your calendar or to define completely individual free days. You can apply these settings to several calendars you have set up or define them differently for each individual calendar."
+						},
+						{
+							"button": {
+								"link": "/support/video/20",
+								"more": "Learn more"
+							},
+							"headline": "System mails",
+							"img": "kontrollzentrum-04.png",
+							"text": "Address your customers the way you are used to. To do this, adapt your appointment confirmations and cancellations as well as verification emails to your style in a straightforward and individual way."
+						},
+						{
+							"button": {
+								"link": "/features/reminder",
+								"more": "Learn more"
+							},
+							"headline": "Appointment reminders",
+							"img": "kontrollzentrum-05.png",
+							"text": "With Bookingflix you can send automatic appointment reminders via SMS and email. How you want to address your customers is entirely up to you. Customize the letters and reminder frequencies according to your needs."
+						},
+						{
+							"button": {
+								"link": "/support/video/14",
+								"more": "Learn more"
+							},
+							"headline": "Target page",
+							"img": "kontrollzentrum-06.png",
+							"text": "When your customer books an appointment, he will be redirected to a specific landing page, which can be set individually."
+						},
+						{
+							"headline": "Booking form",
+							"img": "kontrollzentrum-07.png",
+							"text": "Define your query fields such as name, address and telephone in the integrated form editor. This way you get the data needed for the customer appointment. The query can be defined as mandatory or optional input."
+						},
+						{
+							"button": {
+								"link": "/features/clients",
+								"more": "Learn more"
+							},
+							"headline": "Individualizations",
+							"img": "kontrollzentrum-08.png",
+							"text": "To make Bookingflix fit your business, it is possible to customize the accent color and also the button text of your booking calendar or booking website. Each booking calendar gets its own title. Optionally, you can assign an address to the respective booking calendar. In addition, you can make various settings for your appointment and customer management."
+						},
+						{
+							"headline": "Statistics",
+							"img": "termin-und-kalenderverwaltung-08.png",
+							"text": "In the control center you can see extensive statistics for all appointment calendars. You can evaluate in real time how many appointments have been booked, when they usually take place, which services are the most popular and much more."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Control Center",
+		"title": "Keep a complete overview of your appointments in the control center"
+	}
+}

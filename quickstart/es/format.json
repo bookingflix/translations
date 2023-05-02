@@ -1,0 +1,21 @@
+{
+	"business": "Citas de negocios",
+	"description": "¿Para qué se necesita un calendario de citas online?",
+	"info": "Seleccione para qué tipo de cita quiere configurar un calendario de citas en línea. En el formato \"Horario fijo\" puede ofrecer citas con una duración constante durante su horario de apertura. En el formato \"Evento concreto\" se crean uno o varios eventos fijos que se pueden reservar. En \"Ofertas y servicios\" puede crear servicios específicos y ofrecerlos a sus clientes.",
+	"parts": {
+		"datepicker": {
+			"info": "Para tiendas y proveedores de servicios, por ejemplo, peluquerías, asesorías, estudios fotográficos",
+			"title": "Horario fijo de apertura"
+		},
+		"eventpicker": {
+			"info": "Para fechas fijas: por ejemplo, seminarios web, reuniones, eventos",
+			"title": "Calendario Flix"
+		},
+		"services": {
+			"info": "Para servicios con diferentes duraciones de cita: por ejemplo, llamadas de servicio, servicios de friezeur",
+			"title": "Ofertas / Servicios"
+		}
+	},
+	"private": "Citas privadas",
+	"title": "Calendario"
+}

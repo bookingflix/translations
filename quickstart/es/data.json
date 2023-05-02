@@ -1,0 +1,54 @@
+{
+	"button": "Reserve su cita ahora",
+	"form": [
+		{
+			"title": "Reserva de citas"
+		},
+		{
+			"title": "La siguiente información es necesaria para reservar una cita. Todos los campos obligatorios están marcados con un asterisco. Tras rellenar el formulario, se enviará un correo electrónico de verificación directamente desde el sistema. La confirmación/cancelación definitiva de la cita sólo puede hacerse después de una verificación satisfactoria."
+		},
+		{
+			"title": "sus datos de contacto"
+		},
+		{
+			"title": "Nombre de pila"
+		},
+		{
+			"title": "Apellido"
+		},
+		{
+			"info": "para recordatorios de citas",
+			"title": "Dirección de correo electrónico"
+		},
+		{
+			"info": "para recordatorios de citas (opcional)",
+			"title": "Número de móvil"
+		},
+		{
+			"info": "Opcional",
+			"title": "Campo de texto libre para comentarios / información al proveedor de servicios"
+		},
+		{
+			"title": "Protección de Datos"
+		},
+		{
+			"info": "Usted tiene la opción de revocar su consentimiento para el uso de datos personales en cualquier momento.",
+			"options": [
+				{
+					"info": "Consentimiento para los datos personales",
+					"title": "Acepto que se recojan mis datos personales (ver formulario)"
+				},
+				{
+					"info": "Contacto Coordinación de citas",
+					"title": "Acepto que se me contacte para concertar una cita"
+				},
+				{
+					"info": "Datos de precisión",
+					"title": "Confirmo que la información que he proporcionado es correcta"
+				}
+			],
+			"title": "Información de privacidad (Por favor, confirme)"
+		}
+	],
+	"question": "¿Cómo califica nuestro servicio?"
+}

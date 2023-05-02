@@ -1,0 +1,45 @@
+{
+	"button": "S'inscrire",
+	"doublicatedAccount": "Le nom d'utilisateur ou l'adresse e-mail est déjà utilisé(e). Veuillez y utiliser d'autres données.",
+	"email": {
+		"title": "Adresse électronique",
+		"warning": "Veuillez saisir une adresse e-mail valide"
+	},
+	"isNotRegistred": "... ou s'inscrire à nouveau ?",
+	"isRegistred": "... ou déjà enregistré ?",
+	"loginIncorrect": "Le login n'est pas correct",
+	"newAssistent": {
+		"emailText": "Très bien ! L'agenda {name} a été créé avec succès. Il peut être utilisé immédiatement de deux manières.\n\n1. via le site web de réservation de rendez-vous\n---------------------------------\n{link}\n2. par code d'intégration sur son propre site web\n---------------------------------\n<!-- Folgenden Einbettungscode auf Website kopieren -->\n{embedcode}\n<!-- Ende Einbettungscode -->\nLe calendrier des rendez-vous peut être édité via le lien suivant :\n---------------------------------\n{editLink}\n2 rappels de rendez-vous standard dans l'agenda.\n---------------------------------\nPour cet agenda, 2 rappels de rendez-vous standard ont été automatiquement créés. Un rappel de rendez-vous par e-mail 7 jours avant le rendez-vous et un rappel de rendez-vous par e-mail 24 heures avant le rendez-vous. Les rappels de rendez-vous peuvent être adaptés individuellement dans la zone d'administration.\n\nRemarque pour tester l'agenda\n---------------------------------\nVeuillez utiliser différents terminaux. Si vous êtes connecté dans la zone de connexion (Dashboard) et que vous réservez en même temps un rendez-vous avec le même terminal, des erreurs peuvent survenir. Cela ne concerne toutefois que l'envoi des confirmations de rendez-vous. Veuillez donc effectuer le test de réservation avec un autre appareil avec lequel vous n'êtes pas connecté à Bookingflix. Indiquez également lors de la réservation une autre adresse e-mail que celle que vous avez utilisée lors de la création du compte Bookingflix. Cela permet de garantir un environnement de test réaliste.\n\nVous avez d'autres questions ? Ouvrez maintenant le centre d'assistance :\n---------------------------------\n{supportcenter}",
+		"emailTitle": " {name}"
+	},
+	"password": {
+		"title": "Mot de passe",
+		"warning": "Votre mot de passe doit contenir au moins 5 caractères"
+	},
+	"preview": "Aperçu de l'agenda",
+	"signIn": {
+		"button": "se connecter",
+		"email": "Nom d'utilisateur / adresse e-mail",
+		"title": "Se connecter au compte existant"
+	},
+	"success": {
+		"info": "Toutes les informations ont été envoyées à {email} .",
+		"title": "Enregistré avec succès !"
+	},
+	"terms": {
+		"info": "Voir les conditions générales",
+		"title": "J'accepte les conditions générales de Bookingflix",
+		"warning": "Veuillez accepter nos conditions générales pour créer votre compte."
+	},
+	"title": "Créer un compte maintenant et intégrer le formulaire de rendez-vous sur votre site web",
+	"username": {
+		"info": "Veuillez choisir votre nom d'utilisateur avec soin. Il sera publié à différents endroits et ne pourra pas être modifié ultérieurement. Pour le nom d'utilisateur, veuillez n'utiliser que des lettres minuscules, pas de caractères spéciaux, pas d'espaces.",
+		"title": "Nom d'utilisateur souhaité",
+		"warning": "Veuillez saisir un nom d'utilisateur d'au moins 5 caractères."
+	},
+	"validateUseraccount": {
+		"emailText": "Veuillez cliquer sur le lien de confirmation suivant :<hr> {link} <hr>Le compte est alors vérifié avec succès et prêt à être utilisé.\n\nLe compte premium de Bookingflix peut être utilisé gratuitement pendant 14 jours.\n\nLes options après les 14 jours de gratuité :\n- Passer au compte gratuit FREE.\n- Prolongation du compte Premium (pas de prolongation automatique !)\n\nPlus d'infos sur les prestations et les coûts : <a href='{url}/price.html'>{url}/price.html</a>",
+		"emailTitle": "Terminer l'enregistrement du compte Bookingflix maintenant"
+	},
+	"warning": "Veuillez saisir au moins 5 caractères"
+}

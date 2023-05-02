@@ -1,0 +1,45 @@
+{
+	"button": "Registrieren",
+	"doublicatedAccount": "Der Benutzername oder die E-Mailadresse ist schon in Verwendung. Bitte verwenden Sie dort andere Angaben.",
+	"email": {
+		"title": "E-Mailadresse",
+		"warning": "Bitte geben Sie eine gültige E-Mailadresse ein"
+	},
+	"isNotRegistred": "... oder neu registrieren?",
+	"isRegistred": "... oder bereits registriert?",
+	"loginIncorrect": "Login ist nicht korrekt",
+	"newAssistent": {
+		"emailText": "Sehr gut! Der Termin-Kalender {name} wurde erfolgreich erstellt. Er kann sofort auf zwei Arten verwendet werden.\n\n1. Über Termin-Buchungs-Website\n---------------------------------\n{link}\n\n2. Per Einbettungscode auf der eigene Website\n---------------------------------\n<!-- Folgenden Einbettungscode auf Website kopieren -->\n{embedcode}\n<!-- Ende Einbettungscode -->\n\nDer Termin-Kalender kann über folgenden Link bearbeitet werden:\n---------------------------------\n{editLink}\n\n2 Standard-Terminerinnerungen im Termin-Kalender\n---------------------------------\nZu diesem Termin-Kalender wurden automatisch 2 Standard-Termin-Erinnerungen erstellt. Eine Termin-Erinnerung per E-Mail 7 Tage vor dem Termin und eine Termin-Erinnerung per E-Mail 24 Stunden vor dem Termin. Die Termin-Erinnerungen können individuell im Adminbereich angepasst werden.\n\nHinweis zum Testen des Termin-Kalenders\n---------------------------------\nNutzen Sie bitte verschiedene Endgeräte. Wenn Sie eingeloggt sind im Login-Bereich (Dashboard) und gleichzeitig mit dem selben Endgerät einen Termin buchen, kann es zu Fehlern kommen. Dies betrifft aber nur den Versand der Terminbestätigungen. Daher bitte die Test-Buchung mit einem anderen Gerät durchführen, mit dem Sie nicht in Bookingflix eingeloggt sind. Geben Sie auch eine andere Emailadresse bei der Buchung an als die, die Sie beim Einrichten des Bookingflix-Accounts verwendet haben. So ist eine realistische Testumgebung gewährleistet.\n\nWeitere Fragen? Jetzt das Support-Center öffnen:\n---------------------------------\n{supportcenter}",
+		"emailTitle": "{name}"
+	},
+	"password": {
+		"title": "Passwort",
+		"warning": "Ihr Passwort muss mindestens 5 Zeichen beinhalten"
+	},
+	"preview": "Vorschau des Terminkalenders",
+	"signIn": {
+		"button": "Einloggen",
+		"email": "Benutzername / E-Mailadresse",
+		"title": "In den bestehenden Account einloggen"
+	},
+	"success": {
+		"info": "Alle Informationen wurden an {email} gesendet.",
+		"title": "Erfolgreich gespeichert!"
+	},
+	"terms": {
+		"info": "AGBs ansehen",
+		"title": "Ich akzeptiere die Bookingflix-AGBs",
+		"warning": "Bitte akzeptieren Sie unsere AGBs, um Ihren Account zu erstellen"
+	},
+	"title": "Jetzt einen Account erstellen und Terminformular auf Ihrer Website einbinden",
+	"username": {
+		"info": "Bitte wählen Sie den Benutzernamen mit Bedacht. Er wird an verschiedenen Stellen veröffentlicht und kann nachträglich nicht geändert werden. Verwenden Sie bitte für den Benutzernamen nur Kleinbuchstaben, keine Sonderzeichen, keine Leerzeichen. ",
+		"title": "gewünschter Benutzername",
+		"warning": "Bitte geben Sie einen Benutzernamen ein, der mindestens 5 Zeichen beinhaltet"
+	},
+	"validateUseraccount": {
+		"emailText": "Bitte jetzt auf nachfolgenden Bestätigungs-Link klicken:<hr> {link} <hr>Anschließend ist der Account erfolgreich verifiziert und einsatzbereit.\n\nFür 14 Tage kann der Premium-Account von Bookingflix kostenfrei genutzt werden.\n\nDie Optionen nach den 14 Frei-Tagen:\n- Wechsel zum kostenlosen FREE-Account\n- Verlängerung des Premium-Accounts (Keine automatische Verlängerung!)\n\nMehr Infos zu Leistungen und Kosten: <a href='{url}/price.html'>{url}/price.html</a>",
+		"emailTitle": "Bookingflix Account-Registrierung jetzt fertigstellen"
+	},
+	"warning": "Bitte mindestens 5 Zeichen eingeben"
+}

@@ -1,0 +1,31 @@
+{
+	"info": "* Click & Meet n'est actuellement pas encore autorisé dans toutes les régions du pays. Veuillez tenir compte des mesures de protection en vigueur dans votre région.",
+	"part": [
+		{
+			"description": "Avec Click & Meet*, il est à nouveau possible pour les clients d'entrer dans les magasins avec un rendez-vous convenu à l'avance, pour une durée limitée et dans le respect des règles d'hygiène. Pour le suivi des contacts, les données des clients doivent être enregistrées.",
+			"title": "Achats sécurisés avec prise de rendez-vous"
+		},
+		{
+			"list": [
+				"Configuration simple et rapide de votre agenda individuel",
+				"Génération d'un code QR qui mène directement à votre formulaire de réservation - Montrez à vos clients directement dans votre vitrine que vous donnez des rendez-vous Click & Meet",
+				"Saisie et organisation automatiques des données de contact de vos clients - directement pendant la réservation du rendez-vous"
+			],
+			"title": "Comment nous vous soutenons au mieux avec Click & Meet"
+		},
+		{
+			"list": [
+				"Événements",
+				"Services",
+				"Centres de dépistage COVID-19",
+				"Universités",
+				"Commerce de détail",
+				"autorités",
+				"Écoles",
+				"Centres de vaccination"
+			],
+			"title": "Pour tous ceux qui veulent permettre le shopping sur rendez-vous"
+		}
+	],
+	"title": "Click & Meet avec Bookingflix"
+}

@@ -1,0 +1,8 @@
+{
+	"description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Einstellungen***.\n2. Klicken Sie auf ***Buchbare Leistungen definieren***.\n3. Klicken Sie auf ***Buchbare Leistung hinzufügen***, um eine Leistung anzulegen. Diese können Sie anschließend direkt bearbeiten.\n4. Folgende Anpassungen können Sie vornehmen:\n* Titel der Leistung\n* Infotext unterhalb des Titels\n* Dauer der Leistung\n* Preis der Leistung\n* Kategorie der Leistung\n* Bild hinzufügen zur Leistung\n\nWählen Sie die Dienstleistungskategorie aus, die im Kalender erscheinen soll. In den Dienstleistungskategorien sind die verschiedenen Dienstleistungen eingruppiert. Eine Dienstleistung kann in mehreren Dienstleistungskategorien eingruppiert werden.",
+	"img": {
+		"1": "bild59.webp",
+		"2": "bild60.webp"
+	},
+	"title": "Leistungen definieren"
+}

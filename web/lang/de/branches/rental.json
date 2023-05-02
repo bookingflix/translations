@@ -1,0 +1,193 @@
+{
+	"benefits": {
+		"items": {
+			"01": "große Zeitersparnis\nSie haben wirklich besseres zu tun, als sich mit zeitraubender Terminabsprache aufzuhalten. Ihre Kunden übrigens auch.",
+			"02": "Nerven schonen\nWer hat schon Lust auf Email-Ping-Pong? Das nervt und geht deutlich effektiver und automatisierter.",
+			"03": "Terminzuverlässigkeit steigern\nInteressenten werden gerne an den Termin erinnert. Nutzen Sie dafür die automatischen Erinnerungen per Email und SMS.",
+			"04": "Digital auf dem neuesten Stand\nTermin-Tools sind mittlerweile ein beliebter Standard. Das Telefon ist gut zum Quatschen, nicht zum Buchen von Terminen.",
+			"05": "Workflow optimieren\nDer Interessent bucht und verwaltet den Termin selbst. Die Termindaten werden übersichtlich in Ihrem Dashboard angezeigt."
+		},
+		"title": "Ihre Vorteile auf den Punkt"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Kann der Premium-Account auch per Rechnung bezahlt werden statt per Lastschrift?",
+				"url": ""
+			},
+			"11": {
+				"title": "Können vor dem Termin, zu einem bestimmten Zeitpunkt, Terminerinnerungen verschickt werden?",
+				"url": ""
+			},
+			"12": {
+				"title": "Was kosten die Terminerinnerungen per SMS?",
+				"url": ""
+			},
+			"13": {
+				"title": "Was kostet Bookingflix im Monat?",
+				"url": ""
+			},
+			"14": {
+				"title": "Welche Kündigungsfrist muss ich beachten?",
+				"url": ""
+			},
+			"15": {
+				"title": "Kann der Kunde die Buchung selbst verwalten (Termin ändern, stornieren)",
+				"url": ""
+			},
+			"16": {
+				"title": "Kann ich für eine Besichtigung, ein Event, unterschiedliche, nachfolgende Terminzeiten anbieten?",
+				"url": ""
+			},
+			"17": {
+				"title": "Können die Email-Texte individuell angepasst werden?",
+				"url": ""
+			},
+			"18": {
+				"title": "Können die System-Mails (Zusage, Absage) von der eigenen Mailadresse  aus versendet werden?",
+				"url": ""
+			},
+			"19": {
+				"title": "Wie kann ich den QR-Code auf das Expose drucken?",
+				"url": ""
+			},
+			"20": {
+				"title": "Was passiert mit den Termindaten nach dem Termin?",
+				"url": ""
+			},
+			"21": {
+				"title": "Kann ich Termine stornieren, löschen oder dem Interessent nachträglich absagen?",
+				"url": ""
+			},
+			"22": {
+				"title": "Ich möchte die Besichtigungung per Videokonferenz anbieten. Geht das mit Bookingflix?",
+				"url": ""
+			},
+			"23": {
+				"title": "Welcher Termin-Buchungs-Kalender ist für mein Business am besten geeignet?",
+				"url": ""
+			},
+			"01": {
+				"title": "Ist die Terminbuchung über Bookingflix.com DSGVO-konform?",
+				"url": ""
+			},
+			"02": {
+				"title": "Wo stehen die Server von Bookingflix?",
+				"url": ""
+			},
+			"03": {
+				"title": "Hat Bookingflix eine Rechteverwaltung, damit Mitarbeiter die Termin-Verwaltung übernehmen können?"
+			},
+			"04": {
+				"title": "Kann man einstellen, wieviele Personen an der Besichtigung maximal teilnehmen können?",
+				"url": ""
+			},
+			"05": {
+				"title": "Was passiert genau, wenn ein Interessent seinen Termin storniert?",
+				"url": ""
+			},
+			"06": {
+				"title": "Ist die Anzahl an monatlichen Terminbuchungen begrenzt?",
+				"url": ""
+			},
+			"07": {
+				"title": "Können Terminbuchungen automatisch bestätigt werden?",
+				"url": ""
+			},
+			"08": {
+				"title": "Können Termine händisch für den Kunden eingetragen werden?",
+				"url": ""
+			},
+			"09": {
+				"title": "Welchen Support bekommen wir im Rahmen der Nutzung?",
+				"url": ""
+			}
+		},
+		"title": "Relevante FAQ für Ihre Branche"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Termine einfach ändern oder absagen",
+				"url": ""
+			},
+			"11": {
+				"title": "Weitere Infos mitteilen im Rahmen der Buchung",
+				"url": ""
+			},
+			"12": {
+				"title": "Terminerinnerungen",
+				"url": ""
+			},
+			"13": {
+				"title": "Termin-Daten exportieren (pdf, csv)",
+				"url": ""
+			},
+			"14": {
+				"title": "QR-Code mit Verlinkung zum Termin-Buchungs-Kalender",
+				"url": ""
+			},
+			"15": {
+				"title": "Adresse des Termins in Termin-Buchungs-Kalender mit Verlinkung zu Google Maps",
+				"url": ""
+			},
+			"16": {
+				"title": "Termin-Buchungs-Kalender einfach auf eigener Website einbinden",
+				"url": ""
+			},
+			"17": {
+				"title": "Termin-Buchungs-Website nutzbar auch ohne eigene Website",
+				"url": ""
+			},
+			"18": {
+				"title": "Besichtigungtermin per Videokonferenz durchführbar",
+				"url": ""
+			},
+			"01": {
+				"title": "Terminbuchung nach DSGVO-Standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Deutschland",
+				"url": ""
+			},
+			"03": {
+				"title": "Termin-Buchungs-Kalender für konkrete Events",
+				"url": ""
+			},
+			"04": {
+				"title": "Besserer Überblick über den Terminstatus (Zusage, Absage, noch nicht bestätigt)",
+				"url": ""
+			},
+			"05": {
+				"title": "Anzahl Teilnehmer je Event einstellbar",
+				"url": ""
+			},
+			"06": {
+				"title": "Auch sehr kurze Termindauer einstellbar. Z. B. fünf Minuten.",
+				"url": ""
+			},
+			"07": {
+				"title": "Rechteverwaltung zur Termin-Verwaltung durch Mitarbeiter",
+				"url": ""
+			},
+			"08": {
+				"title": "Individuelle Email-Texte der System-Mails",
+				"url": ""
+			},
+			"09": {
+				"title": "Termine automatisch bestätigen lassen",
+				"url": ""
+			}
+		},
+		"title": "Besonders relevante Funktionen und Eigenschaften für Ihre Branche"
+	},
+	"main": {
+		"description": "Der Wohnungs- und Häusermarkt wird je nach Region überrannt. Die Nachfrage nimmt nicht ab, sondern weiterhin zu. Das merken Vermieter und Verkäufer von Immobilien, professionelle wie private. Auch an der Nachfrage nach Besichtigungsterminen.\nDer Interessent ruft an oder schreibt eine Email. Termine werden besprochen, vereinbart, vielleicht wird geändert oder sogar storniert. Man teilt mit, welche Unterlagen mitzubringen sind und wo sich der Treffpunkt genau befindet.\nBei zwei, drei Interessenten ist das überschaubar. Aber sobald es um mehrere Termine mit zig Interessenten geht, wird die Terminabsprache aufwendig bis nervig. Und wenn dann auch noch mehrere Exposes im Angebot sind, wächst der Wunsch, über eine einfache, moderne, digitale, automatisierte Lösung zu verfügen. Bookingflix bietet genau die Lösung, die von Vermietern, Maklern und Hausverwaltern benötigt wird.",
+		"title": "Vermietung und Hausverwaltung"
+	},
+	"sub": {
+		"description": "Über den Kalendergenerator von Bookingflix erstellen Sie innerhalb von Minuten den benötigten Termin-Buchungs-Kalender. Wir empfehlen den speziellen Termin-Buchungs-Kalender für konkrete Events. Sie stellen zum Beispiel ein, dass am 10.10.2022 um 10.00 Uhr ein Termin gebucht werden kann. Außerdem ein Termin um 11.00 Uhr, 12.00 Uhr und 13.00 Uhr. Natürlich sind auch andere Zeitabstände und Terminlängen individuell einstellbar. Die Abfragefelder ergänzen Sie vielleicht um das Feld \"Haustiere\". So könnten Sie fragen, ob der Interessent Haustiere hat oder nicht. Zusätzlich ergänzen Sie das Termin-Buchungs-Formular um den Hinweis, dass die Schufa-Auskunft bitte mitgebracht werden soll. Die Information können Sie aber auch in die Termin-Bestätigungsmail einfügen. Denn alle System-Mails können individuell angepasst werden. Im Termin-Buchungs-Kalender können Sie auch die Adresse der Besichtigung angeben. Sogar mit direkter Verlinkung zu Google Maps.\nSie möchten gerne Gruppenbesichtigungen statt Einzeltermine anbieten. Auch das ist möglich. Geben Sie im Kalendergenerator einfach an, wieviele Personen maximal zur gleichen Zeit einen  Termin buchen können. Sobald das Limit erreicht ist, wird der Termin als ausgebucht gekennzeichnet bzw. nicht mehr angezeigt. Sobald ein Interessent die Besichtigung absagt, auch das ist über Bookingflix mit einem Klick sehr einfach möglich, wird der Termin neu angeboten. Sie können die Buchung auch nur bestimmten Interessenten anbieten. Dafür stellen Sie den Termin-Buchungs-Kalender auf eine nicht öffentliche Unterseite Ihrer Website oder sie nutzen die Termin-Buchungs-Website von Bookingflix, die individuell angepasst werden. Den Link teilen Sie nur denen mit, die zur Buchung berechtigt sind. Um die Terminzuverlässigkeit zu erhöhen und den Interessenten einen guten Service zu bieten, können Sie über Bookingflix automatisch Terminerinnerungen per Email und SMS versenden. Den Zeitpunkt des Versandes bestimmen Sie selbst.\nFalls Sie die Standard-Kalender von Google, Apple oder Microsoft nutzen, bietet Ihnen Bookingflix einen Datenabgleich an. Die Termindaten werden automatisch auf Ihr Smartphone bzw. in den dortigen Kalender überspielt. Termine müssen Sie übrigens nicht händisch bestätigen. Das übernimmt Bookingflix ebenfalls vollautomatisch für Sie wenn dies gewünscht ist. Zu jedem Termin-Buchungs-Kalender generiert Bookingflix automatisch einen QR-Code. Den könnten Sie zum Beispiel auf das Expose drucken. So erreichen Interessenten noch leichter den Termin-Buchungs-Kalender.\nGerne richten wir Ihnen mehrere Kalender ein bei Bedarf. Die Verwaltung jedes Kalenders können Sie über ein komfortable Rechteverwaltung an einen Mitarbeiter übertragen. Dieser hat dann nur Zugriff auf den freigegeben Kalender und die dort eingehenden und hinterlegten Termindaten.\nUnd falls die Besichtigung Online per Videokonferenz stattfinden soll, ist auch das ganz einfach möglich. Sie können ein konkretes Event mit einem Klick als Videokonferenz einrichten. Dieses ist in Bookingflix bereits integriert. Der Interessent erhält den Link zur Videokonferenz automatisch per Email.",
+		"title": "Warum Online-Termin-Buchung mit Bookingflix?"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"info": "* Click & Meet is currently not yet permitted in all federal states. Please observe the protective measures applicable to your federal state.",
+	"part": [
+		{
+			"description": "With Click & Meet*, it is again possible for customers with a pre-arranged appointment to enter stores for a limited time and in compliance with hygiene rules. In order to be able to track the contacts, customer data is to be recorded.",
+			"title": "Secure shopping with appointment"
+		},
+		{
+			"list": [
+				"Uncomplicated and fast setup of your individual appointment calendar",
+				"Generate a QR code that leads directly to your booking form - Show your customers directly in the shop window that you assign Click & Meet appointments",
+				"Automatically capture and organize your customers' contact information - directly during the appointment booking process"
+			],
+			"title": "How we optimally support you with Click & Meet"
+		},
+		{
+			"list": [
+				"Events",
+				"Services",
+				"COVID 19 test centers",
+				"Universities",
+				"Retail",
+				"Authorities",
+				"Schools",
+				"Vaccination centers"
+			],
+			"title": "For those who want to enable appointment shopping"
+		}
+	],
+	"title": "Click & Meet with Bookingflix"
+}

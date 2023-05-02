@@ -1,0 +1,12 @@
+{
+	"description": "Kalender erstellen - einbinden - Terminbuchung starten",
+	"functionality": {
+		"1": "Set up appointment form via quick start",
+		"2": "Embed form in your website or create appointment website",
+		"3": "Booking appointments by your customers",
+		"4": "Confirm appointment of customer",
+		"5": "Automatic appointment reminder by mail or SMS to the customer",
+		"6": "Appointment takes place",
+		"7": "Customer rating received"
+	}
+}

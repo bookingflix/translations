@@ -1,0 +1,148 @@
+{
+	"benefits": {
+		"items": {
+			"01": "un grand gain de temps\nLa réservation vous coûte zéro minute. Les parents n'ont besoin que d'une à deux minutes pour effectuer la réservation.",
+			"02": "Ménager ses nerfs\nPourquoi convenir de rendez-vous quand il est possible de les choisir et de les réserver directement ?",
+			"03": "Augmenter la fiabilité des rendez-vous\nLes parents et les élèves aiment qu'on leur rappelle le rendez-vous. Le taux de NoShow diminue ainsi considérablement.",
+			"04": "Le numérique à la pointe du progrès\nOui, le téléphone était autrefois très moderne. Mais le temps ne s'arrête pas. Les parents et les élèves attendent des services modernes et numériques."
+		},
+		"title": "Vos avantages en un clin d'œil"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Le compte premium peut-il être payé par facture plutôt que par prélèvement automatique ?",
+				"url": ""
+			},
+			"11": {
+				"title": "Quel type de calendrier est le plus utilisé par les écoles ?",
+				"url": ""
+			},
+			"12": {
+				"title": "Est-il possible de synchroniser ou de transférer les rendez-vous de Bookingflix avec un calendrier standard de Google, Microsoft ou Apple ?",
+				"url": ""
+			},
+			"13": {
+				"title": "Deux enseignants:innen peuvent-ils partager un calendrier ou un compte ?",
+				"url": ""
+			},
+			"14": {
+				"title": "Est-il possible d'envoyer des rappels de rendez-vous avant le rendez-vous, à un moment donné ?",
+				"url": ""
+			},
+			"15": {
+				"title": "Combien coûtent les rappels de rendez-vous par SMS ?",
+				"url": ""
+			},
+			"16": {
+				"title": "Combien coûte Bookingflix par mois ?",
+				"url": ""
+			},
+			"17": {
+				"title": "Quel est le délai de préavis à respecter ?",
+				"url": ""
+			},
+			"18": {
+				"title": "Quel calendrier de réservation de rendez-vous est le plus approprié pour les réunions de parents d'élèves ?",
+				"url": ""
+			},
+			"19": {
+				"title": "Combien de temps prend la réservation d'un rendez-vous pour mes clients ?",
+				"url": ""
+			},
+			"01": {
+				"title": "La réservation de rendez-vous via Bookingflix.com est-elle conforme au RGPD ?",
+				"url": ""
+			},
+			"02": {
+				"title": "Où se trouvent les serveurs de Bookingflix ?",
+				"url": ""
+			},
+			"03": {
+				"title": "Chaque enseignant peut-il utiliser son propre calendrier de réservation ?"
+			},
+			"04": {
+				"title": "Comment les parents accèdent-ils au calendrier de réservation des rendez-vous ?",
+				"url": ""
+			},
+			"05": {
+				"title": "Est-ce que Bookingflix dispose d'une gestion des droits afin que chaque collègue ne puisse consulter que les données qui le concernent ?",
+				"url": ""
+			},
+			"06": {
+				"title": "Les réservations de rendez-vous peuvent-elles être confirmées automatiquement ?",
+				"url": ""
+			},
+			"07": {
+				"title": "Quel soutien recevons-nous dans le cadre de l'utilisation ?",
+				"url": ""
+			},
+			"08": {
+				"title": "Les agendas de réservation de rendez-vous peuvent-ils être mis en pause ?",
+				"url": ""
+			},
+			"09": {
+				"title": "Est-il possible de bénéficier d'une réduction ou d'une offre individuelle si l'on a besoin de beaucoup d'agendas ?",
+				"url": ""
+			}
+		},
+		"title": "FAQ pertinentes pour votre secteur"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Exporter les données de rendez-vous (pdf, csv)",
+				"url": ""
+			},
+			"11": {
+				"title": "Inscrire les rendez-vous à la main",
+				"url": ""
+			},
+			"01": {
+				"title": "Réservation de rendez-vous selon les normes du RGPD",
+				"url": ""
+			},
+			"02": {
+				"title": "Serveurs en Allemagne",
+				"url": ""
+			},
+			"03": {
+				"title": "Meilleure vue d'ensemble du statut des rendez-vous (accepté, annulé, pas encore confirmé)",
+				"url": ""
+			},
+			"04": {
+				"title": "Confirmer automatiquement les rendez-vous",
+				"url": ""
+			},
+			"05": {
+				"title": "Modifier ou annuler facilement des rendez-vous",
+				"url": ""
+			},
+			"06": {
+				"title": "Plus d'infos à communiquer dans le cadre de la réservation",
+				"url": ""
+			},
+			"07": {
+				"title": "Écrire aux clients/parents directement via Bookingflix",
+				"url": ""
+			},
+			"08": {
+				"title": "Rappels de rendez-vous",
+				"url": ""
+			},
+			"09": {
+				"title": "Site web de réservation de rendez-vous pour chaque agenda de réservation utilisable même sans propre site web",
+				"url": ""
+			}
+		},
+		"title": "Fonctions et caractéristiques particulièrement pertinentes pour votre secteur"
+	},
+	"main": {
+		"description": "\nDe plus en plus d'écoles et d'enseignants utilisent Bookingflix. La prise de rendez-vous avec les parents pour les réunions de parents d'élèves est particulièrement demandée. Ou encore la prise de rendez-vous pour la réinscription des enfants lors d'un changement d'école.\nBookingflix a bien entendu été développé dans le respect de la protection des données, conformément aux normes du RGPD.",
+		"title": "Écoles et établissements d'enseignement"
+	},
+	"sub": {
+		"description": "Les parents ne doivent pas contacter l'enseignant de la classe par e-mail ou par téléphone. Le courrier silencieux, c'est-à-dire la prise de rendez-vous par le biais de l'enfant en tant qu'intermédiaire de rendez-vous, est également supprimé. L'enseignant crée un calendrier de réservation de rendez-vous en quelques minutes. Nous recommandons le calendrier de réservation pour des événements concrets. L'événement est par exemple la journée de rencontre avec les parents ou les entretiens sur le niveau d'apprentissage avec les responsables légaux. Plusieurs heures peuvent être définies pour cet événement. Chaque parent réserve ainsi la date de son choix. Ils voient directement quelle date est encore disponible. La confirmation de la date peut être envoyée immédiatement et automatiquement via le système Bookingflix. Mais une inscription manuelle est également possible à tout moment pour l'enseignant.\nSi les parents souhaitent tout de même modifier ou annuler le rendez-vous, cela est également possible directement via Bookingflix. Une coordination de rendez-vous longue et parfois énervante n'est tout simplement plus nécessaire.\nPour chaque calendrier de réservation de rendez-vous créé, un site web de réservation de rendez-vous est automatiquement créé. Ainsi, chaque enseignant peut partager le lien de son propre site de réservation de rendez-vous avec les parents. Il n'est donc pas nécessaire de l'intégrer au site web de l'école. Le site de réservation de rendez-vous peut être adapté individuellement et rempli d'informations supplémentaires. Les mentions légales et les informations relatives à la protection des données sont également faciles à insérer.\nBookingflix propose également une fonction de chat. Les parents peuvent ainsi envoyer un e-mail aux enseignants pour toute demande particulière. L'inverse est bien entendu également possible.\nLa protection des données est garantie à tout moment. En règle générale, les données sensibles ne sont pas nécessaires. Le nom des parents ou le prénom de l'enfant suffisent pour prendre rendez-vous. Les données sont stockées sur des serveurs en Allemagne. Après 30 jours, les données de rendez-vous sont automatiquement effacées par le système (délais de suppression). Il est également possible de supprimer les données plus tôt ou de les sauvegarder via une exportation.\nLes rappels de rendez-vous sont un service particulier. Par e-mail ou par SMS. Les enseignants:innen peuvent définir eux-mêmes si et quand un rappel de rendez-vous doit être envoyé par e-mail ou SMS. Cela augmente la fiabilité des rendez-vous.\nLes calendriers peuvent être gérés de manière centralisée par une seule personne. Les enseignants:innen ont accès à la gestion complète ou seulement à un accès limité aux données ou aux paramètres de chaque calendrier. Ainsi, la protection des données est également assurée au sein de l'école et chacun ne voit que ce qui est vraiment pertinent.",
+		"title": "Pourquoi réserver un rendez-vous en ligne avec Bookingflix ?"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"email": {
+		"info": "Estar informado de los mensajes entrantes por correo electrónico",
+		"text": "Con este correo electrónico enviamos información importante sobre el calendario de citas {name}.\n\nEnlace de la página de reserva de citas:\n---------------------------------\n{bookingLink}\n---------------------------------\n\nEnlace para editar* el calendario de citas:\n---------------------------------\n{editLink}*contraseña: {password}\n---------------------------------\n\nPDF general con toda la información:\n---------------------------------\n{PDFLink}\n---------------------------------\n\n",
+		"title": "Dirección de correo electrónico del administrador del nombramiento",
+		"warning": "Por favor, introduzca una dirección de correo electrónico correcta"
+	},
+	"password": {
+		"info": "La protección con contraseña es opcional",
+		"title": "Contraseña de acceso a la agenda de citas"
+	},
+	"save": {
+		"button": "Crear calendario ahora",
+		"info": "Recibirás toda la información adicional enviada a tu correo electrónico {email} ."
+	}
+}

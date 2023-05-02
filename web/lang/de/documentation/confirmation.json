@@ -1,0 +1,11 @@
+{
+  "description": "Sie befinden sich im Dashboard. Login über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***ja***, wenn die Terminbestätigung automatisch per Email an den Kunden verschickt werden soll.\n2. Klicken Sie auf ***nein***, wenn die Terminbestätigung manuell per Email an den Kunden verschickt werden soll. Sie werden dann per Email und im Dashboard über neue Terminbuchungen informiert.\n3. Im Dashboard werden Sie über neue Terminbuchungen informiert. Klicken Sie auf ***unbestätigter Termin***.\n4. Klicken Sie auf ***Offen*** oder ***Status bearbeiten***, um den Termin zu- oder abzusagen.\n5. Über den Button ***ansehen***, erhalten Sie weitere Information zu der offenen Buchung.\n6. Nach Klick auf ***Zusage*** oder ***Absage***, können Sie zusätzlich eine Nachricht an den Kunden schreiben. Diese erscheint in der Email-Terminbestätigung bzw. in der Email-Terminabsage.\n7. Klicken Sie erneut auf ***Zusage*** oder ***Absage***.\n8. Klicken Sie auf ***ja*** oder ***nein***, um die Email-Terminbestätigung bzw. die Email-Terminabsage zu versenden. Zur Überpfüfung wird der optional eingefügte Nachrichtentext nochmals angezeigt.",
+  "img": {
+    "1": "bild44.webp",
+    "2": "bild45.webp",
+    "3": "bild46.webp",
+    "4": "bild47.webp",
+    "5": "bild48.webp"
+  },
+  "title": "Termin-Bestätigung per Mail an Kunden manuell und automatisch senden"
+}

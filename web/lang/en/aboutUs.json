@@ -1,0 +1,28 @@
+{
+	"description": "Get to know us",
+	"development": {
+		"description": "We want to grow slowly but steadily without having to engage in aggressive marketing to do so. We generate growth through positive user experience. This is relevant for our clients. But also for the end customers who book an appointment. We welcome competition as another driver. We have the clear goal to offer a tool that is easier to use, more flexible and cheaper than comparable tools.\n\nData protection according to DSGVO and data security are prioritized and considered during development. The further development never ends.\n\nWe personally value our employees and the freelancers involved. It is important to us that everyone feels comfortable, enjoys their work and is motivated to work together to achieve the agreed goals.",
+		"title": "The development never ends."
+	},
+	"feedback": {
+		"description": "The goal was and is to develop a reliably functioning appointment tool for small and large service providers. The focus is on simple usability as well as flexible use. We develop new features thanks to feedback from our customers and users. We meet them as partners, with whose help we agilely optimize Bookingflix.\n\nWe try to make Bookingflix a little better every day. Positive feedback motivates us. Negative feedback drives us. We see personal support as an important tool to get new suggestions and to fix mistakes. We consider mistakes as a necessary learning experience",
+		"title": "Positive feedback motivates us. Negative feedback drives us on."
+	},
+	"startup": {
+		"description": "Bookingflix is a small startup based in Witten an der Ruhr. However, our agile developer team is organized decentrally. Video conferencing and home office therefore characterize the development of Bookingflix already since the founding year 2017.",
+		"title": "A small startup from Witten"
+	},
+	"targets": {
+		"description": [
+			"Further booking view for the end customers",
+			"new themes for appointment booking website",
+			"API interfaces via, for example, Zapier.com",
+			"Ticketing with connection to payment service",
+			"Redesign dasboard",
+			"Rights management for employees",
+			"Expansion of the support area"
+		],
+		"title": "Our goals for 2022"
+	},
+	"title": "About Bookingflix"
+}

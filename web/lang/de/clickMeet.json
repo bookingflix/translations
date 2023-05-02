@@ -1,0 +1,31 @@
+{
+	"info": "* Click & Meet ist aktuell noch nicht in allen Bundesländern erlaubt. Bitte beachten Sie die für Ihr Bundesland geltenden Schutzmaßnahmen.",
+	"part": [
+		{
+			"description": "Mit Click & Meet* ist es wieder möglich, dass Kunden mit einem vorher vereinbarten Termin für eine begrenzte Zeit und unter Einhaltung von Hygieneregeln Geschäfte betreten dürfen. Um die Kontakte verfolgen zu können, sollen die Kundendaten erfasst werden.",
+			"title": "Sicheres Einkaufen mit Terminvergabe"
+		},
+		{
+			"list": [
+				"Unkompliziertes und schnelles Einrichten Ihres individuellen Terminkalenders",
+				"Generierung eines QR-Codes, der direkt zu Ihrem Buchungsformular führt – Zeigen Sie Ihren Kunden direkt im Schaufenster, dass Sie Click & Meet Termine vergeben",
+				"Automatisches Erfassen und Organisieren der Kontaktdaten Ihrer Kunden – direkt während der Terminbuchung"
+			],
+			"title": "Wie wir Sie bei Click & Meet optimal unterstützen"
+		},
+		{
+			"list": [
+				"Veranstaltungen",
+				"Dienstleistungen",
+				"COVID-19-Testzentren",
+				"Universitäten",
+				"Einzelhandel",
+				"Behörden",
+				"Schulen",
+				"Impfzentren"
+			],
+			"title": "Für alle, die Termin-Shopping ermöglichen wollen"
+		}
+	],
+	"title": "Click & Meet mit Bookingflix"
+}

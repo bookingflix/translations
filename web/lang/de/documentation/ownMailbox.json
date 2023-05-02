@@ -1,0 +1,8 @@
+{
+  "description": "Sie befinden sich im Dashboard. Login über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Profil***.\n2. Klicken Sie auf ***Eigenes Emailpostfach hinterlegen***.\n3. Geben Sie die Zugangsdaten der gewünschten Absender-Mailadresse ein. Die Zugangsdaten erhalten Sie von Ihrem Email-Provider.\n4. Setzen Sie ein Haken, wenn Sie mit den aufgeführten Bedingungen einverstanden sind.\n5. Versenden Sie eine Testmail. So können Sie testen, ob die Zugangsdaten der Absender-Mailadresse korrekt sind und der Versand funktioniert.\n6. Klicken Sie anschließend auf ***Profil jetzt speichern***.",
+  "img": {
+    "1": "bild3.webp",
+    "2": "bild4.webp"
+  },
+  "title": "Versand der Systemmails mit eigener Mailadresse"
+}

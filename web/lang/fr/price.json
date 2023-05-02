@@ -1,0 +1,56 @@
+{
+	"description": "",
+	"page": [
+		{
+			"elements": [
+				{
+					"button": "Créer un compte gratuit maintenant",
+					"list": [
+						"1 agenda par compte",
+						"50 réservations de rendez-vous mensuelles",
+						"Réservation au maximum 12 jours à l'avance pour vos clients",
+						"Inclut toutes les fonctionnalités pour les comptes professionnels",
+						"Les données de profil, les mentions légales et les informations sur la protection des données peuvent être créées.",
+						"16 centimes/SMS (net) pour les rappels de rendez-vous par SMS",
+						"Pas de durée minimale de contrat"
+					],
+					"membership": "Gratuit",
+					"price": "0,00 € / mois"
+				},
+				{
+					"action": "Essayer gratuitement un compte premium pendant 14 jours*.",
+					"button": "Créer un compte premium maintenant",
+					"list": [
+						"3 agendas par compte compte",
+						"Mensuel, 5,00 € (net) pour chaque agenda supplémentaire",
+						"Abonnement forfaitaire pour les réservations de rendez-vous par mois **",
+						"Réservation au maximum 12 jours à l'avance pour vos clients",
+						"Inclut toutes les fonctionnalités pour les comptes professionnels",
+						"Service d'assistance de Bookingflix en utilisant le système de billetterie electronique et le téléphone.",
+						"Les données de profil, les mentions légales et les informations sur la protection des données peuvent être créées.",
+						"16 centimes/SMS (net) pour les rappels de rendez-vous par SMS",
+						"Pas de durée minimale de contrat"
+					],
+					"membership": "Premium",
+					"price": "9,00 € (net) / mois",
+					"tax": "Taxe sur le chiffre d'affaires : 19%."
+				}
+			],
+			"info": {
+				"1": {
+					"action": "Pas de prolongation automatique - à l'expiration des 14 jours gratuits, vous pouvez prolonger votre compte premium dans votre zone de connexion. Si vous ne le faites pas, vous serez automatiquement rétrogradé au compte gratuit Free.",
+					"list": {
+						"2": "Les prix s'appliquent aux commerçants, entreprises, prestataires de services, etc. dans le cadre d'une utilisation moyenne et raisonnable de notre service. Si cette Fair Use Policy devait être dépassée, nous conviendrions ensemble d'un accord spécial. Les grandes entreprises, les centres de vaccination et de test ainsi que les chaînes de magasins sont priés de nous contacter à l'adresse support@bookingflix.com ou au 02302-4007736 avant d'utiliser Bookingflix si une utilisation moyenne et raisonnable est très probablement dépassée."
+					}
+				}
+			},
+			"title": "Usage commercial"
+		}
+	],
+	"teaser": {
+		"count": "14",
+		"description": "tester gratuitement",
+		"time": "Journées"
+	},
+	"title": "Prix"
+}

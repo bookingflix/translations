@@ -1,0 +1,33 @@
+{
+	"button": {
+		"error": "Please enter a button text that is more than three characters long",
+		"info": "Set the text on the booking invitation button. Your client will have to click it to make the appointment booking.",
+		"title": "Button text of the booking invitation"
+	},
+	"color": {
+		"info": "Choose the accent color of your appointment form and calendar interface. For example, you can use your primary corporate color here.",
+		"title": "Appointment calendar color"
+	},
+	"info": {
+		"button": {
+			"default": "Okay",
+			"text": "Button confirmation message"
+		},
+		"description": {
+			"default": "Dear customers, you are welcome to book an appointment now. Simply select a desired date and then fill out the form below.",
+			"text": "Information text"
+		},
+		"startup": {
+			"text": "Force confirmation"
+		},
+		"text": "Attach calendar information"
+	},
+	"name": {
+		"error": "Please enter a text that is more than three characters long",
+		"info": "Enter a title for the calendar. This should state what type of appointment can be booked with the form. Ex: Individual consultation, photo shoot, trial training or similar.",
+		"placeholder": "e.g. Individual consultation",
+		"title": "Calendar title"
+	},
+	"preview": "Preview for a sample form",
+	"title": "Design"
+}

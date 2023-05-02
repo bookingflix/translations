@@ -1,0 +1,31 @@
+{
+	"info": "* Actualmente, Click & Meet aún no está permitido en todas las provincias. Tenga en cuenta las medidas de protección vigentes en su provincia.",
+	"part": [
+		{
+			"description": "Con Click & Meet*, vuelve a ser posible que los clientes con cita previa entren en las tiendas durante un tiempo limitado y conforme a las normas de higiene. Para poder hacer el seguimiento de los contactos, hay que registrar los datos de los clientes.",
+			"title": "Compras seguras con cita previa"
+		},
+		{
+			"list": [
+				"Configurar su propia agenda de citas de forma rápida y sencilla",
+				"Generar un código QR que lleve directamente a su formulario de reserva - Muestre a sus clientes directamente en el escaparate que concierta citas Click & Meet.",
+				"Capturar y organizar automáticamente la información de contacto de sus clientes, directamente durante la reserva de la cita"
+			],
+			"title": "Cómo le ayudamos a conseguir lo mejor de Click & Meet"
+		},
+		{
+			"list": [
+				"Eventos",
+				"Servicios",
+				"Centros reconocidos de pruebas COVID 19",
+				"Universidades",
+				"Venta al por menor",
+				"Autoridades",
+				"Escuelas",
+				"Centros de vacunación"
+			],
+			"title": "Para todos los que quieran habilitar las compras con cita previa"
+		}
+	],
+	"title": "Click & Meet con Bookingflix"
+}

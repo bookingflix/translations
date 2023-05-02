@@ -1,0 +1,189 @@
+{
+	"benefits": {
+		"items": {
+			"01": "un grand gain de temps\nQui voudrait coordonner plusieurs milliers de rendez-vous de test et de vaccination par téléphone et les inscrire ensuite à la main ?",
+			"02": "Ménager ses nerfs\nMénagez-vous et ménagez les vaccinés. Prendre rendez-vous en ligne, c'est tout simplement plus détendu.",
+			"03": "Augmenter la fiabilité des rendez-vous\nLes clients aiment qu'on leur rappelle le rendez-vous. Et le client peut aussi annuler le rendez-vous rapidement, en quelques clics.",
+			"04": "A la pointe du numérique\nConnaissez-vous un grand centre de vaccination ou de dépistage qui ne propose pas de rendez-vous en ligne ? C'est tout simplement la norme !",
+			"05": "Optimiser le flux de travail\nLe client réserve et gère le rendez-vous. Il ou elle se présente à l'heure et s'enregistre en scannant le code QR. Le client ou la cliente reçoit le résultat du test par e-mail."
+		},
+		"title": "Vos avantages en un clin d'œil"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Est-il possible d'envoyer des rappels de rendez-vous avant le rendez-vous, à un moment donné ?",
+				"url": ""
+			},
+			"11": {
+				"title": "Combien coûtent les rappels de rendez-vous par SMS ?",
+				"url": ""
+			},
+			"12": {
+				"title": "Combien coûte Bookingflix par mois ?",
+				"url": ""
+			},
+			"13": {
+				"title": "Quel est le délai de préavis à respecter ?",
+				"url": ""
+			},
+			"14": {
+				"title": "Peut-on enregistrer les clients à l'entrée en scannant le code QR ?",
+				"url": ""
+			},
+			"15": {
+				"title": "Est-il possible de définir des vacances pendant lesquelles aucune date ne peut être réservée ?",
+				"url": ""
+			},
+			"16": {
+				"title": "Le client peut-il gérer lui-même la réservation (modifier le rendez-vous, l'annuler) ?",
+				"url": ""
+			},
+			"17": {
+				"title": "Quels créneaux de rendez-vous sont réglables ?",
+				"url": ""
+			},
+			"18": {
+				"title": "Les textes des e-mails peuvent-ils être personnalisés ?",
+				"url": ""
+			},
+			"19": {
+				"title": "Les e-mails du système (acceptation, refus) peuvent-ils être envoyés à partir de sa propre adresse e-mail ?",
+				"url": ""
+			},
+			"20": {
+				"title": "Où le client trouve-t-il le ticket de rendez-vous avec le code QR ?",
+				"url": ""
+			},
+			"21": {
+				"title": "Est-il possible d'enregistrer directement dans le formulaire de réservation de rendez-vous des informations importantes qui doivent être confirmées avant la réservation ?",
+				"url": ""
+			},
+			"22": {
+				"title": "Quel est l'agenda le mieux adapté à mon entreprise ?",
+				"url": ""
+			},
+			"23": {
+				"title": "Combien de temps prend la réservation d'un rendez-vous pour mes clients ?",
+				"url": ""
+			},
+			"01": {
+				"title": "La réservation de rendez-vous via Bookingflix.com est-elle conforme au RGPD ?",
+				"url": ""
+			},
+			"02": {
+				"title": "Où se trouvent les serveurs de Bookingflix ?",
+				"url": ""
+			},
+			"03": {
+				"title": "Est-ce que Bookingflix dispose d'une gestion des droits pour que les collaborateurs puissent prendre en charge la gestion des rendez-vous ?"
+			},
+			"04": {
+				"title": "Les groupes peuvent-ils également effectuer une réservation et le nombre est-il pris en compte ?",
+				"url": ""
+			},
+			"05": {
+				"title": "Le nombre de réservations de rendez-vous mensuels est-il limité ?",
+				"url": ""
+			},
+			"06": {
+				"title": "Les réservations de rendez-vous peuvent-elles être confirmées automatiquement ?",
+				"url": ""
+			},
+			"07": {
+				"title": "Les rendez-vous peuvent-ils être saisis manuellement pour le client ?",
+				"url": ""
+			},
+			"08": {
+				"title": "Quel soutien recevons-nous dans le cadre de l'utilisation ?",
+				"url": ""
+			},
+			"09": {
+				"title": "Le compte premium peut-il être payé par facture plutôt que par prélèvement automatique ?",
+				"url": ""
+			}
+		},
+		"title": "FAQ pertinentes pour votre secteur"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Confirmer automatiquement les rendez-vous",
+				"url": ""
+			},
+			"11": {
+				"title": "Modifier ou annuler facilement des rendez-vous",
+				"url": ""
+			},
+			"12": {
+				"title": "Plus d'infos à communiquer dans le cadre de la réservation",
+				"url": ""
+			},
+			"13": {
+				"title": "Rappels de rendez-vous",
+				"url": ""
+			},
+			"14": {
+				"title": "Exporter les données de rendez-vous (pdf, csv)",
+				"url": ""
+			},
+			"15": {
+				"title": "Billet de rendez-vous avec code QR à imprimer",
+				"url": ""
+			},
+			"16": {
+				"title": "Recherche plein texte dans le tableau de bord",
+				"url": ""
+			},
+			"17": {
+				"title": "Adresse du rendez-vous dans l'agenda de réservation de rendez-vous avec lien vers Google Maps",
+				"url": ""
+			},
+			"01": {
+				"title": "Réservation de rendez-vous selon les normes du RGPD",
+				"url": ""
+			},
+			"02": {
+				"title": "Serveurs en Allemagne",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendrier de réservation de rendez-vous pour les heures d'ouverture fixes",
+				"url": ""
+			},
+			"04": {
+				"title": "Meilleure vue d'ensemble du statut des rendez-vous (accepté, annulé, pas encore confirmé)",
+				"url": ""
+			},
+			"05": {
+				"title": "RÉSERVATIONS DE GROUPE",
+				"url": ""
+			},
+			"06": {
+				"title": "Il est également possible de régler des durées de rendez-vous très courtes. Par exemple, cinq minutes",
+				"url": ""
+			},
+			"07": {
+				"title": "Vacances et temps de pause réglables",
+				"url": ""
+			},
+			"08": {
+				"title": "Fonction check-in et check-out avec scan du code QR",
+				"url": ""
+			},
+			"09": {
+				"title": "Textes individuels des e-mails du système",
+				"url": ""
+			}
+		},
+		"title": "Fonctions et caractéristiques particulièrement pertinentes pour votre secteur"
+	},
+	"main": {
+		"description": "Ceux qui n'avaient jamais pris de rendez-vous via un outil de prise de rendez-vous avant 2020 ne savaient peut-être même pas que cela existait. Puis, à partir de 2021, d'innombrables centres de vaccination et de dépistage ont été ouverts dans tout le pays. La demande d'outils de prise de rendez-vous performants, qui fonctionnent de manière stable même en cas d'affluence, a fortement augmenté. Depuis, Bookingflix est également utilisé dans de nombreux centres de dépistage et de vaccination. Certaines nouvelles fonctions ont même été mises en œuvre spécialement pour cette utilisation. C'est le cas par exemple du système d'enregistrement et de sortie par scannage du code QR.\nCette forte augmentation de la demande a également conduit à ce que Bookingflix fonctionne depuis lors sur une structure de serveur performante du leader mondial AWS. Et ce de manière très stable, même en cas de charge élevée.\nLe client final, ou celui que l'on appelle affectueusement le vaccinateur, souhaite choisir et réserver rapidement et facilement la date souhaitée. Et si une vaccination est tout de même possible plus rapidement, par exemple spontanément chez le médecin de famille, il peut annuler le rendez-vous déjà réservé sans avoir à écrire un e-mail ou à passer un coup de fil.\nLa sécurité et la protection des données jouent bien entendu un rôle particulier dans ce domaine sensible. Même s'il s'agit principalement de données de rendez-vous, toutes les données dans le domaine de la santé sont particulièrement importantes. Bookingflix s'est avéré être un partenaire fiable pour les cabinets médicaux, les centres de test et les centres de vaccination. C'est donc avec une certaine fierté que l'équipe de Bookingflix peut affirmer avoir participé un tant soit peu à la lutte contre la pandémie.",
+		"title": "Centres de dépistage et de vaccination"
+	},
+	"sub": {
+		"description": "Comme nous l'avons déjà décrit, le client final, le vacciné, souhaite obtenir le rendez-vous de vaccination ou de test qu'il désire sans attendre longtemps, sans appeler, sans attendre dans la file d'attente, sans que les lignes soient occupées.\nVia le calendrier de réservation de rendez-vous, le client choisit la date souhaitée, saisit ses données et confirme les conditions relatives à la protection des données. Après vérification, le rendez-vous est directement confirmé par le système ou peut être confirmé manuellement par le centre de vaccination ou de test en un clic. Le client reçoit par e-mail la confirmation du rendez-vous avec le lien personnel de rendez-vous. Celui-ci permet de modifier ou d'annuler la réservation. Le ticket de rendez-vous avec code QR y est également disponible. Le code QR permet à l'équipe du centre de vaccination ou de dépistage de documenter la présence. Il s'agit d'une fonction pratique, voire nécessaire, pour la facturation ou la traçabilité.\nIl est même possible de définir des rendez-vous de groupe. C'était une demande pressante d'un centre de vaccination, afin que les couples puissent se présenter ensemble à la vaccination et ne soient pas obligés de réserver des rendez-vous très éloignés les uns des autres.\nLes créneaux de rendez-vous peuvent être réglés individuellement. Même les rendez-vous courts de cinq minutes peuvent être prédéfinis.\nL'adresse du centre de vaccination ou du centre de test peut être affichée directement dans le calendrier de réservation des rendez-vous. Et ce, même avec un lien vers Google Maps.\nEt si un vaccinateur a des problèmes avec Internet, un rendez-vous peut être rapidement enregistré à la main pour les vaccinateurs.",
+		"title": "Pourquoi réserver un rendez-vous en ligne avec Bookingflix ?"
+	}
+}

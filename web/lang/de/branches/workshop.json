@@ -1,0 +1,209 @@
+{
+	"benefits": {
+		"items": {
+			"01": "große Zeitersparnis\nFür beide Seiten. Die Terminierung dauert nur Sekunden. Auch die Terminänderung oder -Stornierung nimmt der Kunde eigenständig vor.",
+			"02": "Fokus auf das Wesentliche und Nerven schonen\nTelefonische Unterbrechungen stören im Arbeitsalltag. Online geht das schneller, einfacher und es schont die Nerven.",
+			"03": "Terminzuverlässigkeit steigern\nNutzen Sie dafür die automatischen Erinnerungen per Email und SMS. Diesen Extra-Service schätzen übrigens die meisten Kunden.",
+			"04": "Digital auf dem neuesten Stand\nTermin-Tools sind mittlerweile ein beliebter Standard. Kunden erwarten moderne digitale Services.",
+			"05": "Workflow optimieren\nDie Kundin bucht und verwaltet den Termin selbst. Die Termindaten werden übersichtlich in Ihrem Dashboard angezeigt."
+		},
+		"title": "Ihre Vorteile auf den Punkt"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Was kostet Bookingflix im Monat?",
+				"url": ""
+			},
+			"11": {
+				"title": "Welche Kündigungsfrist muss ich beachten?",
+				"url": ""
+			},
+			"12": {
+				"title": "Kann der Kunde die Buchung selbst verwalten (Termin ändern, stornieren)",
+				"url": ""
+			},
+			"13": {
+				"title": "Können die Email-Texte individuell angepasst werden?",
+				"url": ""
+			},
+			"14": {
+				"title": "Können die System-Mails (Zusage, Absage) von der eigenen Mailadresse  aus versendet werden?",
+				"url": ""
+			},
+			"15": {
+				"title": "Was passiert mit den Termindaten nach dem Termin?",
+				"url": ""
+			},
+			"16": {
+				"title": "Kann ich Termine stornieren, löschen oder der Kundin nachträglich absagen?",
+				"url": ""
+			},
+			"17": {
+				"title": "Welcher Termin-Buchungs-Kalender ist für mein Business am besten geeignet?",
+				"url": ""
+			},
+			"18": {
+				"title": "Wie lange dauert die Terminbuchung für meine Kunden?",
+				"url": ""
+			},
+			"19": {
+				"title": "Kann ich Kundentermine auch händisch für meine Kunden eintragen?",
+				"url": ""
+			},
+			"20": {
+				"title": "Wie kann ich Ferienzeiten einstellen?",
+				"url": ""
+			},
+			"21": {
+				"title": "Wie kontaktiere ich den Kunden vor dem Termin?",
+				"url": ""
+			},
+			"22": {
+				"title": "Ich möchte eine kurze Notiz zum Kundentermin anlegen. Wie geht das?",
+				"url": ""
+			},
+			"23": {
+				"title": "Können die Termindaten heruntergeladen werden zur weiteren Verarbeitung?",
+				"url": ""
+			},
+			"24": {
+				"title": "Wie erhalte ich Kundenfeedback über Bookingflix? Geht das automatisch?",
+				"url": ""
+			},
+			"25": {
+				"title": "Wie synchronisiere ich meinen Standard-Kalender mit dem Bookingflix-Kalender?",
+				"url": ""
+			},
+			"26": {
+				"title": "Kann ich unterschiedliche Dienstleistungen über den Kalender anbieten?",
+				"url": ""
+			},
+			"01": {
+				"title": "Hat Bookingflix eine Rechteverwaltung, damit der jeweilige Vertreter die Termin-Verwaltung übernehmen kann?",
+				"url": ""
+			},
+			"02": {
+				"title": "Was passiert genau, wenn ein Kunde seinen Termin storniert?",
+				"url": ""
+			},
+			"03": {
+				"title": "Können Terminbuchungen automatisch bestätigt werden?"
+			},
+			"04": {
+				"title": "Können Termine händisch für den Kunden eingetragen werden?",
+				"url": ""
+			},
+			"05": {
+				"title": "Welchen Support bekommen wir im Rahmen der Nutzung?",
+				"url": ""
+			},
+			"06": {
+				"title": "Kann der Premium-Account auch per Rechnung bezahlt werden statt per Lastschrift?",
+				"url": ""
+			},
+			"07": {
+				"title": "Können vor dem Termin, zu einem bestimmten Zeitpunkt, Terminerinnerungen verschickt werden?",
+				"url": ""
+			},
+			"08": {
+				"title": "Wie richte ich die Terminerinnerungen ein?",
+				"url": ""
+			},
+			"09": {
+				"title": "Was kosten die Terminerinnerungen per SMS und wie buche ich diese?",
+				"url": ""
+			}
+		},
+		"title": "Relevante FAQ für Ihre Branche"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Termine einfach ändern oder absagen",
+				"url": ""
+			},
+			"11": {
+				"title": "Weitere Infos mitteilen im Rahmen der Buchung",
+				"url": ""
+			},
+			"12": {
+				"title": "Terminerinnerungen",
+				"url": ""
+			},
+			"13": {
+				"title": "Termin-Buchungs-Kalender einfach auf eigener Website einbinden",
+				"url": ""
+			},
+			"14": {
+				"title": "Termin-Buchungs-Website nutzbar auch ohne eigene Website",
+				"url": ""
+			},
+			"15": {
+				"title": "Termin-Notizen zu Terminen und Kunden anlegen",
+				"url": ""
+			},
+			"16": {
+				"title": "Feiertage und Ferien einstellbar",
+				"url": ""
+			},
+			"17": {
+				"title": "Mehrere Termine je Termin-Slot buchbar",
+				"url": ""
+			},
+			"18": {
+				"title": "Kundenbewertungen automatisch einholen",
+				"url": ""
+			},
+			"19": {
+				"title": "Synchronisation mit Standard-Kalender von Google, Apple und Microsoft",
+				"url": ""
+			},
+			"01": {
+				"title": "Terminbuchung nach DSGVO-Standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Deutschland",
+				"url": ""
+			},
+			"03": {
+				"title": "Termin-Buchungs-Kalender für feste Öffnungszeiten",
+				"url": ""
+			},
+			"04": {
+				"title": "Termin-Buchungs-Kalender für unterschiedliche Dienstleistungen",
+				"url": ""
+			},
+			"05": {
+				"title": "Besserer Überblick über den Terminstatus (Zusage, Absage, noch nicht bestätigt)",
+				"url": ""
+			},
+			"06": {
+				"title": "Unterschiedliche Termindauer einstellbar. Z. B. 30 Minuten oder zwei Stunden",
+				"url": ""
+			},
+			"07": {
+				"title": "Rechteverwaltung zur Termin-Verwaltung durch zuständige Mitarbeiterin",
+				"url": ""
+			},
+			"08": {
+				"title": "Individuelle Email-Texte der System-Mails",
+				"url": ""
+			},
+			"09": {
+				"title": "Termine automatisch bestätigen lassen",
+				"url": ""
+			}
+		},
+		"title": "Besonders relevante Funktionen und Eigenschaften für Ihre Branche"
+	},
+	"main": {
+		"description": "Die großen Werkstätten mit vielen Filialen bieten die Online-Termin-Buchung mittlerweile fast alle an. Denn die Kunden bestehen auf solche digitalen Services. Auch immer mehr kleine Werkstätten binden Termin-Buchungs-Kalender auf ihrer Website ein. Weil es so praktisch ist. Der Kunde geht auf die Website der Werkstatt und bucht den gewünschten Termin. Die benötigte Leistung kann optional direkt mit ausgewählt werden. So weiß das Team vor Ort, was am jeweiligen Tag an Arbeit ansteht. Reifen Wechseln, Autoscheibe reparieren oder austauschen, Ölwechsel, Chip-Tuning, TÜV-Abnahme oder eine Inspektion.",
+		"title": "Werkstätten"
+	},
+	"sub": {
+		"description": "Die Werkstatt-Kunden schätzen es, wenn einfach alles rund läuft. Beim Auto und bei der Terminabsprache. Selbstverständlich werden viele Kunden auch weiterhin Ihren Termin per Telefon absprechen wollen. Aber viele Kunden, gerade die jüngeren, möchten am liebsten alles per Smartphone erledigen. Termin-Tools wie Bookingflix ermöglichen dies auf eine sehr unkomplizierte Weise. Der Kunde sieht, wann ein Termin frei ist und bucht diesen mit wenigen Klicks. Die Werkstatt hat vorab die Öffnungszeiten festgelegt. Auch Feiertage und Ferien können definiert werden. Nach den Buchung verwaltet der Kunder seinen Termin eigenständig. Terminänderung- und Stornierung geht ebenfalls in Sekunden mit wenigen Klicks. Und über das integrierte Chat-Tool können Werkstatt und Autobesitzer miteinander in Kontakt treten.\nGebuchte Termine können automatisch mit dem Standard-Kalender von Google, Apple und Microsoft synchronisiert werden. So sind immer alle auf dem neuesten Stand. Termine müssen übrigens nicht manuell bestätigt werden. Bookingflix kann so konfiguriert werden, dass Termine vollautomatisch vom System bestätigt werden. Auch eine manuelle Eintragung durch die Werkstatt ist möglich. Falls ein Kunde telefonisch einen Termin buchen möchte.\nGerne genutzt werden auch die automatischen Termin-Erinnerungen per Email und per SMS. So kann der Kunden einmal oder auch mehrfach an den Termin, zu festgelegten Zeiten, erinnert werden.\nFalls unterschiedliche Dienstleistungen angeboten werden, können diese ebenfalls über den Termin-Buchungs-Kalender angeboten werden. Der Kunde wählt dann erst die gewünschte Leistung aus. Zum Beispiel Ölwechsel oder Inspektion. Diese Leistung kann sich bezüglich Titel, Dauer und Preis unterscheiden. Nach der Auswahl wählt er die bevorzugte Terminzeit aus und bucht den Termin. So sieht der Handwerker sofort, welche Leistung gebucht wurde.",
+		"title": "Warum Online-Termin-Buchung mit Bookingflix?"
+	}
+}

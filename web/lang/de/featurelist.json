@@ -1,0 +1,334 @@
+{
+	"cta": {
+		"button": "Jetzt Terminkalender erstellen",
+		"title": "Jetzt 14 Tage lang kostenlos Bookingflix Premium testen!"
+	},
+	"features": {
+		"01_verschiedene_kalenderformate": {
+			"items": {
+				"01": {
+					"description": "Termin-Buchungs-Kalender mit allen benötigten Einstellungen minutenschnell und einfach erstellen.",
+					"title": "Formular-Generator"
+				},
+				"02": {
+					"description": "Für Termin-Slots gleicher Länge und einer angebotenen Leistung.",
+					"title": "Terminkalender für Geschäfte mit festen Öffnungszeiten "
+				},
+				"03": {
+					"description": "Einzelne oder mehrere Termine mit selbst festgelegter Teilnehmerzahl und Dauer.",
+					"title": "Terminkalender für Events"
+				},
+				"04": {
+					"description": "Bezeichnung, Dauer, Preis und Bild für verschiedene Leistungen definieren.",
+					"title": "Terminkalender für buchbare Dienstleistungen"
+				}
+			},
+			"title": "Verschiedene Kalenderformate"
+		},
+		"02_more": {
+			"items": {
+				"01_individuelle-terminkalender-10": {
+					"link": "/features/individualCalendar",
+					"title": "Individuelle Terminkalender"
+				}
+			},
+			"title": "Funktionen genau erklärt"
+		},
+		"03_terminverwaltung": {
+			"items": {
+				"10": {
+					"description": "Download der iCal-Termin-Datei für den Import in andere Standardkalender. Z. B. in Google, Microsoft oder Apple.",
+					"title": "Termine exportieren"
+				},
+				"11": {
+					"description": "Volltextsuche nach Terminen und Kunden mit erweiterten Filtereinstellungen.",
+					"title": "Suche"
+				},
+				"01": {
+					"description": "Überblick über offene Terminanfragen. Termine zusagen, absagen, ändern oder Informationen abrufen.",
+					"title": "Übersichtliches Kontrollzentrum"
+				},
+				"02": {
+					"description": "Händisch anlegbar, im Auftrag eines Kunden, in einem sich wiederholenden Rhythmus.",
+					"title": "Serientermine anlegen"
+				},
+				"03": {
+					"description": "Interne Anmerkungen zu Terminen und Kunden anlegen.",
+					"title": "Notizen zu Terminen"
+				},
+				"04": {
+					"description": "Automatische Benachrichtigung, wenn neue Terminanfragen eingehen.",
+					"title": "Email bei neuen Anfragen"
+				},
+				"05": {
+					"description": "Sofortige Zusage von Terminanfragen durch automatischen Mailversand mit änderbarem Standardtext.",
+					"title": "Automatische Terminbestätigung"
+				},
+				"06": {
+					"description": "Automatische Erinnerung an gebuchte Termine per Email oder SMS. Zeitpunkt und Häufigkeit individuell einstellbar.",
+					"title": "Terminerinnerungen"
+				},
+				"07": {
+					"description": "Terminübersicht per Email am Vorabend.",
+					"title": "Termine des nächsten Tages"
+				},
+				"08": {
+					"description": "Termine für Kunden händisch eintragen. Falls ein Kunde z. B. über keinen Internetzugang verfügt.",
+					"title": "Termine manuell eintragen"
+				},
+				"09": {
+					"description": "Termin-Daten als CSV- oder PDF-Datei zur Weiterverarbeitung herunterladen.",
+					"title": "Download von Termindaten"
+				}
+			},
+			"title": "Terminverwaltung"
+		},
+		"04_zeitmanagement": {
+			"items": {
+				"01": {
+					"description": "Bei Terminanfragen wird der Zeitraum geblockt. Eine Überbuchung wird somit ausgeschlossen.",
+					"title": "Termin-Kollision vermeiden"
+				},
+				"02": {
+					"description": "Feste Pausenzeiten definieren, in denen keine Termine stattfinden können.",
+					"title": "Pausenzeiten"
+				},
+				"03": {
+					"description": "Offizielle Feiertage sowie individuelle freie Tage für jeden Kalender festlegen. An diesen können keine Termine stattfinden.",
+					"title": "Ferien und freie Tage"
+				}
+			},
+			"title": "Zeitmanagement"
+		},
+		"05_more": {
+			"items": {
+				"01_termin-und-kalenderverwaltung-01": {
+					"link": "/features/editCalendar",
+					"title": "Termin- und Kundenverwaltung"
+				},
+				"02_kontrollzentrum-01": {
+					"link": "/features/dashboard",
+					"title": "Kontrollzentrum"
+				},
+				"03_terminerinnerungen-01": {
+					"link": "/features/reminder",
+					"title": "Terminerinnerungen"
+				}
+			},
+			"title": "Funktionen genau erklärt"
+		},
+		"06_kundenverwaltung": {
+			"items": {
+				"01": {
+					"description": "Kundendaten anlegen, aktualisieren und löschen.",
+					"title": "Kundeninformationen"
+				},
+				"02": {
+					"description": "Kunden anschreiben und Nachrichten erhalten. Der Chatverlauf wird gespeichert.",
+					"title": "Kunden Chat"
+				},
+				"03": {
+					"description": "Interne Anmerkungen zu Terminen und Kunden anlegen.",
+					"title": "Notizen zu Terminen"
+				},
+				"04": {
+					"description": "Check-in und Check-out mittels eines individuellen QR-Codes für jeden einzelnen Termin dokumentieren.",
+					"title": "An- und Abwesenheit protokollieren"
+				},
+				"05": {
+					"description": "Termin-Daten als CSV- oder PDF-Datei zur Weiterverarbeitung herunterladen.",
+					"title": "Download von Kundendaten"
+				},
+				"06": {
+					"description": "Volltextsuche nach Terminen und Kunden mit erweiterten Filtereinstellungen.",
+					"title": "Suchfunktion"
+				}
+			},
+			"title": "Kundenverwaltung"
+		},
+		"07_kundenbewertungen": {
+			"items": {
+				"01": {
+					"description": "Nach dem Termin werden Kunden um eine Bewertung gebeten.",
+					"title": "Automatische Kundenbefragung"
+				},
+				"02": {
+					"description": "Bewertung in Form von Sterne-Rating sowie durch Beantwortung von individuell einstellbaren Fragen.",
+					"title": "Sterne-Rating und Bewertungsfragen"
+				},
+				"03": {
+					"description": "Eingegangene Bewertungen können unterhalb des Termin-Buchungs-Kalenders optional angezeigt werden.",
+					"title": "Bewertungen veröffentlichen"
+				}
+			},
+			"title": "Kundenbewertungen"
+		},
+		"08_terminverwaltungendkunden": {
+			"items": {
+				"01": {
+					"description": "Durch einen direkten Link zu jedem Termin, können Kunden diesen selbst verwalten.",
+					"title": "Terminlinks"
+				},
+				"02": {
+					"description": "Im Termin-Login-Bereich können Kunden selbstständig neue Termine buchen, bestehende ändern und den Verlauf vergangener Termine einsehen.",
+					"title": "Termine über Termin-Login-Bereich verwalten"
+				},
+				"03": {
+					"description": "Im Termin-Login-Bereich finden sich außerdem Informationen zum jeweiligen Termin und dem Dienstleister. Über ein Chat-Tool können sich Kunde und Dienstleister vorab austauschen.",
+					"title": "Informationen und Chat-Tool"
+				}
+			},
+			"title": "Terminverwaltung für Endkunden"
+		},
+		"09_more": {
+			"items": {
+				"01_termin-und-kalenderverwaltung-01": {
+					"link": "/features/individualCalendar",
+					"title": "Termin- und Kundenverwaltung"
+				},
+				"02_kundenbewertungen-01": {
+					"link": "/features/votes",
+					"title": "Kundenbewertungen"
+				},
+				"03_terminverwaltung-fuer-endkunden-01": {
+					"link": "/features/clients",
+					"title": "Terminverwaltung für Endkunden"
+				}
+			},
+			"title": "Funktionen genau erklärt"
+		},
+		"10_personalisierung": {
+			"items": {
+				"01": {
+					"description": "Maximale Kundenanzahl je Time-Slot festlegen.",
+					"title": "Variable Kundenzahl je Termin"
+				},
+				"02": {
+					"description": "Texte der Systemmails, für Verifizierung, Zusage oder Absage, selbst festlegen.",
+					"title": "Email-Texte"
+				},
+				"03": {
+					"description": "Informationen, die bei der Buchung vom Kunden angegeben werden müssen, können frei definiert werden.",
+					"title": "Abfragefelder im Buchungsformular"
+				},
+				"04": {
+					"description": "Die farbliche Gestaltung sowie das Design des Termin-Buchungs-Kalenders können angepasst werden.",
+					"title": "Design"
+				},
+				"05": {
+					"description": "Können variabel festgelegt werden.",
+					"title": "Termindauer und Taktung"
+				}
+			},
+			"title": "Personalisierung"
+		},
+		"11_veroeffentlichung": {
+			"items": {
+				"01": {
+					"description": "Einfache Veröffentlichung des Termin-Buchungs-Kalendes mittels Widget-Code.",
+					"title": "Einbinden auf bestehender Website"
+				},
+				"02": {
+					"description": "Eigene Buchungs-Micro-Website automatisch generieren, bearbeiten und für die Terminbuchung nutzen.",
+					"title": "Buchungswebsite"
+				}
+			},
+			"title": "Veröffentlichung"
+		},
+		"12_zusammenarbeitimteam": {
+			"items": {
+				"01": {
+					"description": "Selbstverwaltung einzelner Filialen durch Nutzung voneinander unabhängiger Terminkalender.",
+					"title": "Terminkalender für mehrere Filialen"
+				},
+				"02": {
+					"description": "Für bestimmte Nutzer können Zugriffsrechte definiert werden. Zum Beispiel für Mitarbeiter oder andere Filialen.",
+					"title": "Zugriffsrechte definieren"
+				},
+				"03": {
+					"description": "Mehrere Kalender können gebündelt werden.",
+					"title": "Kalender bündeln"
+				}
+			},
+			"title": "Zusammenarbeit im Team"
+		},
+		"13_more": {
+			"items": {
+				"01_individuelle-terminkalender-10": {
+					"link": "/features/individualCalendar",
+					"title": "Individuelle Terminkalender"
+				},
+				"02_buchungskalender-veroeffentlichen-01": {
+					"link": "/features/publishCalendar",
+					"title": "Termin-Buchungs-Kalender veröffentlichen"
+				},
+				"03_integration-in-ihren-workflow-05": {
+					"link": "/features/workflow",
+					"title": "Integration in Ihren Workflow"
+				}
+			},
+			"title": "Funktionen genau erklärt"
+		},
+		"14_datenschutzhilfe": {
+			"items": {
+				"01": {
+					"description": "Bookingflix wurde unter Beachtung der gesetzlichen Vorgaben der DSGVO entwickelt.",
+					"title": "DSGVO-konform"
+				},
+				"02": {
+					"description": "Kundendaten werden nicht ins Ausland übermittelt oder gespeichert. Die genutzten Server stehen in Frankfurt am Main.",
+					"title": "Serverstandort Deutschland"
+				},
+				"03": {
+					"description": "FAQs, Hilfe-Videos, Anleitungen und Webinare sind im Support-Bereich dokumentiert.",
+					"title": "Online Support"
+				}
+			},
+			"title": "Datenschutz und Hilfe"
+		},
+		"15_technischeaspekte": {
+			"items": {
+				"01": {
+					"description": "Terminbuchung und Verwaltung der Termine auch über Smartphone und Tablet möglich.",
+					"title": "Mobil optimiert"
+				},
+				"02": {
+					"description": "2-Wege-Synchronisation mit Google-Calendar.",
+					"title": "Google"
+				},
+				"03": {
+					"description": "Synchronisation mit Apple-Calendar. Von Bookingflix zu Apple-Calendar.",
+					"title": "Apple"
+				},
+				"04": {
+					"description": "2-Wege-Synchronisation mit Microsoft-Calendar.",
+					"title": "Microsoft"
+				}
+			},
+			"title": "Technische Aspekte"
+		},
+		"16_workflow": {
+			"items": {
+				"01": {
+					"description": "Legen Sie automatische Workflows für eine Vielzahl an Webdiensten an. So ist Bookingflix noch smarter nutzbar und die Möglichkeiten sind, dank API, fast unbegrenzt.",
+					"title": "Smarte Webhooks"
+				}
+			},
+			"title": "Workflow Automatisierung"
+		},
+		"17_more": {
+			"items": {
+				"01_dsgvo-und-datenschutzkonformitaet-03": {
+					"link": "/features/privacy",
+					"title": "Datenschutz"
+				},
+				"02_integration-in-ihren-workflow-05": {
+					"link": "/features/workflow",
+					"title": "Integration in Ihren Workflow"
+				}
+			},
+			"title": "Funktionen genau erklärt"
+		}
+	},
+	"title": "Komplette Liste aller Funktionen"
+}

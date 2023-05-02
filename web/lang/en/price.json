@@ -1,0 +1,56 @@
+{
+	"description": "",
+	"page": [
+		{
+			"elements": [
+				{
+					"button": "Create Free Account Now",
+					"list": [
+						"1 calendar per account",
+						"50 appointment bookings per month",
+						"12 days maximum advance booking period for your customers",
+						"Includes all features for business accounts",
+						"Profile data, imprint, privacy info can be created",
+						"16 cents/SMS (net) for SMS appointment reminders",
+						"No minimum contract period"
+					],
+					"membership": "Free",
+					"price": "0,00 € / month"
+				},
+				{
+					"action": "Test Premium free of charge for 14 days*.",
+					"button": "Create Premium Account Now",
+					"list": [
+						"3 calendars per account",
+						"Monthly 5,00 € (net) for each additional calendar",
+						"Flat rate appointment bookings per month **",
+						"12 months maximum advance booking period for your customers",
+						"Includes all features for business accounts",
+						"Bookingflix support via ticket system and phone",
+						"Profile data, imprint, privacy info can be created",
+						"16 cents/SMS (net) for SMS appointment reminders",
+						"No minimum contract period"
+					],
+					"membership": "Premium",
+					"price": "9,00 € (net) / month",
+					"tax": "Value added tax 19%"
+				}
+			],
+			"info": {
+				"1": {
+					"action": "No automatic renewal - after the free 14 days you can renew the premium account in your login area. If you do not do so, you will be automatically downgraded to the free account. ",
+					"list": {
+						"2": "The prices apply to merchants, businesses, service providers, etc. within the scope of an average, reasonable use of our service. If this fair use policy is exceeded, we would coordinate a special arrangement with each other. Large companies, vaccination and testing centers as well as chain stores we ask, if an average, reasonable use is very likely to be exceeded, to consult us before using Bookingflix: support@bookingflix.com or 02302-4007736."
+					}
+				}
+			},
+			"title": "Business use"
+		}
+	],
+	"teaser": {
+		"count": "14",
+		"description": "free trial",
+		"time": "days"
+	},
+	"title": "Prices"
+}

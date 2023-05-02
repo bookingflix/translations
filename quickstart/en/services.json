@@ -1,0 +1,41 @@
+{
+	"description": {
+		"info": "You can optionally attach a description for these services.",
+		"title": "Description (optional)"
+	},
+	"duration": {
+		"info": "Specify the usual duration of the service. When booking an appointment, the corresponding period will be blocked in your diary.",
+		"title": "Duration"
+	},
+	"editor": {
+		"add": "{count} Add service",
+		"close": "Close editing",
+		"copy": "Duplicate service",
+		"delete": "Delete service"
+	},
+	"image": {
+		"add": "Add image",
+		"info": "You can optionally upload a picture of your service.",
+		"upload": "Upload image"
+	},
+	"name": {
+		"info": "Specify the title of the service.",
+		"title": "Title"
+	},
+	"price": {
+		"description": "EUR",
+		"info": "Specify the price of the service.",
+		"title": "Price (optional)"
+	},
+	"tags": {
+		"add": "Add category",
+		"category": "Service category",
+		"close": "Close",
+		"info": "For better organization of your offers and services you can assign tags. For example, you can assign different tags to your open business days to offer your services conveniently on different days. In addition, you can filter your appointments in your appointment calendar according to your self-selected parameters. Example applications: - Tags for your employees, Anna takes only styling and Erik takes only ladies haircuts. (Tags: Anna, Erik) - Tags for weekday related services, e.g. styling appointments are always done on Fridays only. (Tag: Friday)",
+		"save": "Save",
+		"select": "Please select",
+		"title": "Category"
+	},
+	"title": "Services",
+	"withService": "with services"
+}

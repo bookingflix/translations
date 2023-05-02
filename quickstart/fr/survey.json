@@ -1,0 +1,13 @@
+{
+	"default": "Quel est votre degré de satisfaction concernant la réservation de rendez-vous en ligne via Bookingflix.com ?",
+	"description": "Témoignages de clients",
+	"info": "Notre service d'évaluation permet de saisir les évaluations des clients pour la prise de rendez-vous. La personne qui réserve un rendez-vous peut répondre aux questions suivantes.",
+	"question": "Question {count}",
+	"showInCalendar": "Afficher les évaluations des clients dans l'agenda ?",
+	"title": "Critiques",
+	"type": {
+		"custom": "Propres questions",
+		"default": "Question standard",
+		"none": "Pas de questions"
+	}
+}

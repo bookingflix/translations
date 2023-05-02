@@ -1,0 +1,50 @@
+{
+	"dsgvo-und-datenschutzkonformitaet": {
+		"cta": {
+			"action": "Jetzt 14 Tage lang kostenlos Bookingflix Premium testen!",
+			"button": "Jetzt Terminkalender erstellen",
+			"link": "/quickstart"
+		},
+		"intro": "Datenschutz und Datensicherheit stehen bei uns an erster Stelle.\nUnsere Mitarbeiter sind diesbezüglich sensibilisiert und werden laufend geschult.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Server-Standort in Deutschland",
+							"img": "dsgvo-und-datenschutzkonformitaet-01.png",
+							"text": "Die Datenverarbeitung findet in Deutschland statt. Bookingflix hat seinen Standort in Deutschland und wir orientieren uns streng an die europäische DSGVO. Somit befinden sich alle Daten auf Servern innerhalb Deutschlands. Größtmögliche Daten- und Rechtssicherheit sind damit gewährleistet.\nWir setzen auf den Weltmarktführer AWS mit seiner hochperformanten und abgesicherten Server-Struktur."
+						},
+						{
+							"headline": "Regelmäßige Backups",
+							"img": "dsgvo-und-datenschutzkonformitaet-02.png",
+							"text": "Ihre Daten sind sicher. Die Kalender werden mehrmals täglich auf unterschiedlichen Backup-Servern gesichert."
+						},
+						{
+							"headline": "Auftragsdatenverarbeitung",
+							"img": "dsgvo-und-datenschutzkonformitaet-03.png",
+							"text": "Gerne schließen wir mit Ihnen einen Auftragsdatenverarbeitungsvertrag ab. Dieser regelt alle wichtigen Aspekte zur Datenverarbeitung, Datensicherheit und Maßnahmen (sogenannte TOMs) rund um die DSGVO-relevanten Themen. Gerne senden wir Ihnen vorab ein Muster des Vertrags zu."
+						},
+						{
+							"headline": "Verifikation Ihrer Kunden",
+							"img": "dsgvo-und-datenschutzkonformitaet-04.png",
+							"text": "Die Verifizierung der buchenden Endkunden wird durch eine emailbasierte Verifizierung überprüft. Dadurch können Spam-Einträge und falsche Buchungen deutlich reduziert werden. Diese Art der Verifikation ist Teil des DSGVO-konformen Buchungsprozesses. Alternativ, zum Beispiel für interne Buchungen innerhalb Ihres Unternehmens, können Sie die Verifikation jedoch auch deaktivieren."
+						},
+						{
+							"headline": "Verschlüsselung und Firewall",
+							"img": "dsgvo-und-datenschutzkonformitaet-05.png",
+							"text": "Für die Datenübertragung nutzen wir die aktuellste Verschlüsselungstechnik nach HTTPS-Standard. Nur mit Ihrem ausdrücklichen Einverständnis, beispielsweise in Support-Angelegenheiten, können wir Details zu Ihren Buchungen oder Kunden einsehen. Weitere Sicherheitsmaßnahmen bietet unser Server-Hoster AWS. Detaillierte Information hierzu senden wir Ihnen gerne zu. Auch in Form des  Auftragsdatenverarbeitungsvertrags."
+						},
+						{
+							"headline": "Löschfristen",
+							"img": "dsgvo-und-datenschutzkonformitaet-06.png",
+							"text": "Nach 30 Tagen werden vergangene Termindaten gelöscht. Eine frühere Löschung steht Ihnen offen. Sie werden vor der Löschung per Email informiert. Falls benötigt, können Sie die Daten vorab sichern."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "DSGVO- und Datenschutzkonformität",
+		"title": "Ihren Daten sind bei uns sicher"
+	}
+}

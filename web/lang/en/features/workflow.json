@@ -1,0 +1,67 @@
+{
+	"integration-in-ihren-workflow": {
+		"cta": {
+			"action": "Try Bookingflix Premium for 14 days for free!",
+			"button": "Create appointment calendar now",
+			"link": "/quickstart"
+		},
+		"intro": "The functions of Bookingflix can be easily and seamlessly integrated into your daily work. Bookingflix supports you in organizing your appointments, so that you have more time for your actual business.",
+		"sections": [
+			{
+				"einleitung": {
+					"infos": [
+						{
+							"headline": "Appointment booking outside your business hours",
+							"img": "integration-in-ihren-workflow-01.png",
+							"text": "Booking appointments at any time! With Bookingflix online appointment calendar it is possible to accept bookings outside your business hours. This allows you to reach more customers and increase your sales. Many customers - especially in the young and middle generation - prefer online booking to booking by phone."
+						},
+						{
+							"headline": "Real-Time Appointment Calendar",
+							"img": "integration-in-ihren-workflow-02.png",
+							"text": "Only free appointment times are ever displayed to your customers. Once an appointment has been booked by a customer, the appointment is no longer available. This prevents double bookings and you always have an overview of your current workload. In addition, you can view the appointment entries on all stationary and mobile devices."
+						},
+						{
+							"button": {
+								"link": "/support/video/11",
+								"more": "Learn more"
+							},
+							"headline": "Manual appointment booking and modification",
+							"img": "integration-in-ihren-workflow-03.png",
+							"text": "Not every customer wants to or can book an appointment online. Therefore, enter telephone appointment bookings manually in the dashboard. You can also make changes or cancel appointments manually here."
+						},
+						{
+							"headline": "Synchronization with existing calendars",
+							"img": "integration-in-ihren-workflow-04.png",
+							"text": "At Bookinflix a two-way synchronization is available for you. This means that the appointments that are stored in your standard calendars are taken into account in your Bookingflix booking calendar through an automatic synchronization. We support common providers like Google, Microsoft and Apple."
+						},
+						{
+							"headline": "Automatic appointment confirmation",
+							"img": "integration-in-ihren-workflow-05.png",
+							"text": "With Bookingflix you no longer need to check your calendar yourself. If a free appointment was booked, you can have it confirmed immediately, completely automatically by the system. However, if you prefer to check the bookings yourself, you can also confirm new appointment bookings manually."
+						},
+						{
+							"button": {
+								"link": "/support/video/18",
+								"more": "Learn more"
+							},
+							"headline": "QR code for booking appointment on site",
+							"img": "integration-in-ihren-workflow-06.png",
+							"text": "In your Bookingflix account you will find an automatically generated QR code for each appointment calendar, which leads directly to your booking website. You can print this out and display it in your shop window to also enable easy appointment booking on site, for example as part of Click & Meet. Your customers simply scan the QR code with their smartphone and can book an appointment with you without any detours."
+						},
+						{
+							"button": {
+								"link": "/support/video/12",
+								"more": "Learn more"
+							},
+							"headline": "Record presence",
+							"img": "integration-in-ihren-workflow-07.png",
+							"text": "Every appointment booked through Bookingflix has an appointment QR code. This allows you to check-in and check-out your customers, so you can get an accurate overview of the reliability of your customers, the utilization of your store and also ensure traceability for the health department."
+						}
+					]
+				}
+			}
+		],
+		"subtitle": "Integration into your workflow",
+		"title": "How to seamlessly integrate Bookingflix into your individual workday"
+	}
+}

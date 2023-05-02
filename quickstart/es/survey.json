@@ -1,0 +1,13 @@
+{
+	"default": "¿Cuál es su grado de satisfacción con la reserva de citas en línea a través de Bookingflix.com?",
+	"description": "Comentarios de los clientes",
+	"info": "Las evaluaciones de los clientes pueden introducirse para la reserva de citas a través de nuestro servicio de evaluación. La persona que reserva la cita puede responder a las siguientes preguntas.",
+	"question": "Pregunta {count}",
+	"showInCalendar": "¿Mostrar las opiniones de los clientes en la agenda?",
+	"title": "Comentarios",
+	"type": {
+		"custom": "Preguntas propias",
+		"default": "Pregunta estándar",
+		"none": "No hay preguntas"
+	}
+}

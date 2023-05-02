@@ -1,0 +1,235 @@
+{
+	"benefits": {
+		"items": {
+			"01": "gran ahorro de tiempo\nPara ambos lados. La programación se realiza en segundos. El cliente también cambia o cancela la cita de forma independiente.",
+			"02": "Concéntrese en lo esencial y evite los nervios\nLas interrupciones telefónicas son una molestia en el trabajo diario. En línea, es más rápido, más sencillo y más fácil para los nervios.",
+			"03": "Aumentar la fiabilidad de las citas\nUtilice los recordatorios automáticos por correo electrónico y SMS. Por cierto, la mayoría de los clientes agradecen este servicio extra.",
+			"04": "Actualización digital\nLas herramientas de cita previa se han convertido en un estándar popular. Los clientes esperan servicios digitales modernos.",
+			"05": "Optimizar el flujo de trabajo\nEl cliente reserva y gestiona la cita por sí mismo. Los datos de las citas se muestran claramente en su panel de control."
+		},
+		"title": "Sus ventajas en pocas palabras"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "¿Cuánto cuesta Bookingflix al mes?",
+				"url": ""
+			},
+			"11": {
+				"title": "¿Qué plazo de preaviso debo respetar?",
+				"url": ""
+			},
+			"12": {
+				"title": "¿Puede el cliente gestionar la reserva por sí mismo (cambiar la cita, cancelar)?",
+				"url": ""
+			},
+			"13": {
+				"title": "¿Se pueden personalizar los textos del correo electrónico?",
+				"url": ""
+			},
+			"14": {
+				"title": "¿Se pueden enviar los correos del sistema (aceptación, rechazo) desde su propia dirección de correo?",
+				"url": ""
+			},
+			"15": {
+				"title": "¿Qué ocurre con los datos de la cita después de la misma?",
+				"url": ""
+			},
+			"16": {
+				"title": "¿Puedo anular las citas, borrarlas o dar de baja al cliente a posteriori?",
+				"url": ""
+			},
+			"17": {
+				"title": "¿Qué calendario de reserva de citas es el mejor para mi negocio?",
+				"url": ""
+			},
+			"18": {
+				"title": "¿Cuánto tiempo se tarda en reservar una cita para mis clientes?",
+				"url": ""
+			},
+			"19": {
+				"title": "¿Puedo también introducir manualmente las citas de mis clientes?",
+				"url": ""
+			},
+			"20": {
+				"title": "¿Cómo puedo fijar los periodos de vacaciones?",
+				"url": ""
+			},
+			"21": {
+				"title": "¿Cómo puedo contactar con el cliente antes de la cita?",
+				"url": ""
+			},
+			"22": {
+				"title": "Me gustaría crear una breve nota para la cita con el cliente. ¿Cómo lo hago?",
+				"url": ""
+			},
+			"23": {
+				"title": "¿Pueden descargarse los datos de las citas para su posterior tratamiento?",
+				"url": ""
+			},
+			"24": {
+				"title": "¿Cómo puedo obtener comentarios de los clientes sobre Bookingflix? ¿Es automático?",
+				"url": ""
+			},
+			"25": {
+				"title": "¿Cómo puedo sincronizar mi calendario estándar con el calendario de Bookingflix?",
+				"url": ""
+			},
+			"26": {
+				"title": "¿Cómo puede el cliente imprimir el ticket de la cita?",
+				"url": ""
+			},
+			"27": {
+				"title": "¿Cómo reservo al cliente mediante el escaneo del código QR?",
+				"url": ""
+			},
+			"28": {
+				"title": "¿Cómo se evita el exceso de reservas?",
+				"url": ""
+			},
+			"01": {
+				"title": "¿Cuenta Bookingflix con una gestión de derechos para que el respectivo representante pueda hacerse cargo de la gestión de la cita?",
+				"url": ""
+			},
+			"02": {
+				"title": "¿Qué ocurre exactamente cuando un cliente cancela su cita?",
+				"url": ""
+			},
+			"03": {
+				"title": "¿Se pueden confirmar automáticamente las reservas de citas?",
+				"url": ""
+			},
+			"04": {
+				"title": "¿Se pueden introducir manualmente las citas para el cliente?",
+				"url": ""
+			},
+			"05": {
+				"title": "¿Qué apoyo recibimos dentro del ámbito de uso?",
+				"url": ""
+			},
+			"06": {
+				"title": "¿Se puede pagar la Cuenta Premium también por factura en lugar de por domiciliación bancaria?",
+				"url": ""
+			},
+			"07": {
+				"title": "¿Se pueden enviar recordatorios de citas antes de la cita, a una hora determinada?",
+				"url": ""
+			},
+			"08": {
+				"title": "¿Cómo se fijan las citas?",
+				"url": ""
+			},
+			"09": {
+				"title": "¿Cuánto cuestan los recordatorios de citas por SMS y cómo los reservo?",
+				"url": ""
+			}
+		},
+		"title": "Preguntas frecuentes relevantes para su sector"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Confirmar automáticamente las citas",
+				"url": ""
+			},
+			"11": {
+				"title": "Simplemente cambie o cancele las citas",
+				"url": ""
+			},
+			"12": {
+				"title": "Comunicar más información como parte de la reserva",
+				"url": ""
+			},
+			"13": {
+				"title": "Recordatorios de citas",
+				"url": ""
+			},
+			"14": {
+				"title": "Simplemente integre el calendario de reservas de citas en su propio sitio web",
+				"url": ""
+			},
+			"15": {
+				"title": "El sitio web de reserva de citas también puede utilizarse sin su propio sitio web",
+				"url": ""
+			},
+			"16": {
+				"title": "Crear notas para citas y clientes",
+				"url": ""
+			},
+			"17": {
+				"title": "Vacaciones y días festivos ajustables",
+				"url": ""
+			},
+			"18": {
+				"title": "Se pueden reservar varias fechas por turno",
+				"url": ""
+			},
+			"19": {
+				"title": "Obtenga automáticamente las opiniones de los clientes",
+				"url": ""
+			},
+			"20": {
+				"title": "Sincronización con calendarios estándar de Google, Apple y Microsoft",
+				"url": ""
+			},
+			"21": {
+				"title": "Reserva en el cliente a través del escaneo del código QR",
+				"url": ""
+			},
+			"22": {
+				"title": "Billete con fecha en PDF para imprimir",
+				"url": ""
+			},
+			"01": {
+				"title": "Reserva de citas según la norma DSGVO",
+				"url": ""
+			},
+			"02": {
+				"title": "Servidor en Alemania",
+				"url": ""
+			},
+			"03": {
+				"title": "Reserva de citas según la norma DSGVO",
+				"url": ""
+			},
+			"04": {
+				"title": "Servidor en Alemania",
+				"url": ""
+			},
+			"05": {
+				"title": "Calendario de reserva de citas para los horarios de apertura fijos",
+				"url": ""
+			},
+			"06": {
+				"title": "Calendario de citas para eventos específicos",
+				"url": ""
+			},
+			"07": {
+				"title": "Mejor visión de conjunto del estado de la cita (compromiso, cancelación, aún no confirmado)",
+				"url": ""
+			},
+			"08": {
+				"title": "Gestión de derechos para la gestión de citas por parte del funcionario responsable",
+				"url": ""
+			},
+			"09": {
+				"title": "Textos individuales de los correos electrónicos del sistema",
+				"url": ""
+			}
+		},
+		"title": "Funciones y características especialmente relevantes para su sector"
+	},
+	"main": {
+		"description": "Durante la pandemia de Corona, muchos organizadores tuvieron que ofrecer citas. El acceso gratuito ya no es posible sin reservar una cita previa. Otros museos y organizadores de exposiciones llevan mucho tiempo ofreciendo la venta de entradas a sus clientes. Todos tienen en común el deseo de ofrecer el billete, la cita, a sus clientes con la mayor facilidad posible. Actualmente, Bookingflix aún no está conectado a un servicio de pago. Esta función está prevista para finales de 2022. Pero para la simple reserva de citas y entradas, sin cobrar, ya se puede utilizar Bookingflix en muchos casos.",
+		"title": "Museos y exposiciones"
+	},
+	"sub": {
+		"description": "El visitante del museo o de la exposición interesado selecciona la fecha deseada, introduce sus datos y reserva la fecha. A continuación, el correo electrónico de verificación y luego el de confirmación. El billete con toda la información de la cita también se puede llamar a través de este correo electrónico. También hay un código QR para registrarse en la entrada. Una gran ventaja de reservar a través de Bookingflix es el proceso de reserva totalmente automatizado. Incluso la confirmación de la reserva puede ser enviada automáticamente por el sistema. También se puede hacer manualmente después de comprobar la reserva. Los recordatorios de citas también se envían automáticamente por correo electrónico y SMS. Esto aumenta significativamente la fiabilidad de las citas. La mayoría de los clientes aprecian mucho este servicio digital. Y, opcionalmente, los recordatorios pueden ser desactivados: por usted pero también por sus clientes. También es opcional: después de la cita, tras el evento, sus visitantes reciben un correo electrónico de posventa. Este correo electrónico contiene un enlace que lleva a los clientes a una breve encuesta online. Esto permite a sus clientes dar una calificación. Esto le proporciona una valiosa retroalimentación y puede publicar estas calificaciones en su sitio web. Esto refuerza la confianza en las reservas posteriores.",
+		"title": "¿Por qué reservar en línea con Bookingflix?"
+	},
+	"use": {
+		"interview": "Entrevista ...",
+		"title": "Bookingflix in situ en acción",
+		"video": "URL del vídeo en Youtube"
+	}
+}

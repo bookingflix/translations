@@ -1,0 +1,165 @@
+{
+	"benefits": {
+		"items": {
+			"01": "Gran ahorro de tiempo\nTenemos clientes o usuarios que ahorran varias horas de tiempo cada día a través de Bookingflix.",
+			"02": "No te pongas nervioso\n¿Por qué concertar citas cuando puede seleccionarlas y reservarlas directamente?",
+			"03": "Aumentar la fiabilidad de las citas\nA los clientes les gusta que les recuerden la cita. Esto reduce significativamente el índice de inasistencia.",
+			"04": "Actualización digital\nSí, el teléfono era muy moderno. Pero el tiempo no se detiene. Los clientes esperan servicios modernos y digitales.",
+			"05": "Mejorar el servicio y reforzar el factor de confianza\nBookingflix puede recuperar automáticamente las opiniones de los clientes después de la cita."
+		},
+		"title": "Sus ventajas en pocas palabras"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "¿Cuánto cuestan los recordatorios de citas por SMS?",
+				"url": ""
+			},
+			"11": {
+				"title": "¿Cuánto cuesta Bookingflix al mes?",
+				"url": ""
+			},
+			"12": {
+				"title": "¿Qué plazo de preaviso debo respetar?",
+				"url": ""
+			},
+			"13": {
+				"title": "¿Podemos registrar a los clientes en la entrada mediante el escaneo del código QR?",
+				"url": ""
+			},
+			"14": {
+				"title": "¿Es posible fijar días festivos en los que no se pueda reservar una cita?",
+				"url": ""
+			},
+			"15": {
+				"title": "¿Puede el cliente gestionar la reserva por sí mismo (cambiar la cita, cancelar)?",
+				"url": ""
+			},
+			"16": {
+				"title": "¿Se pueden enviar los correos del sistema (aceptación, rechazo) desde su propia dirección de correo?",
+				"url": ""
+			},
+			"17": {
+				"title": "¿Qué calendario de reserva de citas es el mejor para mi negocio?",
+				"url": ""
+			},
+			"18": {
+				"title": "¿Cuánto tiempo se tarda en reservar una cita para mis clientes?",
+				"url": ""
+			},
+			"01": {
+				"title": "¿La reserva de citas a través de Bookingflix.com cumple con el GDPR?",
+				"url": ""
+			},
+			"02": {
+				"title": "¿Dónde se encuentran los servidores de Bookingflix?",
+				"url": ""
+			},
+			"03": {
+				"title": "¿Tiene Bookingflix una gestión de derechos para que los empleados puedan asumir la gestión de las citas?"
+			},
+			"04": {
+				"title": "¿Pueden los grupos también hacer una reserva y se tendrá en cuenta el número?",
+				"url": ""
+			},
+			"05": {
+				"title": "¿Está limitado el número de citas mensuales?",
+				"url": ""
+			},
+			"06": {
+				"title": "¿Se pueden confirmar automáticamente las reservas de citas?",
+				"url": ""
+			},
+			"07": {
+				"title": "¿Qué apoyo recibimos dentro del ámbito de uso?",
+				"url": ""
+			},
+			"08": {
+				"title": "¿Se puede pagar la Cuenta Premium también por factura en lugar de por domiciliación bancaria?",
+				"url": ""
+			},
+			"09": {
+				"title": "¿Se pueden enviar recordatorios de citas antes de la cita, a una hora determinada?",
+				"url": ""
+			}
+		},
+		"title": "Preguntas frecuentes relevantes para su sector"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Confirmar automáticamente las citas",
+				"url": ""
+			},
+			"11": {
+				"title": "Simplemente cambie o cancele las citas",
+				"url": ""
+			},
+			"12": {
+				"title": "Comunicar más información como parte de la reserva",
+				"url": ""
+			},
+			"13": {
+				"title": "Recordatorios de citas",
+				"url": ""
+			},
+			"14": {
+				"title": "Exportar los datos de las citas (pdf, csv)",
+				"url": ""
+			},
+			"15": {
+				"title": "Ticket de cita con código QR para imprimir",
+				"url": ""
+			},
+			"18": {
+				"title": "Obtenga automáticamente las opiniones de los clientes",
+				"url": ""
+			},
+			"01": {
+				"title": "Reserva de citas según la norma DSGVO",
+				"url": ""
+			},
+			"02": {
+				"title": "Servidor en Alemania",
+				"url": ""
+			},
+			"03": {
+				"title": "Calendario de citas para eventos específicos",
+				"url": ""
+			},
+			"04": {
+				"title": "Calendario de reserva de citas para los horarios de apertura fijos",
+				"url": ""
+			},
+			"05": {
+				"title": "Mejor visión de conjunto del estado de la cita (compromiso, cancelación, aún no confirmado)",
+				"url": ""
+			},
+			"06": {
+				"title": "Reservas para grupos",
+				"url": ""
+			},
+			"07": {
+				"title": "Vacaciones y descansos ajustables",
+				"url": ""
+			},
+			"08": {
+				"title": "Gestión de derechos para la gestión de citas por parte de los empleados",
+				"url": ""
+			},
+			"09": {
+				"title": "Función de entrada y salida con escaneo de código QR",
+				"url": ""
+			}
+		},
+		"title": "Funciones y características especialmente relevantes para su sector"
+	},
+	"main": {
+		"description": "Especialmente en esta industria, la edad media es relativamente joven. Y la generación joven está acostumbrada a organizar su vida por medio de smartphones, aplicaciones e internet. Hay una gran proporción de este grupo que sólo coge el teléfono para hacer una llamada en caso de emergencia absoluta. El teléfono o smartphone se utiliza principalmente para el entretenimiento y la organización. Por supuesto, también para la comunicación. Pero aquí dominan los servicios de mensajería y redes sociales. Por lo tanto, esta generación más bien joven no quiere concertar una cita por teléfono. Quieren navegar por el sitio web de un proveedor de servicios, seleccionar la cita y reservarla de forma rápida y sencilla. Así que quienquiera que sea convincente como proveedor de servicios aquí. Digitalmente convincente. Tienen una ventaja real.",
+		"title": "Ocio y diversión"
+	},
+	"sub": {
+		"description": "Los casos de uso son tan diversos que una lista sólo puede ser incompleta.\nParques de atracciones, parques deportivos, parques de escalada, conciertos, teatros, cines, autocines, zoológicos, parques naturales, campos de minigolf, salas de escape, centros de ocio, salas de esquí, alquiler de barcos, gastronomía para eventos, organizadores de excursiones, eventos al aire libre. En todas partes se reservan billetes o se conciertan citas.\nEl cliente quiere hacer clic en el servicio deseado en línea y reservarlo inmediatamente. El momento en que se confirma la cita es un momento de satisfacción interior. Como comprar o poseer un deseo largamente acariciado. Bookingflix ofrece una herramienta de citas potente y ajustable individualmente que satisface esta necesidad. El nombramiento se confirma inmediatamente. Si es necesario, puede modificarse o anularse posteriormente. La información importante puede ser comunicada al cliente a través de la función de chat.\nLa confirmación de la cita puede transferirse fácilmente a la agenda estándar del smartphone. Además, la confirmación de la cita contiene un billete en PDF con un código QR. Puede imprimirse o presentarse digitalmente a la entrada. Mediante el código QR, el organizador puede registrar la entrada del cliente y también su salida cuando abandone el evento.\nLas reservas de citas pueden ser confirmadas automáticamente por Bookingflix. En caso de anulación, el espacio de la cita se vuelve a liberar inmediatamente. Las reservas de grupos, con un tamaño máximo predefinido, también pueden establecerse muy fácilmente.\nAl crear el calendario de reserva de citas, puede establecer los horarios de apertura, de pausa y de vacaciones. Si el evento tiene lugar sólo una o varias veces al año, recomendamos el calendario de reserva de citas para eventos específicos. Se puede fijar el número máximo de participantes.\nLa gestión del evento también puede delegarse en un miembro del personal. Para ello se dispone de una amplia gestión de derechos.\nSi los datos de los eventos deben ser procesados posteriormente, pueden ser descargados e importados en pocos segundos. Por ejemplo, en Excel o en un CRM.\nReducir la tasa de NoShow significativamente. Basta con enviar a los clientes un recordatorio por correo electrónico o SMS en momentos definidos por ellos mismos. Es mejor tener un cliente que cancela que un cliente que no se presenta de todos modos.",
+		"title": "¿Por qué reservar en línea con Bookingflix?"
+	}
+}

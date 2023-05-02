@@ -1,0 +1,33 @@
+{
+	"button": {
+		"error": "Introduzca un texto de botón de más de tres caracteres",
+		"info": "Establezca el texto del botón de invitación a reservar. Su cliente debe hacer clic en este botón para reservar la cita.",
+		"title": "Texto del botón de la invitación a reservar"
+	},
+	"color": {
+		"info": "Seleccione el color de acento de la interfaz de su formulario y calendario de citas. Por ejemplo, puede utilizar aquí su color corporativo principal.",
+		"title": "Color de la agenda"
+	},
+	"info": {
+		"button": {
+			"default": "Todo claro",
+			"text": "Mensaje de confirmación del botón"
+		},
+		"description": {
+			"default": "Estimados clientes, les invitamos a reservar una cita ahora. Sólo tiene que seleccionar la fecha deseada y rellenar el siguiente formulario.",
+			"text": "Texto informativo"
+		},
+		"startup": {
+			"text": "Es necesario confirmarlo"
+		},
+		"text": "Adjuntar información del calendario"
+	},
+	"name": {
+		"error": "Introduzca un texto de más de tres caracteres",
+		"info": "Introduzca un título para el calendario. En él se debe indicar qué tipo de cita se puede reservar con el formulario. Ej: Consulta individual, sesión de fotos, entrenamiento de prueba o similar.",
+		"placeholder": "Por ejemplo, entrevista de asesoramiento individual",
+		"title": "Título del calendario"
+	},
+	"preview": "Vista previa de un ejemplo de formulario",
+	"title": "diseño"
+}

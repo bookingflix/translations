@@ -1,0 +1,36 @@
+{
+	"description": "What does Bookingflix bring me?",
+	"parts": [
+		{
+			"detailHeader": "in 10 minutes on your website",
+			"detailHeaderTop": "Your ready appointment form",
+			"detailText": "Simply enter your information via the Quickstart and immediately embed the form on your website. Free of charge and in 10 minutes.",
+			"text": "fast and easy setup"
+		},
+		{
+			"detailHeader": "More time for your work.",
+			"detailHeaderTop": "Efficient appointment scheduling -",
+			"detailText": "Take appointments around the clock without having to make phone calls. With Bookingflix you and your customers save time when making appointments.",
+			"text": "work more efficiently"
+		},
+		{
+			"detailHeader": "no more forgotten appointments!",
+			"detailHeaderTop": "Through automatic reminders",
+			"detailText": "Increase your appointment reliability with automated appointment reminders via SMS to your customers....",
+			"text": "Greater reliability"
+		},
+		{
+			"detailHeader": "uncomplicated appointment creation",
+			"detailHeaderTop": "New customer acquisition through",
+			"detailText": "Book appointments at any time and from anywhere - even via smartphone. Make it easy for your customers to get in touch with you.",
+			"text": "get more customers"
+		},
+		{
+			"detailHeader": "the latest standards",
+			"detailHeaderTop": "Datensicherheit nach",
+			"detailText": "Multiple daily storage of appointment and customer data on separate servers, HTTPS encryption and DSGVO compliant. Your data is safe with us!",
+			"text": "privacy conform"
+		}
+	],
+	"title": "Benefits"
+}

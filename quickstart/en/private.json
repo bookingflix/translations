@@ -1,0 +1,16 @@
+{
+	"email": {
+		"info": "Be informed about incoming messages by e-mail",
+		"text": "With this email we send important information about the appointment calendar {name}.\n\nlink of the appointment booking page:\n---------------------------------\n{bookingLink}\n---------------------------------\n\nLink to edit* the appointment calendar:\n---------------------------------\n{editLink}\n*Password: {password}\n---------------------------------\n\nOverview PDF with all info:\n---------------------------------\n{PDFLink}\n---------------------------------\n\n.",
+		"title": "Email address of the appointment manager",
+		"warning": "Please enter a correct email address"
+	},
+	"password": {
+		"info": "Password protection is optional",
+		"title": "Access password of the appointment calendar"
+	},
+	"save": {
+		"button": "Create calendar now",
+		"info": "You will receive all further information sent to your email {email} "
+	}
+}

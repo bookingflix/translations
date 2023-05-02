@@ -1,0 +1,56 @@
+{
+	"appointment": {
+		"end": "appointment end",
+		"endConflict": "Appointment end must be after the start of the appointment!",
+		"remove": "Remove appointment | Remove all {count} appointments"
+	},
+	"back": "back",
+	"clock": "{time} a.m. | {time} p.m.",
+	"commitChanges": "Apply change | apply {count} changes",
+	"dates": {
+		"copy": {
+			"day": "Copy tag",
+			"to": "Copy entries to ..."
+		}
+	},
+	"months": {
+		"1": "January",
+		"2": "February",
+		"3": "March",
+		"4": "April",
+		"5": "May",
+		"6": "June",
+		"7": "July",
+		"8": "August",
+		"9": "September",
+		"10": "October",
+		"11": "November",
+		"12": "December"
+	},
+	"save": "save",
+	"timeDifference": {
+		"beforeXDays": " {days} days ago",
+		"beforeXMonths": " {months} months ago",
+		"beforeXYears": "{years} ago",
+		"dayAfterTomorrow": "The day after tomorrow",
+		"inXDays": "in {days} days",
+		"inXMonths": "in {months} months",
+		"inXYears": "in {years} years",
+		"lastMonth": "Last month",
+		"lastYear": "last year",
+		"nextMonth": "next month",
+		"nextYear": "next year",
+		"today": "today",
+		"tomorrow": "Tomorrow",
+		"yesterday": "yesterday"
+	},
+	"weekdays": {
+		"1": "Monday",
+		"2": "Tuesday",
+		"3": "Wednesday",
+		"4": "Thursday",
+		"5": "Friday",
+		"6": "Saturday",
+		"7": "Sunday"
+	}
+}

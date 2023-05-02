@@ -1,0 +1,201 @@
+{
+	"benefits": {
+		"items": {
+			"01": "great time saving\nFor both sides. Scheduling takes only seconds. The customer also changes or cancels the appointment independently.",
+			"02": "Focus on the essentials and spare your nerves\nTelephone interruptions are a nuisance in everyday work. Online, it's faster, easier and easier on the nerves.",
+			"03": "Increase appointment reliability\nUse the automatic reminders via email and SMS. By the way, most customers appreciate this extra service.",
+			"04": "Digitally up to date\nAppointment tools have become a popular standard. Customers expect modern digital services.",
+			"05": "Optimize workflow\nThe customer books and manages the appointment herself. The appointment data is clearly displayed in your dashboard."
+		},
+		"title": "Your advantages in a nutshell"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "How much does Bookingflix cost per month?",
+				"url": ""
+			},
+			"11": {
+				"title": "What notice period do I have to observe?",
+				"url": ""
+			},
+			"12": {
+				"title": "Can the customer manage the booking himself (change appointment, cancel)",
+				"url": ""
+			},
+			"13": {
+				"title": "Can the email texts be customized?",
+				"url": ""
+			},
+			"14": {
+				"title": "Can the system mails (acceptance, rejection) be sent from your own mail address?",
+				"url": ""
+			},
+			"15": {
+				"title": "What happens to the appointment data after the appointment?",
+				"url": ""
+			},
+			"16": {
+				"title": "Can I cancel appointments, delete appointments or cancel the customer after the fact?",
+				"url": ""
+			},
+			"17": {
+				"title": "Which appointment booking calendar is best for my business?",
+				"url": ""
+			},
+			"18": {
+				"title": "How long does it take to book appointments for my clients?",
+				"url": ""
+			},
+			"19": {
+				"title": "How do I synchronize my default calendar with Bookingflix calendar?",
+				"url": ""
+			},
+			"20": {
+				"title": "How can I set vacation times?",
+				"url": ""
+			},
+			"21": {
+				"title": "How do I contact the client before the appointment?",
+				"url": ""
+			},
+			"22": {
+				"title": "I would like to create a short note for the customer appointment. How do I do that?",
+				"url": ""
+			},
+			"23": {
+				"title": "Can the appointment data be downloaded for further processing?",
+				"url": ""
+			},
+			"24": {
+				"title": "How do I get customer feedback about Bookingflix? Is that automatic?",
+				"url": ""
+			},
+			"25": {
+				"title": "Can I offer different services through the calendar?",
+				"url": ""
+			},
+			"01": {
+				"title": "Does Bookingflix have a rights management, so that the respective representative can take over the appointment management?",
+				"url": ""
+			},
+			"02": {
+				"title": "What exactly happens when a customer cancels their appointment?",
+				"url": ""
+			},
+			"03": {
+				"title": "Can appointment bookings be confirmed automatically?"
+			},
+			"04": {
+				"title": "Can appointments be entered manually for the customer?",
+				"url": ""
+			},
+			"05": {
+				"title": "What support do we get within the scope of use?",
+				"url": ""
+			},
+			"06": {
+				"title": "Can the premium account also be paid by invoice instead of direct debit?",
+				"url": ""
+			},
+			"07": {
+				"title": "Can appointment reminders be sent before the appointment, at a specific time?",
+				"url": ""
+			},
+			"08": {
+				"title": "How do I set up the appointment reminders?",
+				"url": ""
+			},
+			"09": {
+				"title": "What is the cost of appointment reminders via SMS and how do I book them?",
+				"url": ""
+			}
+		},
+		"title": "Relevant FAQ for your industry"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "More info communicate within the booking",
+				"url": ""
+			},
+			"11": {
+				"title": "Appointment reminders",
+				"url": ""
+			},
+			"12": {
+				"title": "Easily integrate appointment booking calendar on your own website",
+				"url": ""
+			},
+			"13": {
+				"title": "Appointment booking website usable even without own website",
+				"url": ""
+			},
+			"14": {
+				"title": "Create appointment notes for appointments and customers",
+				"url": ""
+			},
+			"15": {
+				"title": "Vacations and vacations adjustable",
+				"url": ""
+			},
+			"16": {
+				"title": "Several dates per appointment slot bookable",
+				"url": ""
+			},
+			"17": {
+				"title": "Obtain customer reviews automatically",
+				"url": ""
+			},
+			"18": {
+				"title": "Synchronization with standard Google, Apple and Microsoft calendars",
+				"url": ""
+			},
+			"01": {
+				"title": "Appointment booking according to DSGVO standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Germany",
+				"url": ""
+			},
+			"03": {
+				"title": "Appointment booking calendar for fixed opening hours",
+				"url": ""
+			},
+			"04": {
+				"title": "Better overview of the appointment status (commitment, cancellation, not yet confirmed)",
+				"url": ""
+			},
+			"05": {
+				"title": "Different appointment durations can be set. E.g. 30 minutes or two hours",
+				"url": ""
+			},
+			"06": {
+				"title": "Rights management for appointment management by responsible employee",
+				"url": ""
+			},
+			"07": {
+				"title": "Individual email texts of the system emails",
+				"url": ""
+			},
+			"08": {
+				"title": "Have appointments confirmed automatically",
+				"url": ""
+			},
+			"09": {
+				"title": "Simply change or cancel appointments",
+				"url": ""
+			}
+		},
+		"title": "Particularly relevant functions and features for your industry"
+	},
+	"main": {
+		"description": "Insurance companies use Bookingflix for sales and new customer acquisition as well as for making appointments with their existing customers.\nFor new customer acquisition, the agent sends the link to the appointment booking calendar to potential new customers as part of a mailing or info mail.\nAlso on brochures or on business cards the link to the Bookingflix calendar should be printed. This gives the customer another channel to contact the insurance representative or make an appointment. And an appointment is still the gold standard for a successful conclusion. Existing customers also need an appointment with their insurance office in the event of a claim or if they need new coverage. With just a few clicks, customers can book a free appointment slot and then manage it themselves. Changes and cancellations of appointments do not have to be discussed on the phone. This saves time for both the policyholder and the insurance provider.",
+		"title": "Insurances"
+	},
+	"sub": {
+		"description": "Acquiring new customers is a challenge for professionals. It's all about trust and as many, different points of contact as possible. That can be a write-off, an email, a phone call, an ad in the zietung, positive reviews and recommendations. It can also be making it as easy and quick as possible to book an appointment. The customer sees the advertisement of the insurance office and urgently needs an appointment for a new insurance. However, he is very reluctant to make a phone call. And yes, that does exist. In fact, it's on the rise. Many young people only make phone calls when there's really no other way. If possible, they do everything online. Of course, that includes booking appointments online with their smartphones. Here, an insurance office that offers online appointment booking via an appointment tool has a real competitive advantage.\nThe customer clicks on the free desired appointment, enters the customer data and the appointment is booked. Even the appointment confirmation is sent, optionally and immediately, by Bookingflix. No waiting in the queue. No tuning possible appointment options, no discussing an answering machine. There are customers who don't do that. These customers prefer to book an appointment with the competition.\nThe customer also takes over the administration of the booked appointment completely. A change or cancellation of the appointment can be necessary in the hectic everyday life from time to time. To do this, the customer no longer has to call or write an email. Using the personal appointment link, changing or canceling an appointment is a matter of seconds. The appointment reminder by handwritten email or by phone call is also omitted for the insurance office. Bookingflix does it automatically at predefined times. And if several colleagues need their own appointment booking calendar, this can be set up quickly. Optionally usable with a rights management. So that only the appointment data are visible, which were released, respectively are relevant.\nThe appointment booking calendar can be integrated into your own website. Alternatively, an independent micro website is generated with each appointment booking calendar. This contains the booking calendar and can be customized. The link is then only sent to the customer, who can book an appointment directly on the website.\nIn addition to accessibility, trust is a great value for insurance companies and their customers. Therefore, an after-sale email can be sent to the customer after the appointment. In this, an evaluation is requested fully automatically. This can be given by the customer in the form of a text review as well as a star rating.\nOptionally, the Bookingflix calendar can be synchronized with the standard Google, Apple and Microsoft calendar. This synchronization works in both directions. Thus, the agent can view new appointments that have been booked via Bookingflix. This synchronizes immediately and fully automatically. But the other direction is also possible. Entered appointments in Google and Microsoft calendar are transferred to Bookingflix. Not the content or customer data of the appointment. Only the appointment times. Through this, these appointment times are blocked in the Bookingflix calendar. So if the agent has already entered an appointment in his smartphone calendar, this appointment slot will be blocked in the Bookingflix calendar immediately.",
+		"title": "Why online appointment booking with Bookingflix?"
+	}
+}

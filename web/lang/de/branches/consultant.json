@@ -1,0 +1,213 @@
+{
+	"benefits": {
+		"items": {
+			"01": "große Zeitersparnis\nFür beide Seiten. Die Terminierung dauert nur Sekunden. Auch die Terminänderung oder -Stornierung nimmt der Kunde eigenständig vor.",
+			"02": "Fokus auf das Wesentliche und Nerven schonen\nTelefonische Unterbrechungen stören im Arbeitsalltag. Online geht das schneller, einfacher und es schont die Nerven.",
+			"03": "Terminzuverlässigkeit steigern\nNutzen Sie dafür die automatischen Erinnerungen per Email und SMS. Diesen Extra-Service schätzen übrigens die meisten Kunden.",
+			"04": "Digital auf dem neuesten Stand\nTermin-Tools sind mittlerweile ein beliebter Standard. Kunden erwarten moderne digitale Services.",
+			"05": "Workflow optimieren\nDie Kundin bucht und verwaltet den Termin selbst. Die Termindaten werden übersichtlich in Ihrem Dashboard angezeigt."
+		},
+		"title": "Ihre Vorteile auf den Punkt"
+	},
+	"faq": {
+		"items": {
+			"10": {
+				"title": "Welche Kündigungsfrist muss ich beachten?",
+				"url": ""
+			},
+			"11": {
+				"title": "Kann der Kunde die Buchung selbst verwalten (Termin ändern, stornieren)",
+				"url": ""
+			},
+			"12": {
+				"title": "Können die Email-Texte individuell angepasst werden?",
+				"url": ""
+			},
+			"13": {
+				"title": "Können die System-Mails (Zusage, Absage) von der eigenen Mailadresse  aus versendet werden?",
+				"url": ""
+			},
+			"14": {
+				"title": "Was passiert mit den Termindaten nach dem Termin?",
+				"url": ""
+			},
+			"15": {
+				"title": "Kann ich Termine stornieren, löschen oder der Kundin nachträglich absagen?",
+				"url": ""
+			},
+			"16": {
+				"title": "Welcher Termin-Buchungs-Kalender ist für mein Business am besten geeignet?",
+				"url": ""
+			},
+			"17": {
+				"title": "Wie lange dauert die Terminbuchung für meine Kunden?",
+				"url": ""
+			},
+			"18": {
+				"title": "Kann ich Kundentermine auch händisch für meine Kunden eintragen?",
+				"url": ""
+			},
+			"19": {
+				"title": "Wie kann ich Ferien einstellen, an denen wir geschlossen haben?",
+				"url": ""
+			},
+			"20": {
+				"title": "Wie kontaktiere ich den Kunden vor dem Termin?",
+				"url": ""
+			},
+			"21": {
+				"title": "Ich möchte eine kurze Notiz zum Kundentermin anlegen. Wie geht das?",
+				"url": ""
+			},
+			"22": {
+				"title": "Können die Termindaten heruntergeladen werden zur weiteren Verarbeitung?",
+				"url": ""
+			},
+			"23": {
+				"title": "Wie erhalte ich Kundenfeedback über Bookingflix? Geht das automatisch?",
+				"url": ""
+			},
+			"24": {
+				"title": "Wie synchronisiere ich meinen Standard-Kalender mit dem Bookingflix-Kalender?",
+				"url": ""
+			},
+			"25": {
+				"title": "Wie erstelle ich eine Videokonferenz über Bookingflix?",
+				"url": ""
+			},
+			"26": {
+				"title": "Wie werden Überbuchungen verhindert?",
+				"url": ""
+			},
+			"01": {
+				"title": "Hat Bookingflix eine Rechteverwaltung, damit die jeweilige Abteilung die Termin-Verwaltung übernehmen kann?",
+				"url": ""
+			},
+			"02": {
+				"title": "Was passiert genau, wenn ein Kunde seinen Termin storniert?",
+				"url": ""
+			},
+			"03": {
+				"title": "Können Terminbuchungen automatisch bestätigt werden?"
+			},
+			"04": {
+				"title": "Können Termine händisch für den Kunden eingetragen werden?",
+				"url": ""
+			},
+			"05": {
+				"title": "Welchen Support bekommen wir im Rahmen der Nutzung?",
+				"url": ""
+			},
+			"06": {
+				"title": "Kann der Premium-Account auch per Rechnung bezahlt werden statt per Lastschrift?",
+				"url": ""
+			},
+			"07": {
+				"title": "Können vor dem Termin, zu einem bestimmten Zeitpunkt, Terminerinnerungen verschickt werden?",
+				"url": ""
+			},
+			"08": {
+				"title": "Was kosten die Terminerinnerungen per SMS?",
+				"url": ""
+			},
+			"09": {
+				"title": "Was kostet Bookingflix im Monat?",
+				"url": ""
+			}
+		},
+		"title": "Relevante FAQ für Ihre Branche"
+	},
+	"functions": {
+		"items": {
+			"10": {
+				"title": "Weitere Infos mitteilen im Rahmen der Buchung",
+				"url": ""
+			},
+			"11": {
+				"title": "Terminerinnerungen",
+				"url": ""
+			},
+			"12": {
+				"title": "Termin-Buchungs-Kalender einfach auf eigener Website einbinden",
+				"url": ""
+			},
+			"13": {
+				"title": "Termin-Buchungs-Website nutzbar auch ohne eigene Website",
+				"url": ""
+			},
+			"14": {
+				"title": "Termin-Notizen zu Terminen und Kunden anlegen",
+				"url": ""
+			},
+			"15": {
+				"title": "Feiertage und Ferien einstellbar",
+				"url": ""
+			},
+			"16": {
+				"title": "Mehrere Termine je Termin-Slot buchbar",
+				"url": ""
+			},
+			"17": {
+				"title": "Kundenbewertungen automatisch einholen",
+				"url": ""
+			},
+			"18": {
+				"title": "Synchronisation mit Standard-Kalender von Google, Apple und Microsoft",
+				"url": ""
+			},
+			"19": {
+				"title": "Videokonferenz-Tool",
+				"url": ""
+			},
+			"20": {
+				"title": "Termin-Notizen anlegen",
+				"url": ""
+			},
+			"01": {
+				"title": "Terminbuchung nach DSGVO-Standard",
+				"url": ""
+			},
+			"02": {
+				"title": "Server in Deutschland",
+				"url": ""
+			},
+			"03": {
+				"title": "Termin-Buchungs-Kalender für feste Öffnungszeiten",
+				"url": ""
+			},
+			"04": {
+				"title": "Besserer Überblick über den Terminstatus (Zusage, Absage, noch nicht bestätigt)",
+				"url": ""
+			},
+			"05": {
+				"title": "Unterschiedliche Termindauer einstellbar. Z. B. 30 Minuten oder zwei Stunden",
+				"url": ""
+			},
+			"06": {
+				"title": "Rechteverwaltung zur Termin-Verwaltung durch zuständige Mitarbeiterin",
+				"url": ""
+			},
+			"07": {
+				"title": "Individuelle Email-Texte der System-Mails",
+				"url": ""
+			},
+			"08": {
+				"title": "Termine automatisch bestätigen lassen",
+				"url": ""
+			},
+			"09": {
+				"title": "Termine einfach ändern oder absagen",
+				"url": ""
+			}
+		},
+		"title": "Besonders relevante Funktionen und Eigenschaften für Ihre Branche"
+	},
+	"main": {
+		"description": "Berater bieten ein reines Termingeschäft an. Ob Lebensberatung, Anlageberatung , Paarberatung, Rechtsberatung oder sonstige Dienstleistungen in diesem Bereich. Der Kunden, die Kundin bucht den Termin per Telefon, Email oder über ein Termin-Tool. Die Terminbuchung über ein Termin-Tool ist die modernste und zeitsparendste Art der Buchung. Für beide Seiten. Der Kunde muss nicht anrufen, der Berater muss nicht ans Telefon gehen. Der Kunde bucht den Termin-Slot, der ihm angezeigt wird und der für ihn persönlich am besten passt. Langwierige, nervige Terminabsprachen per Email oder per Telefon entfallen.\nOft ist der Berater, die Beraterin gerade im Gespräch mit einem anderen Klienten. Dann bleibt nur der Anrufbeantworter und der Rückruf. Das geht wesentlich besser. Und wichtige Fragen können nach der Online-Termin-Buchung immer noch geklärt werden. Über das Chat-Tool von Bookingflix oder auf die altmodische Art: per Telefon.",
+		"title": "Beratung"
+	},
+	"sub": {
+		"description": "Die Kunden erwarten moderne digitale Services mittlerweile. Spätestens mit der Corona-Pandemie haben alle Erfahrungen mit der Online-Termin-Buchung gemacht. Und waren oftmals positiv überrascht, wie schnell, einfach und unkompliziert dies funktionierte. Der Kunde, die Kundin klickt auf den gewünschten Termin, gibt Name, Emailadresse und vielleicht noch die Handynummer an. Und schon ist der Termin reserviert. Der Termin kann vom Dienstleister manuell bestätigt werden. Oder vollautomatisch vom System. Der Kunde erhält also just-in-time die Terminbestätigung nach der Terminbuchung und Termin-Verifizierung.\nDie gesonderte Terminverwaltung und der Eintrag ins Terminbuch oder den Terminkalender ist nicht mehr nötig. Denn mit der Buchung und Terminbestätigung sind alle Daten im persönlichen Dashboard von Bookingflix enthalten. Sogar eine Synchronisation mit den Standard-Kalendern von Microsoft, Apple und Google ist möglich. So ist immer ein sofortiger Abgleich der Termindaten gewährleistet.\nDer Kunde, die Kundin kann den Termin übrigens ebenfalls online verwalten. Terminänderungen, Terminstornierungen oder eine Rückfrage an den Berater. Alles mit wenigen Klicks über den persönlichen Termin-Link und den Kunden-Login-Bereich möglich. Nach dem Termin erhalten Ihre Besucher optional eine After-Sale-Email. In dieser Email ist ein Link aufgeführt, der die Kunden zu einer kurzen Online-Kunden-Befragung führt. So können Ihre Kunden eine Bewertung zur erfolgten Beratung abgeben. Sie erhalten dadurch wertvolles Feedback und können diese Bewertungen, ebenfalls optional, auf Ihrer Website veröffentlichen. Das stärkt das Vertrauen bei den nachfolgenden Beratungen. Beratungen per Videokonferenz sind auch möglich. Ein Videokonferenz-Tool ist bei Bookingflix bereits integriert. So erhält der buchende Kunde direkt mit der Email-Terminbestätigung den Link zur Videokonferenz. Der Berater sieht den Link im Dashboard aufgeführt. Von dort kann er die Videokonferenz auch beginnen.\nTermin-Notizen sind eine praktische Funktion, um Infos zu den verschiedenen Kunden und den Termin zu hinterlegen. Diese finden sich beim jeweiligen Termin und können jederzeit geändert und neu angelegt werden.",
+		"title": "Warum Online-Termin-Buchung mit Bookingflix?"
+	}
+}

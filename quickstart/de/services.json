@@ -1,0 +1,41 @@
+{
+	"description": {
+		"info": "Sie können optional eine Beschreibung für diese Dienstleistungen anfügen.",
+		"title": "Beschreibung (optional)"
+	},
+	"duration": {
+		"info": "Geben Sie die übliche Dauer der Dienstleistung an. Bei einer Terminbuchung wird in Ihrem Terminkalender der entsprechende Zeitraum geblockt.",
+		"title": "Dauer"
+	},
+	"editor": {
+		"add": "{count} Dienstleistung hinzufügen",
+		"close": "Bearbeitung schließen",
+		"copy": "Dienstleistung duplizieren",
+		"delete": "Dienstleistung löschen"
+	},
+	"image": {
+		"add": "Bild hinzufügen",
+		"info": "Sie können optional ein Bild Ihrer Dienstleistung hochladen.",
+		"upload": "Bild hochladen"
+	},
+	"name": {
+		"info": "Geben Sie den Titel der Dienstleistung an.",
+		"title": "Titel"
+	},
+	"price": {
+		"description": "EUR",
+		"info": "Geben Sie den Preis der Dienstleistung an.",
+		"title": "Preis (optional)"
+	},
+	"tags": {
+		"add": "Kategorie hinzufügen",
+		"category": "Dienstleistungskategorie",
+		"close": "schließen",
+		"info": "Zur besseren Organisation Ihrer Angebote und Dienstleistungen können Sie Tags vergeben. Sie können bspw. Ihren geöffneten Geschäftstagen verschiedene Tags zuweisen, um Ihre Dienstleistungen komfortabel an verschiedenen Tagen anzubieten. Außerdem können Sie in Ihrem Terminkalender Ihre Termine nach Ihren selbstgewählten Parametern filtern. Beispielanwendungen: - Tags für Ihre Mitarbeitenden, Anna übernimmt nur Styling und Erik übernimmt nur Damenhaarschnitte. (Tags: Anna, Erik) - Tags für wochentagsbezogene Dienstleistungen, z. B. Stylingtermine werden grundsätzlich nur Freitags durchgeführt. (Tag: Freitag)",
+		"save": "speichern",
+		"select": "Bitte auswählen",
+		"title": "Kategorie"
+	},
+	"title": "Dienstleistungen",
+	"withService": "mit Leistungen"
+}

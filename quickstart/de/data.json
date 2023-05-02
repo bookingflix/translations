@@ -1,0 +1,54 @@
+{
+	"button": "jetzt Termin buchen",
+	"form": [
+		{
+			"title": "Terminbuchung"
+		},
+		{
+			"title": "Um eine Terminbuchung vormerken zu lassen,  werden folgende Angaben benötigt. Alle Pflichtfelder sind mit Sternchen markiert. Nach dem Ausfüllen des Formulars wird direkt vom System eine Verifizierungs-Email gesendet. Eine endgültige Terminzusage / Absage kann erst nach erfolgreicher Verifizierung erfolgen."
+		},
+		{
+			"title": "Ihre Kontaktdaten"
+		},
+		{
+			"title": "Vorname"
+		},
+		{
+			"title": "Nachname"
+		},
+		{
+			"info": "für Terminerinnerungen",
+			"title": "E-Mailadresse"
+		},
+		{
+			"info": "für Terminerinnerungen (optional)",
+			"title": "Handynummer"
+		},
+		{
+			"info": "optional",
+			"title": "Freitextfeld für Anmerkungen / Infos an den Dienstleister"
+		},
+		{
+			"title": "Datenschutz"
+		},
+		{
+			"info": "Sie haben die Möglichkeit jederzeit Ihre Einwilligung zur Verwendung der persönlichen Daten zu widerrufen.",
+			"options": [
+				{
+					"info": "Einwilligung personenbezogener Daten",
+					"title": "Ich stimme der Erhebung meiner personenbezogenen Daten (siehe Formular) zu"
+				},
+				{
+					"info": "Kontaktaufnahme Terminabstimmung",
+					"title": "Ich stimme der Kontaktaufnahme zwecks Terminabstimmung zu"
+				},
+				{
+					"info": "Richtigkeit Angaben",
+					"title": "Ich bestätige die Richtigkeit meiner Angaben"
+				}
+			],
+			"title": "Datenschutz-Informationen (Bitte bestätigen)"
+		}
+	],
+	"question": "Wie bewerten Sie unsere Dienstleistung?"
+}
