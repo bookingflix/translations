@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***partager***.\n2. Cliquez sur ***Utiliser l'agenda sur le calendrier Google***, ***Android***, ***iPhone*** etc.\n3. Sélectionnez l'agenda de réservation que vous souhaitez synchroniser avec votre calendrier standard de Google, Microsoft ou Apple.\n4. Copiez le lien ics. L'ajouter ensuite dans votre calendrier standard de Google, Microsoft ou Apple. Ceci permet de transférer tous les rendez-vous confirmés de Bookingflix vers le calendrier standard correspondant.\n5. Les instructions pour insérer le lien ics se trouvent sous celui-ci.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild95.webp",
+		"2": "bild96.webp"
 	},
-	"title": ""
+	"title": "Exportation automatique des rendez-vous vers les calendriers Google, Microsoft, Apple"
 }

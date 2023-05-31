@@ -1,7 +1,7 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\nChaque jour, à 20 heures, vous recevez un e-mail avec les rendez-vous du lendemain.\n1. Cliquez sur le lien dans l'e-mail pour consulter les dates de rendez-vous dans le tableau de bord.",
 	"img": {
-		"1": ""
+		"1": "bild31.webp"
 	},
-	"title": ""
+	"title": "Aperçu des rendez-vous par e-mail"
 }

@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Agenda de citas***.\n2. Haga clic en ***Editar calendario de citas*** o en ***Crear nuevo calendario de citas***. \n3. Haga clic en ***Configuración*** en el Inicio rápido (generador para crear un calendario de reservas de citas). Si va a crear una nueva agenda de reservas, primero deberá realizar los pasos anteriores. El asistente de inicio rápido le guiará paso a paso hasta el calendario de reservas que necesita.\n4. Seleccione ***Sí*** si desea que las nuevas solicitudes de cita se confirmen automáticamente. El cliente recibirá inmediatamente una confirmación de la cita una vez verificada.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild97.webp",
+		"2": "bild98.webp"
 	},
-	"title": ""
+	"title": "Confirmación de citas de manera automática"
 }

@@ -1,10 +1,10 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Agenda de citas*** y, en seguida, en ***Sitio web de reserva de citas***. \n2. Seleccione la agenda de citas que desee.\n3. Para acceder al sitio web de reserva de citas, utilice el código QR y el enlace rojo. Haga clic en el código QR para ampliarlo.\n4. Haga clic en ***Restaurar sitio web de reserva de citas predefinido*** para borrar todos los cambios anteriores. \n5. Haga clic en ***Editar sitio web de reserva de citas*** para realizar cambios.\n6. Haga clic en las flechas blancas para abrir el menú de servicio.\n7. Haga clic en **Editar diseño** para abrir la vista de edición del diseño. Utilice el enlace ***Añadir elementos de diseño*** para añadir elementos estándares de diseño.\n8. Haga clic en las flechas blancas para cambiar el orden de los elementos de diseño.\n9. Haga clic directamente en un elemento de diseño para ajustar el contenido del elemento.\n10. Haga clic en la cruz roja para borrar el elemento de diseño. Puede volver a añadir elementos estándares de diseño a través del enlace ***Añadir elementos de diseño*** del menú de servicio.\n11. Haga clic en los corchetes para editar el código HTML de la página.\n12. Haga clic en ***Guardar diseño*** si desea que la edición se aplique. Haga clic en el enlace Salir del editor para salir del modo de edición.\n\nLos datos del perfil sobre el pie de imprenta, la protección de datos y del Contrato de Adhesión (CGC) se transfieren automáticamente al sitio web de reserva de citas. Es posible modificar los datos individualmente. Haga clic en el campo con borde azul en imprint, privacy o terms. Borre :imprintTXT, :privacyTXT, :termsTXT. A continuación, se puede introducir los datos en el lugar deseado.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": ""
+		"1": "bild27.webp",
+		"2": "bild28.webp",
+		"3": "bild29.webp",
+		"4": "bild30.webp"
 	},
-	"title": ""
+	"title": "Editar el sitio web de reserva de citas"
 }

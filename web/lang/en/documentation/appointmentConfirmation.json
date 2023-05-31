@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***Appointment Calendar***.\n2. Click on ***Edit appointment calendar*** or on ***Create new appointment calendar***.\n3. Click ***Settings*** in the Quick-Start (generator for creating an appointment booking calendar). If you are creating a new appointment booking calendar, the previous steps must be edited first. The Quick-Start Wizard will guide you step by step to the appointment-booking calendar you need.\n4. Select ***Yes*** if you want new appointment requests to be automatically confirmed. The customer will then immediately receive an appointment confirmation after verification.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild97.webp",
+		"2": "bild98.webp"
 	},
-	"title": ""
+	"title": "Automatic appointment confirmation"
 }

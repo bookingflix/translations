@@ -1,7 +1,7 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\nYou will receive an email every day at 8pm with the next day's appointments.\n1. Click on the link in the email to view the appointment data in the dashboard.",
 	"img": {
-		"1": ""
+		"1": "bild31.webp"
 	},
-	"title": ""
+	"title": "Appointment overview by email"
 }

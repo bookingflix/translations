@@ -1,8 +1,8 @@
 {
-  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termine***.\n2. Klicken Sie auf ***Termin hinzufügen***. Alternativ können Sie einen Termin auch über die Terminübersicht hinzufügen.\n3. Wählen Sie den gewünschte Termin-Buchungs-Kalender aus.\n4. Sie können den Termin händisch über das Formular eingeben oder dafür den Termin-Kalender nutzen.\n5. Klicken Sie auf ***Wiederholung hinzufügen***, wenn Serientermine in gleichbleiben Abständen eingestellt werden sollen.\n6. Klicken Sie auf ***Überprüfe Termin***, um eine eventuelle Überbuchung zu verhindern. Falls bereits ein Termin eingetragen ist, erhalten Sie eine Fehlermeldung.",
-  "img": {
-    "1": "bild19.webp",
-    "2": "bild20.webp"
-  },
-  "title": "Termine händisch eintragen"
+	"description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termine***.\n2. Klicken Sie auf ***Termin hinzufügen***. Alternativ können Sie einen Termin auch über die Terminübersicht hinzufügen.\n3. Wählen Sie den gewünschte Termin-Buchungs-Kalender aus.\n4. Sie können den Termin händisch über das Formular eingeben oder dafür den Termin-Kalender nutzen.\n5. Klicken Sie auf ***Wiederholung hinzufügen***, wenn Serientermine in gleichbleiben Abständen eingestellt werden sollen.\n6. Klicken Sie auf ***Termin überprüfen***, um eine eventuelle Überbuchung zu verhindern. Falls bereits ein Termin eingetragen ist, erhalten Sie eine Fehlermeldung.",
+	"img": {
+		"1": "bild19.webp",
+		"2": "bild20.webp"
+	},
+	"title": "Termine händisch eintragen"
 }

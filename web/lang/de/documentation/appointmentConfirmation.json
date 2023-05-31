@@ -1,8 +1,8 @@
 {
-  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termin-Kalender***.\n2. Klicken Sie auf ***Termin-Kalender bearbeiten*** oder auf ***Termin-Kalender neu erstellen***.\n3. Klicken Sie im Quick-Start (Generator zur Erstellung eines Termin-Buchungs-Kalenders) auf ***Einstellungen***. Falls Sie einen neuen Termin-Buchungs-Kalender anlegen, müssen erst die vorherigen Schritte bearbeitet werden. Der Quick-Start-Assistent führt Sie Schritt für Schritt zum benötigten Termin-Buchungs-Kalender.\n4. Wählen Sie ***Ja*** aus, wenn neue Termin-Anfragen automatisch zugesagt werden sollen. Der Kunde erhält dann sofort eine Termin-Bestätigung nach erfolgter Verifizierung.",
-  "img": {
-    "1": "bild97.webp",
-    "2": "bild98.webp"
-  },
-  "title": "Automatische Termin-Bestätigung"
+	"description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termin-Kalender***.\n2. Klicken Sie auf ***Termin-Kalender bearbeiten*** oder auf ***Termin-Kalender neu erstellen***.\n3. Klicken Sie im Quick-Start (Generator zur Erstellung eines Termin-Buchungs-Kalenders) auf ***Einstellungen***. Falls Sie einen neuen Termin-Buchungs-Kalender anlegen, müssen erst die vorherigen Schritte bearbeitet werden. Der Quick-Start-Assistent führt Sie Schritt für Schritt zum benötigten Termin-Buchungs-Kalender.\n4. Wählen Sie ***Ja*** aus, wenn neue Termin-Anfragen automatisch zugesagt werden sollen. Der Kunde erhält dann sofort eine Termin-Bestätigung nach erfolgter Verifizierung.",
+	"img": {
+		"1": "bild97.webp",
+		"2": "bild98.webp"
+	},
+	"title": "Automatische Termin-Bestätigung"
 }

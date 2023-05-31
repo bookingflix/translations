@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "You are in the dashboard/ appointment calendar/ recreate appointment calendar.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on the plus icon to add a new form field.\n2. Click on the form field ***group booking***.\n3. Accept the given text or change it if you want.\n4. Specify the maximum number of people a group can have. If you choose ***Automatic*** Bookingflix will calculate the maximum number of persons available for the respective appointment slot. However, overbooking is not possible even if you select ***Individual***. Bookingflix always calculates if there are enough remaining slots.\n5. You can insert a hint text. This text will appear below the form field.\n6. The form field group booking can be defined as mandatory field.\n7. All dates are listed in the date overview.\n8. Whether individual or group appointment as well as the group size is displayed below the date and time.\n9. The number of participants can be subsequently changed via the ***Edit participants*** button.\n\nOverbooking is also not possible in the dashboard. You will receive an error message if there are not enough free places bookable.\n\nIf you change the number to \"1\", the status changes from group booking to individual booking.\n\nChanges to the booking can only be made subsequently by you, i.e. the organizer, and the person who made the group booking for all participants.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild82.webp",
+		"2": "bild83.webp",
+		"3": "bild84.webp"
 	},
-	"title": ""
+	"title": "Form field group booking"
 }

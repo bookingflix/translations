@@ -1,10 +1,10 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. immediately after booking the appointment the customer will receive an email with the appointment link. This link is included in both the verification email and the appointment confirmation email. The verification is therefore carried out via this link. But the customer also gets to the customer login area through this.\n2. via the link ***edit appointment/cancellation***, the customer can change or cancel the appointment.\n3. the current status of the appointment booking is displayed in the yellow, green and red colors: open, confirmed, cancelled.\n4) By clicking the button ***Log in to personal appointment overview***, the customer gets to the login area. A password must be selected beforehand. To do this, the customer clicks on ***Set up access to appointment overview***. 5.\nThe customer will find new messages in the message center. 6.\nThe customer can view upcoming and past appointments via the two upper tabs. 7.\nIn the calendar view, all appointments are marked with a green square. This takes the customer directly to the appointment in question.\nBelow the calendar view, the customer can find all appointments. Via the service menu, the QR booking code and the appointment data can be viewed or the appointment can be changed or canceled.\n9. possible options: View QR booking code, view appointment data, change appointment, cancel appointment, cancel appointment reminder, contact service provider, book new appointment.\n10. the customer can rate the appointments, if you have preset this when creating the appointment booking calendar. The customer will receive a message about this and other important information via the bell. In case of new messages, the bell is marked with a red dot.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": ""
+		"1": "bild35.webp",
+		"2": "bild36.webp",
+		"3": "bild37.webp",
+		"4": "bild38.webp"
 	},
-	"title": ""
+	"title": "Appointment link and customer login area"
 }

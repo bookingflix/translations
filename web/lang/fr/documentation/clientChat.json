@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Message***.\n2. La couleur bleue indique les messages non lus. Les messages que vous avez déjà lus s'affichent en blanc. Le chiffre vous indique le nombre de messages.\n3. Cliquez sur le message pour ouvrir la fenêtre de chat. Vous y verrez ensuite toutes les données de rendez-vous et pourrez répondre directement au message. Votre client est informé par e-mail de la réception quand il reçoit un nouveau message. Vous aussi, vous recevez un e-mail en cas de nouveau message.\n4. Cliquez sur ***Ajouter un message*** pour envoyer un message à un ou plusieurs clients.\n5. Sélectionnez d'abord un agenda.\n6. Sélectionnez à quel(s) client(s)  vous souhaitez envoyer un message.\n7. Vous pouvez également sélectionner tous les clients dans l'agenda de réservation correspondant. Dans ce cas, chaque client reçoit le même message.\n\nVous pouvez également accéder à la fenêtre de chat via l'aperçu des rendez-vous et des clients.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild57.webp",
+		"2": "bild58.webp"
 	},
-	"title": ""
+	"title": "Centrale d'information avec chat client"
 }

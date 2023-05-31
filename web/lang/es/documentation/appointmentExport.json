@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Compartir***.\n2. Haga clic en ***Utilizar agenda de citas en Google calendar***, ***Android***, ***iPhone*** etc.\n3. Seleccione la agenda de citas que desea sincronizar con su calendario estándar de Google, Microsoft o Apple.\n4. Copia el enlace ics. A continuación, añade el enlace a su calendario estándar de Google, Microsoft o Apple. Así se transferirán todas las citas confirmadas de Bookingflix al calendario estándar correspondiente. \n5. Las instrucciones para insertar el enlace se encuentran debajo del enlace ics.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild95.webp",
+		"2": "bild96.webp"
 	},
-	"title": ""
+	"title": "Exportación de citas a calendarios de Google, Microsoft y Apple de forma automática"
 }

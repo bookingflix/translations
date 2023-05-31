@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en  ***Calendario de citas***.\n2. Haga clic en ***Editar calendario de citas*** o en ***Crear nuevo calendario de citas***.\n3. Haga clic en ***Configuración*** en el Inicio rápido (generador de calendarios de citas). Al crear un nuevo calendario de citas, se deben seguir los pasos anteriores. El asistente de inicio rápido le guiará paso a paso hasta el calendario de citas que necesita.\n4. De forma opcional, puede introducir el nombre y la dirección de correo electrónico de una persona de contacto. Estos datos aparecerán en el correo electrónico de confirmación de la cita. Cuando el cliente responde al correo electrónico de confirmación de la cita, la dirección de correo electrónico de la persona de contacto establecida se introduce automáticamente como destinatario. La persona de contacto puede ser, por ejemplo, un miembro responsable del personal.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild55.webp",
+		"2": "bild56.webp"
 	},
-	"title": ""
+	"title": "Nombre y dirección de correo electrónico de la persona de contacto"
 }

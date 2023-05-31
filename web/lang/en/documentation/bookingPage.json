@@ -1,10 +1,10 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***Appointment Calendar*** and then on ***Appointment Booking Website***.\n2. Select the appointment booking calendar you want.\n3. Via the QR code and the red link, you can reach the appointment booking website. Click on the QR code to enlarge it.\n4. Click ***Restore default appointment booking website*** to delete all previous changes.\n5. Cick ***Edit appointment booking website*** to make changes.\n6. Click on the white arrows to open the service menu.\n7. Click **Edit Layout** to open the layout editing view. Use the ***Add Design Elements*** link to add default design elements.\n8. Click the white arrows to change the order of the design elements.\n9. Click directly on a design element to customize the content of the element.\n10. Click the red cross to delete the design element. Use the ***Add Design Elements*** link in the Service menu to add default design elements back.\n11. Click the curly brackets to edit the HTML code of the page.\n12. Click ***Save Layout*** if you want to apply the editing. Use the Exit Editor link to exit the editing mode.\n\nThe profile details for the imprint, data protection and T&Cs are automatically transferred to the appointment booking website. If you want to change the information individually, this is possible. Click on the blue bordered field at imprint, privacy or terms. Delete :imprintTXT, :privacyTXT, :termsTXT. Afterwards, the information can be entered in the desired place.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": ""
+		"1": "bild27.webp",
+		"2": "bild28.webp",
+		"3": "bild29.webp",
+		"4": "bild30.webp"
 	},
-	"title": ""
+	"title": "Edit appointment booking website"
 }

@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le Tableau de bord/ Agenda/ Créer un nouvel agenda.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur le symbole plus pour ajouter un nouveau champ de formulaire.\n2. Cliquez sur le champ de formulaire ***Réservation de groupe***.\n3. Appliquez le texte prédéfini ou modifiez-le si vous le souhaitez.\n4. Indiquez le nombre maximal de personnes que peut compter un groupe. Si vous sélectionnez ***Automatiquement***, Bookingflix calcule le nombre maximum de personnes pour le créneau horaire en question. Une surréservation n'est toutefois pas possible, même si vous sélectionnez ***Individuel***. Bookingflix calcule toujours s'il reste suffisamment de places disponibles.\n5. Il est possible d'insérer un texte de mention explicative. Celui-ci apparaît en dessous du champ de formulaire.\n6. Le champ de formulaire Réservation de groupe peut être défini comme champ obligatoire.\n7. Tous les rendez-vous sont indiquées dans l'aperçu des rendez-vous.\n8. Le rendez-vous individuel, le rendez-vous de groupe et la taille du groupe sont indiqués en dessous de la date et l'heure.\n9. Le bouton ***Modifier les participants*** permet de modifier le nombre de participants ultérieurement.\n\nUne surréservation n'est pas non plus possible dans le tableau de bord. Vous recevez un message d'erreur s'il n'y a pas assez de places libres à réserver.\n\nSi vous modifiez le nombre à \"1\", le statut de réservation de groupe passe à réservation individuelle.\n\nVous seul, c'est-à-dire l'organisateur, et la personne qui a effectué la réservation de groupe pour tous les participants, pouvez apporter des modifications à la réservation ultérieurement.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild82.webp",
+		"2": "bild83.webp",
+		"3": "bild84.webp"
 	},
-	"title": ""
+	"title": "Champ de formulaire réservation de groupe"
 }

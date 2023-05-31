@@ -1,7 +1,7 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Todos los días a las 20.00 recibirá un correo electrónico con las citas del día siguiente.\nHaga clic en el enlace del correo electrónico para ver los datos de la cita en el el tablero de mandos.",
 	"img": {
-		"1": ""
+		"1": "bild31.webp"
 	},
-	"title": ""
+	"title": "Vista general de las citas por correo electrónico"
 }

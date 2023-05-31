@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Agenda***.\n2. Cliquez sur ***Modifier l'agenda*** ou sur ***Créer un nouveau agenda***.\n3. Cliquez sur ***Paramètres*** dans le Quick-Start (générateur de création d'un agenda de réservation de rendez-vous). Si vous créez un nouveau agenda de réservation, les étapes précédentes doivent d'abord être traitées. L'assistant de démarrage rapide vous guide pas à pas vers l'agenda de réservation de rendez-vous dont vous avez besoin.\n4. Facultativement, vous pouvez indiquer le nom et l'adresse e-mail d'une personne à contacter. Ces données apparaissent dans la confirmation de rendez-vous par e-mail. Lorsque le client répond à la confirmation de rendez-vous par e-mail, l'adresse e-mail de la personne à contacter définie est automatiquement inscrite comme destinataire. La personne à contacter pourrait par exemple être une employée ou un employé responsable.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild55.webp",
+		"2": "bild56.webp"
 	},
-	"title": ""
+	"title": "Nom et adresse mail de la personne à contacter"
 }

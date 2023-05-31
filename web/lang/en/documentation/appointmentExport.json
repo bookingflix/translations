@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***Share***.\n2. Click ***Use appointment calendar on Google calendar***, ***Android***, ***iPhone*** etc.\n3. Select the appointment booking calendar you want to sync with your default Google, Microsoft or Apple calendar.\n4. Copy the ics link. Then add it to your default Google, Microsoft or Apple calendar. This will transfer all confirmed appointments from Bookingflix, to the respective standard calendar.\n5. You will find instructions on how to insert the link below the ics link.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild95.webp",
+		"2": "bild96.webp"
 	},
-	"title": ""
+	"title": "Automatic appointment export to Google, Microsoft, Apple calendars"
 }

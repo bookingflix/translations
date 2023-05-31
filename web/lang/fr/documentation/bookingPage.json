@@ -1,10 +1,10 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Agenda de rendez-vous*** et ensuite sur ***Site web de réservation de rendez-vous***.\n2. Sélectionnez l'agenda de réservation de rendez-vous souhaité.\n3. En utilisant le code QR et le lien rouge, vous accédez au site web de réservation de rendez-vous. Cliquez sur le code QR pour l'agrandir.\n4. Cliquez sur ***Restaurer le site web de réservation de rendez-vous par défaut*** pour supprimer toutes les modifications précédentes.\n5. Cliquez sur ***Modifier le site web de réservation de rendez-vous*** pour apporter des modifications.\n6. Cliquez sur les flèches blanches pour ouvrir le menu des services.\n7. Cliquez sur **Éditer la mise en page** pour ouvrir la vue d'édition de la mise en page. En cliquant sur le lien ***Ajouter des éléments de design***, vous ajoutez des éléments de design par défaut.\n8. Cliquez sur les flèches blanches pour modifier l'ordre des éléments de design.\n9. Cliquez directement sur un élément de design pour adapter le contenu de l'élément.\n10. Cliquez sur la croix rouge pour supprimer l'élément de design. En cliquant sur le lien ***Ajouter des éléments de design*** dans le menu des services, vous ajoutez à nouveau des éléments de design par défaut.\n11. Cliquez sur les accolades pour éditer le code HTML de la page.\n12. Cliquez sur ***Enregistrer la mise en page*** si vous souhaitez que l'édition soit prise en compte. Le lien Quitter l'éditeur permet de quitter le mode d'édition.\n\nLes données du profil concernant les mentions légales, la protection des données et les CGV sont automatiquement transférées sur le site web de réservation de rendez-vous. Cependant, si vous souhaitez changer ces données individuellement, c'est possible. Cliquez sur le champ entouré de bleu pour imprint, privacy ou terms. Supprimez :imprintTXT, :privacyTXT. , :termsTXT. Ensuite, vous pouvez entrer les données à l'endroit souhaité.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": ""
+		"1": "bild27.webp",
+		"2": "bild28.webp",
+		"3": "bild29.webp",
+		"4": "bild30.webp"
 	},
-	"title": ""
+	"title": "Éditer le site web de réservation de rendez-vous"
 }

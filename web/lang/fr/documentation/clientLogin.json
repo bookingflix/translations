@@ -1,10 +1,10 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via  [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. immédiatement après la réservation du rendez-vous, le client reçoit un e-mail avec le lien de rendez-vous. Ce lien est contenu aussi bien dans l'e-mail de vérification que dans l'e-mail de confirmation de rendez-vous. La vérification s'effectue donc via ce lien. Mais le client accède également à la zone de connexion client par ce biais.\n2. via le lien ***Modifier le rendez-vous/annuler***, le client peut modifier ou annuler le rendez-vous.\n3) Les couleurs jaune, verte et rouge indiquent le statut actuel de la réservation du rendez-vous : ouvert, accepté, annulé.\n4. en cliquant sur le bouton ***s'identifier dans l'aperçu personnel des rendez-vous***, le client accède à la zone de connexion. Pour cela, il doit d'abord choisir un mot de passe. Pour cela, le client clique sur ***Créer un accès à l'aperçu des rendez-vous***.\n5) Le client trouve les nouveaux messages dans le centre de messages.\n6. via les deux onglets supérieurs, le client peut consulter les rendez-vous à venir et passés.\n7) Dans l'affichage du calendrier, tous les rendez-vous sont marqués d'un carré vert. Le client accède ainsi directement au rendez-vous en question.\n8. le client trouve tous les rendez-vous sous l'affichage du calendrier. Le menu de service permet de consulter le code de réservation QR et les données du rendez-vous ou de modifier ou d'annuler le rendez-vous.\n9. options possibles : Consulter le code de réservation QR, consulter les données du rendez-vous, modifier le rendez-vous, annuler le rendez-vous, désactiver le rappel de rendez-vous, contacter le prestataire de services, réserver un nouveau rendez-vous.\n10. le client peut évaluer les rendez-vous, si vous l'avez prédéfini lors de la création de l'agenda de réservation de rendez-vous. Le client reçoit un message à ce sujet et sur d'autres informations importantes via la cloche. Pour les nouveaux messages, la cloche est marquée d'un point rouge.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": ""
+		"1": "bild35.webp",
+		"2": "bild36.webp",
+		"3": "bild37.webp",
+		"4": "bild38.webp"
 	},
-	"title": ""
+	"title": "Lien de rendez-vous et zone de connexion client"
 }

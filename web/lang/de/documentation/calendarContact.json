@@ -1,8 +1,8 @@
 {
-  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termin-Kalender***.\n2. Klicken Sie auf ***Termin-Kalender bearbeiten*** oder auf ***Termin-Kalender neu erstellen***.\n3. Klicken Sie im Quick-Start (Generator zur Erstellung eines Termin-Buchungs-Kalenders) auf ***Einstellungen***. Falls Sie einen neuen Termin-Buchungs-Kalender anlegen, müssen erst die vorherigen Schritte bearbeitet werden. Der Quick-Start-Assistent führt Sie Schritt für Schritt zum benötigten Termin-Buchungs-Kalender.\n4. Sie können optional den Namen und die Email-Adresse einer Kontaktperson angeben. Diese Angaben erscheinen in der Email-Termin-Bestätigung. Wenn der Kunde auf die Email-Termin-Bestätigung antwortet, wird automatisch die Email-Adresse der eingestellten Kontaktperson als Empfänger eingetragen. Die Kontaktperson könnte zum Beispiel eine zuständige Mitarbeiterin oder ein Mitarbeiter sein.",
-  "img": {
-    "1": "bild55.webp",
-    "2": "bild56.webp"
-  },
-  "title": "Name und Email-Adresse der Kontaktperson"
+	"description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termin-Kalender***.\n2. Klicken Sie auf ***Termin-Kalender bearbeiten*** oder auf ***Termin-Kalender neu erstellen***.\n3. Klicken Sie im Quick-Start (Generator zur Erstellung eines Termin-Buchungs-Kalenders) auf ***Einstellungen***. Falls Sie einen neuen Termin-Buchungs-Kalender anlegen, müssen erst die vorherigen Schritte bearbeitet werden. Der Quick-Start-Assistent führt Sie Schritt für Schritt zum benötigten Termin-Buchungs-Kalender.\n4. Sie können optional den Namen und die Email-Adresse einer Kontaktperson angeben. Diese Angaben erscheinen in der Email-Termin-Bestätigung. Wenn der Kunde auf die Email-Termin-Bestätigung antwortet, wird automatisch die Email-Adresse der eingestellten Kontaktperson als Empfänger eingetragen. Die Kontaktperson könnte zum Beispiel eine zuständige Mitarbeiterin oder ein Mitarbeiter sein.",
+	"img": {
+		"1": "bild55.webp",
+		"2": "bild56.webp"
+	},
+	"title": "Name und Email-Adresse der Kontaktperson"
 }

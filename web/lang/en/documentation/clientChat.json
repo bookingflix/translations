@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***message***.\n2. You will see unread messages in blue. Already read messages are displayed in white. The number shows you the number of messages.\n3. Click on the message to open the chat window. Here you will then see all the appointment data and you can reply directly to the message. Your customer will be informed by email about the receipt of a new message. You will also receive an email for newly received messages.\n4. Click on ***Add message*** to send a message to one or more customers.\n5. First select an appointment booking calendar.\n6. Select which customer or customers you want to send a message to.\n7. You can also select all customers from the respective appointment-booking calendar. Then each customer will receive the same message.\n\nAlternatively, you can get to the chat window via the appointment and customer overview.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild57.webp",
+		"2": "bild58.webp"
 	},
-	"title": ""
+	"title": "Message center with customer chat"
 }

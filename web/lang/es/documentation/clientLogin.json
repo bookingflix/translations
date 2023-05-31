@@ -1,10 +1,10 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\nInmediatamente después de reservar la cita, el cliente recibe un correo electrónico con el enlace de la cita. Este enlace se incluye tanto en el correo electrónico de verificación como en el de confirmación de la cita. Por lo tanto, este enlace se utiliza para la verificación. Sin embargo, el cliente también utiliza este enlace para acceder a la zona de acceso de clientes 2..\n2. a través del enlace ***Editar cita/Cancelación***, el cliente puede modificar o cancelar la cita. 3. a través del enlace ***Editar cita/Cancelación***, el cliente puede modificar o cancelar la cita.\n3. El estado actual de la cita se muestra en amarillo, verde y rojo: Abierta, Confirmada, Cancelada.\nEl cliente puede acceder al área de inicio de sesión pulsando el botón ***Iniciar sesión en la vista general de citas personales***. Primero debe seleccionar una contraseña. Para ello, el cliente pulsa en ***Configurar el acceso a la vista general de citas***. 5. El cliente encontrará nuevos mensajes en el área de mensajes.\n5. El cliente encontrará nuevos mensajes en el centro de mensajes.\nA través de las dos pestañas superiores, el cliente puede ver las citas próximas y pasadas. 7.\nEn la vista de calendario, todas las citas están marcadas con un cuadrado verde. Esto lleva al cliente directamente a la cita respectiva. 8.\nDebajo de la vista de calendario, el cliente encontrará todas las citas. A través del menú de servicio, se puede ver el código QR de reserva y los datos de la cita o se puede modificar o cancelar la cita. 9. En la vista de calendario, el cliente puede elegir entre las siguientes opciones\n9. Opciones posibles: Ver código QR de reserva, Ver datos de la cita, Cambiar cita, Cancelar cita, Cancelar recordatorio de cita, Contactar con el proveedor de servicios, Reservar nueva cita.\n10. el cliente puede puntuar las citas si así lo ha preestablecido al crear el calendario de reserva de citas. El cliente recibe un mensaje sobre esto y otra información importante a través de la campana. El timbre se marca con un punto rojo para los mensajes nuevos.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": ""
+		"1": "bild35.webp",
+		"2": "bild36.webp",
+		"3": "bild37.webp",
+		"4": "bild38.webp"
 	},
-	"title": ""
+	"title": "Enlace a la cita y área de inicio de sesión del cliente"
 }

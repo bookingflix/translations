@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Agenda des rendez-vous***.\n2. Cliquez sur ***Éditer l'agenda de rendez-vous*** ou sur ***Créer un nouvel agenda***.\n3. Cliquez sur ***Paramètres*** dans le Quick-Start (générateur de création d'un agenda de réservation). Si vous créez un nouveau agenda de reservation de rendez-vous, les étapes précédentes doivent d'abord être traitées. L'assistant de démarrage rapide vous guide pas à pas vers l'agenda de réservation de rendez-vous dont vous avez besoin.\n4. Sélectionnez ***Oui*** si vous souhaitez que les nouvelles demandes de rendez-vous soient automatiquement confirmées. Le client reçoit alors immédiatement une confirmation de rendez-vous après une vérification réussie.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild97.webp",
+		"2": "bild98.webp"
 	},
-	"title": ""
+	"title": "Confirmation automatique du rendez-vous"
 }

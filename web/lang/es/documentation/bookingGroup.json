@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "Está en el Tablero de mandos/ Calendario de citas/ Crear nuevo calendario de citas.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en el signo más (+) para añadir un nuevo campo de formulario.\n2. Haga clic en el campo de formulario ***Reserva de grupo***.\n3. Utilice el texto predefinido o modifíquelo si lo desea.\n4. Ingrese el número máximo de personas que puede tener un grupo. Si selecciona ***Automático***, Bookingflix calcula el número máximo posible de personas para la franja horaria correspondiente. Un exceso de reservas no es posible, incluso si usted elige ***Individual***. Bookingflix calcula siempre si hay suficientes plazas disponibles.\n5. Se puede insertar un texto de ayuda. Esto aparece debajo del campo de formulario.\n6. El campo de formulario reserva de grupo se puede definir como un campo obligatorio.\n7. Todas las citas se muestran en la vista general de citas.\n8. La cita individual, la cita del grupo y el tamaño del grupo se indican debajo de la fecha y la hora.\n9. El número de participantes se puede modificar posteriormente mediante el botón ***Editar participantes***.\n\nEl exceso de reservas tampoco es posible en el tablero de mandos. Recibirá un mensaje de error si no hay suficientes plazas disponibles para reservar.\n\nSi cambia el número a \"1\", el estado de la reserva de grupo cambia a reserva individual.\n\nSólo usted (el organizador) y la persona que hizo la reserva de grupo para todos los participantes pueden hacer cambios posteriormente en la reserva.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild82.webp",
+		"2": "bild83.webp",
+		"3": "bild84.webp"
 	},
-	"title": ""
+	"title": "Campo de formulario de reserva de grupo"
 }

@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***Appointments***.\n2. Click on ***Add appointment***. Alternatively, you can also add an appointment via the appointment overview.\n3. Select the desired appointment booking calendar.\nYou can enter the appointment manually via the form or use the appointment calendar for this purpose.\n5. Click ***Add repeat*** if you want to set serial appointments in constant intervals.\n6. Click on ***Check appointment*** to prevent possible overbooking. If an appointment has already been entered, you will receive an error message.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild19.webp",
+		"2": "bild20.webp"
 	},
-	"title": ""
+	"title": "Enter appointments manually"
 }

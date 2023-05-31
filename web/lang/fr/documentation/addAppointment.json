@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Rendez-vous***.\n2. Cliquez sur ***Ajouter un rendez-vous***. Vous pouvez également ajouter un rendez-vous via l'aperçu des rendez-vous.\n3. Sélectionnez pour cela l'agenda de réservation souhaité.\n4. Vous pouvez entrer le rendez-vous manuellement via le formulaire ou utiliser l'agenda pour cela.\n5. Cliquez sur ***Ajouter une répétition*** si vous souhaitez définir des rendez-vous récurrents à intervalles constants.\n6. Cliquez sur ***Vérifier le rendez-vous***, afin d'éviter toute surréservation. Si un rendez-vous est déjà inscrit, vous recevrez un message d'erreur.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild19.webp",
+		"2": "bild20.webp"
 	},
-	"title": ""
+	"title": "Entrer les rendez-vous manuellement"
 }
