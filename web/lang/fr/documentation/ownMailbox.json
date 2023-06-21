@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord. Connectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Profil***.\n2. Cliquez sur ***Déposer sa propre boîte aux lettres électronique***.\n3. Entrez les données d'accès de l'adresse e-mail de l'expéditeur souhaité. Les données d'accès vous sont fournies par votre fournisseur de messagerie.\n4. Cochez la case si vous êtes d'accord avec les conditions énumérées.\n5. Envoyez un e-mail de test. Ce test vous permet de vérifier si les données d'accès de l'adresse e-mail de l'expéditeur sont correctes et si l'envoi fonctionne.\n6. Cliquez ensuite sur ***Enregistrer le profil maintenant***.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild3.webp",
+		"2": "bild4.webp"
 	},
-	"title": ""
+	"title": "Envoi des e-mails du système avec sa propre adresse e-mail"
 }

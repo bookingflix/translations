@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Vista general de citas***.\n2. Haga clic en la cita correspondiente.\n3. Haga clic en el icono de edición.\n4. Haga clic en ***Pasar a cliente***.\n5. Haga clic en ***Añadir nota*** para crear una nueva nota. Éstas se guardan con la cita correspondiente en el tablero de mandos. Al exportar los datos de la cita, también se transfieren las notas correspondientes.\n6. Haga clic en los botones de flecha para ver las notas anteriores.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild32.webp",
+		"2": "bild33.webp",
+		"3": "bild34.webp"
 	},
-	"title": ""
+	"title": "Notas de cita"
 }

@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en el icono más (+) para añadir un nuevo campo de formulario.\n2. Haga clic en el campo de formulario CGC.\n3. Acepte el texto predeterminado o cámbielo si lo desea.\n4. Entre el enlace a sus CGC.\n5. El campo de formulario CGC se puede definir como campo obligatorio. En tal caso, el cliente que efectúa la reserva debe confirmar que ha tomado nota de las CGC.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild85.webp",
+		"2": "bild86.webp"
 	},
-	"title": ""
+	"title": "Campo de formulario de Contrato de Adhesión (CGC)"
 }

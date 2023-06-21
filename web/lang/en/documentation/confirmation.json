@@ -1,11 +1,11 @@
 {
-	"description": "",
+	"description": "You are in the dashboard. Login via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click ***yes*** if you want the appointment confirmation to be sent automatically by email to the customer.\n2. Click ***no*** if you want to send the appointment confirmation manually by email to the customer. You will then be notified of new appointment bookings via email and in the dashboard.\n3. You will be informed about new appointment bookings in the dashboard. Click on ***unconfirmed appointment***.\n4. Click ***open*** or ***edit status*** to confirm or cancel the appointment.\n5. Click on the ***view*** button to get more information about the open booking.\n6. After clicking ***Commit*** or ***Cancel***, you can also write a message to the customer. This will appear in the email appointment confirmation or in the email appointment cancellation.\n7. Click on ***confirmation*** or ***rejection*** again.\n8. Click ***yes*** or ***no*** to send the email appointment confirmation or the email appointment cancellation. The optionally inserted message text is displayed again for verification.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": "",
-		"5": ""
+		"1": "bild44.webp",
+		"2": "bild45.webp",
+		"3": "bild46.webp",
+		"4": "bild47.webp",
+		"5": "bild48.webp"
 	},
-	"title": ""
+	"title": "Send appointment confirmation by mail to customers manually and automatically"
 }

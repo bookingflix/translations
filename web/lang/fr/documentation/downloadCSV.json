@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Rendez-vous***.\n2. Cliquez sur ***Télécharger le tableau des entrées***.\n3. Sélectionnez l'agenda de prise de rendez-vous souhaité.\n4. Choisissez le créneau horaire requis.\n5. Choisissez le format. Le téléchargement est disponible au format csv ainsi qu'au format pdf. Dès que vous cliquez sur le format souhaité, le téléchargement démarre.\n6. En alternative, vous pouvez également télécharger les données via le lien ***Clients***. Ce lien se trouve également sous le point de menu supérieur ***Rendez-vous***.\n7. Sélectionnez l'agenda de prise de rendez-vous souhaité.\n8. Choisissez le créneau horaire requis.\n9. Choisissez le format. Le téléchargement est disponible au format csv et pdf. Dès que vous cliquez sur le format souhaité, le téléchargement démarre.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild92.webp",
+		"2": "bild93.webp",
+		"3": "bild94.webp"
 	},
-	"title": ""
+	"title": "Téléchargement des données de rendez-vous (csv, pdf)"
 }

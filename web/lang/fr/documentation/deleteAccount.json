@@ -1,7 +1,7 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\nVous pouvez supprimer votre compte chez Bookingflix à tout moment. Vos données et les données de rendez-vous seront alors complètement effacées. Si vous avez toujours besoin des données de rendez-vous, nous vous recommandons de les télécharger avant de procéder à la suppression.\n\n1. Cliquez sur ***Profil***.\n2. Cliquez sur ***Affiliation***.\n3. Cliquez sur ***Supprimer l'affiliation***. Vous confirmez la suppression définitive avec votre mot de passe de compte.\n\nSi vous possédez une affiliation Premium et que vous avez enregistré un prélèvement automatique, annulez ces derniers séparément. Ou envoyez un e-mail avec l'objet : Annulation du prélèvement automatique et l'indication de votre numéro de client à support@bookingflix.com.",
 	"img": {
-		"1": ""
+		"1": "bild99.webp"
 	},
-	"title": ""
+	"title": "Supprimer le compte"
 }

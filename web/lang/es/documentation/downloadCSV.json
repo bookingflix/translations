@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Citas***.\n2. Haga clic en ***Descargar tabla de entradas***.\n3. Seleccione el calendario de reserva de citas que desea.\n4. Seleccione el periodo el periodo de tiempo requerido.\n5. Seleccione el formato. Se puede descargar en formato csv y pdf. En cuanto haga clic en el formato preferido, se inicia la descarga.\n6. También puede descargar los datos a través del enlace ***Clientes***. Este enlace también se encuentra en la opción de menú superior ***Citas***.\n7. Seleccione el calendario de reservas al que quiere acceder.\n9. Seleccione el periodo el periodo de tiempo requerido.\n9. Seleccione el formato. Se puede descargar en formato csv y pdf. En cuanto haga clic en el formato preferido, se inicia la descarga.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild92.webp",
+		"2": "bild93.webp",
+		"3": "bild94.webp"
 	},
-	"title": ""
+	"title": "Descarga de datos de citas (csv, pdf)"
 }

@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. cliquez sur ***Agenda des rendez-vous***.\n2. cliquez sur ***Modifier le calendrier des rendez-vous*** ou sur ***Créer un nouveau calendrier des rendez-vous***.\nCliquez sur ***Évaluations*** dans le Quick-Start (générateur pour la création d'un agenda de réservation de rendez-vous). Si vous créez un nouveau calendrier de réservation, les étapes précédentes doivent d'abord être traitées. L'assistant de démarrage rapide vous guide pas à pas vers le calendrier de réservation nécessaire.\n4. interrogez vos clients sur leur satisfaction concernant le rendez-vous. Les questions peuvent être choisies librement. Il est également possible de renoncer complètement à une enquête auprès des clients. Le client reçoit un lien vers l'outil d'évaluation le jour suivant le rendez-vous.\nLes évaluations des clients peuvent être affichées en dessous du calendrier de réservation. Ainsi, lors de la réservation d'un rendez-vous, les nouveaux clients voient l'évaluation des clients précédents. Vous pouvez également utiliser uniquement les évaluations des clients à des fins internes, par exemple pour améliorer le service, et ne pas les publier.\nLes évaluations des clients ne peuvent pas être supprimées. Seule une désactivation de l'affichage est possible à tout moment.\nUne gestion est possible via le site HitKlick.com. Les données d'accès correspondent aux données d'accès de votre compte Bookingflix.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild1.webp",
+		"2": "bild62.webp"
 	},
-	"title": ""
+	"title": "Obtenir et intégrer automatiquement les avis des clients"
 }

@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Calendario de citas***.\n2. Haga clic en ***Enlazar varios calendarios de citas***.\n3. Haga clic en ***Añadir recurso***.\n4. Designe un nombre para el recurso.\n5. Seleccione un color para el recurso.\n6. Seleccione los calendarios de reservas de citas que desea enlazar.\n7. Puede compartir el recurso con otra persona, por ejemplo un empleado. Esta persona tendrá acceso a los calendarios de reservas y a las reservas.\n8. Haga clic en el código para copiar el código de inserción/código de widget. Puede elegir entre la inserción a través de JavaScript o iFrame.\n9. Si es necesario, el enlace al sitio web de reserva de citas está a su disposición.\n10. Si es necesario, el código QR para el sitio web de reserva de citas está a su disposición.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild79.webp",
+		"2": "bild80.webp",
+		"3": "bild81.webp"
 	},
-	"title": ""
+	"title": "Conectar calendarios"
 }

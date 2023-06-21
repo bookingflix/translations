@@ -1,11 +1,11 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***Synchronize external calendars***. You can find this link under the top menu item ***Share***.\n2. Select the desired appointment booking calendar.\n3. Click ***Login*** to connect the selected appointment-booking calendar to your Google default calendar.\n4. Select the Google account you want to use.\n5. Click ***Advanced options***.\n6. Click ***openbookingflix.com***.\nSynchronization of your appointment data via Google is possible via this. Your data will not be published. They are only used to block the occupied appointment slots in your Bookingflix calendar. You can cancel the synchronization at any time. Then the appointment data will be deleted immediately. A check of the connection on the part of Google has not been done yet._x000b_Therefore please use this option only if you trust Bookingflix. If you have any questions, please contact our support.\nFurther information about data protection you can find on the following page: bookingflix.en/privacy\n7. Click on ***continue***.\n8. Click on the ***green button*** to delete the connection to your Google calendar again. All appointment data will be deleted from our system immediately.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": "",
-		"5": ""
+		"1": "bild74.webp",
+		"2": "bild75.webp",
+		"3": "bild76.webp",
+		"4": "bild77.webp",
+		"5": "bild78.webp"
 	},
-	"title": ""
+	"title": "Calendar synchronization with Google standard calendar"
 }

@@ -1,7 +1,7 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***appointment calendar*** and then on ***QR code to appointment calendar***.\n2. Select the appointment booking calendar you want.\n3. Click on the QR code to enlarge it. So you can download, print and process it afterwards.",
 	"img": {
-		"1": ""
+		"1": "bild54.webp"
 	},
-	"title": ""
+	"title": "QR code to each appointment calendar"
 }

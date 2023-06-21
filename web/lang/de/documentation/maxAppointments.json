@@ -1,5 +1,5 @@
 {
-	"description": "Sie befinden sich auf [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Die variable Kundenanzahl können für folgende Termin-Buchungs-Kalender bestimmt werden: Termin-Buchungs-Kalender für feste Öffnungszeiten, Termin-Buchungs-Kalender für ein konkretes Event\n2. Geben Sie an, wieviele Kunden gleichzeitig einen Termin-Slot buchen können. Dies entspricht somit der maximalen Anzahl an Kunden, die gleichzeitig von Ihnen bedient werden können. Je nach Art des Termin-Buchungs-Kalenders (für ein konkretes Event oder für feste Öffnungszeiten), finden Sie entsprechende Einstellung an verschiedenen Stellen.",
+	"description": "Sie befinden sich auf [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Die variable Kundenanzahl kann für folgende Termin-Buchungs-Kalender bestimmt werden: Termin-Buchungs-Kalender für feste Öffnungszeiten, Termin-Buchungs-Kalender für ein konkretes Event\n2. Geben Sie an, wieviele Kunden gleichzeitig einen Termin-Slot buchen können. Dies entspricht somit der maximalen Anzahl an Kunden, die gleichzeitig von Ihnen bedient werden können. Je nach Art des Termin-Buchungs-Kalenders (für ein konkretes Event oder für feste Öffnungszeiten), finden Sie entsprechende Einstellung an verschiedenen Stellen.",
 	"img": {
 		"1": "bild7.webp",
 		"2": "bild8.webp",

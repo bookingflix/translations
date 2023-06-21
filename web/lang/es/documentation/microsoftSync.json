@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Sincronizar calendarios externos***. Este enlace se encuentra bajo la barra de menú superior.\n2. Seleccione el calendario de reservas que va a utilizar.\n3. Haga clic en ***Iniciar sesión*** para conectar el calendario de reservas seleccionado con su calendario estándar de Microsoft.\n4. Seleccione la cuenta de Microsoft que desea utilizar. Si ya ha iniciado sesión en Microsoft, la conexión se realiza inmediatamente. Desde aquí es posible sincronizar los datos de sus citas a través de Microsoft. Sus datos no se publicarán. Sólo se utilizan para bloquear las franjas horarias de citas ocupadas en su calendario Bookingflix. Puede cancelar la sincronización en cualquier momento. Entonces los datos de la cita se eliminarán inmediatamente. Una comprobación de la conexión por parte de Microsoft aún no ha tenido lugar. Por consiguiente, por favor, utilice esta opción sólo si confía en Bookingflix. Si tiene alguna pregunta, puede ponerse en contacto con nuestro soporte. Puede encontrar más información sobre la protección de datos en la siguiente página: https://bookingflix.es/privacy\n5. Haga clic en ***Siguiente***.\n6. Haga clic en el ***botón verde*** para eliminar la conexión con su calendario de Google. Todos los datos de las citas serán borrados de nuestro sistema inmediatamente.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild74.webp",
+		"2": "bild72.webp",
+		"3": "bild73.webp"
 	},
-	"title": ""
+	"title": "Sincronización con el calendario estándar de Microsoft"
 }

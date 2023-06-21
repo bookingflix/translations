@@ -1,7 +1,7 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Calendario de citas*** y luego en ***Código QR para calendario de citas***.\n2. Seleccione el calendario de reservas de citas que desea utilizar.\n3. Haga clic en el código QR para ampliarlo. A continuación, podrá descargar, imprimir y seguir procesándolo.",
 	"img": {
-		"1": ""
+		"1": "bild54.webp"
 	},
-	"title": ""
+	"title": "Código QR para cada calendario de citas"
 }

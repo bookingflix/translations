@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/en/sign-in.html)\n\nThis instruction is to be followed if you enter appointments manually, via the form, for your customers. If your customers book the appointment independently via the appointment booking calendar, overbooking is not possible. Appointments are only displayed as bookable if an appointment slot is free. Even if a customer books an appointment but has not yet verified it, the appointment is blocked for further bookings. Only when the deadline for verification has expired, the appointment is released for new bookings.\n\n1. Click on ***Appointments***.\n2. Click on ***Add appointment***. Alternatively, you can also add an appointment via the appointment overview.\n3. Select the desired appointment booking calendar.\n4. You can enter the appointment manually via the form or use the appointment booking calendar. We recommend using the appointment booking calendar, as this prevents any possible overbooking.\n5. If you enter the appointment manually via the form, click ***Check appointment*** before saving to prevent a possible overbooking. If an appointment has already been entered, you will receive an error message.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild39.webp",
+		"2": "bild40.webp"
 	},
-	"title": ""
+	"title": "Avoid appointment collisions"
 }

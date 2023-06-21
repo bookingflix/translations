@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***Appointment Calendar***.\n2. Click on ***Edit appointment calendar*** or on ***Create new appointment calendar***.\n3. In the Quick-Start (generator for creating an appointment booking calendar), click ***Valuations***. If you are creating a new appointment booking calendar, the previous steps must be edited first. The Quick Start Wizard will guide you step by step to the appointment booking calendar you need.\n4. Ask your customers about their satisfaction with the appointment. The questions can be chosen freely. It is also possible to do without a customer survey altogether. The customer receives a link to the evaluation tool one day after the appointment.\nThe customer ratings can be displayed below the appointment booking calendar. This way, new customers see the rating of previous customers when booking an appointment. You can also only use the customer ratings for internal purposes, e.g. improving the service, and not publish them.\nCustomer ratings cannot be deleted. Only switching off the display is possible at any time.\nAn administration is possible via the website HitKlick.com. The access data correspond to the access data of your Bookingflix account.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild1.webp",
+		"2": "bild62.webp"
 	},
-	"title": ""
+	"title": "Obtain and include customer reviews automatically"
 }

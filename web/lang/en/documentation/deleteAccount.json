@@ -1,7 +1,7 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\nYou can delete your account at Bookingflix at any time. Your data and the appointment data will be deleted completely. If you still need the appointment data, we recommend a previous download of the data.\n\n1. Click on ***profile***.\n2. Click on ***membership***.\n3. Click on ***delete membership***. Confirm the final deletion with your account password.\n\nIf you have a premium membership and a direct debit, cancel it separately. Or send an email with the subject: Cancellation direct debit and your customer number to support@bookingflix.com.",
 	"img": {
-		"1": ""
+		"1": "bild99.webp"
 	},
-	"title": ""
+	"title": "Delete account"
 }

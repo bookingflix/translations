@@ -1,9 +1,9 @@
 {
-  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termin-Kalender***.\n2. Klicken Sie auf ***mehrere Terminkalender verknüpfen***.\n3. Klicken Sie auf ***Ressource hinzufügen***.\n4. Vergeben Sie einen Namen für die Ressource.\n5. Vergeben Sie eine Farbe für die Ressource.\n6. Wählen Sie die Termin-Buchungs-Kalender aus, die miteinander verknüpft werden sollen.\n7. Sie können die Ressource mit einer anderen Person, zum Beispiel einem/einer Mitarbeiter/in, teilen. Diese Person hat dann Zugriff auf die Termin-Buchungs-Kalender sowie die Buchungen.\n8. Klicken Sie auf den Code, um den Einbindungs-Code/Widget-Code zu kopieren. Sie können hierbei wählen zwischen der Einbindung per JavaScript und iFrame.\n9. Falls benötigt, steht Ihnen der Link zur Terminbuchungswebsite zur Verfügung.\n10. Falls benötigt, steht Ihnen der QR-Code zur Terminbuchungswebsite zur Verfügung.",
-  "img": {
-    "1": "bild79.webp",
-    "2": "bild80.webp",
-    "3": "bild81.webp"
-  },
-  "title": "Kalender miteinander verbinden"
+	"description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termin-Kalender***.\n2. Klicken Sie auf ***mehrere Terminkalender verknüpfen***.\n3. Klicken Sie auf ***Ressource hinzufügen***.\n4. Vergeben Sie einen Namen für die Ressource.\n5. Vergeben Sie eine Farbe für die Ressource.\n6. Wählen Sie die Termin-Buchungs-Kalender aus, die miteinander verknüpft werden sollen.\n7. Sie können die Ressource mit einer anderen Person, zum Beispiel einem/einer Mitarbeiter/in, teilen. Diese Person hat dann Zugriff auf die Termin-Buchungs-Kalender sowie die Buchungen.\n8. Klicken Sie auf den Code, um den Einbindungs-Code/Widget-Code zu kopieren. Sie können hierbei wählen zwischen der Einbindung per JavaScript und iFrame.\n9. Falls benötigt, steht Ihnen der Link zur Terminbuchungswebsite zur Verfügung.\n10. Falls benötigt, steht Ihnen der QR-Code zur Terminbuchungswebsite zur Verfügung.",
+	"img": {
+		"1": "bild79.webp",
+		"2": "bild80.webp",
+		"3": "bild81.webp"
+	},
+	"title": "Kalender miteinander verbinden"
 }

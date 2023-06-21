@@ -1,9 +1,9 @@
 {
-  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termin-Übersicht***.\n2. Klicken Sie auf das entsprechende Datum.\n3. Klicken Sie auf das Bearbeiten-Symbol.\n4. Klicken Sie auf ***zu Kunde wechseln***.\n5. Klicken Sie auf ***Notiz hinzufügen***, um eine neue Notiz anzulegen. Diese werden beim jeweiligen Termin im Dashboard gespeichert. Auch beim Export der Termin-Daten werden die Termin-Notizen übergeben.\n6. Klicken Sie auf die Pfeil-Buttons, um die bisherigen Notizen anzusehen.",
-  "img": {
-    "1": "bild32.webp",
-    "2": "bild33.webp",
-    "3": "bild34.webp"
-  },
-  "title": "Termin-Notizen"
+	"description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termin-Übersicht***.\n2. Klicken Sie auf das entsprechende Datum.\n3. Klicken Sie auf das Bearbeiten-Symbol.\n4. Klicken Sie auf ***zu Kunden wechseln***.\n5. Klicken Sie auf ***Notiz hinzufügen***, um eine neue Notiz anzulegen. Diese werden beim jeweiligen Termin im Dashboard gespeichert. Auch beim Export der Termin-Daten werden die Termin-Notizen übergeben.\n6. Klicken Sie auf die Pfeil-Buttons, um die bisherigen Notizen anzusehen.",
+	"img": {
+		"1": "bild32.webp",
+		"2": "bild33.webp",
+		"3": "bild34.webp"
+	},
+	"title": "Termin-Notizen"
 }

@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Paramètres***.\n2. Cliquez sur ***Éditer les rappels de rendez-vous***.\n3. Sélectionnez l'agenda de prise de rendez-vous souhaité.\n4. Cliquez sur ***Éditer le rappel de rendez-vous*** pour modifier le rappel de rendez-vous déjà existant.\n5. Cliquez sur le signe moins rouge pour supprimer le rappel de rendez-vous déjà existant.\n6. Cliquez sur le signe vert plus pour insérer un nouveau rappel de rendez-vous.\n7. Cliquez sur ***Ajouter des paramètres par défaut*** pour ouvrir des rappels de rendez-vous déjà prédéfinis et les ajouter. Vous pouvez également les adapter par la suite.\n8. Vous pouvez définir les paramètres suivants : envoyer par SMS ou par e-mail, envoyer X jours ou X heures avant le rendez-vous, activer ou désactiver le rappel de rendez-vous.\n9. Cliquer sur ***éditer*** pour modifier le texte du rappel de rendez-vous. Ceci n'est possible que pour les rappels de rendez-vous par e-mail. Le texte par défaut des rappels de rendez-vous par SMS est toujours le même.\n10. Cliquez sur ***Enregistrer le rappel de rendez-vous maintenant***.\n11. Cliquez sur ***supprimer*** si vous souhaitez supprimer un rappel de rendez-vous.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild16.webp",
+		"2": "bild17.webp",
+		"3": "bild18.webp"
 	},
-	"title": ""
+	"title": "Rappels de rendez-vous par e-mail"
 }

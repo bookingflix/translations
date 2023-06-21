@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Aperçu des rendez-vous***.\n2. Cliquez sur la date correspondante.\n3. Cliquez sur l'icône d'édition.\n4. Cliquez sur ***Passer au client***.\n5. Cliquez sur ***Ajouter une note*** pour créer une nouvelle note. Celles-ci seront enregistrées dans le tableau de bord pour le rendez-vous concerné. Même lors de l'exportation des données de rendez-vous, les notes correspondantes sont transférées.\n6. Cliquez sur les boutons fléchés pour voir les notes précédentes.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild32.webp",
+		"2": "bild33.webp",
+		"3": "bild34.webp"
 	},
-	"title": ""
+	"title": "Notes de rendez-vous"
 }

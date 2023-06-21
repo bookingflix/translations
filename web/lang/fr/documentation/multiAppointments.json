@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\nVeuillez suivre ces instructions si vous entrez des rendez-vous manuellement pour vos clients en utilisant le formulaire. Si vos clients réservent le rendez-vous de manière autonome via l'agenda de prise de rendez-vous, une surréservation n'est pas possible. Les rendez-vous ne sont affichés comme réservables que si un créneau horaire est libre. Même si un client réserve un rendez-vous mais ne l'a pas encore vérifié, le rendez-vous est bloqué pour d'autres réservations. Le rendez-vous sera libéré pour de nouvelles réservations uniquement lorsque le délai de vérification aura expiré.\n\n1. Cliquez sur ***Rendez-vous***.\n2. Cliquez sur ***Ajouter un rendez-vous***. Vous pouvez également ajouter un rendez-vous via l'aperçu des rendez-vous.\n3. Sélectionnez l'agenda de réservation de rendez-vous dont vous avez besoin.\n4. Vous pouvez entrer le rendez-vous manuellement dans le formulaire ou utiliser pour cela l'agenda de prise de rendez-vous. Nous recommandons d'utiliser l'agenda car il permet d'éviter une éventuelle surréservation.\n5. Si vous entrez le rendez-vous manuellement en utilisant le formulaire, cliquez sur ***Vérifier le rendez-vous*** avant de l'enregistrer afin d'éviter une éventuelle surréservation. Si un rendez-vous est déjà enregistré, vous recevrez un message d'erreur.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild39.webp",
+		"2": "bild40.webp"
 	},
-	"title": ""
+	"title": "Éviter les collisions de rendez-vous"
 }

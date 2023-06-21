@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***Settings***.\n2. Click on ***edit appointment reminders***.\n3. Select the desired appointment booking calendar.\n4. Click on ***Edit appointment reminder*** to edit the appointment reminder that already exists.\n5. Click on the red minus symbol to delete the respective existing appointment reminder.\n6. Click on the green plus symbol to insert a new appointment reminder.\n7. Click on ***Add presets*** to open and add already preset appointment reminders. These can also be customized afterwards.\n8. The following settings can be made: Send by SMS or by email, Send X days or X hours before appointment, Enable or disable appointment reminder.\n9. Click on ***edit*** to edit the text of the appointment reminder. This is only possible for appointment reminders via email. Appointment reminders via SMS always have the same default text.\n10. Click on ***Save appointment reminder now***.\n11. Click on ***delete*** if you want to delete an appointment reminder.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild16.webp",
+		"2": "bild17.webp",
+		"3": "bild18.webp"
 	},
-	"title": ""
+	"title": "Appointment reminders by email"
 }

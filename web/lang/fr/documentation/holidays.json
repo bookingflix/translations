@@ -1,8 +1,9 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Paramètres***.\n2. Cliquez sur ***Modifier es jours chômés et les vacances*** et sélectionnez ensuite l'agenda de réservation correspondant.\n3. Cliquez sur ***Ajouter des vacances/jours chômés*** pour régler les paramètres individuellement.\n4. Cliquez sur ***Jours fériés allemands*** pour définir les jours fériés allemands. Vous pouvez ensuite les modifier individuellement.\n5. Facultativement, vous pouvez donner un titre au jour chômé ou aux vacances.\n6. Choisissez la plage de date et d'heure.\n7. Optionnellement, les paramètres peuvent également être appliqués à d'autres agendas ou à tous les agendas.\n8. Cliquez sur ***La réservation de rendez-vous n'est pas possible***, afin de bloquer le créneau de rendez-vous correspondant pour la réservation de rendez-vous. Les jours ou les heures ne sont pas affichés dans l'agenda de prise de rendez-vous.\n9. Cliquez sur ***La réservation de rendez-vous est possible*** pour libérer le créneau de rendez-vous correspondant à la réservation d'un rendez-vous. Les jours ou les heures sont à nouveau affichés dans l'agenda de prise de rendez-vous.\n10. cliquez sur ***Enregistrer*** pour activer les paramètres.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild87.webp",
+		"2": "bild87b.webp",
+		"3": "bild88.webp"
 	},
-	"title": ""
+	"title": "Définir les vacances et les jours chômés"
 }

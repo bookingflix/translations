@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***date overview***.\n2. Click on the corresponding date.\n3. Click on the edit icon.\n4. Click on ***change to customer***.\n5. Click ***Add note*** to create a new note. These will be saved to the relevant appointment in the dashboard. Appointment notes will also be passed when exporting appointment data.\n6. Click the arrow buttons to view the previous notes.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild32.webp",
+		"2": "bild33.webp",
+		"3": "bild34.webp"
 	},
-	"title": ""
+	"title": "Appointment notes"
 }

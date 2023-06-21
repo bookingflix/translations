@@ -1,7 +1,7 @@
 {
-  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termin-Kalender*** und anschließend auf ***QR-Code zum Terminkalender***.\n2. Wählen Sie den gewünschten Termin-Buchungs-Kalender aus.\n3. Klicken Sie auf den QR-Code, um diesen zu vergrößern. So können Sie diesen anschließend downloaden, drucken und weiter verarbeiten.",
-  "img": {
-    "1": "bild54.webp"
-  },
-  "title": "QR-Code zu jedem Terminkalender"
+	"description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termin-Kalender*** und anschließend auf ***QR-Code zum Terminkalender***.\n2. Wählen Sie den gewünschten Termin-Buchungs-Kalender aus.\n3. Klicken Sie auf den QR-Code, um diesen zu vergrößern. So können Sie diesen anschließend downloaden, drucken und weiter verarbeiten.",
+	"img": {
+		"1": "bild54.webp"
+	},
+	"title": "QR-Code zu jedem Terminkalender"
 }

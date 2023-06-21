@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\nEstas instrucciones se deben seguir si introduce citas de forma manual para sus clientes a través del formulario. Si sus clientes reservan la cita por su cuenta a través del calendario de reserva de citas, no es posible el exceso de reservas. Las citas sólo se muestran como reservables si hay un hueco (una franja horaria) libre. Si un cliente reserva una cita pero aún no la ha verificado, la cita queda bloqueada para nuevas reservas. La cita sólo se liberará para nuevas reservas cuando haya expirado el plazo de verificación.\n\n1. Haga clic en ***Citas***.\n2. Haga clic en ***Añadir cita***. También puede añadir una cita a través de la vista general de citas.\n3. Seleccione el calendario de reservas que desea utilizar.\n4. Puede introducir la cita de forma manual a través del formulario o utilizar el calendario de reserva de citas. Le recomendamos que utilice el calendario de reserva de citas, ya que de este modo se evita un posible exceso de reservas.\n5. Si introduce la cita de forma manual a través del formulario, antes de guardar haga clic en ***Comprobar cita*** para evitar un potencial exceso de reservas (overbooking). Si ya se ha introducido una cita, recibirá un mensaje de error.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild39.webp",
+		"2": "bild40.webp"
 	},
-	"title": ""
+	"title": "Evitar la colision de citas"
 }

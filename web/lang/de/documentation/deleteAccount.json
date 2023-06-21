@@ -1,7 +1,7 @@
 {
-  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\nSie können Ihren Account bei Bookingflix jederzeit löschen. Ihre Daten und die Termin-Daten werden hierbei komplett gelöscht. Falls Sie die Termin-Daten noch benötigen, empfehlen wir einen vorherigen Download der Daten.\n\n1. Klicken Sie auf ***Profil***.\n2. Klicken Sie auf ***Mitgliedschaft***.\n3. Klicken Sie auf ***Mitgliedschaft löschen***. Die endgültige Löschung bestätigen Sie mit Ihrem Account-Passwort.\n\nSofern Sie eine Premium-Mitgliedschaft besitzen und eine Lastschrift hinterlegt haben, stornieren Sie diese separat. Oder senden Sie eine Email mit Betreff: Stornierung Lastschrift und Angabe Ihrer Kundennummer an support@bookingflix.com.",
-  "img": {
-    "1": "bild99.webp"
-  },
-  "title": "Account loeschen"
+	"description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\nSie können Ihren Account bei Bookingflix jederzeit löschen. Ihre Daten und die Termin-Daten werden hierbei komplett gelöscht. Falls Sie die Termin-Daten noch benötigen, empfehlen wir einen vorherigen Download der Daten.\n\n1. Klicken Sie auf ***Profil***.\n2. Klicken Sie auf ***Mitgliedschaft***.\n3. Klicken Sie auf ***Mitgliedschaft löschen***. Die endgültige Löschung bestätigen Sie mit Ihrem Account-Passwort.\n\nSofern Sie eine Premium-Mitgliedschaft besitzen und eine Lastschrift hinterlegt haben, stornieren Sie diese separat. Oder senden Sie eine Email mit Betreff: Stornierung Lastschrift und Angabe Ihrer Kundennummer an support@bookingflix.com.",
+	"img": {
+		"1": "bild99.webp"
+	},
+	"title": "Account löschen"
 }

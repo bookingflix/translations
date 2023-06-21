@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Ajustes***. \n2. Haga clic en ***Editar recordatorios de citas***.\n3. Seleccione el calendario de reservas de citas al que desea acceder.\n4. Haga clic en ***Editar recordatorio de cita*** para editar el recordatorio de cita que ya existe.\n5. Haga clic en el signo menos rojo (-) para eliminar el recordatorio de cita existente.\n6. Haga clic en el signo más verde (+) para insertar un nuevo recordatorio de cita.\n7. Haga clic en ***Añadir ajustes predeterminados*** para abrir y añadir recordatorios de citas preestablecidos. Estos recordatorios se pueden personalizar posteriormente.\n8. Se pueden realizar los siguientes ajustes: enviar por SMS o por correo electrónico, enviar X días o X horas antes de la cita, activar o desactivar el recordatorio de cita.\n9. Haga clic en ***editar*** para editar el texto del recordatorio de cita. Esto sólo es posible para los recordatorios de cita enviados por correo electrónico. Los recordatorios de cita por SMS siempre tienen el mismo texto estándar.\n10. Haga clic en ***Guardar recordatorio de cita ahora***.\n11. Haga clic en ***Borrar*** si desea eliminar un recordatorio de cita.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild16.webp",
+		"2": "bild17.webp",
+		"3": "bild18.webp"
 	},
-	"title": ""
+	"title": "Recordatorio de citas por correo electrónico"
 }

@@ -1,7 +1,7 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***Edit system mails***. You can find this link under the top menu item ***Settings***.\n2. Select the desired appointment booking calendar.\n3. Select which email notification you want to edit: Confirmation, Cancellation or Verification.\n4. In the editing window, you can customize the text.\n5. Add the existing variables, if needed. These will generate automatically from the form fields of the created form.\n\nBelow the editing window you can see the preview.\n\nAfter editing, do not forget to save. You can find the button below the preview.",
 	"img": {
-		"1": ""
+		"1": "bild89.webp"
 	},
-	"title": ""
+	"title": "Edit email texts"
 }

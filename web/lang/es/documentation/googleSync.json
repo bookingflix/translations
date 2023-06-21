@@ -1,11 +1,11 @@
 {
-	"description": "",
+	"description": "Estás en el panel de control.\nInicie sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Haga clic en ***Sincronizar calendarios externos***. Este enlace se encuentra bajo la barra de menú superior.\n2. Seleccione el calendario de reservas que va a utilizar.\n3. Haga clic en ***Iniciar sesión*** para conectar el calendario de reservas seleccionado con su calendario estándar de Google.\n4. Seleccione la cuenta de Google que desea utilizar.\n5. Haga clic en ***Opciones Avanzadas***.\n6. Haga clic en ***abrir bookingflix.com***.\nDesde aquí es posible sincronizar los datos de sus citas a través de Google. Sus datos no se publicarán. Sólo se utilizan para bloquear las franjas horarias de citas ocupadas en su calendario Bookingflix. Puede cancelar la sincronización en cualquier momento. Entonces los datos de la cita se eliminarán inmediatamente. Una comprobación de la conexión por parte de Google aún no ha tenido lugar._x000b_Por consiguiente, por favor, utilice esta opción sólo si confía en Bookingflix. Si tiene alguna pregunta, puede ponerse en contacto con nuestro soporte.\nPuede encontrar más información sobre la protección de datos en la siguiente página: bookingflix.es/privacy\n7. Haga clic en ***Siguiente***.\n8. Haga clic en el ***botón verde*** para eliminar la conexión con su calendario de Google. Todos los datos de las citas serán borrados de nuestro sistema inmediatamente.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": "",
-		"5": ""
+		"1": "bild74.webp",
+		"2": "bild75.webp",
+		"3": "bild76.webp",
+		"4": "bild77.webp",
+		"5": "bild78.webp"
 	},
-	"title": ""
+	"title": "Sincronización del calendario con el calendario estándar de Google"
 }

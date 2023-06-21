@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***share***.\n2. Click on ***embed code / widget code***.\n3. Select the appointment booking calendar you want.\n4. Click on the code to copy the embed code/widget code. Here you can choose between embedding via JavaScript and iFrame.\nYou can now embed the code in the desired location on your website. Alternatively, you can use the appointment booking website if you do not have your own website.\n5. If required, the link and the QR code to the appointment booking website are available.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild90.webp",
+		"2": "bild91.webp"
 	},
-	"title": ""
+	"title": "Embed code / widget code"
 }

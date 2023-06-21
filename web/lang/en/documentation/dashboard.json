@@ -1,10 +1,11 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***appointment-overview*** to see the overview of the next appointments.\n2. Click on ***Switch to appointment calendar*** to view all appointments of the current day.\n3. Then click on the desired appointment booking calendar to get a detailed view of this calendar.\n4. Click on the arrow icons or the magnifying glass to change the day.\n5. Click on the desired appointment-booking calendar to display only appointments of this calendar.\n6. Select the desired appointment to download the data in pdf format afterwards or to send an email to the customer. You will find these two functions displayed above the appointment data.\n7. Use the search field to search for appointments or customers.\n8. Click on the edit icon to see the customer data completely and edit it.\n9. Click ***Delete appointment*** to delete the appointment.\n10. Click ***edit customer*** to adjust the data if necessary.\n11. Click ***Edit Attendee*** to adjust the number of attendees in a group booking.\n12. Click ***Delete appointment*** to delete the appointment.\n13. In the appointment overview field, you can view the appointment data, change the number of participants, and adjust the date and time of the appointment.\n14. Below the appointment overview field you will find the function to delete the appointment and to download the data in csv and pdf format.\n15. Via the chat window you can send a message to the customer via email. The customer can then reply via the chat window as well. You and your customer will be notified by email when new messages arrive.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": ""
+		"1": "bild12.webp",
+		"2": "bild13.webp",
+		"3": "bild13a.webp",
+		"4": "bild13b.webp",
+		"5": "bild13c.webp"
 	},
-	"title": ""
+	"title": "Appointment management"
 }

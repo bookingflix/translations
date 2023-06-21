@@ -1,7 +1,7 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Éditer les e-mails du système***. Vous trouverez ce lien sous le point de menu supérieur ***Paramètres***.\n2. Sélectionnez l'agenda de prise de rendez-vous souhaité.\n3. Choisissez quelle notification par e-mail vous souhaitez éditer : acceptation, refus ou vérification.\n4. Dans la fenêtre d'édition, vous pouvez adapter le texte.\n5. Insérez, si nécessaire, les variables existantes. Celles-ci se génèrent automatiquement sur la base des champs du formulaire créé.\n\nL'aperçu est affiché en dessous de la fenêtre d'édition.\n\nUne fois l'édition terminée, n'oubliez pas d'enregistrer. Le bouton correspondant se trouve sous l'aperçu.",
 	"img": {
-		"1": ""
+		"1": "bild89.webp"
 	},
-	"title": ""
+	"title": "Éditer les textes des e-mails"
 }

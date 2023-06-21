@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***Synchronize external calendars***. You can find this link under the top menu item ***Share***.\n2. Select the desired appointment booking calendar.\n3. Click ***Login*** to connect the selected appointment-booking calendar to your standard Microsoft calendar.\n4. Select the desired Microsoft account. If you are already logged in to Microsoft, the connection will take place immediately. A synchronization of your appointment data via Microsoft is possible via this. Your data will not be published. They are only used to block the occupied appointment slots in your Bookingflix calendar. You can cancel the synchronization at any time. Then the appointment data will be deleted immediately. A check of the connection on the part of Microsoft has not been done yet. Therefore please use this option only if you trust Bookingflix. If you have any questions, please contact our support. Further information about data protection can be found on the following page: https://bookingflix.en/privacy.\n5. Click on ***continue***.\n6. Click on the ***green button*** to delete the connection to your Google calendar again. All appointment data will be deleted from our system immediately.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild74.webp",
+		"2": "bild72.webp",
+		"3": "bild73.webp"
 	},
-	"title": ""
+	"title": "Calendar synchronization with Microsoft standard calendar"
 }

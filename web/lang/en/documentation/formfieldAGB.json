@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on the plus icon to add a new form field.\n2. Click on the form field GTC.\n3. Accept the default text or change it if desired.\n4. Enter the link to your terms and conditions.\n5. The GTC form field can be defined as a mandatory field. The booking customer must then confirm that the GTC have been acknowledged.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild85.webp",
+		"2": "bild86.webp"
 	},
-	"title": ""
+	"title": "Form field GTC"
 }

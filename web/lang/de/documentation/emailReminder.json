@@ -1,9 +1,9 @@
 {
-  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Einstellungen***.\n2. Klicken Sie auf ***Termin-Erinnerungen bearbeiten***.\n3. Wählen Sie den gewünschten Termin-Buchungs-Kalender aus.\n4. Klicken Sie auf ***Termin-Erinnerung bearbeiten***, um die jeweilige, bereits vorhandene Termin-Erinnerung, zu bearbeiten.\n5. Klicken Sie auf das rote Minus-Symbol, um die jeweilige, bereits vorhandene Termin-Erinnerung, zu löschen.\n6. Klicken Sie auf das grüne Plus-Symbol, um eine neue Termin-Erinnerung einzufügen.\n7. Klicken Sie auf ***Voreinstellungen hinzufügen***, um bereits voreingestellte Termin-Erinnerungen zu öffnen und hinzuzufügen. Auch diese können anschließend angepasst werden.\n8. Folgende Einstellungen können vorgenommen werden: Versand per SMS oder per Email, Versand X Tage oder X Stunden vor Termin, Termin-Erinnerung aktivieren oder deaktivieren\n9. Klicken Sie auf ***bearbeiten***, um den Text der Termin-Erinnerung zu bearbeiten. Dies ist nur bei Termin-Erinnerungen per Email möglich. Termin-Erinnerungen per SMS haben stets den selben Standard-Text.\n10. Klicken Sie auf ***Termin-Erinnerung jetzt speichern***.\n11. Klicken Sie auf ***löschen***, wenn Sie eine Termin-Erinnerung löschen möchten.",
-  "img": {
-    "1": "bild16.webp",
-    "2": "bild17.webp",
-    "3": "bild18.webp"
-  },
-  "title": "Termin-Erinnerungen per Email"
+	"description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Einstellungen***.\n2. Klicken Sie auf ***Termin-Erinnerungen bearbeiten***.\n3. Wählen Sie den gewünschten Termin-Buchungs-Kalender aus.\n4. Klicken Sie auf ***Termin-Erinnerung bearbeiten***, um die jeweilige, bereits vorhandene Termin-Erinnerung, zu bearbeiten.\n5. Klicken Sie auf das rote Minus-Symbol, um die jeweilige, bereits vorhandene Termin-Erinnerung, zu löschen.\n6. Klicken Sie auf das grüne Plus-Symbol, um eine neue Termin-Erinnerung einzufügen.\n7. Klicken Sie auf ***Voreinstellungen hinzufügen***, um bereits voreingestellte Termin-Erinnerungen zu öffnen und hinzuzufügen. Auch diese können anschließend angepasst werden.\n8. Folgende Einstellungen können vorgenommen werden: Versand per SMS oder per Email, Versand X Tage oder X Stunden vor Termin, Termin-Erinnerung aktivieren oder deaktivieren\n9. Klicken Sie auf ***bearbeiten***, um den Text der Termin-Erinnerung zu bearbeiten. Dies ist nur bei Termin-Erinnerungen per Email möglich. Termin-Erinnerungen per SMS haben stets den selben Standard-Text.\n10. Klicken Sie auf ***Termin-Erinnerung jetzt speichern***.\n11. Klicken Sie auf ***löschen***, wenn Sie eine Termin-Erinnerung löschen möchten.",
+	"img": {
+		"1": "bild16.webp",
+		"2": "bild17.webp",
+		"3": "bild18.webp"
+	},
+	"title": "Termin-Erinnerungen per Email"
 }

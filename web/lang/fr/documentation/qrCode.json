@@ -1,7 +1,7 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Agenda de rendez-vous*** et ensuite sur ***Code QR vers l'agenda***.\n2. Sélectionnez l'agenda de prise de rendez-vous que vous souhaitez utiliser.\n3. Cliquez sur le code QR pour l'agrandir. Ainsi, vous pouvez ensuite le télécharger, l'imprimer et le traiter.",
 	"img": {
-		"1": ""
+		"1": "bild54.webp"
 	},
-	"title": ""
+	"title": "Code QR pour chaque agenda"
 }

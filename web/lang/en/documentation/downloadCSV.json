@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***appointments***.\n2. Click on ***Download table of entries***.\n3. Select the desired appointment booking calendar.\n4. Select which period of time is needed.\n5. Select the format. The download is available in csv and pdf format. As soon as you click on the desired format, the download will start.\n6. Alternatively you can download the data via the link ***customers***. You can also find this link under the top menu item ***Dates***.\n7. Select the desired appointment booking calendar.\n8. Select the period of time you need.\n9. Select the format. The download is available in csv and pdf format. As soon as you click on the desired format, the download will start.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild92.webp",
+		"2": "bild93.webp",
+		"3": "bild94.webp"
 	},
-	"title": ""
+	"title": "Download appointment data (csv, pdf)"
 }

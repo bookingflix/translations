@@ -1,10 +1,11 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Vista general de citas*** para ver la vista general de las próximas citas.\n2. Haga clic en ***Pasar al calendario de citas*** para ver todas las citas del día actual.\n3. Haga clic en el calendario de reservas deseado para obtener una vista detallada de él.\n4. Haga clic en los iconos de flecha o en la lupa para cambiar de día.\n5. Haga clic en el calendario de reservas de citas deseado para que sólo se muestren las citas de este calendario.\n6. Seleccione la cita deseada para descargar los datos en formato pdf o para enviar un correo electrónico al cliente. Estas dos funciones se muestran encima de los datos de la cita.\n7. Utilice el cuadro de búsqueda para buscar citas o clientes.\n8. Haga clic en el icono de edición para ver y editar los datos completos del cliente.\n9. Haga clic en ***Eliminar cita*** para borrar la cita.\n10. Haga clic en ***Editar cliente*** para ajustar los datos si necesario.\n11. Haga clic en ***Editar Participantes*** para modificar el número de participantes en una reserva de grupo.\n12. Haga clic en ***Eliminar cita*** para borrar la cita.\n13. El campo de vista general de la cita le permite ver los datos de la cita, cambiar el número de participantes y modificar la fecha y la hora de la cita.\n14. Debajo del campo de vista general encontrará la función para eliminar la cita y para descargar los datos en formato csv y pdf.\n15. A través de la ventana de chat puede enviar un mensaje al cliente por correo electrónico. El cliente también puede responder a través de la ventana de chat. Usted y su cliente serán informados por correo electrónico cuando lleguen nuevos mensajes.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": ""
+		"1": "bild12.webp",
+		"2": "bild13.webp",
+		"3": "bild13a.webp",
+		"4": "bild13b.webp",
+		"5": "bild13c.webp"
 	},
-	"title": ""
+	"title": "Gestión de citas"
 }

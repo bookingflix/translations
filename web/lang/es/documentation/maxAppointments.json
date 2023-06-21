@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "Está en [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. El número de clientes se puede variar para los siguientes calendarios de reservas: Calendarios de reserva de citas para horarios de apertura fijos, Calendarios de reserva de citas para un evento concreto.\n2. Especifique cuántos clientes pueden reservar una franja horaria al mismo tiempo. Esto corresponde, por tanto, al número máximo de clientes que puede atender al mismo tiempo. Dependiendo del tipo de calendario de reserva de citas (para un evento concreto o para un horario de apertura fijo), encontrará el ajuste correspondiente en distintos lugares.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild7.webp",
+		"2": "bild8.webp",
+		"3": "bild9.webp"
 	},
-	"title": ""
+	"title": "Número de clientes variable por cita"
 }

@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "Vous êtes sur [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Vous pouvez définir le nombre de clients au sein des agendas de réservation suivants : agenda de réservation de rendez-vous pour des heures d'ouverture fixes, agenda de réservation de rendez-vous pour un événement concret.\n2. Indiquez le nombre de clients pouvant réserver un créneau de rendez-vous en même temps. Cela correspond donc au nombre maximal de clients que vous pouvez servir en même temps. Selon le type d'agenda de prise de rendez-vous (pour un événement concret ou pour des heures d'ouverture fixes), vous trouverez les paramètres correspondants à différents endroits.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild7.webp",
+		"2": "bild8.webp",
+		"3": "bild9.webp"
 	},
-	"title": ""
+	"title": "Nombre de clients variable par rendez-vous"
 }

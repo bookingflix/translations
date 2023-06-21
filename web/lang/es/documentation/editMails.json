@@ -1,7 +1,7 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Editar correos electrónicos del sistema***. Este enlace se encuentra en la opción de menú superior ***Ajustes***.\n2. Seleccione el calendario de reservas de citas que desea.\n3. Seleccione la notificación por correo electrónico que desea editar: Confirmación, Anulación o Verificación.\n4. En la ventana de edición se puede ajustar el texto.\n5. Inserte las variables existentes, si es necesario. Éstas se generan automáticamente desde los campos del formulario ya creado.\n\nDebajo de la ventana de edición se muestra la vista previa.\n\nUna vez realizada la edición, no olvide guardarla. El botón correspondiente se encuentra debajo de la vista previa.",
 	"img": {
-		"1": ""
+		"1": "bild89.webp"
 	},
-	"title": ""
+	"title": "Editar textos de correo electrónico"
 }

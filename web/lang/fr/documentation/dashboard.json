@@ -1,10 +1,11 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Aperçu des rendez-vous*** pour voir l'aperçu des prochains rendez-vous.\n2. Cliquez sur ***accéder à l'agenda*** pour voir tous les rendez-vous de la journée en cours.\n3. Cliquez ensuite sur l'agenda de prise de rendez-vous souhaité pour obtenir une vue détaillée de celui-ci.\n4. Cliquez sur les icônes fléchées ou sur la loupe pour modifier le jour.\n5. Cliquez sur l'agenda de prise de rendez-vous souhaité pour n'afficher que les rendez-vous de celui-ci.\n6. Sélectionnez le rendez-vous souhaitée pour pouvoir ensuite télécharger les données au format pdf ou envoyer un e-mail au client. Ces deux fonctions sont affichées au-dessus des dates de rendez-vous.\n7. Utilisez le champ de recherche pour rechercher des rendez-vous ou des clients.\n8. Cliquez sur l'icône d'édition pour voir toutes les données du client et les éditer.\n9. Cliquez sur ***Supprimer le rendez-vous*** pour supprimer le rendez-vous.\n10. Cliquez sur ***Modifier le client*** pour adapter les données si nécessaire.\n11. Cliquez sur ***Modifier les participants*** pour adapter le nombre de participants lors d'une réservation de groupe.\n12. Cliquez sur ***Supprimer le rendez-vous*** pour supprimer le rendez-vous.\n13. Dans le champ d'aperçu du rendez-vous, vous pouvez consulter les données du rendez-vous, modifier le nombre de participants et adapter la date et l'heure du rendez-vous.\n14. En dessous du champ d'aperçu du rendez-vous, vous trouverez la fonction pour supprimer le rendez-vous et pour télécharger les données au format csv et pdf.\n15. Via la fenêtre de chat, vous pouvez envoyer un message au client par e-mail. Le client peut alors également répondre via la fenêtre de chat. Vous et votre client serez informés par e-mail en cas de nouveaux messages.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": ""
+		"1": "bild12.webp",
+		"2": "bild13.webp",
+		"3": "bild13a.webp",
+		"4": "bild13b.webp",
+		"5": "bild13c.webp"
 	},
-	"title": ""
+	"title": "Gestion des rendez-vous"
 }

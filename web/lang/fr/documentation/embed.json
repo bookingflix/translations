@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Partager***.\n2. Cliquez sur ***Code d'intégration / Code widget***.\n3. Sélectionnez votre agenda de prise de rendez-vous souhaité.\n4. Cliquez sur le code pour copier le code d'intégration / code de widget. Vous pouvez choisir entre l'intégration par JavaScript ou par iFrame.\nVous pouvez maintenant intégrer le code à l'endroit souhaité sur votre site web. Vous pouvez également utiliser le site de réservation de rendez-vous si vous ne disposez pas de votre propre site web.\n5. Si nécessaire, le lien et le code QR vers le site de réservation de rendez-vous sont à votre disposition.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild90.webp",
+		"2": "bild91.webp"
 	},
-	"title": ""
+	"title": "Code d'intégration/code de widget"
 }

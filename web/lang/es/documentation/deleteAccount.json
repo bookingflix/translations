@@ -1,7 +1,7 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\nPuede eliminar su cuenta Bookingflix en cualquier momento. Sus datos y los datos de las citas se eliminarán por completo. Si aún necesita los datos de las citas, le aconsejamos descargarlos previamente.\n\n1. Haga clic en ***Perfil***.\n2. Haga clic en ***Suscripción***.\n3. Haga clic en ***Eliminar suscripción***. Confirme la eliminación definitiva con la contraseña de su cuenta.\n\nSi tiene una suscripción Premium y una domiciliación bancaria, cancélela por separado. O bien envíe un correo electrónico con el asunto: Cancelación domiciliación bancaria y su número de cliente a support@bookingflix.com.",
 	"img": {
-		"1": ""
+		"1": "bild99.webp"
 	},
-	"title": ""
+	"title": "Eliminar la cuenta"
 }

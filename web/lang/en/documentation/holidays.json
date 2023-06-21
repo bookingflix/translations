@@ -1,8 +1,9 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***Settings***.\n2. Click ***Edit Holidays & Days Off*** and then select the appropriate booking calendar.\n3. Click ***Add Holiday/Free Day*** to make the setting individually.\n4. Click on ***German Holidays*** to set the German holidays. These can then still be edited individually.\n5. Optionally assign a title for the day off or the vacation.\n6. Select the date and time range.\n7. The settings can optionally be applied to other or all calendars.\n8. Click ***Appointment booking is not possible*** to block the corresponding appointment slot for the appointment booking. The days or times are not displayed in the appointment booking calendar.\n9. Click on ***Appointment booking is possible*** to unblock the corresponding appointment slot for the appointment booking. The days or times are displayed again in the appointment booking calendar.\n10. Click on ***Save*** to apply the settings.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild87.webp",
+		"2": "bild87b.webp",
+		"3": "bild88.webp"
 	},
-	"title": ""
+	"title": "Set vacations and days off"
 }

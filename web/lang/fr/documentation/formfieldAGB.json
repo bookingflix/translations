@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur le symbole plus (+) pour ajouter un nouveau champ de formulaire.\n2. Cliquez sur le champ de formulaire CGV.\n3. Acceptez le texte prédéfini ou modifiez-le si souhaité.\n4. Indiquez le lien vers vos CGV.\n5. Vous pouvez définir le champ de formulaire CGV comme un champ obligatoire. Le client qui effectue la réservation doit alors confirmer qu'il a pris connaissance des CGV.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild85.webp",
+		"2": "bild86.webp"
 	},
-	"title": ""
+	"title": "Champ de formulaire CGV"
 }

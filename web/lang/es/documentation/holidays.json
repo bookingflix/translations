@@ -1,8 +1,9 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Ajustes***.\n2. Haga clic en ***Editar vacaciones y días libres*** y seleccione el calendario de reservas correspondiente.\n3. Haga clic en ***Añadir vacaciones/día libre*** para realizar el ajuste individualmente.\n4. Haga clic en ***Días festivos alemanes*** para configurar los días festivos alemanes. A continuación, se pueden editar individualmente.\n5. Opcionalmente, puede dar un título al día libre o a las vacaciones.\n6. Especifique el intervalo de fechas y horas.\n7. Los ajustes se pueden aplicar también a otros calendarios o a todos los calendarios.\n8. Haga clic en ***No es posible reservar cita*** para bloquear la franja horaria correspondiente para la reserva de cita. Los días o las horas no se muestran en el calendario de reserva de citas.\n9. Haga clic en ***Reserva de citas posible*** para liberar el hueco correspondiente para la reserva de cita. Los días y las horas se muestran en el calendario de reservas.\n10. Haga clic en ***Guardar*** para aplicar los ajustes.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild87.webp",
+		"2": "bild87b.webp",
+		"3": "bild88.webp"
 	},
-	"title": ""
+	"title": "Fijar las vacaciones y los días libres"
 }

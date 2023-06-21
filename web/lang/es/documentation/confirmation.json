@@ -1,11 +1,11 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos. Inicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***sí*** si desea que la confirmación de la cita se envíe al cliente por correo electrónico de forma automática.\n2. Haga clic en ***no*** si desea que la confirmación de la cita se envíe al cliente por correo electrónico de forma manual. Se le informará por correo electrónico y en el tablero de mandos sobre las nuevas reservas de citas. \n3. Se le informará sobre las nuevas reservas de citas en el tablero de mandos. Haga clic en ***cita no confirmada***.\n4. Haga clic en ***Abierto*** o ***Editar estado*** para confirmar o cancelar la cita.\n5. Pulse en ***Ver*** para recibir más información sobre la cita abierta.\n6. Después de hacer clic en ***Confirmar*** o ***Cancelar***, también puede escribir un mensaje al cliente. Éste aparecerá en el correo electrónico de confirmación de la cita o en el de cancelación de la cita.\n7. Pulse de nuevo ***Confirmar*** o ***Cancelar***.\n8. Pulse ***sí*** o ***no*** para enviar el correo electrónico de confirmación o de cancelación de la cita. El texto del mensaje insertado opcionalmente se muestra de nuevo para que pueda verificarlo.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": "",
-		"5": ""
+		"1": "bild44.webp",
+		"2": "bild45.webp",
+		"3": "bild46.webp",
+		"4": "bild47.webp",
+		"5": "bild48.webp"
 	},
-	"title": ""
+	"title": "Enviar la confirmación de la cita por correo electrónico a los clientes de forma manual y automática"
 }
