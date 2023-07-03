@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Rendez-vous***.\n2. Cliquez sur ***Ajouter un rendez-vous***. Vous pouvez également ajouter un rendez-vous via l'aperçu des rendez-vous.\n3. Sélectionnez l'agenda de prise de rendez-vous que vous souhaitez utiliser.\n4. Cliquez sur ***Ajouter répétition*** si vous souhaitez définir des rendez-vous récurrents à intervalles réguliers. Vous pouvez définir le nombre de répétitions ainsi que la cadence. Par exemple, tous les 2 jours, toutes les 4 semaines, une fois par mois.\n5. Cliquez sur ***Vérifier le rendez-vous*** afin d'éviter une surréservation éventuelle. Si un rendez-vous est déjà enregistré, vous recevrez un message d'erreur.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild52.webp",
+		"2": "bild53.webp"
 	},
-	"title": ""
+	"title": "Créer des rendez-vous récurrents"
 }

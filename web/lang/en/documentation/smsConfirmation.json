@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/en/sign-in.html)\n\n1. Click on ***Settings***.\n2. Click on ***Edit system mails***.\n3. Select the desired appointment booking calendar.\n4. Click on ***Confirmation***.\n5. Check the box if you want the appointment confirmation to be sent by SMS as well.\n6. Click on ***save now***.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild10.webp",
+		"2": "bild11.webp"
 	},
-	"title": ""
+	"title": "Appointment confirmation by sms"
 }

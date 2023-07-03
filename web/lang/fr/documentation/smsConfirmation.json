@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Paramètres***.\n2. Cliquez sur ***Modifier les e-mails du système***.\n3. Choisissez l'agenda de prise de rendez-vous que vous voulez utiliser.\n4. Cliquez sur ***Confirmer***.\n5. Cochez la case si vous souhaitez que la confirmation de rendez-vous soit également envoyée par SMS.\n6. Cliquez sur ***enregistrer maintenant***.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild10.webp",
+		"2": "bild11.webp"
 	},
-	"title": ""
+	"title": "Confirmation de rendez-vous par SMS"
 }

@@ -3,14 +3,14 @@
 	"agree": "I agree",
 	"branch": "Branch | Branches",
 	"comingSoon": "Coming soon",
-	"createNewCalendar": "Create appointment calendar now",
 	"createAppointment": "Create an appointment booking calendar quickly and easily",
+	"createNewCalendar": "Create appointment calendar now",
 	"current": "Current",
 	"currentInstruction": "Current instructions",
 	"CurrentWebinars": "Current webinars",
 	"documentation": "Documentation",
 	"error": "Unfortunately an error has occurred",
-	"faq": "FAQ",	
+	"faq": "FAQ",
 	"feature": "Feature | Features",
 	"fullSearch": "full-text search",
 	"function": "Function | Functions",
@@ -21,6 +21,7 @@
 	"noResults": "No results found",
 	"prevChapter": "to the previous chapter",
 	"price": "Price | Prices",
+	"quickstart": "Quickstart",
 	"quitEditing": "Finish editing",
 	"reviews": "Feedback on {name}",
 	"search": "Search",
@@ -28,6 +29,5 @@
 	"signIn": "Log-in",
 	"support": "support",
 	"supportContact": "support and contact",
-	"supportYou": "We gladly support you !",
-	"quickstart": "Quickstart"
+	"supportYou": "We gladly support you !"
 }

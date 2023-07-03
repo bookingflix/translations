@@ -1,7 +1,7 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Citas*** y ***Clientes*** para acceder a la vista general de clientes.\n2. Seleccione el calendario que desea para realizar la búsqueda en este calendario en el siguiente paso.\n3. Utilice el campo de búsqueda para buscar citas o clientes.\n4. Utilice el filtro de tiempo para acotar la búsqueda a un intervalo de tiempo específico.",
 	"img": {
-		"1": ""
+		"1": "bild49.webp"
 	},
-	"title": ""
+	"title": "Función de búsqueda"
 }

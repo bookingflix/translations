@@ -3,14 +3,14 @@
 	"agree": "Ich stimme zu",
 	"branch": "Branche | Branchen",
 	"comingSoon": "Folgt demnächst",
-	"createNewCalendar": "Jetzt Terminkalender erstellen",
 	"createAppointment": "Termin-Buchungs-Kalender schnell und einfach erstellen",
+	"createNewCalendar": "Jetzt Terminkalender erstellen",
 	"current": "Aktuelles",
 	"currentInstruction": "Aktuelle Anleitungen",
 	"CurrentWebinars": "Aktuelle Webinare",
 	"documentation": "Bookingflix-Handbuch",
 	"error": "Es ist leider ein Fehler aufgetreten",
-	"faq": "FAQ",	
+	"faq": "FAQ",
 	"feature": "Feature | Features",
 	"fullSearch": "Volltextsuche",
 	"function": "Funktion | Funktionen",
@@ -21,6 +21,7 @@
 	"noResults": "Keine Ergebnisse gefunden",
 	"prevChapter": "zum vorherigen Kapitel",
 	"price": "Preis | Preise",
+	"quickstart": "Schnellstart",
 	"quitEditing": "Bearbeitung beenden",
 	"reviews": "Rückmeldungen zu {name}",
 	"search": "Suche",
@@ -28,6 +29,5 @@
 	"signIn": "Anmelden",
 	"support": "Support",
 	"supportContact": "Support und Kontakt",
-	"supportYou": "Wir unterstützen Sie gerne !",
-	"quickstart": "Schnellstart"
+	"supportYou": "Wir unterstützen Sie gerne !"
 }

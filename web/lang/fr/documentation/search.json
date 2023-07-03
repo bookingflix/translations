@@ -1,7 +1,7 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Rendez-vous*** et sur ***Clients*** pour accéder à l'aperçu des clients.\n2. Sélectionnez l'agenda de prise de rendez-vous dans lequel vous souhaitez effectuer la recherche à l'étape suivante.\n3. Utilisez le champ de recherche pour rechercher des rendez-vous ou des clients.\n4. Utilisez le filtre de temps pour restreindre la recherche à une plage temporelle spécifique.",
 	"img": {
-		"1": ""
+		"1": "bild49.webp"
 	},
-	"title": ""
+	"title": "Fonction de recherche"
 }

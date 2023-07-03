@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez d'abord sur ***Profil*** et ensuite sur ***Statistiques***.\n2. Cliquez sur ***Calculer les statistiques***.\n3. L'outil de statistiques vous fournit les données suivantes :\n* historique total de la prise de rendez-vous\n* nombre de rendez-vous par calendrier\n* rendez-vous par heure\n* rendez-vous par service\n* rendez-vous par jour de la semaine\n* date de réservation\n* historique de la prise de rendez-vous par jour\n\nLes données sont affichées sous forme graphique, en pourcentage et en valeur absolue.\nLa mise à jour se fait immédiatement.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild50.webp",
+		"2": "bild51.webp"
 	},
-	"title": ""
+	"title": "Statistiques sur les réservations précédentes"
 }

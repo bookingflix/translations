@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\nNecesita créditos SMS para enviar confirmaciones de citas por SMS. Estos se pueden comprar y consultar en bookingflix.com/dashboard/credits.html. Los nuevos usuarios de Bookingflix reciben 10 créditos SMS de forma gratuita. El envío se detiene una vez que se agotan los créditos SMS.\n1. Haga clic en ***Perfil***.\n2. Haga clic en ***Créditos***.\n3. Haga clic en ***Comprar crédito para créditos SMS***.\n4. En la parte inferior de la página, se muestran los SMS ya enviados y el crédito aún disponible.\n5. Indique el número de créditos SMS que le gustaría comprar. La cantidad mínima de pedido es de 100 créditos.\n6. Haga clic en ***Comprar créditos SMS ahora***. A continuación se abrirá el formulario de pedido de PayPal.\n\nUna vez finalizado el proceso de pedido, recibirá automáticamente una factura con el IVA indicado.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild63.webp",
+		"2": "bild64.webp",
+		"3": "bild65.webp"
 	},
-	"title": ""
+	"title": "Compra de créditos SMS a través de PayPal"
 }

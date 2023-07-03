@@ -1,11 +1,12 @@
 {
-	"description": "",
+	"description": "You are in the Dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/en/sign-in.html)\n\n1. Click on ***Share***.\n2. Click on ***Share appointment calendar***.\n3. Click on ***Recreate organization***.\n4. Assign a name for the shared calendar.\n5. Select the booking calendar to be shared. Multiple selection is possible.\n6. Click on the button ***Save organization now***.\n7. Click on the ***Settings*** button.\n8. Click on the button ***Share this organization***.\n9. Select the user who is allowed to access the selected calendar. This user must have been previously registered via Bookingflix. To do this, create a free account at: https://bookingflix.en/quickstart.\n10. Select the rights that the previously selected user should have.\n11. Click on the button ***save now***.\n12. The selected user can now take on the assigned role via the link ***Select/Deselect organization***. He then only has the rights that were granted to him in step 10. \n\nPlease also note the webinar video on this at: https://bookingflix.en/support/webinar",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": "",
-		"5": ""
+		"1": "bild66.webp",
+		"2": "bild67.webp",
+		"3": "bild68.webp",
+		"4": "bild69.webp",
+		"5": "bild69b.webp",
+		"6": "bild71.webp"
 	},
-	"title": ""
+	"title": "Hand over calendar management to third parties or employees"
 }

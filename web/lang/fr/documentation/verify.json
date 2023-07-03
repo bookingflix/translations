@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur *****Agenda*****.\n2. Cliquez sur ***Éditer l'agenda*** ou sur ***Créer un nouvel agenda***.\n3. Cliquez sur ***Paramètres*** dans le Quick-Start (générateur pour créer un agenda de prise de rendez-vous). Pour créer un nouvel agenda, veuillez d'abord suivre les étapes précédentes. L'assistant de démarrage rapide vous guide pas à pas vers l'agenda de réservation dont vous avez besoin.\n4. ***Cochez la case*** si vous souhaitez que le client reçoive un e-mail avec un lien de vérification après la réservation du rendez-vous. La réservation ne sera disponible que lorsqu'il aura cliqué sur ce lien et pourra être confirmée manuellement ou automatiquement. Avant cela, le rendez-vous n'apparaît pas dans l'aperçu des rendez-vous de votre tableau de bord.\nVous pouvez prédéfinir le délai disponible pour la vérification du rendez-vous. Si votre client ne procède pas à la vérification, le créneau horaire est à nouveau libéré une fois le temps écoulé. Le créneau de rendez-vous est donc bloqué pendant la durée de la vérification.\nSi votre client ne tient pas compte du premier e-mail concernant la vérification, il reçoit un deuxième e-mail avec le lien de vérification après environ 80 % du temps prédéfini.\n\nVous pouvez désactiver la vérification. Veuillez noter que cela n'est pas conforme au RGPD. Nous vous recommandons de ne le faire que pour tester le système ou pour prendre des rendez-vous internes.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild5.webp",
+		"2": "bild6.webp"
 	},
-	"title": ""
+	"title": "Vérification selon le RGPD"
 }

@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/en/sign-in.html)\n\n1. Click on ***** Appointment calendar*****.\n2. Click on ***Edit appointment calendar*** or on ***Create new appointment calendar***.\n3. Click ***Settings*** in the Quick-Start (generator for creating an appointment-booking calendar). If you are creating a new appointment booking calendar, the previous steps must be edited first. The Quick-Start Wizard will guide you step by step to the appointment-booking calendar you need.\n4. Check the ***box*** if you want the customer to receive an email with a verification link after booking the appointment. Only when he clicks this link, the booking will be released and can be confirmed manually or automatically. Before that, the appointment will not appear in the appointment overview of your dashboard.\nYou can preset the available time period for verifying the appointment. If your customer does not verify the appointment, the appointment slot will be released again after the time expires. The appointment slot will be blocked for the duration of the verification.\nIf your customer does not follow the first email regarding verification, he will receive another email with the verification link after about 80% of the preset time.\n\nYou can turn off the verification. Note that this does not comply with the GDPR. We recommend this only for testing purposes or for internal appointments.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild5.webp",
+		"2": "bild6.webp"
 	},
-	"title": ""
+	"title": "Verification according to GDPR"
 }

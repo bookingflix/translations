@@ -1,7 +1,7 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/en/sign-in.html)\n\n1. Click on ***Appointments*** and on ***Customers*** to get to the customer overview.\n2. Select the desired appointment booking calendar to perform the search in it in the next step.\n3. Use the search field to search for appointments or customers.\n4. Use the time filter to narrow down the search to a specific time range.",
 	"img": {
-		"1": ""
+		"1": "bild49.webp"
 	},
-	"title": ""
+	"title": "Search function"
 }

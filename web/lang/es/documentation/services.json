@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Ajustes***.\n2. Pulsar en ***Definir Servicios reservables***.\n3. Haga clic en ***Añadir Servicio reservable*** para crear un servicio. A continuación, lo puede editar directamente.\n4. Puede realizar los siguientes ajustes\n* Título del servicio\n* Texto informativo debajo del título\n* Duración del servicio\n* Precio del servicio\n* Categoría del servicio\n* Añadir imagen al servicio\n\nSeleccione la categoría de servicio que debe aparecer en el calendario. Los diferentes servicios se agrupan en las categorías de servicios. Un servicio se puede agrupar en varias categorías de servicio.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild59.webp",
+		"2": "bild60.webp"
 	},
-	"title": ""
+	"title": "Definir las prestaciones"
 }

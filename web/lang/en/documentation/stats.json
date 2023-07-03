@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/en/sign-in.html)\n\n1. Click first on ***Profile*** and then on ***Statistics***.\n2. Click on ***Calculate statistics***.\n3. The statistics tool shows you the following data:\n* Total appointment booking history\n* Appointments by calendar\n* Appointments by time\n* Appointments by service\n* Appointments by day of the week\n* When the booking was made\n* Appointment booking history by day\n\nThe data is displayed graphically, in percentages and in absolute values.\nUpdating takes place immediately.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild50.webp",
+		"2": "bild51.webp"
 	},
-	"title": ""
+	"title": "Statistics on previous bookings"
 }

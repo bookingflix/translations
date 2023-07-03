@@ -1,9 +1,9 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/en/sign-in.html)\n\nFor sending appointment commitments via SMS you need SMS credits. These can be bought and viewed at bookingflix.com/dashboard/credits.html. New users of Bookingflix get 10 SMS credits for free. The sending stops as soon as the SMS credits are used up.\n1. Click on ***Profile***.\n2. Click on ***Credits***.\n3. click on ***Buy SMS credits***.\n4. In the lower area the already sent SMS are listed as well as the still available credit.\n5. Specify the number of SMS credits you want to buy. The minimum order quantity is 100 credits.\n6. Click on ***Buy SMS credits now***. Then the PayPal order form will open.\n\nYou will automatically receive an invoice with sales tax after the order process.",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": ""
+		"1": "bild63.webp",
+		"2": "bild64.webp",
+		"3": "bild65.webp"
 	},
-	"title": ""
+	"title": "Purchase of SMS credits via PayPal"
 }

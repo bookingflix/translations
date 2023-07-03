@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Paramètres***.\n2. Cliquez sur ***Définir les prestations réservables***.\n3. Cliquez sur ***Ajouter une prestation réservable*** pour créer une prestation. Ensuite, vous pouvez la modifier directement.\n4. Vous pouvez procéder aux adaptations suivantes :\n* titre de la prestation\n* texte d'information sous le titre\n* durée de la prestation\n* prix de la prestation\n* catégorie de la prestation\n* ajouter une image à la prestation\n\nSélectionnez la catégorie de service qui doit apparaître dans l'agenda. Les différents services sont regroupés dans les catégories de services. Un service peut être classé dans plusieurs catégories de services.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild59.webp",
+		"2": "bild60.webp"
 	},
-	"title": ""
+	"title": "Définir les prestations"
 }

@@ -1,8 +1,8 @@
 {
-  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Profil*** und anschließend auf ***Statistiken***.\n2. Klicken Sie auf ***Statistik berechnen***.\n3. Das Statistik-Tool zeigt Ihnen folgende Daten:\n* Terminbuchungsverlauf gesamt\n* Terminanzahl nach Kalender\n* Termine nach Uhrzeit\n* Termine nach Dienstleistung\n* Termine nach Wochentag\n* Wann wurde gebucht\n* Terminbuchungsverlauf tageweise\n\nDie Daten werden grafisch, in Prozenten und Absolut dargestellt.\nDie Aktualisierung erfolgt unmittelbar.",
-  "img": {
-    "1": "bild50.webp",
-    "2": "bild51.webp"
-  },
-  "title": "Statistiken zu den bisherigen Buchungen"
+	"description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Profil*** und anschließend auf ***Statistiken***.\n2. Klicken Sie auf ***Statistik berechnen***.\n3. Das Statistik-Tool zeigt Ihnen folgende Daten:\n* Terminbuchungsverlauf gesamt\n* Terminanzahl nach Kalender\n* Termine nach Uhrzeit\n* Termine nach Dienstleistung\n* Termine nach Wochentag\n* Wann wurde gebucht\n* Terminbuchungsverlauf tageweise\n\nDie Daten werden grafisch, in Prozenten und Absolut dargestellt.\nDie Aktualisierung erfolgt unmittelbar.",
+	"img": {
+		"1": "bild50.webp",
+		"2": "bild51.webp"
+	},
+	"title": "Statistiken zu den bisherigen Buchungen"
 }

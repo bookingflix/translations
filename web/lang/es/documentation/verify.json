@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***** Calendario de citas*****.\n2. Haga clic en ***Editar calendario de citas*** o en ***Crear nuevo calendario de citas***.\n3. Haga clic en ***Ajustes*** en el Inicio rápido (generador para crear un calendario de reservas de citas). Si va a crear un nuevo calendario de reservas, es necesario que realice los pasos anteriores. El asistente de inicio rápido le guiará paso a paso hasta el calendario de reservas que necesita.\n4. ***Marque la casilla*** si el cliente debe recibir un correo electrónico con un enlace de verificación una vez que haya reservado la cita. Sólo cuando haga clic en este enlace, la reserva será disponible y podrá ser confirmada de forma manual o automática. Antes de esto, la cita no aparecerá en la vista general de citas de su tablero de mandos.\nPuede preestablecer el tiempo disponible para la verificación de la cita. Si su cliente no realiza la verificación, la franja horaria de la cita se liberará de nuevo una vez transcurrido el tiempo. La franja horaria de la cita queda bloqueada mientras dure la verificación.\nSi su cliente no hace caso del primer correo electrónico relativo a la verificación, recibirá otro correo electrónico con el enlace de verificación transcurrido aproximadamente el 80% del tiempo preestablecido.\n\nPuede desactivar la verificación. Tenga en cuenta que esto no cumple con el RGPD. Recomendamos esta opción solo para pruebas o citas internas.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild5.webp",
+		"2": "bild6.webp"
 	},
-	"title": ""
+	"title": "Verificación conforme al RGPD"
 }

@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Ajustes***.\n2. Haga clic en ***Editar correo del sistema***.\n3. Seleccione el calendario de reservas al que desea acceder.\n4. Haga clic en ***Confirmar***.\n5. Marque la casilla si desea que la confirmación de la cita se envíe también por SMS.\n6. Haga clic en ***Guardar ahora***.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild10.webp",
+		"2": "bild11.webp"
 	},
-	"title": ""
+	"title": "Confirmación de cita por sms"
 }

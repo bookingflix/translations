@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "You are in the Dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/en/sign-in.html)\n\n1. Click on ***Settings***.\n2. Click on ***Define Bookable Services***.\n3. Click on ***Add Bookable Service*** to create a service. You can then edit this directly. 4. You can make the following adjustments:\n* Title of the service\n* Info text below the title\n* Duration of the service\n* Price of the service\n* Category of the service\n* Add picture to the service\n\nSelect the service category that should appear in the calendar. The different services are grouped in the service categories. A service can be grouped into several service categories.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild59.webp",
+		"2": "bild60.webp"
 	},
-	"title": ""
+	"title": "Define services"
 }

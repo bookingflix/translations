@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "You are in the dashboard.\nLogin via [bookingflix.com/en/sign-in.html](https://bookingflix.com/en/sign-in.html)\n\n1. Click on ***Appointments***.\n2. Click on ***Add appointment***. Alternatively, you can also add an appointment via the appointment overview.\n3. Select the desired appointment booking calendar.\n4. Click on ***Add Repeat*** if you want to set recurring appointments at regular intervals. You can set the number of repeats and the frequency. For example, every 2 days, every 4 weeks, once a month.\n5. Click on ***Check appointment*** to prevent a possible overbooking. If an appointment is already entered, you will receive an error message.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild52.webp",
+		"2": "bild53.webp"
 	},
-	"title": ""
+	"title": "Create recurring appointments"
 }

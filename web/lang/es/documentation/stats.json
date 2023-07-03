@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Primero haga clic en ***Perfil*** y después en ***Estadísticas***.\n2. Haga clic en ***Calcular estadísticas***.\n3. La herramienta de estadísticas le muestra los siguientes datos:\n* Historial de reservas de citas en total\n* Número de citas por calendario\n* Citas por hora\n* Citas por servicio\n* Citas por día de la semana\n* Cuándo se reservó\n* Historial de reservas por día\n\nLos datos se muestran gráficamente, en porcentaje y en valor absoluto.\nLa actualización se produce inmediatamente.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild50.webp",
+		"2": "bild51.webp"
 	},
-	"title": ""
+	"title": "Estadísticas de las reservas anteriores"
 }

@@ -1,11 +1,12 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Partager***.\n2. Cliquez sur ***Partager l'agenda***.\n3. Cliquez sur ***Recréer une organisation***.\n4. Donnez un titre à l'agenda partagé.\n5. Sélectionnez l'agenda à partager. Vous pouvez effectuer une sélection multiple.\n6. Cliquez sur le bouton ***Enregistrer l'organisation maintenant***.\n7. Cliquez sur le bouton ***Paramètres***.\n8. Cliquez sur le bouton ***Partager cette organisation***.\n9. Choisissez l'utilisateur qui peut accéder à l'agenda sélectionné. Cet utilisateur doit avoir été préalablement enregistré via Bookingflix. Pour cela, créez un compte gratuit sur : https://bookingflix.fr/quickstart\n10. Choisissez les droits dont l'utilisateur sélectionné doit disposer.\n11. Cliquez sur le bouton ***enregistrer maintenant***.\n12. L'utilisateur sélectionné peut maintenant prendre le rôle qui lui a été attribué via le lien ***Sélectionner/désélectionner l'organisation***. Il ne dispose alors que des droits qui lui ont été accordés à l'étape 10. \n\nVeuillez également consulter la vidéo webinaire à ce sujet sur : https://bookingflix.fr/support/webinar",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": "",
-		"5": ""
+		"1": "bild66.webp",
+		"2": "bild67.webp",
+		"3": "bild68.webp",
+		"4": "bild69.webp",
+		"5": "bild69b.webp",
+		"6": "bild71.webp"
 	},
-	"title": ""
+	"title": "Transférer la gestion d'agenda à un tiers ou à un collaborateur"
 }

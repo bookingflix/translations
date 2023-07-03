@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Citas***.\n2. Haga clic en ***Añadir cita***. También puede añadir una cita a través de la vista general de citas.\n3. Seleccione el calendario de reservas que desea utilizar.\n4. Haga clic en ***Añadir repetición*** si desea configurar citas recurrentes a intervalos regulares. Puede definir el número de repeticiones y la frecuencia. Por ejemplo, cada 2 días, cada 4 semanas, una vez al mes.\n5. Haga clic en ***Comprobar cita*** para evitar un posible exceso de reservas. Si ya se ha introducido una cita, recibirá un mensaje de error.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild52.webp",
+		"2": "bild53.webp"
 	},
-	"title": ""
+	"title": "Crear citas recurrentes"
 }

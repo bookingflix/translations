@@ -1,18 +1,18 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord.\nConnectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": "",
-		"5": "",
-		"6": "",
-		"7": "",
-		"8": "",
-		"9": "",
-		"10": "",
-		"11": "",
-		"12": ""
+		"1": "workflowautomatisieren01.webp",
+		"2": "workflowautomatisieren02.webp",
+		"3": "workflowautomatisieren03.webp",
+		"4": "workflowautomatisieren04.webp",
+		"5": "workflowautomatisieren05.webp",
+		"6": "workflowautomatisieren06.webp",
+		"7": "workflowautomatisieren07.webp",
+		"8": "workflowautomatisieren08.webp",
+		"9": "workflowautomatisieren09.webp",
+		"10": "workflowautomatisieren10.webp",
+		"11": "workflowautomatisieren11.webp",
+		"12": "workflowautomatisieren12.webp"
 	},
-	"title": ""
+	"title": "Automatiser le flux de travail par le biais de l'API Make.com"
 }

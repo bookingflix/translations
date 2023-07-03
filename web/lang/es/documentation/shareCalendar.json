@@ -1,11 +1,12 @@
 {
-	"description": "",
+	"description": "Está en el tablero de mandos.\nInicio de sesión a través de [bookingflix.com/es/sign-in.html](https://bookingflix.com/es/sign-in.html)\n\n1. Haga clic en ***Compartir***.\n2. Haga clic en ***Compartir calendario de citas***.\n3. Haga clic en ***Crear nueva organización***.\n4. Introduzca un título para el calendario compartido.\n5. Seleccione el calendario de reservas que desea compartir.\n5. Seleccione el calendario de reservas que desea compartir. Es posible realizar una selección múltiple.\n6. Pulse el botón ***Guardar organización ahora***.\n7. Haga clic en el botón ***Ajustes***.\n8. Haga clic en el botón ***Compartir esta organización***.\n9. Seleccione el usuario que está autorizado a acceder al calendario seleccionado. Este usuario debe haberse registrado previamente a través de Bookingflix. Para ello, cree una cuenta gratuita en: https://bookingflix.es/quickstart.\n10. Seleccione los derechos que debe tener el usuario previamente seleccionado.\n11. Haga clic en el botón ***guardar ahora***.\n12. El usuario seleccionado puede ahora asumir el papel asignado a través del enlace ***Seleccionar/Deseleccionar organización***. A partir de ese momento, sólo tendrá los derechos que se le concedieron en el paso 10. \n\nVea también el vídeo del seminario web sobre este tema en: https://bookingflix.es/support/webinar",
 	"img": {
-		"1": "",
-		"2": "",
-		"3": "",
-		"4": "",
-		"5": ""
+		"1": "bild66.webp",
+		"2": "bild67.webp",
+		"3": "bild68.webp",
+		"4": "bild69.webp",
+		"5": "bild69b.webp",
+		"6": "bild71.webp"
 	},
-	"title": ""
+	"title": "Transferir la gestión de la agenda a un tercero o al personal"
 }

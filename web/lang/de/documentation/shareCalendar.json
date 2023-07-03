@@ -1,12 +1,12 @@
 {
-  "description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Teilen***.\n2. Klicken Sie auf ***Termin-Kalender teilen***.\n3. Klicken Sie auf ***Organisation neu erstellen***.\n4. Vergeben Sie einen Namen für den geteilten Kalender.\n5. Wählen Sie den zu teilenden Buchungskalender aus. Eine Mehrfachauswahl ist möglich.\n6. Klicken Sie auf den Button ***Organisation jetzt speichern***.\n7. Klicken Sie auf den Button ***Einstellungen***.\n8. Klicken Sie auf den Button ***Diese Organisation teilen***.\n9. Wählen Sie den Benutzer aus, der auf den ausgewählten Kalender zugreifen darf. Dieser Benutzer muss vorher bereits über Bookingflix registriert worden sein. Legen Sie hierfür einen kostenfreien Account an auf: https://bookingflix.de/quickstart\n10. Wählen Sie aus, über welche Rechte der zuvor ausgewählte Benutzer verfügen soll.\n11. Klicken Sie auf den Button ***jetzt speichern***.\n12. Der ausgewählte Benutzer kann nun über den Link ***Organisation wählen/abwählen*** die zugeordnete Rolle einnehmen. Er verfügt dann nur über die Rechte, die ihm in Schritt 10 gewährt wurden. \n\nBitte beachten Sie auch das Webinar-Video hierzu auf: https://bookingflix.de/support/webinar",
-  "img": {
-    "1": "bild66.webp",
-    "2": "bild67.webp",
-    "3": "bild68.webp",
-    "4": "bild69.webp",
-    "5": "bild69b.webp",
-    "6": "bild71.webp"
-  },
-  "title": "Kalenderverwaltung übergeben an Dritte oder Mitarbeiter"
+	"description": "Sie befinden sich im Dashboard.\nLogin über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Teilen***.\n2. Klicken Sie auf ***Termin-Kalender teilen***.\n3. Klicken Sie auf ***Organisation neu erstellen***.\n4. Vergeben Sie einen Namen für den geteilten Kalender.\n5. Wählen Sie den zu teilenden Buchungskalender aus. Eine Mehrfachauswahl ist möglich.\n6. Klicken Sie auf den Button ***Organisation jetzt speichern***.\n7. Klicken Sie auf den Button ***Einstellungen***.\n8. Klicken Sie auf den Button ***Diese Organisation teilen***.\n9. Wählen Sie den Benutzer aus, der auf den ausgewählten Kalender zugreifen darf. Dieser Benutzer muss vorher bereits über Bookingflix registriert worden sein. Legen Sie hierfür einen kostenfreien Account an auf: https://bookingflix.de/quickstart\n10. Wählen Sie aus, über welche Rechte der zuvor ausgewählte Benutzer verfügen soll.\n11. Klicken Sie auf den Button ***jetzt speichern***.\n12. Der ausgewählte Benutzer kann nun über den Link ***Organisation wählen/abwählen*** die zugeordnete Rolle einnehmen. Er verfügt dann nur über die Rechte, die ihm in Schritt 10 gewährt wurden. \n\nBitte beachten Sie auch das Webinar-Video hierzu auf: https://bookingflix.de/support/webinar",
+	"img": {
+		"1": "bild66.webp",
+		"2": "bild67.webp",
+		"3": "bild68.webp",
+		"4": "bild69.webp",
+		"5": "bild69b.webp",
+		"6": "bild71.webp"
+	},
+	"title": "Kalenderverwaltung übergeben an Dritte oder Mitarbeiter"
 }
