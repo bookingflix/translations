@@ -16,6 +16,11 @@
 		"info": "Specify the duration of an appointment. Do you offer several services with different duration? Then select the \"Offers & Services\" calendar format in the 1st step.",
 		"title": "How long does an appointment take?"
 	},
+	"editBlocked": "Once appointment bookings have been made, changing the date and time is no longer possible.",
+	"eventpicker": {
+		"deleteWarning": "When you delete the appointment, it is removed from the booking calendar. Therefore, no new bookings can be received. However, existing bookings will remain and will still be visible in the dashboard.",
+		"info": "Create a new appointment by clicking on a date on the calendar page below."
+	},
 	"immediately": "Immediately",
 	"lastMinute": {
 		"description": "At least {date} between booking and start of appointment. This can prevent very last minute bookings.",
@@ -25,7 +30,7 @@
 	"next": {
 		"info": "Geben Sie an, wann der jeweils nachfolgende Termin buchbar sein soll. Beispiel – „Zur nächsten vollen Stunde“: Findet ein Termin von 9:00–9:30 Uhr statt, ist der nächste buchbare Termin 10:00–10:30 Uhr. Beispiel – „Zur nächsten Viertelstunde“. Findet ein Termin von 9:00–10:00 statt, so ist der nächste buchbare Termin 9:15–10:15 Uhr.",
 		"option": [
-			"following previous appointment",
+			"after the previous appointment",
 			"15 minutes after the start of the previous appointment",
 			"30 minutes after the start of the previous appointment",
 			"1 hour after the start of the previous appointment"

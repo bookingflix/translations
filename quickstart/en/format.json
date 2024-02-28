@@ -12,7 +12,7 @@
 			"title": "Flix calendar"
 		},
 		"services": {
-			"info": "For services with different appointment durations: e.g. service calls, friezeur services.",
+			"info": "For services with different appointment times: e.g. service calls, hairdressing services",
 			"title": "Offers / Services"
 		}
 	},

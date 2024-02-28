@@ -2,9 +2,16 @@
 	"additionalAppointments": {
 		"appointments": "Date supplémentaire | Dates supplémentaires",
 		"button": "Activer des dates supplémentaires individuelles",
-		"info": "Chers clients, vous trouverez ici quelques dates supplémentaires en complément des heures d'ouverture fixes."
+		"default": "Chers clients, vous trouverez ici quelques dates supplémentaires en complément des heures d'ouverture fixes.",
+		"help": "Le nom du rendez-vous peut être modifié ou complètement supprimé en cliquant sur l'icône de la clé à molette.",
+		"info": "Ce champ de texte vous permet de saisir un texte individuel concernant d'éventuelles dates supplémentaires enregistrées."
 	},
 	"appointment": "Rendez-vous | Dates",
+	"back": "dos",
+	"delete": "Supprimer le rendez-vous",
+	"duplicate": "Rendez-vous en double",
+	"edit": "Modifier le rendez-vous",
+	"editEnd": "Terminer l'édition",
 	"error": {
 		"end": "La fin de votre calendrier doit être postérieure à sa date de début.",
 		"time": "La fin de votre période d'ouverture doit être postérieure à son début."
@@ -32,11 +39,18 @@
 		"years": "année | années"
 	},
 	"repeat": {
+		"add": "Ajouter une répétition",
+		"daily": "Tous les jours",
+		"event": "répétition",
 		"every": {
 			"1": "chaque | chaque",
 			"2": "chaque | chaque",
 			"3": "chaque | chaque"
-		}
+		},
+		"info": "Les rendez-vous peuvent être répétés quotidiennement, hebdomadairement ou mensuellement à l'aide de cette fonction. Les rendez-vous en double peuvent ensuite être modifiés ou supprimés séparément.",
+		"monthly": "Mensuel",
+		"weekly": "Toutes les semaines",
+		"xtimes": "- fois au total"
 	},
 	"weekdays": [
 		"Lundi",

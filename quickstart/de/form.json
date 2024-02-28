@@ -1,6 +1,9 @@
 {
 	"add": "Neues Formular-Element beifügen",
 	"checkbox": {
+		"default": {
+			"label": "Mehrfachauswahl"
+		},
 		"description": "Beschreibung (optional)",
 		"info": "Mehrfachauswahl beifügen",
 		"name": "Überschrift",
@@ -10,6 +13,10 @@
 	},
 	"description": "Gestalten Sie hier Ihr Buchungsformular für Ihre Kunden. Über das {icon}-Symbol können Sie weitere Elemente hinzufügen. Über den {icon}-Button können Sie vorhandene Elemente verändern, verschieben oder löschen.",
 	"group": {
+		"default": {
+			"description": "Diese Anzahl an Terminen werden für Sie reserviert",
+			"label": "Wie viele Personen nehmen insgesamt am Termin teil?"
+		},
 		"info": "Gruppenbuchung erlauben",
 		"title": "Gruppenbuchung"
 	},
@@ -26,15 +33,24 @@
 		"title": "Erklärtext"
 	},
 	"phone": {
+		"default": {
+			"label": "Handynummer"
+		},
 		"info": "Handynummer abfragen",
 		"title": "Telefonnr."
 	},
 	"radio": {
+		"default": {
+			"label": "Einzelauswahl"
+		},
 		"info": "Einzelauswahl beifügen",
 		"title": "Einzelauswahl"
 	},
 	"required": "Pflichtfeld",
 	"terms": {
+		"default": {
+			"label": "Ich stimmte den AGBs zu"
+		},
 		"info": "Zustimmung zu AGBs einholen",
 		"name": "Überschrift",
 		"title": "AGB",
@@ -49,6 +65,14 @@
 		"title": "Textblock"
 	},
 	"title": "Formular-Editor",
+	"upload": {
+		"default": {
+			"copyright": "Mit der Übertragung der Datei {file} garantiere ich, dass mir alle notwendigen Rechte zu Verwendung der Datei zur Verfügung stehen.",
+			"label": "Datei-Upload"
+		},
+		"info": "Upload durch den User",
+		"title": "Upload"
+	},
 	"url": {
 		"description": "Link-Beschreibung",
 		"title": "URL",

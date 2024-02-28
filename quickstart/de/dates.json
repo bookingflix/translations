@@ -2,9 +2,16 @@
 	"additionalAppointments": {
 		"appointments": "Zusatztermin | Zusatztermine",
 		"button": "Einzelne Zusatztermine aktivieren",
-		"info": "Liebe Kunden, an dieser Stelle erhalten Sie einige Zusatztermine in Ergänzung zu den festen Öffnungszeiten."
+		"default": "Liebe Kunden, an dieser Stelle erhalten Sie einige Zusatztermine in Ergänzung zu den festen Öffnungszeiten.",
+		"help": "Die Terminbezeichnung kann durch Klick auf das Schraubenschlüssel-Icon geändert oder auch gänzlich entfernt werden.",
+		"info": "Über dieses Textfeld können Sie einen individuellen Text bezüglich eventuell hinterlegter Zusatztermine eintragen."
 	},
 	"appointment": "Termin | Termine",
+	"back": "zurück",
+	"delete": "Termin löschen",
+	"duplicate": "Termin duplizieren",
+	"edit": "Termin bearbeiten",
+	"editEnd": "Bearbeitung beenden",
 	"error": {
 		"end": "Das Ende Ihres Kalenders muss nach dessen Startdatum liegen",
 		"time": "Das Ende Ihrer Öffnungszeit muss nach dessen Beginn liegen"
@@ -32,11 +39,18 @@
 		"years": "Jahr | Jahre"
 	},
 	"repeat": {
+		"add": "Wiederholung hinzufügen",
+		"daily": "Täglich",
+		"event": "wiederholen",
 		"every": {
 			"1": "jede | jeden",
 			"2": "jeden | jede",
 			"3": "jeden | jede"
-		}
+		},
+		"info": "Über diese Funktion können Termine täglich, wöchentlich oder monatlich wiederholt werden. Anschließend können die duplizierten Termine separat bearbeitet oder gelöscht werden.",
+		"monthly": "Monatlich",
+		"weekly": "Jede Woche",
+		"xtimes": "-mal insgesamt"
 	},
 	"weekdays": [
 		"Montag",

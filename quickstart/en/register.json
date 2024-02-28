@@ -9,8 +9,8 @@
 	"isRegistred": "... or already registered?",
 	"loginIncorrect": "Login is not correct",
 	"newAssistent": {
-		"emailText": "Very good! The appointment calendar {name} has been successfully created. It can be used immediately in two ways.\n\n1. via appointment booking website\n---------------------------------\n{link}\n2. via embed code on own website\n---------------------------------\n<!-- Folgenden Einbettungscode auf Website kopieren -->\n{embedcode}\n<!-- Ende Einbettungscode -->\nThe appointment calendar can be edited via the following link:\n---------------------------------\n{editLink}\n2 Default appointment reminders in the appointment calendar.\n---------------------------------\n2 standard appointment reminders have been automatically created for this appointment calendar. One appointment reminder by email 7 days before the appointment and one appointment reminder by email 24 hours before the appointment. The appointment reminders can be customized individually in the admin area.\n\nNote for testing the appointment calendar\n---------------------------------\nPlease use different end devices. If you are logged in to the login area (dashboard) and book an appointment with the same device at the same time, errors may occur. However, this only affects the sending of appointment confirmations. Therefore please do the test booking with another device with which you are not logged in to Bookingflix. Also enter a different email address when booking than the one you used when setting up the Bookingflix account. This ensures a realistic test environment.\n\nMore questions? Open the support center now:\n---------------------------------\n{supportcenter}",
-		"emailTitle": ""
+		"emailText": "Very good! The appointment calendar {name} has been successfully created. It can be used immediately in two ways.\n\n1. via appointment booking website\n{link}\n\n---------------------------------\n\n2. via embed code on own website\n\n<!-- Folgenden Einbettungscode auf Website kopieren -->\n{embedcode}\n<!-- Ende Einbettungscode -->\n\n---------------------------------\n\nThe appointment calendar can be edited via the following link:\n{editLink}\n\n---------------------------------\n\n2 Default appointment reminders in the appointment calendar.\n2 standard appointment reminders have been automatically created for this appointment calendar. One appointment reminder by email 7 days before the appointment and one appointment reminder by email 24 hours before the appointment. The appointment reminders can be customized individually in the admin area.\n\n---------------------------------\n\nNote for testing the appointment calendar\nPlease use different end devices. If you are logged in to the login area (dashboard) and book an appointment with the same device at the same time, errors may occur. However, this only affects the sending of appointment confirmations. Therefore please do the test booking with another device with which you are not logged in to Bookingflix. Also enter a different email address when booking than the one you used when setting up the Bookingflix account. This ensures a realistic test environment.\n\n---------------------------------\n\nMore questions? Open the support center now:\n{supportcenter}",
+		"emailTitle": " {name}"
 	},
 	"password": {
 		"title": "Password",
@@ -23,7 +23,7 @@
 		"title": "Log in to the existing account"
 	},
 	"success": {
-		"info": "All information has been sent to {email} .",
+		"info": "All information has been sent to your email address.",
 		"title": "Successfully saved!"
 	},
 	"terms": {
@@ -38,7 +38,7 @@
 		"warning": "Please enter a username that contains at least 5 characters"
 	},
 	"validateUseraccount": {
-		"emailText": "Please click on the following verification link now:<hr> {link} <hr>After that the account is successfully verified and ready to use.\n\nFor 14 days the premium account of Bookingflix can be used free of charge.\n\nThe options after the 14 days:\n- Change to the free FREE account\n- Renewal of the premium account (No automatic renewal!).\n\nMore info about services and costs: <a href='{url}/price.html'>{url}/price.html</a>\n\nTranslated with www.DeepL.com/Translator (free version)",
+		"emailText": "Please click on the following verification link now:<hr> {link} <hr>After that the account is successfully verified and ready to use.\n\nFor 14 days the premium account of Bookingflix can be used free of charge.\n\nThe options after the 14 days:\n- Change to the free FREE account\n- Renewal of the premium account (No automatic renewal!).\n\nMore info about services and costs: <a href='https://bookingflix.net/prices/'>https://bookingflix.net/prices/</a>",
 		"emailTitle": "Finish Bookingflix account registration now"
 	},
 	"warning": "Please enter at least 5 characters"

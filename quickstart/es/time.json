@@ -16,6 +16,11 @@
 		"info": "Indique la duración de una cita. ¿Ofrece varios servicios con distinta duración? A continuación, seleccione el formato de calendario \"Ofertas y servicios\" en el primer paso.",
 		"title": "¿Cuánto tiempo dura una cita?"
 	},
+	"editBlocked": "Una vez realizadas las reservas de citas, ya no es posible cambiar la fecha y la hora.",
+	"eventpicker": {
+		"deleteWarning": "Cuando se borra, la cita se elimina del calendario de reservas. Por lo tanto, no se pueden recibir nuevas reservas. Sin embargo, las reservas existentes permanecen y siguen siendo visibles en el panel de control.",
+		"info": "Cree una nueva cita haciendo clic en una fecha en la página del calendario a continuación."
+	},
 	"immediately": "Inmediatamente",
 	"lastMinute": {
 		"description": "Al menos {date} entre la reserva y el inicio de la cita. Esto puede evitar las reservas de última hora.",

@@ -2,9 +2,16 @@
 	"additionalAppointments": {
 		"appointments": "Fecha adicional | Fechas adicionales",
 		"button": "Activar citas individuales adicionales",
-		"info": "Estimados clientes, en este punto recibirán algunas fechas adicionales además de los horarios de apertura fijos."
+		"default": "Estimados clientes, en este punto recibirán algunas fechas adicionales además de los horarios de apertura fijos.",
+		"help": "El nombre de la cita puede modificarse o eliminarse por completo haciendo clic en el icono de la llave inglesa.",
+		"info": "Puede utilizar este campo de texto para introducir un texto individual relativo a las citas adicionales que puedan almacenarse."
 	},
 	"appointment": "Cita | Fechas",
+	"back": "espalda",
+	"delete": "Eliminar cita",
+	"duplicate": "Cita duplicada",
+	"edit": "Editar cita",
+	"editEnd": "Procesamiento final",
 	"error": {
 		"end": "El final de su calendario debe ser posterior a su fecha de inicio",
 		"time": "El final de su tiempo de apertura debe ser posterior a su inicio"
@@ -32,11 +39,18 @@
 		"years": "Año | años"
 	},
 	"repeat": {
+		"add": "Agregar repetición",
+		"daily": "Cada día",
+		"event": "Repetición",
 		"every": {
 			"1": "cada | cada",
 			"2": "cada | cada",
 			"3": "cada | cada"
-		}
+		},
+		"info": "Las citas se pueden repetir diariamente, semanalmente o mensualmente usando esta función. Las citas duplicadas se pueden editar o eliminar por separado.",
+		"monthly": "Mensual",
+		"weekly": "Cada semana",
+		"xtimes": "- vez en total"
 	},
 	"weekdays": [
 		"lunes",

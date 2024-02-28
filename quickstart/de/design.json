@@ -5,6 +5,7 @@
 		"title": "Buttontext der Buchungseinladung"
 	},
 	"color": {
+		"close": "Farbwähler schließen",
 		"info": "Wählen Sie die Akzentfarbe der Oberfläche Ihres Terminformulars und -kalenders aus. Beispielsweise können Sie hier Ihre primäre Unternehmensfarbe verwenden.",
 		"title": "Farbe des Terminkalenders"
 	},

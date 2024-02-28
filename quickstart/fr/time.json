@@ -16,6 +16,11 @@
 		"info": "Indiquez la durée d'un rendez-vous. Vous proposez plusieurs services de durée différente ? Alors choisissez le format de calendrier \"Offres & services\" dans la 1ère étape.",
 		"title": "Combien de temps dure un rendez-vous ?"
 	},
+	"editBlocked": "Une fois la prise de rendez-vous effectuée, il n'est plus possible de modifier la date et l'heure.",
+	"eventpicker": {
+		"deleteWarning": "Lors de la suppression, le rendez-vous est retiré du calendrier de réservation. Il n'est donc pas possible de recevoir de nouvelles réservations. Les réservations existantes sont toutefois conservées et restent visibles dans le tableau de bord.",
+		"info": "Créez un nouveau rendez-vous en cliquant sur une date sur la page du calendrier ci-dessous."
+	},
 	"immediately": "Sync et corrections par n17t01",
 	"lastMinute": {
 		"description": "Au moins {date} entre la réservation et le début du rendez-vous. Cela permet d'éviter les réservations à très court terme.",

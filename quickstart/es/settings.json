@@ -1,9 +1,15 @@
 {
+	"additionalEmails": {
+		"add": "Guardar nuevo reenvío de correo electrónico",
+		"info": "Se enviará una copia con los datos de la cita a esta dirección de correo electrónico cuando se reserve la cita.",
+		"title": "Reenvío de correo electrónico al reservar una cita"
+	},
 	"autoConfirm": {
 		"info": "Si selecciona \"Sí\", las citas reservadas se confirman automáticamente. Si selecciona \"No\", puede decidir usted mismo para cada cita.",
 		"title": "¿Deben confirmarse automáticamente las citas reservadas?"
 	},
 	"contact": {
+		"delete": "Quitar contacto",
 		"email": {
 			"info": "Todas las solicitudes de cita, así como (si se desea) las evaluaciones de los clientes, se envían a la dirección de correo electrónico de las personas de contacto.",
 			"title": "Dirección de correo electrónico de la persona de contacto"

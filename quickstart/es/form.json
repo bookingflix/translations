@@ -1,6 +1,9 @@
 {
 	"add": "Adjuntar un nuevo elemento de formulario",
 	"checkbox": {
+		"default": {
+			"label": "Selección múltiple"
+		},
 		"description": "Descripción (opcional)",
 		"info": "Adjuntar selección múltiple",
 		"name": "titular",
@@ -10,6 +13,10 @@
 	},
 	"description": "Diseñe aquí el formulario de reserva para sus clientes. Puede añadir más elementos mediante el símbolo {icon}. Utilice el botón {icon}para cambiar, mover o eliminar elementos existentes.",
 	"group": {
+		"default": {
+			"description": "Se le reservará este número de citas",
+			"label": "¿Cuántas personas asistirán al acto en total?"
+		},
 		"info": "Permitir la reserva de grupos",
 		"title": "Reserva de grupos"
 	},
@@ -26,15 +33,24 @@
 		"title": "Texto explicativo"
 	},
 	"phone": {
+		"default": {
+			"label": "Número de móvil"
+		},
 		"info": "Consultar el número de teléfono móvil",
 		"title": "Número de teléfono"
 	},
 	"radio": {
+		"default": {
+			"label": "Selección individual"
+		},
 		"info": "Adjuntar selección individual",
 		"title": "Selección individual"
 	},
 	"required": "Campo obligatorio",
 	"terms": {
+		"default": {
+			"label": "He aceptado las condiciones"
+		},
 		"info": "Obtener el consentimiento de las CGC",
 		"name": "titular",
 		"title": "AGB",
@@ -49,6 +65,14 @@
 		"title": "Bloque de texto"
 	},
 	"title": "Editor de formularios",
+	"upload": {
+		"default": {
+			"copyright": "Al transferir el archivo {file} , garantizo que dispongo de todos los derechos necesarios para utilizar el archivo.",
+			"label": "Carga de archivos"
+		},
+		"info": "Subida por el usuario",
+		"title": "Cargar"
+	},
 	"url": {
 		"description": "Descripción del enlace",
 		"title": "Url",

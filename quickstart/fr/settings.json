@@ -1,9 +1,15 @@
 {
+	"additionalEmails": {
+		"add": "Enregistrer une nouvelle redirection d'email",
+		"info": "Une copie avec les données du rendez-vous sera envoyée à cette adresse e-mail lors de la réservation du rendez-vous.",
+		"title": "Transfert d'e-mail lors de la réservation d'un rendez-vous"
+	},
 	"autoConfirm": {
 		"info": "Si vous sélectionnez \"Oui\", les rendez-vous réservés sont automatiquement acceptés. Si vous sélectionnez \"Non\", vous pouvez décider vous-même pour chaque rendez-vous.",
 		"title": "Les rendez-vous réservés doivent-ils être automatiquement confirmés ?"
 	},
 	"contact": {
+		"delete": "Supprimer le contact",
 		"email": {
 			"info": "Toutes les demandes de rendez-vous ainsi que les évaluations des clients (si souhaitées) sont envoyées à l'adresse e-mail des personnes de contact.",
 			"title": "Adresse e-mail de la personne de contact"

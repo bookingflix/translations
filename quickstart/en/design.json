@@ -5,6 +5,7 @@
 		"title": "Button text of the booking invitation"
 	},
 	"color": {
+		"close": "Close color selector",
 		"info": "Choose the accent color of your appointment form and calendar interface. For example, you can use your primary corporate color here.",
 		"title": "Appointment calendar color"
 	},

@@ -9,12 +9,17 @@
 	"calendar": {
 		"allDay": "Ganztägiger Termin",
 		"fromTo": "Mehrtägiger Zeitraum",
-		"hours": "Mehrstündiger Termin"
+		"hours": "Termin mit Zeitvorgabe"
 	},
 	"checkDate": "Bitte Termindatum überprüfen",
 	"duration": {
 		"info": "Geben Sie die Dauer eines Termins an. Bieten Sie mehrere Dienstleistungen mit verschiedener Dauer an? Dann wählen Sie im 1. Schritt  das Kalenderformat „Angebote & Dienstleistungen“ aus.",
 		"title": "Wie lange dauert ein Termin?"
+	},
+	"editBlocked": "Sobald Terminbuchungen vorhanden sind, ist eine Änderung von Datum und Uhrzeit nicht mehr möglich.",
+	"eventpicker": {
+		"deleteWarning": "Beim Löschen wird der Termin aus dem Buchungskalender entfernt. Es können also keine neuen Buchungen eingehen. Bestehende Buchungen bleiben aber erhalten und im Dashboard weiterhin sichtbar.",
+		"info": "Erstellen Sie einen neuen Termin durch Klick auf ein Datum des nachfolgenden Kalenderblatts."
 	},
 	"immediately": "Sofort",
 	"lastMinute": {

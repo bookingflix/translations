@@ -5,6 +5,7 @@
 		"title": "Texte du bouton d'invitation à la réservation"
 	},
 	"color": {
+		"close": "Fermer le sélecteur de couleurs",
 		"info": "Choisissez la couleur d'accentuation de l'interface de votre formulaire de rendez-vous et de votre agenda. Par exemple, vous pouvez utiliser ici la couleur primaire de votre entreprise.",
 		"title": "Couleur de l'agenda"
 	},

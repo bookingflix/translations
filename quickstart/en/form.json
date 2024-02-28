@@ -1,6 +1,9 @@
 {
 	"add": "Attach new form element",
 	"checkbox": {
+		"default": {
+			"label": "Multiple selection"
+		},
 		"description": "Description (optional)",
 		"info": "Attach multiple selection",
 		"name": "Headline",
@@ -10,6 +13,10 @@
 	},
 	"description": "Design your booking form for your customers here. Via the {icon} icon you can add more elements. Via the {icon} button you can change, move or delete existing elements.",
 	"group": {
+		"default": {
+			"description": "This number of appointments will be reserved for you",
+			"label": "How many people in total will attend the appointment?"
+		},
 		"info": "Allow group booking",
 		"title": "group booking"
 	},
@@ -26,15 +33,24 @@
 		"title": "Explanatory text"
 	},
 	"phone": {
+		"default": {
+			"label": "Mobile number"
+		},
 		"info": "Query cell phone number",
 		"title": "Phone no."
 	},
 	"radio": {
+		"default": {
+			"label": "Single selection"
+		},
 		"info": "Attach single selection",
 		"title": "Single selection"
 	},
 	"required": "Mandatory field",
 	"terms": {
+		"default": {
+			"label": "I agree to the terms and conditions"
+		},
 		"info": "Obtain consent to GTCs",
 		"name": "Headline",
 		"title": "terms",
@@ -49,6 +65,14 @@
 		"title": "Text block"
 	},
 	"title": "Form Editor",
+	"upload": {
+		"default": {
+			"copyright": "By transferring the file {file} , I guarantee that I have all the necessary rights to use the file.",
+			"label": "File Upload"
+		},
+		"info": "Upload by the user",
+		"title": "Upload"
+	},
 	"url": {
 		"description": "Link description",
 		"title": "URL",

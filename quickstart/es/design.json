@@ -5,6 +5,7 @@
 		"title": "Texto del botón de la invitación a reservar"
 	},
 	"color": {
+		"close": "Cerrar selector de color",
 		"info": "Seleccione el color de acento de la interfaz de su formulario y calendario de citas. Por ejemplo, puede utilizar aquí su color corporativo principal.",
 		"title": "Color de la agenda"
 	},

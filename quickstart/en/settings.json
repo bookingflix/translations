@@ -1,16 +1,22 @@
 {
+	"additionalEmails": {
+		"add": "Save new email forwarding",
+		"info": "A copy with the appointment data will be sent to this email address when the appointment is booked",
+		"title": "Email forwarding when booking an appointment"
+	},
 	"autoConfirm": {
 		"info": "If you select \"Yes\", booked appointments are automatically confirmed. If you select \"No\", you can decide yourself for each appointment.",
 		"title": "Should booked appointments be automatically confirmed?"
 	},
 	"contact": {
+		"delete": "Remove contact",
 		"email": {
 			"info": "All appointment requests will be sent to the contact email address, as well as customer reviews (if requested).",
 			"title": "Email address of the contact person"
 		},
 		"name": {
 			"info": "Enter the name of the contact person for your customers. The contact person does not have to be the person who will run your Bookingflix account. The account creation is done in the last step of the Quickstart.",
-			"title": "Contact person name"
+			"title": "Name of the contact person"
 		}
 	},
 	"event": {

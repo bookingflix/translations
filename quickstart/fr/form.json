@@ -1,6 +1,9 @@
 {
 	"add": "Joindre un nouvel élément de formulaire",
 	"checkbox": {
+		"default": {
+			"label": "Choix multiple"
+		},
 		"description": "description (facultatif)",
 		"info": "Joindre une sélection multiple",
 		"name": "Titre",
@@ -10,6 +13,10 @@
 	},
 	"description": "Créez ici votre formulaire de réservation pour vos clients. Avec le symbole {icon}, vous pouvez ajouter d'autres éléments. Avec le bouton {icon}, vous pouvez modifier, déplacer ou supprimer des éléments existants.",
 	"group": {
+		"default": {
+			"description": "Voici le nombre de dates qui vous sont réservées",
+			"label": "Combien de personnes au total participent au rendez-vous ?"
+		},
 		"info": "Autoriser la réservation de groupe",
 		"title": "Réservation de groupe"
 	},
@@ -26,15 +33,24 @@
 		"title": "Texte explicatif"
 	},
 	"phone": {
+		"default": {
+			"label": "Numéro de téléphone mobile"
+		},
 		"info": "Consulter son numéro de téléphone portable",
 		"title": "Numéro de téléphone"
 	},
 	"radio": {
+		"default": {
+			"label": "Sélection individuelle"
+		},
 		"info": "Joindre une sélection individuelle",
 		"title": "Sélection individuelle"
 	},
 	"required": "Champ obligatoire",
 	"terms": {
+		"default": {
+			"label": "J'ai accepté les conditions générales"
+		},
 		"info": "Obtenir l'accord sur les conditions générales",
 		"name": "Titre",
 		"title": "AGB",
@@ -49,6 +65,14 @@
 		"title": "Bloc de texte"
 	},
 	"title": "Éditeur de formulaires",
+	"upload": {
+		"default": {
+			"copyright": "En transmettant le fichier {file} , je garantis que je dispose de tous les droits nécessaires à l'utilisation du fichier.",
+			"label": "Téléchargement de fichiers"
+		},
+		"info": "Téléchargement par l'utilisateur",
+		"title": "Télécharger"
+	},
 	"url": {
 		"description": "Description du lien",
 		"title": "URL",

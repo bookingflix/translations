@@ -2,9 +2,16 @@
 	"additionalAppointments": {
 		"appointments": "Additional date | Additional dates",
 		"button": "Activate individual additional dates",
-		"info": "Dear customers, at this point you will receive some additional dates in addition to the fixed opening hours."
+		"default": "Dear customers, here you will find some additional dates in addition to the fixed opening hours.",
+		"help": "The appointment name can be changed or removed entirely by clicking on the wrench icon.",
+		"info": "You can use this text field to inform your customers about additional dates"
 	},
 	"appointment": "appointment | appointments",
+	"back": "back",
+	"delete": "Delete appointment",
+	"duplicate": "Duplicate appointment",
+	"edit": "Edit appointment",
+	"editEnd": "End processing",
 	"error": {
 		"end": "The end of your calendar must be after its start date",
 		"time": "The end of your opening time must be after its beginning"
@@ -32,11 +39,18 @@
 		"years": "Year | Years"
 	},
 	"repeat": {
+		"add": "Add repeat",
+		"daily": "Every day",
+		"event": "To repeat",
 		"every": {
 			"1": "each | every",
 			"2": "each | every",
 			"3": "each | every"
-		}
+		},
+		"info": "Appointments can be repeated daily, weekly or monthly using this function. The duplicate appointments can then be edited or deleted separately.",
+		"monthly": "Per month",
+		"weekly": "Every week",
+		"xtimes": "- time in total"
 	},
 	"weekdays": [
 		"Monday",

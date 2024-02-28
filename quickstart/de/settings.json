@@ -1,9 +1,15 @@
 {
+	"additionalEmails": {
+		"add": "Neue Emailweiterleitung speichern",
+		"info": "An diese Emailadresse wird eine Kopie mit den Termindaten bei Terminbuchung gesendet",
+		"title": "Email-Weiterleitung bei Terminbuchung (optional)"
+	},
 	"autoConfirm": {
 		"info": "Wenn Sie \"Ja\" auswählen, wird gebuchten Terminen automatisch zugesagt. Wenn Sie \"Nein\" auswählen, können Sie bei jedem Termin selbst entscheiden.",
 		"title": "Soll gebuchten Terminen automatisch zugesagt werden?"
 	},
 	"contact": {
+		"delete": "Kontakt entfernen",
 		"email": {
 			"info": "An die Email-Adresse der Kontaktpersonen werden alle Terminanfragen sowie (wenn gewünscht) Kundenbewertungen gesendet.",
 			"title": "Email-Adresse der Kontaktperson"
