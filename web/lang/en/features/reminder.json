@@ -5,7 +5,7 @@
 			"button": "Create appointment calendar now",
 			"link": "/quickstart"
 		},
-		"intro": "With Bookingflix you can automatically remind your customers about their appointments. So you can relax and make sure that all booked appointments take place without having to think about it all the time.",
+		"intro": "Bookingflix reminds your customers automatically, via email and SMS, of the booked appointments. This ensures a significantly increased appointment reliability. Customers also appreciate this reminder service.",
 		"sections": [
 			{
 				"einleitung": {
@@ -17,7 +17,7 @@
 						},
 						{
 							"button": {
-								"link": "/support/video/8",
+								"link": "/support/video/701939035",
 								"more": "Learn more"
 							},
 							"headline": "Individual times and frequencies",
@@ -35,9 +35,9 @@
 							"text": "Reminders via SMS are sent against credit. The credit must be purchased for a fee in your Bookingflix account. The notification texts of the SMS are freely customizable."
 						},
 						{
-							"headline": "Individual reminders for each diary",
+							"headline": "Individual reminders for every calendar",
 							"img": "terminerinnerungen-05.png",
-							"text": "If you manage multiple appointment calendars via Bookingflix, you can decide for each calendar separately in which frequency, how many days in advance and via which channel appointment reminders should be sent."
+							"text": "For each appointment booking calendar, you can separately set how far in advance an email or SMS appointment reminder is sent."
 						}
 					]
 				}

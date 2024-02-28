@@ -218,6 +218,14 @@
 				"05": {
 					"description": "Können variabel festgelegt werden.",
 					"title": "Termindauer und Taktung"
+				},
+				"06": {
+					"description": "Neben einer Einzelbuchung können auch Gruppentermine mit mehreren Teilnehmern zur Buchung angeboten werden.",
+					"title": "Gruppenbuchungen"
+				},
+				"07": {
+					"description": "PDF- und Bildupload durch Ihre Kunden bei der Terminbuchung. Z. B. für Bewerbungen.",
+					"title": "Bild- und PDF-Upload"
 				}
 			},
 			"title": "Personalisierung"
@@ -282,9 +290,13 @@
 				"03": {
 					"description": "FAQs, Hilfe-Videos, Anleitungen und Webinare sind im Support-Bereich dokumentiert.",
 					"title": "Online Support"
+				},
+				"04": {
+					"description": "Automatisches Backupsystem zur Sicherung vor Datenverlust.",
+					"title": "Regelmäßige Backups"
 				}
 			},
-			"title": "Datenschutz und Hilfe"
+			"title": "Datenschutz, Datensicherheit und Hilfe"
 		},
 		"15_technischeaspekte": {
 			"items": {
@@ -316,7 +328,20 @@
 			},
 			"title": "Workflow Automatisierung"
 		},
-		"17_more": {
+		"17_accountverwaltung": {
+			"items": {
+				"01": {
+					"description": "Umfangreiche Statistiken zu allen Buchungen.",
+					"title": "Statistiken"
+				},
+				"02": {
+					"description": "Angabe der Firma, Adresse, UST-ID, Impressum, Datenschutz, AGB",
+					"title": "Profil"
+				}
+			},
+			"title": "Accountverwaltung"
+		},
+		"18_more": {
 			"items": {
 				"01_dsgvo-und-datenschutzkonformitaet-03": {
 					"link": "/features/privacy",

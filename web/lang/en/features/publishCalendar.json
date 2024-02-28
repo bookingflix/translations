@@ -5,28 +5,28 @@
 			"button": "Create appointment calendar now",
 			"link": "/quickstart"
 		},
-		"intro": "Whether you already have your own website or not - with Bookingflix you can easily and flexibly offer online appointment booking. Either via a booking widget, which you integrate into your website, or via a separate booking website.",
+		"intro": "Whether you have your own website or not - with Bookingflix you can easily and flexibly offer your customers online appointment booking. Either via a small embed code that you insert on your website or via a separate booking website. Everything is generated automatically. Individual customisation is possible at any time.",
 		"sections": [
 			{
 				"widget": {
 					"infos": [
 						{
 							"button": {
-								"link": "/support/video/6",
+								"link": "/support/video/701936959",
 								"more": "Learn more"
 							},
-							"headline": "Integration into your website",
+							"headline": "Embedding in your website",
 							"img": "buchungskalender-veroeffentlichen-01.png",
 							"text": "If you already have your own website, you can integrate the Bookingflix booking widget into it using HTML code. In your account you will find the step-by-step instructions as well as further hints in our support area."
 						},
 						{
-							"headline": "customizable design",
+							"headline": "Customizable design",
 							"img": "buchungskalender-veroeffentlichen-02.png",
 							"text": "To make the booking widget fit seamlessly into your website, customize its color scheme to match your corporate colors."
 						}
 					],
 					"section": {
-						"title": "Booking widget via embed code"
+						"title": "Embed with the booking widget"
 					}
 				}
 			},
@@ -35,7 +35,7 @@
 					"infos": [
 						{
 							"button": {
-								"link": "/support/video/7",
+								"link": "/support/video/701938945",
 								"more": "Learn more"
 							},
 							"headline": "Manage online appointments - even without your own website",
@@ -52,9 +52,9 @@
 								"link": "/features/privacy",
 								"more": "Learn more"
 							},
-							"headline": "DSGVO compliant and secure",
+							"headline": "GDPR compliant and secure",
 							"img": "buchungskalender-veroeffentlichen-05.png",
-							"text": "We help you to create a secure web presence that complies with the DSGVO regulations. The imprint, the T&Cs and the privacy information are automatically obtained from your Bookingflix profile."
+							"text": "We help you to create a secure web presence that complies with the GDPR regulations. The imprint, the GTCs and the privacy information are automatically obtained from your Bookingflix profile."
 						}
 					],
 					"section": {

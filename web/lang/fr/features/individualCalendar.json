@@ -1,123 +1,123 @@
 {
 	"individuelle-terminkalender": {
 		"cta": {
-			"action": "Testez maintenant Bookingflix Premium gratuitement pendant 14 jours !",
+			"action": "Commencez dès maintenant à tester gratuitement Bookingflix Premium pendant 14 jours !",
 			"button": "Créer un agenda maintenant",
 			"link": "/quickstart"
 		},
-		"intro": "Bookingflix propose trois types d'agendas différents que vous pouvez configurer. Selon le type d'entreprise pour laquelle vous souhaitez proposer des rendez-vous, l'un des trois calendriers est le plus adapté.",
+		"intro": "Bookingflix propose trois types d'agendas de prise de rendez-vous. Si vos clients peuvent réserver différents services, veuillez choisir l'agenda pour les offres et les services. Si vous offrez des événements ponctuels, nous vous recommandons l'agenda de prise de rendez-vous pour des événements concrets. Vous avez un magasin avec des horaires d'ouverture fixes ? Dans ce cas, utilisez l'agenda pour les heures d'ouverture fixes.",
 		"sections": [
 			{
 				"01_dienstleistungen": {
 					"infos": [
 						{
 							"button": {
-								"link": "/support/video/3",
-								"more": "en savoir plus"
+								"link": "/support/video/701937587",
+								"more": "En savoir plus"
 							},
 							"headline": "Créer différents services",
 							"img": "individuelle-terminkalender-09.png",
-							"text": "Créez différents services et définissez individuellement la durée, le prix, la catégorie, le texte de description et l'image. Vos clients peuvent ainsi choisir le service souhaité dans la première étape. Ensuite, les créneaux de rendez-vous libres sont affichés. Les créneaux de rendez-vous déjà occupés sont ainsi laissés de côté."
+							"text": "Créez différents services et définissez la durée, le prix, la catégorie, le texte descriptif et l'image de manière individuelle. Vos clients peuvent ainsi choisir le service souhaité dans la première étape. Ensuite, les créneaux de rendez-vous libres sont affichés. Les créneaux de rendez-vous déjà occupés sont ainsi exclus."
 						}
 					],
 					"section": {
-						"intro": "Si vous avez différents services à proposer à vos clients, cet agenda est celui qui vous convient le mieux.",
-						"title": "Calendrier des offres et des services"
+						"intro": "Si vous envisagez de proposer différents services à vos clients, cet agenda est celui qui vous convient le mieux.",
+						"title": "Agenda des offres et des services"
 					}
 				},
 				"02_event": {
 					"infos": [
 						{
 							"button": {
-								"link": "/support/video/2",
-								"more": "en savoir plus"
+								"link": "/support/video/701937808",
+								"more": "En savoir plus"
 							},
 							"headline": "Idéal pour les cours et les événements de groupe",
 							"img": "individuelle-terminkalender-11.png",
-							"text": "Créez des calendriers de réservation pour un ou plusieurs événements et définissez individuellement le nombre de personnes pouvant y participer. Cette option de réservation est particulièrement adaptée aux événements limités dans le temps et qui ne se répètent pas régulièrement."
+							"text": "Créez des calendriers de réservation pour les événements ponctuels ou multiples et définissez individuellement le nombre de personnes qui peuvent y assister. Cette option de réservation est particulièrement appropriée pour les événements limités dans le temps et non récurrents."
 						}
 					],
 					"section": {
-						"intro": "Ce calendrier vous convient si vous proposez des événements isolés tels que des formations, des spectacles ou des salons.",
-						"title": "Calendrier des événements concrets"
+						"intro": "Cet agenda vous convient si vous proposez des événements ponctuels tels que des formations, des présentations ou des foires.",
+						"title": "Agenda des événements concrets"
 					}
 				},
 				"03_oeffnungszeiten": {
 					"infos": [
 						{
 							"button": {
-								"link": "/support/video/1",
-								"more": "en savoir plus"
+								"link": "/support/video/701937701",
+								"more": "En savoir plus"
 							},
-							"headline": "Définir des heures d'ouverture individuelles",
+							"headline": "Déterminer des heures d'ouverture individuelles",
 							"img": "individuelle-terminkalender-05.png",
-							"text": "Quel que soit le mode de fonctionnement de votre entreprise, Bookingflix vous permet d'adapter votre réservation de rendez-vous à vos besoins. Vous pouvez créer vos propres horaires d'ouverture pour chaque jour de la semaine et définir facilement des jours fériés ou des fermetures annuelles. Vous décidez des jours de réservation et des heures de pause."
+							"text": "Peu importe le modèle de fonctionnement de votre entreprise : avec Bookingflix, adaptez la prise de rendez-vous à vos besoins. Vous pouvez créer vos propres horaires d'ouverture pour chaque jour de la semaine et définir facilement des jours fériés ou des fermetures saisonnières. Vous déterminez les jours auxquels les rendez-vous peuvent être réservés et les heures de pause."
 						}
 					],
 					"section": {
-						"intro": "Cet agenda vous convient si vous souhaitez proposer des rendez-vous de même durée pendant vos heures d'ouverture. Il pourrait s'agir de rendez-vous de conseil ou de rendez-vous de test dans un centre de test.",
+						"intro": "Cet agenda vous convient si vous souhaitez proposer des rendez-vous de même durée pendant vos heures d'ouverture. Il peut s'agir de rendez-vous conseil ou de rendez-vous dans un centre de dépistage.",
 						"title": "Agenda pour les heures d'ouverture fixes"
 					}
 				},
 				"04_individual": {
 					"infos": [
 						{
-							"headline": "Configuration facile grâce au générateur de calendrier",
+							"headline": "Configuration facile via le générateur d'agenda",
 							"img": "individuelle-terminkalender-01.png",
-							"text": "Avec le générateur de calendrier Quick-Start, vous pouvez configurer votre calendrier de réservation en ligne complet en 10 minutes seulement. Notre générateur de calendrier vous guide pas à pas à travers les différents paramètres. Vous avez la possibilité de configurer un calendrier pour des heures d'ouverture fixes, des événements particuliers ou des services spécifiques."
+							"text": "Avec notre générateur de calendrier Quick-Start, vous pouvez configurer votre agenda de prise de rendez-vous en ligne complet en 10 minutes ! Le générateur d'agenda vous guide pas à pas à travers les différents paramètres. Vous avez ici la possibilité de configurer un agenda pour des heures d'ouverture fixes, des événements ponctuels ou des services spécifiques."
 						},
 						{
 							"button": {
-								"link": "/support/video/3b",
-								"more": "en savoir plus"
+								"link": "/support/video/701937701",
+								"more": "En savoir plus"
 							},
 							"headline": "Réservation individuelle et de groupe en temps réel",
 							"img": "individuelle-terminkalender-02.png",
-							"text": "Avec le calendrier de réservation en ligne, il est possible de prendre de nouveaux rendez-vous à tout moment. Vos clients peuvent réserver des rendez-vous individuels ou des rendez-vous de groupe, c'est-à-dire un rendez-vous pour plusieurs personnes."
+							"text": "Avec l'agenda en ligne, il est possible d'accepter de nouvelles réservations de rendez-vous à tout moment. Vos clients peuvent réserver des rendez-vous individuels ou des rendez-vous de groupe, c'est-à-dire un rendez-vous pour plusieurs personnes."
 						},
 						{
 							"headline": "Des agendas personnels pour chaque employé",
 							"img": "individuelle-terminkalender-10.png",
-							"text": "Créez un agenda pour chacun de vos collaborateurs et définissez les services qui s'y rapportent. En attribuant des droits d'accès, vos collaborateurs peuvent consulter les informations relatives aux rendez-vous ainsi que définir et modifier des rendez-vous. Les informations d'autres agendas et les autres possibilités de réglage du compte restent toutefois cachées au collaborateur concerné."
+							"text": "Créez un agenda pour chacun de vos employés et définissez les services qui y sont afférents. En attribuant des droits d'accès, vos employés peuvent consulter les informations relatives aux rendez-vous et définir et modifier des rendez-vous. Les données d'autres agendas et les autres possibilités de réglage du compte ne sont toutefois pas accessibles à l'employé en question."
 						},
 						{
 							"headline": "Possibilité de personnalisation totale",
 							"img": "individuelle-terminkalender-03.png",
-							"text": "Déterminez combien de temps à l'avance et à quel moment il doit être possible de réserver un rendez-vous. Vos clients doivent-ils voir le nombre de rendez-vous disponibles par créneau de rendez-vous ou la réservation de rendez-vous doit-elle être confirmée automatiquement par le système ? Cela aussi est possible en option. Tout comme la publication de l'adresse exacte pour le rendez-vous. Dans l'éditeur de formulaires intégré, vous pouvez définir librement les champs de requête, comme par exemple le nom, l'adresse, le téléphone."
+							"text": "Déterminez combien de temps à l'avance il doit être possible de réserver un rendez-vous et si cela doit être possible à court terme. Vos clients doivent-ils voir le nombre de rendez-vous disponibles par créneau de rendez-vous ou la réservation de rendez-vous doit-elle être confirmée automatiquement par le système ? Tout cela est également possible en option. Tout comme la publication de l'adresse exacte pour le rendez-vous. Dans l'éditeur de formulaires intégré, vous pouvez définir librement les champs de requête, comme par exemple le nom, l'adresse, le téléphone."
 						},
 						{
 							"button": {
 								"link": "/support",
-								"more": "en savoir plus"
+								"more": "En savoir plus"
 							},
-							"headline": "Des aides pour chaque étape",
+							"headline": "Aide à chaque étape",
 							"img": "individuelle-terminkalender-04.png",
-							"text": "Si vous ne savez pas exactement ce que vous devez faire ou ce à quoi il faut faire attention, vous trouverez des informations plus détaillées dans les symboles en forme de point d'interrogation à côté de chaque étape du générateur de calendrier. Vous avez encore des questions ? Consultez nos vidéos explicatives dans la zone d'assistance."
+							"text": "Si vous ne savez pas exactement ce que faire ou ce à quoi vous devez faire attention, vous trouverez des informations plus détaillées dans les points d'interrogation à côté de chaque étape du générateur d'agenda. Plus de questions ? Alors veuillez regarder nos tutoriels vidéo dans la zone d'assistance."
 						},
 						{
-							"headline": "Libre choix de la fréquence des rendez-vous et plusieurs clients par slot de rendez-vous",
+							"headline": "Libre choix de la cadence des rendez-vous et plusieurs clients par créneau de rendez-vous",
 							"img": "individuelle-terminkalender-06.png",
-							"text": "Proposez à vos clients des créneaux de rendez-vous fixes. 15 minutes, 30 minutes, 60 minutes. Lors de la configuration de l'agenda, déterminez le nombre de clients pouvant être servis par unité de temps. Dès que le nombre maximal par créneau de rendez-vous est atteint, l'heure de rendez-vous correspondante n'est plus affichée dans l'agenda de réservation.\n\nSi vous souhaitez proposer différentes unités de temps, nous vous recommandons de configurer un agenda pour différents services.\nOu bien configurez simplement plusieurs calendriers. Vous pouvez utiliser jusqu'à trois calendriers de réservation par compte Premium. Nous nous ferons un plaisir d'activer d'autres calendriers si nécessaire."
+							"text": "Proposez à vos clients des créneaux de rendez-vous fixes. 15 minutes, 30 minutes, 60 minutes. Lors de la configuration de l'agenda, déterminez le nombre de clients pouvant être servis par unité de temps. Dès que le nombre maximal par créneau de rendez-vous est atteint, le créneau en question n'est plus affiché dans l'agenda de prise de rendez-vous.\n\nSi vous souhaitez proposer différentes unités de temps, nous vous recommandons de configurer un agenda pour différents services.\nOu bien veuillez simplement configurer plusieurs agendas. Vous pouvez utiliser jusqu'à trois agendas de prise de rendez-vous à la fois pour un compte Premium. Nous nous ferons un plaisir d'activer d'autres agendas si nécessaire."
 						},
 						{
 							"headline": "Gestion de plusieurs filiales",
 							"img": "individuelle-terminkalender-07.png",
-							"text": "Créez plusieurs agendas pour différentes filiales avec votre compte Bookingflix. Chaque agenda peut être attribué à une personne de contact et une adresse e-mail différentes, ce qui permet de gérer facilement les rendez-vous, même dans les grandes entreprises ayant plusieurs sites."
+							"text": "Créez plusieurs agendas pour différentes filiales avec votre compte Bookingflix. À chaque agenda, vous pouvez attribuer une personne à contacter et une adresse e-mail pour une gestion facile des rendez-vous, même dans une grande entreprise avec plusieurs sites."
 						},
 						{
-							"headline": "Comptes propres pour les collaborateurs",
+							"headline": "Comptes individuels pour les employés",
 							"img": "individuelle-terminkalender-08.png",
-							"text": "Dans votre panneau de contrôle Bookingflix, vous pouvez créer des comptes collaborateurs. Ces sous-comptes limités permettent à vos collaborateurs d'accéder uniquement aux données de rendez-vous et à la gestion des rendez-vous."
+							"text": "Dans votre centre de contrôle Bookingflix, vous pouvez créer des comptes collaborateurs. Ces sous-comptes restreints permettent à vos employés d'accéder uniquement aux données et à la gestion des rendez-vous."
 						}
 					],
 					"section": {
 						"intro": "",
-						"title": ""
+						"title": "Facile à régler individuellement"
 					}
 				}
 			}
 		],
-		"subtitle": "Agenda individuel",
-		"title": "Créez facilement et rapidement votre calendrier de réservation"
+		"subtitle": "Agenda individuel de prise de rendez-vous",
+		"title": "Créez facilement et rapidement votre agenda de prise de rendez-vous."
 	}
 }

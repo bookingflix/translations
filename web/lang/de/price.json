@@ -1,5 +1,6 @@
 {
 	"description": "",
+	"info": "Auch unsere Preisgestaltung richtet sich nach unserem Motto: works simple\n\nDas heißt: keine Extrakosten für bestimmte Funktionen oder mehrere Benutzer bzw. Mitarbeiter. Sie zahlen einen festen Preis im Monat oder vorab für ein Jahr.\n\nZahlbarkeit: Sie können den monatlichen Betrag bequem per Lastschrift einziehen lassen. Bei jährlicher Zahlung ist alternativ eine Zahlung auf Rechnung möglich.\n\nFür Schulen, Universitäten, Vereine, karitative Initiativen/Einrichtungen sowie Unternehmen und Filialisten mit besonderem Bedarf, sind individuelle Vereinbarungen gerne möglich.",
 	"page": [
 		{
 			"elements": [
@@ -7,11 +8,11 @@
 					"button": "Jetzt Free-Account erstellen",
 					"list": [
 						"1 Kalender je Account",
-						"50 Terminbuchungen pro Monat",
-						"12 Tage maximaler Vorausbuchungszeitraum für Ihre Kunden",
-						"Inklusive aller Features für Geschäftskonten",
-						"Profildaten, Impressum, Datenschutzinfos können angelegt werden",
-						"16 Cent/SMS (Netto) für die SMS-Termin-Erinnerungen",
+						"12 Terminbuchungen pro Monat",
+						"7 Tage maximaler Vorausbuchungszeitraum für Ihre Kunden",
+						"Inklusive aller Features",
+						"Bookingflix-Support über Ticketsystem und Email",
+						"19 Cent/SMS für die SMS-Termin-Erinnerungen (optional nur bei Nutzung)",
 						"Keine Mindestvertragslaufzeit"
 					],
 					"membership": "Free",
@@ -21,24 +22,23 @@
 					"action": "14 Tage lang Premium kostenlos testen*",
 					"button": "Jetzt Premium-Account erstellen",
 					"list": [
-						"3 Kalender je Account",
-						"Monatlich 5,00 € (Netto) für jeden weiteren Kalender",
+						"3 Kalender je Account inklusive",
+						"Monatlich 11,90 € für jeden weiteren Kalender",
 						"Flatrate Terminbuchungen pro Monat **",
 						"12 Monate maximaler Vorausbuchungszeitraum für Ihre Kunden",
-						"Inklusive aller Features für Geschäftskonten",
-						"Bookingflix-Support über Ticketsystem und Telefon",
-						"Profildaten, Impressum, Datenschutzinfos können angelegt werden",
-						"16 Cent/SMS (Netto) für die SMS-Termin-Erinnerungen",
-						"Keine Mindestvertragslaufzeit"
+						"Inklusive aller Features",
+						"Support über Ticketsystem, Email und Telefon mit festem Ansprechpartner",
+						"19 Cent/SMS für die SMS-Termin-Erinnerungen (optional nur bei Nutzung)",
+						"alle Preise inkl. gesetzlicher Umsatzsteuer"
 					],
 					"membership": "Premium",
-					"price": "9,00 € (Netto) / Monat",
-					"tax": "Umsatzsteuer 19%"
+					"price": "39,95 € / Monat  (monatlich kündbar)",
+					"tax": "29,95 € / Monat bei jährlicher Zahlungsweise (zum Ende eines Vertragsjahres kündbar)"
 				}
 			],
 			"info": {
 				"1": {
-					"action": "Keine automatische Verlängerung – nach Ablauf der kostenlosen 14 Tagen können Sie in Ihrem Login-Bereich den Premium-Account verlängern. Tun Sie dies nicht, werden Sie automatisch zum kostenfreien Free-Account zurückgestuft. ",
+					"action": "Keine automatische Verlängerung – nach Ablauf des kostenlosen 14-tägigen Probezeitraums, können Sie in Ihrem Login-Bereich den Premium-Account verlängern. Tun Sie dies nicht, werden Sie automatisch zum kostenfreien Free-Account zurückgestuft.",
 					"list": {
 						"2": "Die Preise gelten für Händler, Unternehmungen, Dienstleister, etc. im Rahmen einer durchschnittlichen, angemessenen Verwendung unseres Dienstes. Sollte diese Fair Use Policy überschritten werden, würden wir eine Sondervereinbarung miteinander abstimmen. Große Firmen, Impf- und Testzentren sowie Filialisten bitten wir, falls eine durchschnittliche, angemessene Verwendung sehr wahrscheinlich überschritten wird, vor Nutzung von Bookingflix, um Rücksprache: support@bookingflix.com oder 02302-4007736."
 					}
@@ -48,9 +48,7 @@
 		}
 	],
 	"teaser": {
-		"count": "14",
-		"description": "gratis testen",
-		"time": "Tage"
+		"description": "Jetzt 14 Tage | PREMIUM | kostenfrei testen"
 	},
 	"title": "Preise"
 }

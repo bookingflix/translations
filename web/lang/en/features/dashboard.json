@@ -22,16 +22,16 @@
 						},
 						{
 							"button": {
-								"link": "/support/video/10",
+								"link": "/support/video/701937089",
 								"more": "Learn more"
 							},
 							"headline": "Vacations and days off",
 							"img": "kontrollzentrum-03.png",
-							"text": "In your appointment calendar you can define when appointments are bookable and when your business is closed. For this purpose, it is uncomplicatedly possible to add the German holidays to your calendar or to define completely individual free days. You can apply these settings to several calendars you have set up or define them differently for each individual calendar."
+							"text": "In your appointment calendar you can define when appointments are bookable and when your store is closed. For this purpose, you can easily set completely individual free days. You can apply these settings to several calendars you have set up or define them differently for each individual calendar."
 						},
 						{
 							"button": {
-								"link": "/support/video/20",
+								"link": "/support/video/701939388",
 								"more": "Learn more"
 							},
 							"headline": "System mails",
@@ -49,7 +49,7 @@
 						},
 						{
 							"button": {
-								"link": "/support/video/14",
+								"link": "/support/video/701937493",
 								"more": "Learn more"
 							},
 							"headline": "Target page",
@@ -59,7 +59,7 @@
 						{
 							"headline": "Booking form",
 							"img": "kontrollzentrum-07.png",
-							"text": "Define your query fields such as name, address and telephone in the integrated form editor. This way you get the data needed for the customer appointment. The query can be defined as mandatory or optional input."
+							"text": "Define your query fields such as name, address and telephone in the integrated form editor. This way you get the data needed for the customer appointment. The query can be defined as mandatory or optional input. Predefined query fields can be used to agree to your GTC and privacy policy."
 						},
 						{
 							"button": {

@@ -1,32 +1,32 @@
 {
 	"buchungskalender-veroeffentlichen": {
 		"cta": {
-			"action": "Testez maintenant Bookingflix Premium gratuitement pendant 14 jours !",
-			"button": "Créer un agenda maintenant",
+			"action": "Commencez dès maintenant à tester gratuitement Bookingflix Premium pendant 14 jours !",
+			"button": "Créer maintenant un agenda",
 			"link": "/quickstart"
 		},
-		"intro": "Que vous disposiez déjà d'un site web ou pas encore, Bookingflix vous permet de proposer la réservation de rendez-vous en ligne de manière simple et flexible. Soit via un widget de réservation que vous intégrez à votre site web, soit via un site web de réservation séparé.",
+		"intro": "Ayant ou non un site web, Bookingflix vous permet de proposer à vos clients la réservation de rendez-vous en ligne de manière simple et flexible. Vous pouvez le faire soit via un petit code d'intégration que vous insérez sur votre site web, soit via un site web de réservation séparé. Tout est généré automatiquement. Une adaptation individuelle est possible à chaque instant.",
 		"sections": [
 			{
 				"widget": {
 					"infos": [
 						{
 							"button": {
-								"link": "/support/video/6",
-								"more": "en savoir plus"
+								"link": "/support/video/701936959",
+								"more": "En savoir plus"
 							},
 							"headline": "Intégration dans votre site web",
 							"img": "buchungskalender-veroeffentlichen-01.png",
-							"text": "Si vous avez déjà votre propre site web, vous pouvez y intégrer le widget de réservation Bookingflix à l'aide d'un code HTML. Dans votre compte, vous trouverez les instructions étape par étape ainsi que d'autres conseils dans notre espace assistance."
+							"text": "Si vous avez déjà votre propre site web, vous pouvez y intégrer le widget de réservation Bookingflix à l'aide d'un code HTML. Dans votre compte, vous trouverez les instructions pas à pas ainsi que d'autres conseils dans notre domaine d'assistance."
 						},
 						{
 							"headline": "Design personnalisable",
 							"img": "buchungskalender-veroeffentlichen-02.png",
-							"text": "Pour que le widget de réservation s'intègre parfaitement dans votre site web, adaptez individuellement sa couleur aux couleurs de votre entreprise."
+							"text": "Pour que le widget de réservation s'intègre parfaitement dans votre site web, adaptez sa couleur individuellement aux couleurs de votre entreprise."
 						}
 					],
 					"section": {
-						"title": "Widget de réservation via le code d'intégration"
+						"title": "Intégration à l'aide du widget de réservation"
 					}
 				}
 			},
@@ -35,26 +35,26 @@
 					"infos": [
 						{
 							"button": {
-								"link": "/support/video/7",
-								"more": "en savoir plus"
+								"link": "/support/video/701938945",
+								"more": "En savoir plus"
 							},
-							"headline": "Gérer les rendez-vous en ligne - même sans site web personnel",
+							"headline": "Gérer les rendez-vous en ligne - même sans avoir de site web personnel",
 							"img": "buchungskalender-veroeffentlichen-03.png",
-							"text": "Si vous n'avez pas de site web, vous pouvez créer facilement une micropage avec Bookingflix, sur laquelle vos clients peuvent réserver des rendez-vous."
+							"text": "Même si vous n'avez pas de propre site web, Bookingflix vous permet de créer facilement un microsite sur lequel vos clients peuvent prendre rendez-vous."
 						},
 						{
-							"headline": "Options de conception libres",
+							"headline": "Options de conception flexibles",
 							"img": "buchungskalender-veroeffentlichen-04.png",
-							"text": "Avec notre Pagebuilder, il est possible de configurer votre site de réservation de manière individuelle. Ajoutez des titres, des textes et des images selon vos besoins et adaptez les couleurs à votre entreprise. Cerise sur le gâteau : vous n'avez pas besoin de savoir programmer ! Et si vous ne savez pas comment faire, notre service d'assistance se fera un plaisir de vous aider."
+							"text": "Avec notre constructeur de sites, il est possible de configurer individuellement votre site de réservation. Ajoutez des titres, des textes et des images selon vos besoins et adaptez les couleurs à votre entreprise. Et le plus beau : vous n'avez pas besoin de savoir programmer ! Et si vous êtes en difficulté, notre équipe d'assistance vous aidera volontiers."
 						},
 						{
 							"button": {
 								"link": "/features/privacy",
-								"more": "en savoir plus"
+								"more": "En savoir plus"
 							},
 							"headline": "Conforme au RGPD et sûr",
 							"img": "buchungskalender-veroeffentlichen-05.png",
-							"text": "Nous vous aidons à créer un site web sécurisé qui respecte les dispositions du RGPD. Les mentions légales, les conditions générales et les informations sur la protection des données sont automatiquement obtenues à partir de votre profil Bookingflix."
+							"text": "Nous vous aidons à créer un site web sécurisé qui respecte les dispositions du RGPD. Les mentions légales, les conditions générales (CGV) et les informations sur la protection des données sont automatiquement obtenues à partir de votre profil Bookingflix."
 						}
 					],
 					"section": {
@@ -63,7 +63,7 @@
 				}
 			}
 		],
-		"subtitle": "Publier le calendrier des réservations",
-		"title": "Permettez la réservation de vos rendez-vous en ligne sur votre propre site web ou via une page de réservation séparée."
+		"subtitle": "Publier l'agenda de prise de rendez-vous",
+		"title": "Très simple : intégrez l'agenda de prise de rendez-vous sur votre site web. Ou bien utilisez le site de réservation séparé de Bookingflix."
 	}
 }

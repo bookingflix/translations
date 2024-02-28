@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "Vous êtes dans le tableau de bord. Connectez-vous via [bookingflix.com/fr/sign-in.html](https://bookingflix.com/fr/sign-in.html)\n\n1. Cliquez sur ***Agenda***.\n2. Cliquez sur ***Éditer l'agenda*** ou sur ***Créer un nouvel agenda***.\n3. Cliquez sur ***Paramètres*** dans le Quick-Start (générateur pour créer un agenda de prise de rendez-vous). Si vous créez un nouvel agenda, il faut d'abord modifier les étapes précédentes. L'assistant de démarrage rapide vous guide pas à pas vers l'agenda de prise de rendez-vous dont vous avez besoin.\n4. Sélectionnez ***Effectuer des rendez-vous clients en visioconférence***. Une fois la réservation effectuée, votre client reçoit le lien vers la visioconférence. Vous verrez le rendez-vous avec un lien vers la vidéoconférence dans le tableau de bord.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild1.webp",
+		"2": "bild2.webp"
 	},
-	"title": ""
+	"title": "Outil de visioconférence OnBoard"
 }

@@ -9,20 +9,21 @@
 		"title": "Positives Feedback motiviert uns. Negatives Feedback treibt uns an."
 	},
 	"startup": {
-		"description": "Bookingflix ist ein kleines Startup mit Sitz in Witten an der Ruhr. Unser agiles Entwicklerteam ist jedoch dezentral organisiert. Videokonferenzen und Homeoffice prägen daher schon seit dem Gründungsjahr 2017 die Entwicklung von Bookingflix.",
-		"title": "Ein kleines Startup aus Witten"
+		"description": "Bookingflix ist ein Startup mit Sitz in Witten an der Ruhr. Unser agiles Entwicklerteam ist jedoch dezentral organisiert. Videokonferenzen und Homeoffice prägen daher schon seit dem Gründungsjahr 2017 die Entwicklung von Bookingflix.",
+		"title": "Ein Startup aus Witten"
 	},
 	"targets": {
 		"description": [
-			"Weitere Buchungsansicht für die Endkunden",
-			"neue Themen für Terminbuchungswebsite",
-			"API-Schnittstellen über zum Beispiel Zapier.com",
 			"Ticketing mit Anbindung an Zahlungsdienst",
-			"Redesign Dasboard",
+			"Interne Ressourcen-Buchung (IRB)",
+			"Optimieren der Backup-Verwaltung",
+			"Redesign Dashboard",
 			"Rechteverwaltung für Mitarbeiter",
-			"Ausbau des Support-Bereichs"
+			"Ausbau des Support-Bereichs",
+			"Weitere Buchungsansicht für die Endkunden",
+			"API-Schnittstellen via Webhook"
 		],
-		"title": "Unsere Ziele für 2022"
+		"title": "Unsere Ziele für 2023/2024"
 	},
 	"title": "Über Bookingflix"
 }

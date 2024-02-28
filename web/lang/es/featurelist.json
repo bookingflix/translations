@@ -77,7 +77,7 @@
 					"title": "Insertar las citas manualmente"
 				},
 				"09": {
-					"description": "Descargar los datos de las citas como archivo CSV o PDF para su tratamiento posterior.",
+					"description": "Descargue los datos de las citas como archivo CSV o PDF para su posterior procesamiento.",
 					"title": "Descargar los datos de las citas"
 				}
 			},
@@ -218,6 +218,14 @@
 				"05": {
 					"description": "Puede ajustarse de forma variable.",
 					"title": "Duración y frecuencia de las citas"
+				},
+				"06": {
+					"description": "Además de las reservas individuales, también pueden reservarse citas de grupo con varios participantes.",
+					"title": "Reservas para grupos"
+				},
+				"07": {
+					"description": "Carga de PDF e imágenes por parte de sus clientes al reservar una cita. Por ejemplo, para solicitudes.",
+					"title": "Carga de imágenes y PDF"
 				}
 			},
 			"title": "personalización"
@@ -282,9 +290,13 @@
 				"03": {
 					"description": "Las preguntas frecuentes, los vídeos de ayuda, los tutoriales y los seminarios web están documentados en la sección de asistencia.",
 					"title": "Asistencia en línea"
+				},
+				"04": {
+					"description": "Sistema automático de copias de seguridad para proteger contra la pérdida de datos.",
+					"title": "Copias de seguridad periódicas"
 				}
 			},
-			"title": "Protección de datos y ayuda"
+			"title": "Protección de datos, seguridad de los datos y ayuda"
 		},
 		"15_technischeaspekte": {
 			"items": {
@@ -316,7 +328,20 @@
 			},
 			"title": "Automatización del flujo de trabajo"
 		},
-		"17_more": {
+		"17_accountverwaltung": {
+			"items": {
+				"01": {
+					"description": "Estadísticas completas de todas las reservas.",
+					"title": "Estadísticas"
+				},
+				"02": {
+					"description": "Datos de la empresa, dirección, CIF, aviso legal, protección de datos, condiciones generales",
+					"title": "Perfil"
+				}
+			},
+			"title": "Gestion de cuentas"
+		},
+		"18_more": {
 			"items": {
 				"01_dsgvo-und-datenschutzkonformitaet-03": {
 					"link": "/features/privacy",

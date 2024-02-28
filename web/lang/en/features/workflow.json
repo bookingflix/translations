@@ -5,7 +5,7 @@
 			"button": "Create appointment calendar now",
 			"link": "/quickstart"
 		},
-		"intro": "The functions of Bookingflix can be easily and seamlessly integrated into your daily work. Bookingflix supports you in organizing your appointments, so that you have more time for your actual business.",
+		"intro": "Integrate online appointment booking via Bookingflix into your business. Bookingflix supports you in organising your appointments so that you have more time for your actual tasks.\nYour customers will also appreciate this online service. Because making arrangements by phone costs time and can be very annoying. It's easy, digital, modern and therefore better!",
 		"sections": [
 			{
 				"einleitung": {
@@ -22,7 +22,7 @@
 						},
 						{
 							"button": {
-								"link": "/support/video/11",
+								"link": "/support/video/701938865",
 								"more": "Learn more"
 							},
 							"headline": "Manual appointment booking and modification",
@@ -32,7 +32,7 @@
 						{
 							"headline": "Synchronization with existing calendars",
 							"img": "integration-in-ihren-workflow-04.png",
-							"text": "At Bookinflix a two-way synchronization is available for you. This means that the appointments that are stored in your standard calendars are taken into account in your Bookingflix booking calendar through an automatic synchronization. We support common providers like Google, Microsoft and Apple."
+							"text": "With Bookingflix, you can easily and fully automatically synchronise your booking calendar with your own calendar from popular providers such as Google, Microsoft or Apple. This allows you to transfer the booked appointments to your existing standard calendars. But also block already booked appointments of your own calendar automatically in the Bookingflix booking calendar."
 						},
 						{
 							"headline": "Automatic appointment confirmation",
@@ -41,7 +41,7 @@
 						},
 						{
 							"button": {
-								"link": "/support/video/18",
+								"link": "/support/video/704029436",
 								"more": "Learn more"
 							},
 							"headline": "QR code for booking appointment on site",
@@ -50,12 +50,12 @@
 						},
 						{
 							"button": {
-								"link": "/support/video/12",
+								"link": "/support/video/701936839",
 								"more": "Learn more"
 							},
-							"headline": "Record presence",
+							"headline": "Log attendance",
 							"img": "integration-in-ihren-workflow-07.png",
-							"text": "Every appointment booked through Bookingflix has an appointment QR code. This allows you to check-in and check-out your customers, so you can get an accurate overview of the reliability of your customers, the utilization of your store and also ensure traceability for the health department."
+							"text": "Every appointment booked through Bookingflix has an appointment QR code. This allows you to check in and check out your customers, giving you an accurate overview of your customer's reliability and your company's capacity utilisation."
 						}
 					]
 				}

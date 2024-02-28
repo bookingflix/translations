@@ -2,17 +2,17 @@
 	"benefits": {
 		"items": {
 			"01": "great time saving\nFor both sides. Scheduling takes only seconds. The citizen also changes or cancels the appointment independently.",
-			"02": "Focus on the essentials\nClerks have better things to do than coordinate appointments by phone or email. Citizens, too.",
+			"02": "Focus on the essentials\nOfficials in charge have better things to do than coordinate appointments by phone or email. Citizens, too.",
 			"03": "Increase appointment reliability\nUse the automatic reminders via email and SMS. By the way, most citizens appreciate this extra service.",
-			"04": "Digitally up to date\nAppointment tools are now a popular standard. The phone is good for chatting, not booking appointments.",
+			"04": "Digitally up to date\nAppointment tools are now a popular standard. The phone is good for blabbing, not for booking appointments.",
 			"05": "Optimize workflow\nThe citizen books and manages the appointment himself. The appointment data is clearly displayed in your dashboard."
 		},
-		"title": "Your advantages in a nutshell"
+		"title": "Your benefits in a nutshell"
 	},
 	"faq": {
 		"items": {
 			"10": {
-				"title": "What is the cost of appointment reminders via SMS?",
+				"title": "What do appointment reminders via SMS cost?",
 				"url": ""
 			},
 			"11": {
@@ -24,7 +24,7 @@
 				"url": ""
 			},
 			"13": {
-				"title": "Can the customer manage the booking himself (change appointment, cancel)",
+				"title": "Can the customer manage the booking himself (change or cancel the appointment)?",
 				"url": ""
 			},
 			"14": {
@@ -32,7 +32,7 @@
 				"url": ""
 			},
 			"15": {
-				"title": "Can the system mails (acceptance, rejection) be sent from your own mail address?",
+				"title": "Can the system mails ( confirmation, cancellation) be sent from your own mail address?",
 				"url": ""
 			},
 			"16": {
@@ -40,7 +40,7 @@
 				"url": ""
 			},
 			"17": {
-				"title": "Can I cancel appointments, delete appointments, or cancel the prospect after the fact?",
+				"title": "Can I cancel or delete appointments or cancel them subsequently for the potential customer?",
 				"url": ""
 			},
 			"18": {
@@ -76,7 +76,7 @@
 				"url": ""
 			},
 			"01": {
-				"title": "Is the appointment booking via Bookingflix.com DSGVO compliant?",
+				"title": "Is booking appointments via Bookingflix.com compliant with the GDPR?",
 				"url": ""
 			},
 			"02": {
@@ -99,7 +99,7 @@
 				"url": ""
 			},
 			"07": {
-				"title": "What support do we get within the scope of use?",
+				"title": "What support do we get when using the tool?",
 				"url": ""
 			},
 			"08": {
@@ -111,7 +111,7 @@
 				"url": ""
 			}
 		},
-		"title": "Relevant FAQ for your industry"
+		"title": "Relevant FAQ for your line of business"
 	},
 	"functions": {
 		"items": {
@@ -120,7 +120,7 @@
 				"url": ""
 			},
 			"11": {
-				"title": "More info communicate within the booking",
+				"title": "Communicate further info as part of the booking",
 				"url": ""
 			},
 			"12": {
@@ -140,7 +140,7 @@
 				"url": ""
 			},
 			"16": {
-				"title": "Vacations and vacations adjustable",
+				"title": "Customizable days off and holidays",
 				"url": ""
 			},
 			"17": {
@@ -148,7 +148,7 @@
 				"url": ""
 			},
 			"01": {
-				"title": "Appointment booking according to DSGVO standard",
+				"title": "Appointment booking according to GDPR standard",
 				"url": ""
 			},
 			"02": {
@@ -184,10 +184,10 @@
 				"url": ""
 			}
 		},
-		"title": "Particularly relevant functions and features for your industry"
+		"title": "Particularly relevant functions and features for your line of business"
 	},
 	"main": {
-		"description": "Digitization is also making significant progress in the town hall. In the citizens' office, residents can access almost all services in one place. Some services can even be accessed online, from home.\nFor everything else, either a waiting ticket is drawn on site or an appointment is made in advance. More and more city halls now offer this scheduling via an appointment tool. The citizen can book the desired appointment online at any time, provided it is still available. Appointments that have already been booked are therefore no longer offered and are only automatically released again if they are cancelled.",
+		"description": "Digitalisation is also making significant progress in the town hall. In the citizens' office, residents can access almost all services in one place. Some services can even be accessed online from home.\nFor everything else, either a waiting mark is drawn on the spot or an appointment is made in advance. More and more town halls now offer this appointment service via an appointment tool. The citizen can book the desired appointment online at any time, provided it is still free. Appointments that have already been booked are therefore no longer offered and are only automatically released again if they are cancelled.",
 		"title": "Citizen office and administration"
 	},
 	"sub": {

@@ -1,11 +1,11 @@
 {
 	"termin-und-kalenderverwaltung": {
 		"cta": {
-			"action": "Pruebe ahora Bookingflix Premium durante 14 días de forma gratuita.",
-			"button": "Crear una agenda ahora",
+			"action": "¡Comience ahora su prueba gratis de Bookingflix Premium por 14 días!",
+			"button": "Crear un calendario ahora",
 			"link": "/quickstart"
 		},
-		"intro": "Bookingflix ofrece muchas funciones diferentes para gestionar sus citas de la manera que usted necesita en su negocio.",
+		"intro": "Haga un seguimiento! El tablero de mandos incluye todas las herramientas necesarias para gestionar clientes y citas: varias vistas del calendario, introducción de citas de forma manual, confirmación automática de citas, contacto y búsqueda de clientes, notas de citas, descarga de datos de citas, sincronización con otros calendarios y mucho más...",
 		"sections": [
 			{
 				"einleitung": {
@@ -15,66 +15,66 @@
 								"link": "/features/dashboard",
 								"more": "Más información"
 							},
-							"headline": "Resumen de todas las fechas",
+							"headline": "Vista general de todas las citas",
 							"img": "termin-und-kalenderverwaltung-01.png",
-							"text": "En el centro de control puede ver todas las citas reservadas, así como su estado, la hora y la información relevante del cliente. Recibirá notificaciones automáticas en cuanto se confirmen, modifiquen o cancelen las citas de los clientes. Utilizando las funciones de entrada y salida, puede ver cuándo un cliente ha aparecido y cuándo ha dejado su negocio."
+							"text": "En el centro de control puede consultar todas las citas reservadas, así como su estado, hora e información relevante del cliente. Recibirá notificaciones automáticas en cuanto se confirmen, cambien o cancelen las citas de los clientes. Gracias al registro de entrada y salida, podrá ver cuándo ha aparecido en su negocio un cliente y cuándo se ha marchado."
 						},
 						{
 							"button": {
-								"link": "/support/video/11",
+								"link": "/support/video/701938865",
 								"more": "Más información"
 							},
-							"headline": "Reservar y modificar citas manualmente",
+							"headline": "Registrar y editar citas de forma manual",
 							"img": "termin-und-kalenderverwaltung-02.png",
-							"text": "¿Siguen recibiendo las reservas por teléfono o directamente de forma verbal en el lugar? A continuación, añádelas manualmente a tu calendario de citas junto con toda la información pertinente."
+							"text": "¿Sigue recibiendo reservas por teléfono o directamente de forma verbal en el lugar de trabajo? Entonces añádalas de forma manual a su calendario de citas junto con toda la información pertinente."
 						},
 						{
-							"headline": "Confirmar y anular citas",
+							"headline": "Confirmar y cancelar citas",
 							"img": "termin-und-kalenderverwaltung-03.png",
-							"text": "Si se ha reservado una cita gratuita, el sistema puede confirmarla automáticamente o usted mismo puede confirmarla o cancelarla en su perfil."
+							"text": "Si se ha reservado una cita libre, el sistema puede confirmarla de forma automática o usted mismo puede confirmarla o cancelarla en su perfil."
 						},
 						{
-							"headline": "Contacto con los clientes",
+							"headline": "Contactar con los clientes",
 							"img": "termin-und-kalenderverwaltung-04.png",
-							"text": "Póngase en contacto con sus clientes de forma fácil y directa a través del campo de notificación del perfil de su cliente. Recibirán inmediatamente un correo electrónico con su mensaje y podrán responderlo a su vez. Todos los correos se guardan en la bandeja de entrada del centro de control. Por cierto, también puedes hacer que los correos electrónicos de Bookingflix se envíen desde tu propia dirección de correo electrónico.\n\nSi su cliente tiene una cuenta en el portal de clientes, también puede responder a su mensaje con la función de chat."
+							"text": "Contacte con sus clientes de forma fácil y directa a través de la herramienta de chat. Ellos reciben inmediatamente un correo electrónico con su mensaje y pueden responder a éste. Todos los correos se almacenan en la bandeja de entrada del centro de control."
 						},
 						{
 							"button": {
-								"link": "/support/video/17",
+								"link": "/support/video/704029491",
 								"more": "Más información"
 							},
-							"headline": "Notas de la cita",
+							"headline": "Notas sobre las citas",
 							"img": "termin-und-kalenderverwaltung-05.png",
-							"text": "Crear notas para citas individuales. De este modo, podrá hacer un seguimiento de las citas personales y de las solicitudes especiales de los clientes. Sus empleados pueden acceder a toda la información en un solo lugar sin tener que guardar notas separadas."
+							"text": "Tome notas para cada una de las citas. De este modo, estará al tanto de todo. Por ejemplo, para peticiones especiales de clientes. Esto permite a sus empleados acceder a toda la información de la cita correspondiente en un solo lugar, sin tener que guardar papeles o notas cada uno por separado."
 						},
 						{
 							"button": {
-								"link": "/support/video/13",
+								"link": "/support/video/701936872",
 								"more": "Más información"
 							},
-							"headline": "Descargar los datos de la cita",
+							"headline": "Descargar los datos de las citas",
 							"img": "termin-und-kalenderverwaltung-06.png",
-							"text": "En tu perfil de Bookingflix, puedes descargar los datos de las citas de una agenda completa o de citas individuales en formato PDF, CSV e ICS. Puede utilizar estos datos para su posterior tratamiento. Puede filtrar por días o períodos específicos."
+							"text": "En su perfil de Bookingflix, usted podrá descargar los datos de citas de un calendario completo o bien de citas individuales en formato PDF, CSV e ICS. Puede utilizar estos datos para su posterior procesamiento. También podrá filtrar por días concretos o intervalos de tiempo."
 						},
 						{
 							"button": {
-								"link": "/support/video/15",
+								"link": "/support/video/701937938",
 								"more": "Más información"
 							},
 							"headline": "Sincronizar las citas con el calendario de Google, Microsoft o Apple",
 							"img": "termin-und-kalenderverwaltung-07.png",
-							"text": "Con Bookingflix, puedes sincronizar de forma fácil y totalmente automática tu calendario de reservas con tu propio calendario de proveedores populares como Google, Microsoft o Apple. Por un lado, esto le permite transferir las citas reservadas a sus calendarios estándar existentes y, por otro lado, bloquear automáticamente las citas ya ocupadas de su propio calendario en el calendario de reservas."
+							"text": "Con Bookingflix, puede sincronizar de forma fácil y totalmente automática su calendario de reservas de citas con sus calendarios estándares de Google, Microsoft o Apple. Esto le permite transferir las citas reservadas a sus calendarios estándares ya existentes. O, gracias a la sincronización, puede bloquear las citas ya reservadas en el calendario de reservas Bookingflix."
 						},
 						{
 							"headline": "Estadísticas",
 							"img": "termin-und-kalenderverwaltung-08.png",
-							"text": "En el centro de control puedes ver varias estadísticas de todos los calendarios de citas. Puede evaluar individualmente y en tiempo real cuántas citas se han reservado, cuándo suelen tener lugar, qué calendarios están más ocupados y mucho más."
+							"text": "En el centro de control se pueden ver amplias estadísticas de todos los calendarios de reserva de citas. En tiempo real le permite evaluar cuántas citas se han reservado, cuándo suelen tener lugar, qué servicios son los más populares y mucho más."
 						}
 					]
 				}
 			}
 		],
 		"subtitle": "Gestión de citas y clientes",
-		"title": "Tú decides cómo quieres usar Bookingflix"
+		"title": "Todo bajo control"
 	}
 }

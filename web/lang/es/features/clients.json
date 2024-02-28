@@ -1,53 +1,53 @@
 {
 	"terminverwaltung-fuer-endkunden": {
 		"cta": {
-			"action": "Pruebe ahora Bookingflix Premium durante 14 días de forma gratuita.",
-			"button": "Crear una agenda ahora",
+			"action": "¡Comience ahora su prueba gratis de Bookingflix Premium por 14 días!",
+			"button": "Crear un calendario ahora",
 			"link": "/quickstart"
 		},
-		"intro": "Sus clientes se gestionan completamente en el portal de clientes. Después de registrarse y acceder, todas las citas reservadas se pueden ver claramente aquí. Los clientes pueden cambiar y calificar sus citas y ponerse en contacto con usted directamente a través del chat de clientes.",
+		"intro": "Sus clientes se gestionan de manera totalmente autónoma en el portal de clientes. Una vez registrado e iniciado sesión, podrá ver claramente todas las citas reservadas. Los clientes pueden modificar y valorar sus citas y contactarle a usted directamente a través del chat de clientes.",
 		"sections": [
 			{
 				"einleitung": {
 					"infos": [
 						{
-							"headline": "Reservar, modificar y anular citas",
+							"headline": "Reservar, modificar y cancelar citas",
 							"img": "terminverwaltung-fuer-endkunden-01.png",
 							"text": "Sus clientes ya no tienen que llamar para reservar, cambiar o cancelar una cita. Lo hacen ellos mismos en el portal del cliente. Esto ahorra tiempo y nervios a todos."
 						},
 						{
 							"button": {
-								"link": "/support/video/18",
+								"link": "/support/video/704029436",
 								"more": "Más información"
 							},
 							"headline": "Código QR para cada cita",
 							"img": "terminverwaltung-fuer-endkunden-02.png",
-							"text": "Bookingflix te ofrece una función integrada de check-in y check-out. Cada cita reservada tiene su propio código QR y un identificador de cita individual. Esto permite registrar la entrada de cada cliente en cuestión de segundos y volver a registrar su salida más tarde.\n\nEsto le permite tener una visión precisa de la fiabilidad de sus clientes, el índice de utilización y, si es necesario, puede incluso garantizar la trazabilidad para el departamento de salud."
+							"text": "Bookingflix le ofrece una función integrada de registro de entrada y salida. Cada cita reservada tiene su propio código QR y su identificador (ID) de cita individual. Esto permite registrar la entrada de cada cliente en cuestión de segundos y, posteriormente, volver a registrar su salida.\n\nEsto le da a usted un resumen preciso de la fiabilidad de sus clientes, la tasa de utilización y, si es necesario, puede incluso asegurar la trazabilidad para el departamento de salud."
 						},
 						{
-							"headline": "Chat del cliente",
+							"headline": "Chat de clientes",
 							"img": "terminverwaltung-fuer-endkunden-03.png",
-							"text": "Utilice la función de chat integrada para ponerse en contacto con sus clientes y viceversa a través de todos los dispositivos finales. El curso del chat está documentado. Usted y sus clientes serán informados de los nuevos mensajes por correo electrónico."
+							"text": "Manténgase en contacto con sus clientes a través de todos los dispositivos finales con la función de chat integrada. El historial de chat queda documentado. Usted y sus clientes serán informados de los nuevos mensajes por correo electrónico."
 						},
 						{
 							"button": {
 								"link": "/features/votes",
 								"more": "Más información"
 							},
-							"headline": "Recordatorio de la evaluación de la cita",
+							"headline": "Recordatorio de valoración de la cita",
 							"img": "terminverwaltung-fuer-endkunden-04.png",
-							"text": "Después de la cita, se recuerda a sus clientes que deben calificarla. Las evaluaciones se publican en el portal del cliente. Usted mismo puede determinar qué preguntas de evaluación quiere hacer a sus clientes."
+							"text": "Una vez que la cita ha tenido lugar, se les recuerda a sus clientes que la valoren. A continuación, los comentarios se publican en el portal del cliente. Usted mismo puede determinar qué preguntas de valoración desea hacer a sus clientes."
 						},
 						{
-							"headline": "Más información sobre su empresa",
+							"headline": "Más información sobre su negocio",
 							"img": "terminverwaltung-fuer-endkunden-05.png",
-							"text": "En el portal de clientes, toda la información importante sobre su negocio, como los horarios de apertura, la ubicación, así como las ofertas especiales y las valoraciones, están disponibles para sus clientes. Estos se transfieren desde tu cuenta de Bookingflix."
+							"text": "En el portal del cliente, toda la información importante sobre su negocio, tales como horarios de apertura, ubicación, así como ofertas especiales y comentarios de los clientes, están disponibles para sus clientes. Estos se transfieren desde su cuenta de Bookingflix."
 						}
 					]
 				}
 			}
 		],
 		"subtitle": "Gestión de citas para clientes finales",
-		"title": "Gestionar las citas reservadas y un lugar para contactar con usted"
+		"title": "Gestionar las citas reservadas y un lugar para ponerse en contacto con usted"
 	}
 }

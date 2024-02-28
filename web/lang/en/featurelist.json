@@ -218,6 +218,14 @@
 				"05": {
 					"description": "Can be set variably.",
 					"title": "Appointment duration and timing"
+				},
+				"06": {
+					"description": "In addition to individual bookings, group appointments with several participants can also be offered for booking.",
+					"title": "Group bookings"
+				},
+				"07": {
+					"description": "PDF and image upload by your customers when booking an appointment. E.g. for applications.",
+					"title": "Image and PDF upload"
 				}
 			},
 			"title": "Personalization"
@@ -282,9 +290,13 @@
 				"03": {
 					"description": "FAQs, help videos, tutorials and webinars are documented in the support section.",
 					"title": "Online support"
+				},
+				"04": {
+					"description": "Automatic backup system to protect against data loss.",
+					"title": "Regular backups"
 				}
 			},
-			"title": "Privacy and help"
+			"title": "Data protection, data security and help"
 		},
 		"15_technischeaspekte": {
 			"items": {
@@ -316,7 +328,20 @@
 			},
 			"title": "Workflow automation"
 		},
-		"17_more": {
+		"17_accountverwaltung": {
+			"items": {
+				"01": {
+					"description": "Comprehensive statistics on all bookings.",
+					"title": "Statistics"
+				},
+				"02": {
+					"description": "Company details, address, VAT ID, legal notice, data protection, general terms and conditions",
+					"title": "Profile"
+				}
+			},
+			"title": "Account management"
+		},
+		"18_more": {
 			"items": {
 				"01_dsgvo-und-datenschutzkonformitaet-03": {
 					"link": "/features/privacy",

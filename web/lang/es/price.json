@@ -1,5 +1,6 @@
 {
 	"description": "",
+	"info": "Nuestros precios también se basan en nuestro lema: obras sencillas\n\nEsto significa: sin costes adicionales por determinadas funciones ni por varios usuarios o empleados. Usted paga un precio fijo al mes o por adelantado durante un año.\n\nForma de pago: Puede cobrar el importe mensual cómodamente mediante domiciliación bancaria. Alternativamente, es posible el pago mediante factura para los pagos anuales.\n\nEs posible celebrar acuerdos individuales para escuelas, universidades, asociaciones, iniciativas/instituciones benéficas, así como empresas y cadenas de tiendas con requisitos especiales.",
 	"page": [
 		{
 			"elements": [
@@ -7,11 +8,11 @@
 					"button": "Cree una cuenta gratuita ahora",
 					"list": [
 						"1 agenda por cuenta",
-						"50 reservas de citas al mes",
-						"Plazo máximo de reserva anticipada de 12 días para sus clientes",
-						"Incluido todas las funcionalidades para las cuentas comerciales",
-						"Se pueden crear datos de perfil, pie de imprenta, información de protección de datos",
-						"16 céntimos/SMS (netos) para los recordatorios de citas por SMS",
+						"12 reservas de citas al mes",
+						"Plazo máximo de reserva anticipada de 7 días para sus clientes",
+						"Incluido todas las funcionalidades",
+						"Asistencia de Bookingflix a través del sistema de tickets y del correo electrónico",
+						"19 centavos/SMS para recordatorios de citas por SMS (opcional solo cuando se usa)",
 						"Sin duración mínima de contrato"
 					],
 					"membership": "Gratis",
@@ -21,24 +22,23 @@
 					"action": "Cuenta Premium de prueba gratuita por 14 días*.",
 					"button": "Crear una cuenta Premium ahora",
 					"list": [
-						"3 agendas por cuenta",
-						"5,00 euros mensuales (netos) por cada agenda adicional",
+						"3 calendarios por cuenta incluidos",
+						"11,90 euros mensuales por cada agenda adicional",
 						"Tarifa plana de reservas de citas por mes **",
 						"Plazo máximo de reserva anticipada de 12 días para sus clientes",
-						"Incluso todas las funcionalidades para las cuentas comerciales",
-						"Soporte de Bookingflix a través del sistema de tickets y del teléfono",
-						"Se pueden crear datos de perfil, pie de imprenta, información de protección de datos",
-						"16 céntimos/SMS (netos) para los recordatorios de citas por SMS",
-						"Sin duración mínima de contrato"
+						"Incluso todas las funcionalidades",
+						"Asistencia a través del sistema de tickets, correo electrónico y teléfono con una persona de contacto especializada",
+						"19 centavos/SMS para recordatorios de citas por SMS (opcional solo cuando se usa)",
+						"Todos los precios incluyen el impuesto sobre el valor añadido legal"
 					],
 					"membership": "Premium",
-					"price": "9,00 € (neto) / mes",
-					"tax": "Impuesto sobre el valor añadido: 19%."
+					"price": "39,95 € / mes (puede cancelarse mensualmente)",
+					"tax": "29,95 / mes con pago anual (puede cancelarse al final de un año de contrato)"
 				}
 			],
 			"info": {
 				"1": {
-					"action": "No hay renovación automática - después de los 14 días gratuitos puedes renovar la cuenta premium en tu área de acceso. Si no lo hace, pasará automáticamente a la cuenta gratuita.",
+					"action": "Sin renovación automática: al final del periodo de prueba gratuito de 14 días, puedes renovar tu cuenta Premium en tu zona de acceso. Si no lo haces, pasarás automáticamente a la cuenta gratuita Free.",
 					"list": {
 						"2": "Los precios se aplican a comerciantes, empresas, proveedores de servicios, etc. en el marco de un uso medio y razonable de nuestro servicio. En caso de que se supere esta política de uso justo, coordinaríamos un acuerdo especial entre nosotros. Se ruega a las grandes empresas, a los centros de vacunación y de pruebas, así como a las cadenas de tiendas, que si es muy probable que se supere un uso medio y razonable, se pongan en contacto con nosotros antes de utilizar Bookingflix: support@bookingflix.com o 02302-4007736."
 					}
@@ -48,9 +48,7 @@
 		}
 	],
 	"teaser": {
-		"count": "14",
-		"description": "PRUEBA GRATUITA",
-		"time": "días"
+		"description": "Prueba gratuita | PREMIUM | durante 14 días"
 	},
 	"title": "Precios"
 }

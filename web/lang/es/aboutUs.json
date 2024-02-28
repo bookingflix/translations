@@ -9,20 +9,21 @@
 		"title": "Los comentarios positivos nos motivan. Los comentarios negativos nos impulsan."
 	},
 	"startup": {
-		"description": "Bookingflix es una empresa emergente con sede en Witten en el Ruhr. Sin embargo, nuestro equipo de desarrolladores ágiles está organizado de forma descentralizada. Por ello, las videoconferencias y el teletrabajo han marcado el desarrollo de Bookingflix desde su fundación en 2017.",
-		"title": "Una empresa emergente de Witten"
+		"description": "Bookingflix es una emergente con sede en Witten en el Ruhr. Sin embargo, nuestro equipo de desarrolladores ágiles está organizado de forma descentralizada. Por ello, las videoconferencias y el teletrabajo han marcado el desarrollo de Bookingflix desde su fundación en 2017.",
+		"title": "Una emergente de Witten"
 	},
 	"targets": {
 		"description": [
-			"Más vista de la reserva para los clientes finales",
-			"nuevos temas para el sitio web de reserva de citas",
-			"Interfaces API a través de Zapier.com, por ejemplo",
 			"Venta de entradas con conexión al servicio de pago",
+			"Reserva de recursos internos (IRB)",
+			"Optimizar la gestión de las copias de seguridad",
 			"Rediseño del tablero de mandos",
 			"Administración de los derechos de los empleados",
-			"Ampliación de la zona de apoyo"
+			"Ampliación de la zona de apoyo",
+			"Más vista de la reserva para los clientes finales",
+			"Interfaces API mediante webhook"
 		],
-		"title": "Nuestros objetivos para 2022"
+		"title": "Nuestros objetivos para 2023/2024"
 	},
 	"title": "Sobre Bookingflix"
 }

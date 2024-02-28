@@ -5,14 +5,14 @@
 			"button": "Create appointment calendar now",
 			"link": "/quickstart"
 		},
-		"intro": "At Bookingflix there are three different types of appointment calendars you can set up. Depending on the type of business you want to offer appointments for, one of the three calendars is best suited.",
+		"intro": "Bookingflix offers three different types of appointment booking calendars. If your customers can book different services, you should choose the appointment booking calendar for offers and services. The appointment booking calendar for concrete events is recommended if you offer one-time events. Do you have a business with fixed opening hours? Then it is best to use the appointment booking calendar for fixed opening hours.",
 		"sections": [
 			{
 				"01_dienstleistungen": {
 					"infos": [
 						{
 							"button": {
-								"link": "/support/video/3",
+								"link": "/support/video/701937587",
 								"more": "Learn more"
 							},
 							"headline": "Create various services",
@@ -29,34 +29,34 @@
 					"infos": [
 						{
 							"button": {
-								"link": "/support/video/2",
+								"link": "/support/video/701937808",
 								"more": "Learn more"
 							},
 							"headline": "Ideal for courses and group events",
 							"img": "individuelle-terminkalender-11.png",
-							"text": "Create appointment booking calendars for single or multiple events and individually define how many people can participate. This booking option is especially suitable for temporary, not regularly recurring events."
+							"text": "Create appointment booking calendars for single or multiple events and specify individually how many people can participate. This booking option is especially suitable for temporary, not regularly recurring events."
 						}
 					],
 					"section": {
 						"intro": "This calendar is suitable for you if you offer single events like trainings, performances or fairs.",
-						"title": "Schedule for specific events"
+						"title": "Appointment calendar for specific events"
 					}
 				},
 				"03_oeffnungszeiten": {
 					"infos": [
 						{
 							"button": {
-								"link": "/support/video/1",
+								"link": "/support/video/701937701",
 								"more": "Learn more"
 							},
 							"headline": "Set individual opening hours",
 							"img": "individuelle-terminkalender-05.png",
-							"text": "No matter how your business works: tailor your appointment booking to your needs with Bookingflix. You can create your own opening hours for each day of the week and easily set up holidays or company vacations. You decide on which days appointments can be booked and which break times apply."
+							"text": "No matter how your business works: tailor your appointment booking to your needs with Bookingflix. You can define your own opening hours for each day of the week and easily set up holidays or company vacations. You decide on which days appointments can be booked and which break times apply."
 						}
 					],
 					"section": {
 						"intro": "This appointment calendar is suitable for you if you want to offer appointments of the same length during your opening hours. These could be consultation appointments or test appointments in a test center.",
-						"title": "Schedule for fixed opening hours"
+						"title": "Appointment calendar for fixed opening hours"
 					}
 				},
 				"04_individual": {
@@ -68,7 +68,7 @@
 						},
 						{
 							"button": {
-								"link": "/support/video/3b",
+								"link": "/support/video/701937701",
 								"more": "Learn more"
 							},
 							"headline": "Individual and group booking in real time",
@@ -92,7 +92,7 @@
 							},
 							"headline": "Help for every step",
 							"img": "individuelle-terminkalender-04.png",
-							"text": "If you sometimes don't know exactly what you have to do or what has to be considered, you can find more detailed information in the question mark symbols next to the individual steps of the calendar generator. Still have questions? Then take a look at our explanatory videos in our support area."
+							"text": "If you sometimes don't know exactly what you have to do or what has to be considered, you can find more detailed information in the question mark symbols next to the individual steps of the calendar generator. Still have questions? Then take a look at our explainer videos in our support area."
 						},
 						{
 							"headline": "Free appointment timing and multiple customers per appointment slot",
@@ -112,12 +112,12 @@
 					],
 					"section": {
 						"intro": "",
-						"title": ""
+						"title": "Easy to adjust individually"
 					}
 				}
 			}
 		],
-		"subtitle": "Individual diaries",
+		"subtitle": "Individual appointment booking calendars",
 		"title": "Create your booking calendar easily and quickly"
 	}
 }

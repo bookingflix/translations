@@ -17,31 +17,31 @@
 						},
 						{
 							"button": {
-								"link": "/support/video/18",
+								"link": "/support/video/704029436",
 								"more": "Learn more"
 							},
 							"headline": "QR code for each appointment",
 							"img": "terminverwaltung-fuer-endkunden-02.png",
-							"text": "Bookingflix offers you an integrated check-in and check-out function. Each booked appointment has its own QR code and individual appointment ID. These make it possible to check in every customer within seconds and check them out again later.\n\nThis gives you an accurate overview of your customers' reliability, utilization and can even provide traceability for the health department if necessary."
+							"text": "Bookingflix offers you an integrated check-in and check-out function. Each booked appointment has its own QR code and individual appointment ID. This make it possible to check each customer in and out within seconds.\n\nThis gives you an accurate overview of your customers' reliability, utilization and can even provide traceability for the health authorities if necessary."
 						},
 						{
 							"headline": "Customer chat",
 							"img": "terminverwaltung-fuer-endkunden-03.png",
-							"text": "Get in touch with your customers and vice versa via all end devices with the integrated chat function. The chat history is documented. You and your customers will be informed about new messages via email."
+							"text": "Use the integrated chat function to get in touch with your customers and vice versa via all end devices. The chat history is documented. You and your customers are informed of new messages by email."
 						},
 						{
 							"button": {
 								"link": "/features/votes",
 								"more": "Learn more"
 							},
-							"headline": "Reminder of the deadline evaluation",
+							"headline": "Reminder of the appointment evaluation",
 							"img": "terminverwaltung-fuer-endkunden-04.png",
 							"text": "After the appointment has taken place, your customers are reminded to rate it. The ratings are then published in the customer portal. You can define yourself which evaluation questions you want to ask your customers."
 						},
 						{
 							"headline": "More information about your business",
 							"img": "terminverwaltung-fuer-endkunden-05.png",
-							"text": "In the customer portal, all important information about your company, such as opening hours, location as well as special offers and ratings, are available to your customers. These are transferred from your Bookingflix account."
+							"text": "The Customer Portal provides your customers with all the important information about your business, such as opening hours, location, special offers and reviews. This information is taken from your Bookingflix account."
 						}
 					]
 				}

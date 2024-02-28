@@ -5,7 +5,7 @@
 			"button": "Create appointment calendar now",
 			"link": "/quickstart"
 		},
-		"intro": "Bookingflix offers many different features to manage your appointments the way you need it in your business.",
+		"intro": "Stay organized! In the dashboard you have all the necessary tools for customer and appointment management: different calendar views, manual appointment entry, automatically confirm appointments, contact and search customers, appointment notes, download appointment data, synchronization with other calendars and more...",
 		"sections": [
 			{
 				"einleitung": {
@@ -17,11 +17,11 @@
 							},
 							"headline": "Overview of all dates",
 							"img": "termin-und-kalenderverwaltung-01.png",
-							"text": "In the control center you can view all booked appointments as well as their status, time and relevant customer information. You receive automatic notifications as soon as customer appointments are confirmed, changed or cancelled. Using the check-in and check-out functions, you can see when a customer has appeared and when they have left your store."
+							"text": "In the control center you can view all booked appointments as well as their status, time and relevant customer information. You receive automatic notifications as soon as customer appointments are confirmed, changed or canceled. Using the check-in and check-out functions, you can see when a customer has appeared and when they have left your store."
 						},
 						{
 							"button": {
-								"link": "/support/video/11",
+								"link": "/support/video/701938865",
 								"more": "Learn more"
 							},
 							"headline": "Manually book and change appointments",
@@ -36,20 +36,20 @@
 						{
 							"headline": "Contact customers",
 							"img": "termin-und-kalenderverwaltung-04.png",
-							"text": "Contact your customers easily and directly via the notification field in your customer's profile. He will immediately receive an email with your message and can reply to it in turn. All mails are saved in the inbox of the control panel. By the way, you can also have Bookingflix mails sent from your own email address.\n\nIf your customer has an account in the customer portal, he can also reply to your message with the chat function there."
+							"text": "Contact your customers easily and directly via the notification field in your customer's profile. He will immediately receive an email with your message and can reply to it in turn. All mails are saved in the inbox of the control panel."
 						},
 						{
 							"button": {
-								"link": "/support/video/17",
+								"link": "/support/video/704029491",
 								"more": "Learn more"
 							},
 							"headline": "Appointment notes",
 							"img": "termin-und-kalenderverwaltung-05.png",
-							"text": "Create notes for individual appointments. This allows you to keep track of personal appointments and special customer requests. This allows your employees to access all information in one place without having to keep separate pieces of paper."
+							"text": "Create notes for individual appointments. This allows you to keep track of personal appointments and special customer requests. This allows your employees to call up all the information for the relevant appointment in one place, without additional paperwork."
 						},
 						{
 							"button": {
-								"link": "/support/video/13",
+								"link": "/support/video/701936872",
 								"more": "Learn more"
 							},
 							"headline": "Download the appointment data",
@@ -58,7 +58,7 @@
 						},
 						{
 							"button": {
-								"link": "/support/video/15",
+								"link": "/support/video/701937938",
 								"more": "Learn more"
 							},
 							"headline": "Synchronize appointments with Google, Microsoft or Apple calendar",
@@ -75,6 +75,6 @@
 			}
 		],
 		"subtitle": "Appointment and customer management",
-		"title": "You decide how you want to use Bookingflix"
+		"title": "Be able to easily keep track of everything"
 	}
 }

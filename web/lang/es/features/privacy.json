@@ -1,11 +1,11 @@
 {
 	"dsgvo-und-datenschutzkonformitaet": {
 		"cta": {
-			"action": "Pruebe ahora Bookingflix Premium durante 14 días de forma gratuita.",
-			"button": "Crear una agenda ahora",
+			"action": "¡Comience ahora su prueba gratis de Bookingflix Premium por 14 días!",
+			"button": "Crear un calendario ahora",
 			"link": "/quickstart"
 		},
-		"intro": "La protección de datos y la privacidad nos importan mucho. Por eso garantizamos un alto nivel de transparencia y la mejor seguridad posible para sus datos en una amplia gama de niveles.",
+		"intro": "La protección y la seguridad de los datos son nuestra máxima prioridad.\nNuestros empleados están sensibilizados al respecto y los formamos continuamente.",
 		"sections": [
 			{
 				"einleitung": {
@@ -13,38 +13,38 @@
 						{
 							"headline": "Ubicación del servidor en Alemania",
 							"img": "dsgvo-und-datenschutzkonformitaet-01.png",
-							"text": "El tratamiento de datos se realiza en Alemania. Bookingflix se encuentra en Alemania y seguimos estrictamente la DSGVO europea. Así, todos los datos se encuentran en servidores situados en Alemania. De este modo, se garantiza la mayor seguridad jurídica y de datos posible."
+							"text": "El procesamiento de datos se realiza en Alemania. Bookingflix se ubica en Alemania y cumplimos estrictamente con el RGPD europeo. Por lo tanto, todos los datos se encuentran en servidores dentro de Alemania. De este modo se garantiza la seguridad jurídica y la seguridad de los datos más grande posible.\nConfiamos en el líder del mercado mundial AWS con su estructura de servidor seguro y de alto rendimiento."
 						},
 						{
 							"headline": "Copias de seguridad periódicas",
 							"img": "dsgvo-und-datenschutzkonformitaet-02.png",
-							"text": "Con Bookingflix no tienes que preocuparte por tus datos. Las copias de seguridad de los calendarios se realizan varias veces al día en un servidor de copias de seguridad. Si alguna vez es necesario, puede reactivar el stock de datos de una copia de seguridad específica. Además, creamos otras copias de seguridad en un servidor independiente."
+							"text": "Sus datos están seguros. Las copias de seguridad de los calendarios se realizan varias veces al día en diferentes servidores de copia de seguridad."
 						},
 						{
 							"headline": "Procesamiento de datos de pedidos",
 							"img": "dsgvo-und-datenschutzkonformitaet-03.png",
-							"text": "Es posible celebrar un contrato de tratamiento de datos con nosotros. Este contrato regula todos los aspectos importantes del tratamiento de datos, la seguridad de los datos y las medidas (denominadas TOM) relacionadas con los temas pertinentes al GDPR. Estaremos encantados de enviarle una muestra del contrato por adelantado."
+							"text": "Nos encantaría celebrar con usted un contrato de procesamiento de datos. Este contrato regula todos los aspectos importantes del tratamiento de datos, la seguridad de los datos y las medidas técnicas y organizativas relacionadas con los temas pertinentes del RGPD. Estaremos encantados de enviarle por adelantado una muestra del contrato."
 						},
 						{
 							"headline": "Verificación de sus clientes",
 							"img": "dsgvo-und-datenschutzkonformitaet-04.png",
-							"text": "La identidad y autenticidad de todos los clientes que reservan se comprueba mediante una verificación basada en el correo electrónico. Esto permite evitar las entradas de spam y las reservas falsas. Este tipo de verificación forma parte del proceso de reserva conforme a la DSGVO. Alternativamente, por ejemplo para las reservas internas de su empresa, también puede desactivar la verificación."
+							"text": "La verificación de los clientes finales que hacen la reserva se comprueba mediante una verificación basada en el correo electrónico. Esto puede reducir significativamente las entradas de spam y las reservas falsas. Este tipo de verificación forma parte del proceso de reserva conforme al RGPD. Como alternativa, también puede desactivar la verificación, por ejemplo, para las reservas internas de su empresa."
 						},
 						{
-							"headline": "Cifrado y cortafuegos",
+							"headline": "Encriptado y cortafuegos",
 							"img": "dsgvo-und-datenschutzkonformitaet-05.png",
-							"text": "Para la transmisión de datos, utilizamos la última tecnología de encriptación según el estándar HTTPS. Sólo podemos ver los detalles de sus reservas o clientes con su consentimiento expreso, por ejemplo en asuntos de asistencia. Nuestro servidor AWS ofrece más medidas de seguridad."
+							"text": "Para la transmisión de datos, utilizamos la última tecnología de encriptación según el estándar del sistema HTTPS. Sólo podemos ver los detalles de sus reservas o clientes con su acuerdo explícito, por ejemplo en asuntos de soporte. Nuestro servidor AWS ofrece más medidas de seguridad. Estaremos encantados de enviarle información detallada al respecto. También en el formulario del contrato de procesamiento de datos del pedido."
 						},
 						{
 							"headline": "Plazos de supresión",
 							"img": "dsgvo-und-datenschutzkonformitaet-06.png",
-							"text": "Después de 30 días, los datos de las citas anteriores se eliminan. La eliminación anterior está abierta a usted."
+							"text": "Transcurridos 30 días, se borran los datos de citas anteriores. Usted puede eliminar los datos antes. Se le informará por correo electrónico antes de la supresión. Si lo desea, puede guardar los datos con antelación."
 						}
 					]
 				}
 			}
 		],
-		"subtitle": "DSGVO y cumplimiento de la protección de datos",
-		"title": "Sus datos están seguros con nosotros"
+		"subtitle": "RGPD y cumplimiento de la protección de datos",
+		"title": "Con nosotros sus datos están seguros"
 	}
 }

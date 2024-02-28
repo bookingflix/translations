@@ -1,39 +1,39 @@
 {
 	"kundenbewertungen": {
 		"cta": {
-			"action": "Pruebe ahora Bookingflix Premium durante 14 días de forma gratuita.",
-			"button": "Crear una agenda ahora",
+			"action": "¡Comience ahora su prueba gratis de Bookingflix Premium por 14 días!",
+			"button": "Crear un calendario ahora",
 			"link": "/quickstart"
 		},
-		"intro": "Bookingflix te ofrece la posibilidad de recoger sin problemas las opiniones de tus clientes. De este modo, podrá convencer a nuevos clientes, mejorar constantemente su servicio y generar más confianza.",
+		"intro": "Bookingflix está conectado a la herramienta de valoración HitKlick.com. De esta forma, los comentarios de los clientes se pueden solicitar automáticamente después de la cita. Esto aumenta el factor de confianza hacia nuevos clientes y le permite mejorar constantemente su servicio gracias a los comentarios.",
 		"sections": [
 			{
 				"einleitung": {
 					"infos": [
 						{
-							"headline": "Recogida automática de opiniones de clientes",
+							"headline": "Obtener automáticamente los comentarios de clientes",
 							"img": "kundenbewertungen-01.png",
-							"text": "Una vez realizada la cita, puede solicitar automáticamente las evaluaciones de los clientes. Esto se hace a través de un correo electrónico con las preguntas de evaluación, que se envía a sus clientes después, o como una notificación en el portal del cliente."
+							"text": "Una vez concertada la cita, las valoraciones (los comentarios) de los clientes pueden solicitarse automáticamente.\nSus clientes recibirán un correo electrónico después de la cita solicitando una reseña. Por supuesto, se puede desactivar esta función.\nTambién tiene la opción de no publicar los comentarios. De este modo, sólo utilizará los comentarios de los clientes para optimizar su servicio."
 						},
 						{
 							"button": {
 								"link": "/features/individualCalendar",
 								"more": "Más información"
 							},
-							"headline": "Preguntas de evaluación individual",
+							"headline": "Preguntas individuales de valoración",
 							"img": "kundenbewertungen-02.png",
-							"text": "Defina qué y cuántas preguntas de evaluación quiere hacer a sus clientes de forma sencilla cuando configure su calendario de citas."
+							"text": "Al ajustar el calendario de reserva de citas, usted puede determinar las preguntas que le gustaría que sus clientes respondieran después de la cita. Por supuesto, la encuesta a los clientes es solo una opción y se puede desactivar en cualquier momento."
 						},
 						{
 							"headline": "Integración en su sitio web y en el portal del cliente",
 							"img": "kundenbewertungen-03.png",
-							"text": "Puede integrar las valoraciones recibidas directamente en su sitio web a través de un widget. Las valoraciones también se publican en su perfil de proveedor de servicios en el portal del cliente."
+							"text": "Opcionalmente, los resultados de sus valoraciones (comentarios) se pueden colocar directamente debajo del calendario de reserva de citas. Esto refuerza la confianza de los clientes nuevos. Los comentarios también se publican en su perfil de proveedor de servicios en el portal del cliente. Si lo desea, puede desactivar esta opción en cualquier momento."
 						}
 					]
 				}
 			}
 		],
-		"subtitle": "Comentarios de los clientes",
-		"title": "Mejore constantemente su servicio gracias a las opiniones de sus clientes"
+		"subtitle": "Comentarios de clientes",
+		"title": "Mejore continuamente su servicio gracias a los comentarios de sus clientes"
 	}
 }

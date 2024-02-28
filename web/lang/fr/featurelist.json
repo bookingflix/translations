@@ -77,7 +77,7 @@
 					"title": "Entrer les rendez-vous manuellement"
 				},
 				"09": {
-					"description": "Télécharger les données de rendez-vous en tant que fichier CSV ou PDF pour un traitement ultérieur.",
+					"description": "Télécharger les données de rendez-vous sous forme de fichier CSV ou PDF pour un traitement ultérieur.",
 					"title": "Téléchargement des données de rendez-vous"
 				}
 			},
@@ -218,6 +218,14 @@
 				"05": {
 					"description": "Peuvent être fixés de manière variable.",
 					"title": "Durée du rendez-vous et cadence"
+				},
+				"06": {
+					"description": "Outre une réservation individuelle, des rendez-vous de groupe avec plusieurs participants peuvent être proposés à la réservation.",
+					"title": "RÉSERVATIONS DE GROUPE"
+				},
+				"07": {
+					"description": "Téléchargement de PDF et d'images par vos clients lors de la réservation du rendez-vous. Par exemple pour les candidatures.",
+					"title": "Téléchargement d'images et de PDF"
 				}
 			},
 			"title": "Personnalisation"
@@ -282,9 +290,13 @@
 				"03": {
 					"description": "Les FAQ, les vidéos d'aide, les instructions et les webinaires sont documentés dans la zone d'assistance.",
 					"title": "Assistance en ligne"
+				},
+				"04": {
+					"description": "Système de sauvegarde automatique pour se prémunir contre la perte de données.",
+					"title": "Des sauvegardes régulières"
 				}
 			},
-			"title": "Protection des données et aide"
+			"title": "Protection des données, sécurité des données et aide"
 		},
 		"15_technischeaspekte": {
 			"items": {
@@ -316,7 +328,20 @@
 			},
 			"title": "Automatisation du flux de travail"
 		},
-		"17_more": {
+		"17_accountverwaltung": {
+			"items": {
+				"01": {
+					"description": "Statistiques complètes sur toutes les réservations.",
+					"title": "Statistiques"
+				},
+				"02": {
+					"description": "Indication de la société, adresse, numéro de TVA, mentions légales, protection des données, CGV",
+					"title": "Profil"
+				}
+			},
+			"title": "Gestion des comptes"
+		},
+		"18_more": {
 			"items": {
 				"01_dsgvo-und-datenschutzkonformitaet-03": {
 					"link": "/features/privacy",

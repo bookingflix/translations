@@ -1,67 +1,67 @@
 {
 	"integration-in-ihren-workflow": {
 		"cta": {
-			"action": "Testez maintenant Bookingflix Premium gratuitement pendant 14 jours !",
-			"button": "Créer un agenda maintenant",
+			"action": "Commencez dès maintenant à tester gratuitement Bookingflix Premium pendant 14 jours !",
+			"button": "Créer maintenant un agenda",
 			"link": "/quickstart"
 		},
-		"intro": "Les fonctions de Bookingflix s'intègrent facilement et de manière transparente dans votre travail quotidien. Bookingflix vous aide à organiser vos rendez-vous, ce qui vous permet de consacrer plus de temps à votre activité principale.",
+		"intro": "Intégrez la réservation de rendez-vous en ligne via Bookingflix dans votre entreprise. Bookingflix vous aide à organiser vos rendez-vous, de sorte que vous avez plus de temps à consacrer à vos tâches essentielles.\nVos clients apprécieront également ce service en ligne. Car les réservations téléphoniques prennent du temps et sont parfois source de stress. C'est bien plus simple, numérique, moderne et par conséquent bien mieux !",
 		"sections": [
 			{
 				"einleitung": {
 					"infos": [
 						{
-							"headline": "Réservation de rendez-vous en dehors de vos heures de bureau",
+							"headline": "Réservation de rendez-vous hors de vos heures d'ouverture",
 							"img": "integration-in-ihren-workflow-01.png",
-							"text": "Réserver un rendez-vous à tout moment ! Avec l'agenda en ligne de Bookingflix, il est possible d'accepter des réservations même en dehors de vos heures de bureau. Cela vous permet d'atteindre plus de clients et d'augmenter votre chiffre d'affaires. De nombreux clients - en particulier parmi les jeunes et la génération moyenne - préfèrent la réservation en ligne à la réservation par téléphone."
+							"text": "Prendre RDV à tout moment ! Avec l'agenda en ligne de Bookingflix, il est possible d'accepter des réservations même en dehors de vos horaires d'ouverture. Cela vous permet d'atteindre plus de clients et d'augmenter votre chiffre d'affaires. De nombreux clients - en particulier les jeunes et les personnes d'âge moyen - préfèrent la prise de RDV en ligne à la prise de RDV par téléphone."
 						},
 						{
 							"headline": "Agenda en temps réel",
 							"img": "integration-in-ihren-workflow-02.png",
-							"text": "Seules les heures de rendez-vous libres sont affichées à vos clients. Dès qu'un rendez-vous a été réservé par un client, il n'est plus disponible. Cela permet d'éviter les doubles réservations et vous avez à tout moment un aperçu de votre charge de travail actuelle. De plus, vous pouvez consulter les inscriptions de rendez-vous sur tous les appareils fixes et mobiles."
+							"text": "Vos clients ne voient toujours que les créneaux de rendez-vous libres. Dès qu'un RDV a été réservé par un client, ce RDV n'est plus disponible. Cela permet d'éviter les doubles réservations et vous avez à tout moment un aperçu de votre charge de travail actuelle. De plus, vous pouvez consulter les inscriptions de rendez-vous sur tous les appareils fixes et mobiles."
 						},
 						{
 							"button": {
-								"link": "/support/video/11",
-								"more": "en savoir plus"
+								"link": "/support/video/701938865",
+								"more": "En savoir plus"
 							},
 							"headline": "Réservation et modification manuelles des rendez-vous",
 							"img": "integration-in-ihren-workflow-03.png",
-							"text": "Tous les clients ne souhaitent pas ou ne peuvent pas réserver un rendez-vous en ligne. Saisissez donc manuellement les réservations de rendez-vous par téléphone dans le tableau de bord. Vous pouvez également y modifier ou annuler des rendez-vous manuellement."
+							"text": "Il arrive que certains clients ne souhaitent pas ou ne puissent pas réserver un rendez-vous en ligne. Saisissez donc manuellement les réservations de RDV par téléphone dans le tableau de bord. Vous pouvez également modifier ou annuler des RDV manuellement."
 						},
 						{
-							"headline": "Synchronisation avec les calendriers existants",
+							"headline": "Synchronisation avec les agendas existants",
 							"img": "integration-in-ihren-workflow-04.png",
-							"text": "Chez Bookinflix, vous disposez d'une synchronisation bidirectionnelle. Cela signifie que les rendez-vous enregistrés dans vos calendriers standard sont pris en compte dans votre calendrier de réservation Bookingflix grâce à une synchronisation automatique. Nous prenons en charge les fournisseurs courants tels que Google, Microsoft et Apple."
+							"text": "Avec Bookingflix, vous synchronisez facilement et de manière entièrement automatique votre agenda de prise de rendez-vous avec votre propre agenda de fournisseurs courants tels que Google, Microsoft ou Apple. Vous pouvez ainsi transférer les RDV réservés dans vos agendas standard existants. Mais vous pouvez également bloquer automatiquement les RDV déjà pris via votre propre agenda dans celui-ci de Bookingflix."
 						},
 						{
 							"headline": "Confirmation automatique du rendez-vous",
 							"img": "integration-in-ihren-workflow-05.png",
-							"text": "Avec Bookingflix, vous ne devez plus vérifier vous-même votre calendrier. Si un rendez-vous a été réservé, vous pouvez le faire confirmer immédiatement et automatiquement par le système. Si vous préférez contrôler vous-même les réservations, vous pouvez également confirmer manuellement les nouveaux rendez-vous."
+							"text": "Avec Bookingflix, vous ne devez plus vérifier vous-même votre calendrier. Si un rendez-vous a été réservé, vous pouvez le faire confirmer immédiatement et automatiquement par le système. Si vous préférez contrôler vous-même les réservations, vous pouvez également confirmer les nouveaux rendez-vous de manière manuelle."
 						},
 						{
 							"button": {
-								"link": "/support/video/18",
-								"more": "en savoir plus"
+								"link": "/support/video/704029436",
+								"more": "En savoir plus"
 							},
-							"headline": "Code QR pour la réservation de rendez-vous sur place",
+							"headline": "Code QR pour la prise de rendez-vous sur place",
 							"img": "integration-in-ihren-workflow-06.png",
 							"text": "Dans votre compte Bookingflix, vous trouverez un code QR généré automatiquement pour chaque agenda, qui mène directement à votre site de réservation. Vous pouvez l'imprimer et l'afficher dans votre vitrine afin de permettre également une réservation facile de rendez-vous sur place, par exemple dans le cadre de Click & Meet. Vos clients scannent simplement le code QR avec leur smartphone et peuvent réserver un rendez-vous chez vous sans détour."
 						},
 						{
 							"button": {
-								"link": "/support/video/12",
-								"more": ""
+								"link": "/support/video/701936839",
+								"more": "En savoir plus"
 							},
-							"headline": "",
+							"headline": "Enregistrer la présence",
 							"img": "integration-in-ihren-workflow-07.png",
-							"text": ""
+							"text": "Chaque rendez-vous réservé via Bookingflix dispose d'un code QR de rendez-vous. Celui-ci permet les entrées et sorties de vos clients, ce qui vous permet d'avoir un aperçu précis de la fiabilité de vos clients, de la charge de travail de votre commerce et également d'assurer la traçabilité pour les autorités sanitaires."
 						}
 					]
 				}
 			}
 		],
 		"subtitle": "Intégration dans votre flux de travail",
-		"title": "Comment intégrer Bookingflix de manière transparente dans votre travail quotidien individuel ?"
+		"title": "Comment intégrer Bookingflix de manière transparente dans votre travail quotidien individuel"
 	}
 }

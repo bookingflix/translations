@@ -1,50 +1,50 @@
 {
 	"dsgvo-und-datenschutzkonformitaet": {
 		"cta": {
-			"action": "Testez maintenant Bookingflix Premium gratuitement pendant 14 jours !",
-			"button": "Créer un agenda maintenant",
+			"action": "Commencez dès maintenant à tester gratuitement Bookingflix Premium pendant 14 jours !",
+			"button": "Créer maintenant un agenda",
 			"link": "/quickstart"
 		},
-		"intro": "La protection des données et de la vie privée nous tient à cœur. C'est pourquoi nous veillons, à différents niveaux, à une grande transparence ainsi qu'à la meilleure sécurité possible de vos données.",
+		"intro": "Nous mettons la protection et la sécurité de vos données au cœur de nos préoccupations.\nNos employés sont sensibilisés à ce sujet et bénéficient d'une formation continue.",
 		"sections": [
 			{
 				"einleitung": {
 					"infos": [
 						{
-							"headline": "Site du serveur en Allemagne",
+							"headline": "Emplacement du serveur en Allemagne",
 							"img": "dsgvo-und-datenschutzkonformitaet-01.png",
-							"text": "Le traitement des données a lieu en Allemagne. Bookingflix est situé en Allemagne et nous nous conformons strictement au RGPD européen. Ainsi, toutes les données se trouvent sur des serveurs en Allemagne. La plus grande sécurité possible des données et la sécurité juridique sont ainsi garanties."
+							"text": "Le traitement des données se fait en Allemagne. Bookingflix a son site en Allemagne et nous nous conformons strictement au RGPD européen. Ainsi, toutes les données se trouvent sur des serveurs en Allemagne. La plus grande sécurité possible des données et la sécurité juridique sont ainsi garanties.\nNous misons sur le leader mondial AWS avec sa structure de serveurs hautement performante et sécurisée."
 						},
 						{
-							"headline": "Des sauvegardes régulières",
+							"headline": "Sauvegardes régulières",
 							"img": "dsgvo-und-datenschutzkonformitaet-02.png",
-							"text": "Avec Bookingflix, vous n'avez pas à vous soucier de vos données. Les calendriers sont sauvegardés plusieurs fois par jour sur un serveur de sauvegarde. En cas de besoin, vous pouvez réactiver les données d'une sauvegarde spécifique. De plus, nous créons d'autres sauvegardes sur un serveur séparé."
+							"text": "Vos données sont en sécurité. Les agendas sont sauvegardés plusieurs fois par jour sur différents serveurs de sauvegarde."
 						},
 						{
 							"headline": "Traitement des données de commande",
 							"img": "dsgvo-und-datenschutzkonformitaet-03.png",
-							"text": "Il est possible de conclure avec nous un contrat de traitement des données de commande. Celui-ci règle tous les aspects importants concernant le traitement des données, la sécurité des données et les mesures (appelées TOM) autour des thèmes pertinents pour le RGPD. Nous vous envoyons volontiers un modèle de contrat au préalable."
+							"text": "C'est avec plaisir que nous concluons avec vous un contrat de traitement des données de commande. Celui-ci règle tous les aspects importants concernant le traitement des données, la sécurité des données et les mesures techniques et organisationnelles autour des thèmes pertinents pour le RGPD. Si vous souhaitez un modèle de contrat, nous vous l'enverrons volontiers au préalable."
 						},
 						{
 							"headline": "Vérification de vos clients",
 							"img": "dsgvo-und-datenschutzkonformitaet-04.png",
-							"text": "L'identité et l'authenticité de tous les clients qui réservent sont vérifiées par une vérification basée sur l'e-mail. Cela permet de contourner les enregistrements de spam et les fausses réservations. Ce type de vérification fait partie du processus de réservation conforme au RGPD. Vous pouvez également désactiver la vérification, par exemple pour les réservations internes à votre entreprise."
+							"text": "La vérification des clients finaux qui font des réservations est contrôlée par une vérification basée sur l'e-mail. Cela permet de réduire considérablement les entrées de spam et les réservations erronées. Ce type de vérification fait partie du processus de réservation conforme au RGPD. Alternativement, vous pouvez toutefois désactiver la vérification, par exemple pour les réservations internes à votre entreprise."
 						},
 						{
 							"headline": "Cryptage et pare-feu",
 							"img": "dsgvo-und-datenschutzkonformitaet-05.png",
-							"text": "Pour la transmission des données, nous utilisons la technique de cryptage la plus récente selon la norme HTTPS. Ce n'est qu'avec votre accord explicite, par exemple pour des questions d'assistance, que nous pouvons consulter les détails de vos réservations ou de vos clients. Notre hébergeur de serveur AWS offre des mesures de sécurité supplémentaires."
+							"text": "Pour la transmission des données, nous utilisons la technique de cryptage la plus récente selon la norme du protocole HTTPS. Ce n'est qu'avec votre accord explicite, par exemple pour des questions d'assistance, que nous pouvons consulter les détails de vos réservations ou de vos clients. Notre hébergeur de serveur AWS offre des mesures de sécurité supplémentaires. Nous vous enverrons volontiers des informations détaillées à ce sujet. Également sous la forme d'un contrat de traitement des données de commande."
 						},
 						{
 							"headline": "Délais de suppression",
 							"img": "dsgvo-und-datenschutzkonformitaet-06.png",
-							"text": "Les données de rendez-vous passées sont supprimées après 30 jours. Vous pouvez choisir de les supprimer plus tôt."
+							"text": "Une fois les 30 jours écoulés, les données de rendez-vous passées sont supprimées. Vous pouvez opter pour une suppression plus précoce. Le système vous informera par e-mail avant la suppression. Si nécessaire, vous pouvez sauvegarder les données de manière anticipée."
 						}
 					]
 				}
 			}
 		],
-		"subtitle": "Conformité au RGPD et à la protection des données",
+		"subtitle": "Conformité avec le RGPD et la protection des données",
 		"title": "Vos données sont en sécurité chez nous"
 	}
 }

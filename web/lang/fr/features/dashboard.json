@@ -1,11 +1,11 @@
 {
 	"kontrollzentrum": {
 		"cta": {
-			"action": "Testez maintenant Bookingflix Premium gratuitement pendant 14 jours !",
-			"button": "Créer un agenda maintenant",
+			"action": "Commencez dès maintenant à tester gratuitement Bookingflix Premium pendant 14 jours !",
+			"button": "Créer maintenant un agenda",
 			"link": "/quickstart"
 		},
-		"intro": "Dans votre centre de contrôle Bookingflix, vous pouvez gérer tous vos agendas, réservations et paramètres. Vous pouvez y configurer vos calendriers, vos formulaires et vos notifications clients comme vous le souhaitez.",
+		"intro": "Dans votre tableau de bord Bookingflix, vous pouvez gérer tous les agendas, les réservations et les paramètres. Créez ou modifiez de nouveaux agendas de prise de rendez-vous. Vérifiez les nouvelles réservations de rendez-vous. Configurez individuellement les rappels de rendez-vous et les e-mails du système.",
 		"sections": [
 			{
 				"einleitung": {
@@ -13,35 +13,35 @@
 						{
 							"headline": "Tout en un coup d'œil dans le tableau de bord",
 							"img": "kontrollzentrum-01.png",
-							"text": "Dans le tableau de bord du centre de contrôle, vous avez une vue d'ensemble de tous les rendez-vous. Vous pouvez y saisir le statut, l'heure et les informations pertinentes sur le client en un coup d'œil."
+							"text": "Dans le tableau de bord du centre de contrôle, vous avez un aperçu de tous les rendez-vous. Vous pouvez y saisir le statut, l'heure et les informations pertinentes sur les clients en un coup d'œil."
 						},
 						{
-							"headline": "Vues flexibles du calendrier",
+							"headline": "Vues flexibles de l'agenda",
 							"img": "kontrollzentrum-02.png",
-							"text": "Affichez vos rendez-vous dans l'agenda Bookingflix en fonction de vos besoins : obtenez un aperçu de la semaine dans la vue hebdomadaire ou entrez dans les détails dans la vue journalière."
+							"text": "Affichez vos rendez-vous dans l'agenda Bookingflix de la manière qui vous convient le mieux : obtenez un aperçu de la semaine dans la vue hebdomadaire ou entrez dans les détails dans la vue quotidienne."
 						},
 						{
 							"button": {
-								"link": "/support/video/10",
-								"more": "en savoir plus"
+								"link": "/support/video/701937089",
+								"more": "En savoir plus"
 							},
-							"headline": "Vacances et jours de congé",
+							"headline": "Vacances et jours chômés",
 							"img": "kontrollzentrum-03.png",
-							"text": "Dans votre agenda, vous pouvez définir quand les rendez-vous sont disponibles et quand votre entreprise est fermée. Pour ce faire, il est possible d'ajouter facilement les jours fériés allemands à votre calendrier ou de définir des jours libres entièrement personnalisés. Vous pouvez appliquer ces paramètres à plusieurs calendriers configurés ou les définir différemment pour chacun d'entre eux."
+							"text": "Dans votre agenda, vous pouvez définir quand les rendez-vous peuvent être réservés et quand votre entreprise est fermée. Pour ce faire, vous pouvez définir facilement des jours chômés entièrement personnalisés. Vous pouvez appliquer ces paramètres à plusieurs agendas configurés ou les définir différemment pour chacun d'entre eux."
 						},
 						{
 							"button": {
-								"link": "/support/video/20",
-								"more": "en savoir plus"
+								"link": "/support/video/701939388",
+								"more": "En savoir plus"
 							},
-							"headline": "Courriers électroniques du système",
+							"headline": "E-mails du système",
 							"img": "kontrollzentrum-04.png",
-							"text": "Adressez-vous à vos clients comme vous en avez l'habitude. Pour ce faire, adaptez facilement et individuellement vos confirmations et annulations de rendez-vous ainsi que vos e-mails de vérification à votre style."
+							"text": "Adressez-vous à vos clients comme vous en avez l'habitude. Pour cela, veillez à adapter de manière simple et individuelle vos confirmations et annulations de rendez-vous ainsi que vos e-mails de vérification à votre style."
 						},
 						{
 							"button": {
 								"link": "/features/reminder",
-								"more": "en savoir plus"
+								"more": "En savoir plus"
 							},
 							"headline": "Rappels de rendez-vous",
 							"img": "kontrollzentrum-05.png",
@@ -49,37 +49,37 @@
 						},
 						{
 							"button": {
-								"link": "/support/video/14",
-								"more": "en savoir plus"
+								"link": "/support/video/701937493",
+								"more": "En savoir plus"
 							},
 							"headline": "Page de destination",
 							"img": "kontrollzentrum-06.png",
 							"text": "Lorsque votre client réserve un rendez-vous, il est redirigé vers une page de destination spécifique, qui peut être définie individuellement."
 						},
 						{
-							"headline": "Formulaire de reservation",
+							"headline": "Formulaire de réservation",
 							"img": "kontrollzentrum-07.png",
-							"text": "Définissez vos champs de requête dans l'éditeur de formulaires intégré, comme par exemple le nom, l'adresse et le téléphone. Vous obtenez ainsi les données nécessaires pour le rendez-vous avec le client. La requête peut être définie comme entrée obligatoire ou optionnelle."
+							"text": "Dans l'éditeur de formulaires, vous pouvez configurer les champs de requête de données nécessaires. Par exemple, le nom, l'adresse et le téléphone. La requête peut être définie comme champ de saisie obligatoire ou facultatif. Des champs de requête prédéfinis sont utilisables pour l'acceptation de vos CGV et de la protection des données."
 						},
 						{
 							"button": {
 								"link": "/features/clients",
-								"more": "en savoir plus"
+								"more": "En savoir plus"
 							},
 							"headline": "Individualisations",
 							"img": "kontrollzentrum-08.png",
-							"text": "Pour que Bookingflix corresponde à votre entreprise, il est possible de personnaliser la couleur d'accentuation ainsi que le texte du bouton de votre calendrier de réservation ou de votre site web de réservation. Chaque calendrier de réservation reçoit son propre titre. En option, vous pouvez attribuer une adresse au calendrier de réservation concerné. En outre, vous pouvez effectuer divers réglages pour votre gestion des rendez-vous et des clients."
+							"text": "Il est possible de personnaliser la couleur d'accentuation et le texte du bouton de votre agenda ou de votre site web de réservation afin que Bookingflix corresponde à votre entreprise. Chaque agenda de réservation reçoit son propre titre. En option, vous pouvez attribuer une adresse à l'agenda de réservation en question. De plus, vous pouvez effectuer divers paramètres pour gérer vos rendez-vous et vos clients."
 						},
 						{
-							"headline": "statistiques",
+							"headline": "Statistiques",
 							"img": "termin-und-kalenderverwaltung-08.png",
-							"text": "Dans le centre de contrôle, vous voyez des statistiques complètes sur tous les agendas. Vous pouvez ainsi évaluer en temps réel combien de rendez-vous ont été réservés, quand ils ont généralement lieu, quelles sont les prestations les plus populaires et bien plus encore."
+							"text": "Dans le centre de contrôle, vous pouvez consulter des statistiques complètes sur tous les agendas. Vous pouvez ainsi estimer en temps réel le nombre de rendez-vous réservés, les horaires habituels, les prestations les plus fréquentes et bien plus encore."
 						}
 					]
 				}
 			}
 		],
 		"subtitle": "Centre de contrôle",
-		"title": "Gardez un aperçu complet de vos rendez-vous dans le centre de contrôle"
+		"title": "Suivez vos rendez-vous dans le centre de contrôle"
 	}
 }

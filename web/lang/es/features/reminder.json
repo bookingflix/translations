@@ -1,11 +1,11 @@
 {
 	"terminerinnerungen": {
 		"cta": {
-			"action": "Pruebe ahora Bookingflix Premium durante 14 días de forma gratuita.",
-			"button": "Crear una agenda ahora",
+			"action": "¡Comience ahora su prueba gratis de Bookingflix Premium por 14 días!",
+			"button": "Crear un calendario ahora",
 			"link": "/quickstart"
 		},
-		"intro": "Con Bookingflix, puede recordar automáticamente a sus clientes sus citas. De este modo, podrá relajarse y asegurarse de que todas las citas reservadas se lleven a cabo sin tener que pensar en ello todo el tiempo.",
+		"intro": "Bookingflix recuerda automáticamente a sus clientes las citas reservadas, a través de correo electrónico y SMS. Esto garantiza un aumento significativo de la fiabilidad de los clientes. Los clientes también aprecian este servicio de recordatorio.",
 		"sections": [
 			{
 				"einleitung": {
@@ -13,31 +13,31 @@
 						{
 							"headline": "Más fiabilidad para sus citas",
 							"img": "terminerinnerungen-01.png",
-							"text": "Aumente la fiabilidad de sus clientes en un 10-20% con Bookingflix y haga que se les notifique automáticamente por correo electrónico o SMS en cuanto llegue su cita."
+							"text": "Aumente la fiabilidad de sus clientes en un 10-20% con Bookingflix y deje que le avisen automáticamente por correo electrónico o SMS en cuanto llegue la hora de su cita."
 						},
 						{
 							"button": {
-								"link": "/support/video/8",
+								"link": "/support/video/701939035",
 								"more": "Más información"
 							},
-							"headline": "Horarios y frecuencias individuales",
+							"headline": "Horarios individuales y frecuencias",
 							"img": "terminerinnerungen-02.png",
-							"text": "Ya sea con un día de antelación o con una semana: Puedes establecer individualmente en tu perfil de Bookingflix a qué ritmo y con cuántos días de antelación se deben enviar los recordatorios de citas a tus clientes."
+							"text": "Si con un día de antelación o una semana: En su perfil de Bookingflix, puede establecer individualmente el ritmo y cuántos días por adelantado los recordatorios de citas deben ser enviados a sus clientes."
 						},
 						{
 							"headline": "Recordatorio de citas por correo electrónico",
 							"img": "terminerinnerungen-03.png",
-							"text": "Los recordatorios de citas por correo electrónico son ilimitados y están incluidos en su afiliación de forma gratuita. Puede adaptar libremente el asunto y el texto del correo electrónico a su empresa y sus servicios."
+							"text": "Los recordatorios de citas por correo electrónico son ilimitados y están incluidos gratuitamente en su suscripción. Puede adaptar fácilmente el asunto y el texto del correo electrónico a su empresa y sus servicios."
 						},
 						{
 							"headline": "Recordatorio de citas por SMS",
 							"img": "terminerinnerungen-04.png",
-							"text": "Se envían recordatorios por SMS contra el crédito. El crédito debe ser comprado por una tarifa en su cuenta de Bookingflix. Los textos de notificación de los SMS se pueden personalizar libremente."
+							"text": "Para enviar recordatorios de citas por SMS se necesitan créditos SMS. Usted los puede comprar fácilmente en su cuenta de Bookingflix. De esta manera también se puede llegar a los clientes que no revisan sus correos electrónicos todos los días."
 						},
 						{
-							"headline": "Recordatorios individuales para cada agenda",
+							"headline": "Recordatorios individuales para cada calendario",
 							"img": "terminerinnerungen-05.png",
-							"text": "Si gestionas varios calendarios de citas a través de Bookingflix, puedes decidir por separado para cada calendario con qué frecuencia, con cuántos días de antelación y a través de qué canal se deben enviar los recordatorios de citas."
+							"text": "Para cada calendario de reservas de citas, puede establecer por separado con cuánta antelación se envía un recordatorio de cita por correo electrónico o SMS."
 						}
 					]
 				}

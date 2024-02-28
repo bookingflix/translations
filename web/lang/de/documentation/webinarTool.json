@@ -1,8 +1,8 @@
 {
-  "description": "Sie befinden sich im Dashboard.Login über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termin-Kalender***.\n2. Klicken Sie auf ***Termin-Kalender bearbeiten*** oder auf ***Termin-Kalender neu erstellen***.\n3. Klicken Sie im Quick-Start (Generator zur Erstellung eines Termin-Buchungs-Kalenders) auf ***Einstellungen***. Falls Sie einen neuen Termin-Buchungs-Kalender anlegen, müssen erst die vorherigen Schritte bearbeitet werden. Der Quick-Start-Assistent führt Sie Schritt für Schritt zum benötigten Termin-Buchungs-Kalender.\n4. Wählen Sie ***Kundentermine als Videokonferenz durchführen***. Ihr Kunde erhält bei der Buchung den Link zur Videokonferenz. Ihnen wird der Termin mit der Verlinkung zur Videokonferenz im Dashboard angezeigt.",
-  "img": {
-    "1": "bild1.webp",
-    "2": "bild2.webp"
-  },
-  "title": "Videokonferenz-Tool OnBoard"
+	"description": "Sie befinden sich im Dashboard. Login über [bookingflix.com/de/sign-in.html](https://bookingflix.com/de/sign-in.html)\n\n1. Klicken Sie auf ***Termin-Kalender***.\n2. Klicken Sie auf ***Termin-Kalender bearbeiten*** oder auf ***Termin-Kalender neu erstellen***.\n3. Klicken Sie im Quick-Start (Generator zur Erstellung eines Termin-Buchungs-Kalenders) auf ***Einstellungen***. Falls Sie einen neuen Termin-Buchungs-Kalender anlegen, müssen erst die vorherigen Schritte bearbeitet werden. Der Quick-Start-Assistent führt Sie Schritt für Schritt zum benötigten Termin-Buchungs-Kalender.\n4. Wählen Sie ***Kundentermine als Videokonferenz durchführen***. Ihr Kunde erhält bei der Buchung den Link zur Videokonferenz. Ihnen wird der Termin mit der Verlinkung zur Videokonferenz im Dashboard angezeigt.",
+	"img": {
+		"1": "bild1.webp",
+		"2": "bild2.webp"
+	},
+	"title": "Videokonferenz-Tool OnBoard"
 }

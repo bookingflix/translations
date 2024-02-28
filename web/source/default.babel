@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<babeledit_project be_version="4.1.0" version="1.3">
+<babeledit_project be_version="5.0.1" version="1.3">
 	<!--
 
     BabelEdit project file
@@ -23,7 +23,6 @@
 						<name>aboutus</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -47,7 +46,6 @@
 						<name>agree</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -71,7 +69,6 @@
 						<name>branch</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -95,7 +92,6 @@
 						<name>comingSoon</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -119,7 +115,6 @@
 						<name>createAppointment</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -143,7 +138,6 @@
 						<name>createNewCalendar</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -167,7 +161,6 @@
 						<name>current</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -191,7 +184,6 @@
 						<name>currentInstruction</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -215,7 +207,6 @@
 						<name>CurrentWebinars</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -239,7 +230,6 @@
 						<name>documentation</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -263,7 +253,6 @@
 						<name>error</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -287,7 +276,6 @@
 						<name>faq</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -311,7 +299,6 @@
 						<name>feature</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -335,7 +322,6 @@
 						<name>fullSearch</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -359,7 +345,6 @@
 						<name>function</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -383,7 +368,6 @@
 						<name>functionality</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -407,7 +391,6 @@
 						<name>home</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -431,7 +414,6 @@
 						<name>more</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -455,7 +437,6 @@
 						<name>nextChapter</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -479,7 +460,6 @@
 						<name>noResults</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -503,7 +483,6 @@
 						<name>prevChapter</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -527,7 +506,6 @@
 						<name>price</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -551,7 +529,6 @@
 						<name>quickstart</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -575,7 +552,6 @@
 						<name>quitEditing</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -599,7 +575,6 @@
 						<name>reviews</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -623,7 +598,6 @@
 						<name>search</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -647,7 +621,6 @@
 						<name>selectLanguage</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -671,7 +644,6 @@
 						<name>signIn</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -695,7 +667,6 @@
 						<name>support</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -719,7 +690,6 @@
 						<name>supportContact</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>
@@ -743,7 +713,6 @@
 						<name>supportYou</name>
 						<description/>
 						<comment/>
-						<default_text/>
 						<translations>
 							<translation>
 								<language>de-DE</language>

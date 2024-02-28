@@ -1,8 +1,8 @@
 {
-	"description": "",
+	"description": "You are in the dashboard. Login via [bookingflix.com/en/sign-in.html](https://bookingflix.com/net/sign-in.html)\n\n1. Click on ***Appointment Calendar***.\n2. Click on ***Edit appointment calendar*** or on ***Create new appointment calendar***.\n3. In the Quick-Start (generator for creating an appointment-booking calendar), click ***Settings***. If you are creating a new appointment-booking calendar, the previous steps must be edited first. The Quick-Start Wizard will guide you step by step to the appointment-booking calendar you need.\n4. Select ***Conduct customer appointments as video conference***. Your customer will receive the link to the video conference when they book. You will see the appointment with the link to the video conference in the dashboard.",
 	"img": {
-		"1": "",
-		"2": ""
+		"1": "bild1.webp",
+		"2": "bild2.webp"
 	},
-	"title": ""
+	"title": "Video conferencing tool OnBoard"
 }

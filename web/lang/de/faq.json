@@ -1,30 +1,6 @@
 {
 	"description": "In den FAQ finden Sie häufig gestellte Fragen und entsprechende Antworten zu den Funktionen und Einstellmöglichkeiten von Bookingflix. Weitergehende Information, Anleitungen und Erklärvideos sind im Support-Bereich aufgeführt. Sie erreichen uns auch per Email, über unser Ticket-System und telefonisch.\nhttps://bookingflix.de/support",
 	"list": {
-		"Accountverwaltung-101": {
-			"answer": "Der FREE-Account ist 14 Tage kostenfrei nutzbar. Nach Ablauf der Testphase können Sie in Ihrem Login-Bereich (Dashboard) den PREMIUM-Account verlängern. Oder Sie nutzen den kostenfreien FREE-Account. Eine automatische Verlängerung erfolgt nicht. Die Verlängerung muss selbst vorgenommen werden, falls gewünscht.",
-			"link": {
-				"1": "[Preise] (https://bookingflix.de/prices/)"
-			},
-			"question": "Kann ich Bookingflix kostenfrei testen? Und wie lange?",
-			"tags": "Accountverwaltung"
-		},
-		"Accountverwaltung-105": {
-			"answer": "Im FREE-Account steht Ihnen lediglich ein Termin-Buchungs-Kalender zur Verfügung. Falls Sie mehr als einen Kalender benötigen, empfehlen wir Ihnen den Wechsel zum PREMIUM-Account. Hier sind drei Termin-Buchungs-Kalender enthalten. Weitere können freigeschaltet werden.",
-			"link": {
-				"1": "[Preise] (https://bookingflix.de/prices/)"
-			},
-			"question": "Kann ich im FREE-Account mehr als einen Kalender gleichzeitig nutzen?",
-			"tags": "Accountverwaltung"
-		},
-		"Accountverwaltung-108": {
-			"answer": "Diese Funktion steht Ihnen über https://bookingflix.com/sign-in.html unter dem zur Verfügung (Passwort vergessen). Geben Sie Ihre Emailadresse an. Per Email erhalten Sie einen Link, um ein neues Passwort zu vergeben.",
-			"link": {
-				"1": "[Login und Passwort neu anfordern] (https://bookingflix.com/sign-in.html/)"
-			},
-			"question": "Wie kann ich mein Passwort für meinen Account ändern beziehungsweise ein neues Passwort vergeben, wenn ich mein bisheriges vergessen habe?",
-			"tags": "Accountverwaltung"
-		},
 		"Accountverwaltung-60": {
 			"answer": "In diesem Fall werden Ihre Account-Daten sowie alle Termin-Daten unwiderruflich sofort gelöscht. Falls Sie die Termin-Daten noch benötigen, empfehlen wir, diese vorab zu sichern. Sie können die Daten im csv- und pdf-Format herunterladen.",
 			"link": {
@@ -46,7 +22,7 @@
 		"Accountverwaltung-81": {
 			"answer": "Schreiben Sie uns bitte per Email diesbezüglich an support@bookingflix.com. Im FREE-Account steht Ihnen ein Termin-Buchungs-Kalender zur Verfügung. Im PREMIUM-Account stehen Ihnen drei Termin-Buchungs-Kalender zur Verfügung.",
 			"link": {
-				"1": "[Preise] (https://bookingflix.de/prices/)"
+				"1": "[Unsere Preisangaben finden Sie hier: Preise](/prices/)"
 			},
 			"question": "Ich benötige weitere Termin-Buchungs-Kalender. Wie kann ich diese freischalten?",
 			"tags": "Accountverwaltung"
@@ -54,42 +30,42 @@
 		"Accountverwaltung-82": {
 			"answer": "Im FREE-Account steht Ihnen ein Termin-Buchungs-Kalender zur Verfügung. Im PREMIUM-Account stehen Ihnen drei Termin-Buchungs-Kalender zur Verfügung.",
 			"link": {
-				"1": "[Preise] (https://bookingflix.de/prices/)"
+				"1": "[Unsere Preisangaben finden Sie hier: Preise](/prices/)"
 			},
 			"question": "Ich habe einen FREE-Account bei Bookingflix. Wie viele Termin-Buchungs-Kalender kann ich nutzen?",
 			"tags": "Accountverwaltung"
 		},
 		"Accountverwaltung-83": {
-			"answer": "Im FREE-Account können bis zu 50 Terminbuchungen je Monat erfolgen und es steht Ihnen ein Termin-Buchungs-Kalender zur Verfügung. Im PREMIUM-Account können unbeschränkt viele Terminbuchungen vorgenommen werden. Es stehen Ihnen außerdem drei Termin-Buchungs-Kalender zur Verfügung. Weitere können freigeschaltet werden.",
+			"answer": "Im FREE-Account können bis zu 12 Terminbuchungen je Monat mit einer Vorausbuchungszeit von maximal 7 Tagen erfolgen und es steht Ihnen ein Termin-Buchungs-Kalender zur Verfügung. Im PREMIUM-Account können unbeschränkt viele Terminbuchungen vorgenommen werden. Es stehen Ihnen außerdem drei Termin-Buchungs-Kalender zur Verfügung. Weitere können freigeschaltet werden.",
 			"link": {
-				"1": "[Preise] (https://bookingflix.de/prices/)"
+				"1": "[Unsere Preisangaben finden Sie hier: Preise](/prices/)"
 			},
 			"question": "Welche Einschränkungen habe ich bei einem FREE-Account gegenüber eines PREMIUM-Accounts?",
 			"tags": "Accountverwaltung"
 		},
-		"Allgemeines-102": {
-			"answer": "Bookingflix unterstützt alle Branchen, die auf zuverlässige Terminvereinbarung angewiesen sind. Mit den flexiblen Einstellungsmöglichkeiten des Termintools können Sie Ihr Formular individuell an Ihre Anforderungen anpassen.\nFolgende Branchen nutzen Bookingflix:\nFriseure, Versicherungen, Werkstätten, Beratung, Tattoo-Studios, Arztpraxen und Apotheken, Naturheilkunde und alternative Therapien, Test- und Impfzentren, Handwerk, Beauty, Wellness und Massagen, Sport und Fitness-Studios, Restaurants und Gaststätten, Fotografen, Freizeit und Fun, Schulen, Bildungseinrichtungen, Vermietung und Hausverwaltung, Einzelhandel, Bürgerbüro und Verwaltung, Museen und Ausstellungen.",
+		"Accountverwaltung-101": {
+			"answer": "Der FREE-Account ist 14 Tage kostenfrei nutzbar. Nach Ablauf der Testphase können Sie in Ihrem Login-Bereich (Dashboard) den PREMIUM-Account verlängern. Oder Sie nutzen den kostenfreien FREE-Account. Eine automatische Verlängerung erfolgt nicht. Die Verlängerung muss selbst vorgenommen werden, falls gewünscht.",
 			"link": {
-				"1": "[Branchen] (https://bookingflix.de/branches/)"
+				"1": "[Unsere Preisangaben finden Sie hier: Preise](/prices/)"
 			},
-			"question": "Für welche Branchen ist die Terminbuchung über Bookingflix geeignet?",
-			"tags": "Allgemeines"
+			"question": "Kann ich Bookingflix kostenfrei testen? Und wie lange?",
+			"tags": "Accountverwaltung"
 		},
-		"Allgemeines-13": {
-			"answer": "Den FREE-Account können Sie komplett kostenfrei nutzen. Der PREMIUM-Account kostet 9,00 Euro netto je Monat. Der Betrag kann monatlich oder jährlich gezahlt werden. Die Abrechnung erfolgt im Lastschriftverfahren. Auch ein Kauf auf Rechnung ist möglich.",
+		"Accountverwaltung-105": {
+			"answer": "Im FREE-Account steht Ihnen lediglich ein Termin-Buchungs-Kalender zur Verfügung. Falls Sie mehr als einen Kalender benötigen, empfehlen wir Ihnen den Wechsel zum PREMIUM-Account. Hier sind drei Termin-Buchungs-Kalender enthalten. Weitere können freigeschaltet werden.",
 			"link": {
-				"1": "[Preise] (https://bookingflix.de/prices/)"
+				"1": "[Unsere Preisangaben finden Sie hier: Preise](/prices/)"
 			},
-			"question": "Was kostet Bookingflix im Monat?",
-			"tags": "Allgemeines"
+			"question": "Kann ich im FREE-Account mehr als einen Kalender gleichzeitig nutzen?",
+			"tags": "Accountverwaltung"
 		},
-		"Allgemeines-14": {
-			"answer": "Die Kündigungsfrist beträgt einen Monat. Es wird also nur der aktuelle Monat berechnet. Wenn Sie am letzten Tag des Monats kündigen, wird der Folgemonat nicht weiter berechnet. Sie können alternativ den kostenfreien FREE-Account weiter nutzen. Falls nicht weiter benötigt, können Sie Ihren Account von Bookingflix jederzeit komplett löschen. Falls Sie den Betrag per jährlicher Vorauszahlung geleistet haben, erhalten Sie eine Gutschrift für die restlichen Monate. Teilen Sie uns hierfür bitte Ihre IBAN mit.",
+		"Accountverwaltung-108": {
+			"answer": "Diese Funktion steht Ihnen über https://bookingflix.com/sign-in.html unter dem zur Verfügung (Passwort vergessen). Geben Sie Ihre Emailadresse an. Per Email erhalten Sie einen Link, um ein neues Passwort zu vergeben.",
 			"link": {
-				"1": "[Preise] (https://bookingflix.de/prices/)"
+				"1": "[Login und Passwort neu anfordern] (https://bookingflix.com/sign-in.html/)"
 			},
-			"question": "Welche Kündigungsfrist muss ich beachten?",
-			"tags": "Allgemeines"
+			"question": "Wie kann ich mein Passwort für meinen Account ändern beziehungsweise ein neues Passwort vergeben, wenn ich mein bisheriges vergessen habe?",
+			"tags": "Accountverwaltung"
 		},
 		"Allgemeines-5": {
 			"answer": "Unser Support-Team steht Ihnen von 8.00 Uhr bis 20.00 Uhr telefonisch zur Verfügung. Zusätzlich erreichen Sie uns per Email und per Online-Ticket-System. Über den Support-Bereich finden Sie umfangreiche Anleitungen, Erklärvideos und Webinare zu den Funktionen von Bookingflix. Bei Bedarf erläutern wir die Funktionen im Rahmen einer persönlichen Videokonferenz.",
@@ -110,33 +86,49 @@
 		"Allgemeines-7": {
 			"answer": "Ja, dies ist gerne möglich. Hierbei ist allerdings nur eine jährliche Zahlungsweise möglich, damit wir nicht jeden Monat eine neue Rechnung senden müssen. Die Kündigungsfrist von einem Monat gilt aber dennoch. Falls Sie also 12 Monate im Voraus bezahlen, dann aber nach sechs Monaten kündigen, erhalten Sie eine Gutschrift für die nicht genutzten Monate. Einfach flix, einfach fair!",
 			"link": {
-				"1": "[Preise] (https://bookingflix.de/prices/)"
+				"1": "[Unsere Preisangaben finden Sie hier: Preise](/prices/)"
 			},
 			"question": "Kann der Premium-Account auch per Rechnung bezahlt werden statt per Lastschrift?",
+			"tags": "Allgemeines"
+		},
+		"Allgemeines-8": {
+			"answer": "Der Premium-Account von Bookingflix kostet eine fixe Gebühr je Monat (siehe [Preise](/prices)). Sie können den Premium-Account per Lastschrift oder per Rechnung bezahlen. Für den Lastschrifteinzug nutzen wir den Service von https://gocardless.com/. Sie haben die Möglichkeiten den Betrag monatlich oder jährlich im Voraus einziehen zu lassen. Zu jeder Zahlung erhalten Sie eine Rechnung.",
+			"link": {
+				"1": "[Unsere Preisangaben finden Sie hier: Preise](/prices/)"
+			},
+			"question": "Wie wird der Premium-Account berechnet und wie erfolgt die Zahlung?",
+			"tags": "Allgemeines"
+		},
+		"Allgemeines-13": {
+			"answer": "Den FREE-Account können Sie komplett kostenfrei nutzen. Der PREMIUM-Account kostet eine fixe Gebühr je Monat (siehe [Preise](/prices)). Der Betrag kann monatlich oder jährlich gezahlt werden. Die Abrechnung erfolgt im Lastschriftverfahren. Auch ein Kauf auf Rechnung ist möglich.",
+			"link": {
+				"1": "[Unsere Preisangaben finden Sie hier: Preise](/prices/)"
+			},
+			"question": "Was kostet Bookingflix im Monat?",
+			"tags": "Allgemeines"
+		},
+		"Allgemeines-14": {
+			"answer": "Die Kündigungsfrist beträgt einen Monat. Es wird also nur der aktuelle Monat berechnet. Wenn Sie am letzten Tag des Monats kündigen, wird der Folgemonat nicht weiter berechnet. Sie können alternativ den kostenfreien FREE-Account weiter nutzen. Falls nicht weiter benötigt, können Sie Ihren Account von Bookingflix jederzeit komplett löschen. Falls Sie den Betrag per jährlicher Vorauszahlung geleistet haben, erhalten Sie eine Gutschrift für die restlichen Monate. Teilen Sie uns hierfür bitte Ihre IBAN mit.",
+			"link": {
+				"1": "[Unsere Preisangaben finden Sie hier: Preise](/prices/)"
+			},
+			"question": "Welche Kündigungsfrist muss ich beachten?",
 			"tags": "Allgemeines"
 		},
 		"Allgemeines-75": {
 			"answer": "Nein, Bookingflix ist für Endkunden, bzw. Ihre Kunden, grundsätzlich kostenfrei nutzbar. Lediglich für Sie als Dienstleister steht ein kostenpflichtiger Premium-Account optional zur Verfügung. Der FREE-Account ist auch für Sie als Dienstleister kostenfrei.",
 			"link": {
-				"1": "[Preise] (https://bookingflix.de/prices/)"
+				"1": "[Unsere Preisangaben finden Sie hier: Preise](/prices/)"
 			},
 			"question": "Müssen meine Kunden etwas bezahlen, wenn sie einen Termin über Bookingflix buchen?",
 			"tags": "Allgemeines"
 		},
-		"Allgemeines-8": {
-			"answer": "Der Premium-Account von Bookingflix kostet 9,00 Euro je Monat. Sie können den Premium-Account per Lastschrift oder per Rechnung bezahlen. Für den Lastschrifteinzug nutzen wir den Service von https://gocardless.com/. Sie haben die Möglichkeiten den Betrag monatlich oder jährlich im Voraus einziehen zu lassen. Zu jeder Zahlung erhalten Sie eine Rechnung.",
+		"Allgemeines-102": {
+			"answer": "Bookingflix unterstützt alle Branchen, die auf zuverlässige Terminvereinbarung angewiesen sind. Mit den flexiblen Einstellungsmöglichkeiten des Termintools können Sie Ihr Formular individuell an Ihre Anforderungen anpassen.\nFolgende Branchen nutzen Bookingflix:\nFriseure, Versicherungen, Werkstätten, Beratung, Tattoo-Studios, Arztpraxen und Apotheken, Naturheilkunde und alternative Therapien, Test- und Impfzentren, Handwerk, Beauty, Wellness und Massagen, Sport und Fitness-Studios, Restaurants und Gaststätten, Fotografen, Freizeit und Fun, Schulen, Bildungseinrichtungen, Vermietung und Hausverwaltung, Einzelhandel, Bürgerbüro und Verwaltung, Museen und Ausstellungen.",
 			"link": {
-				"1": "[Preise] (https://bookingflix.de/prices/)"
+				"1": "[Branchen] (https://bookingflix.de/branches/)"
 			},
-			"question": "Wie wird der Premium-Account berechnet und wie erfolgt die Zahlung?",
-			"tags": "Allgemeines"
-		},
-		"Allgemeines-9": {
-			"answer": "Die Rechnung können Sie im Login-Bereich unter Profil/ Daten (Rechnungen) herunterladen. Die Rechnung ist etwa drei Tage nach dem Einzug abrufbar. Alternativ senden wir die Rechnung per Post oder per Email im PDF-Format.",
-			"link": {
-				"1": "[Video: Download Rechnungen] (https://bookingflix.de/support/video/701936929/)"
-			},
-			"question": "Wie erhalte ich die Rechnungen für das monatliche Abonnement?",
+			"question": "Für welche Branchen ist die Terminbuchung über Bookingflix geeignet?",
 			"tags": "Allgemeines"
 		},
 		"Einstellungen-1": {
@@ -145,14 +137,6 @@
 				"1": "[Kalenderverwaltung übergeben an Dritte oder Mitarbeiter] (https://bookingflix.de/support/documentation/shareCalendar/)"
 			},
 			"question": "Hat Bookingflix eine Rechteverwaltung, damit der jeweilige Vertreter oder Mitarbeiter die Termin-Verwaltung übernehmen kann?",
-			"tags": "Einstellungen"
-		},
-		"Einstellungen-112": {
-			"answer": "Feiertage lassen sich ganz einfach per Mausklick hinterlegen. Diese Tage sind dann für eine Terminbuchung blockiert. Berechnet werden automatisch alle gesamtdeutschen Feiertage: Neujahr, Rosenmontag, Fastnacht, Aschermittwoch, Palmsonntag, Gründonnerstag, Karfreitag, Ostersamstag, Ostersonntag, Tag der Arbeit, Christi-Himmelfahrt, Pfingstmontag, Fronleichnahm, Tag der deutschen Einheit, Nikolaus, Heiligabend, 1. Weihnachtsfeiertag, 2. Weihnachtsfeiertag und Silvester. Einzelne Feiertage können auch auf Wunsch wieder deaktiviert werden. Dann ist dort eine Terminbuchung wieder möglich. ",
-			"link": {
-				"1": "[Ferien und freie Tage einstellen] (https://bookingflix.de/support/documentation/holidays/)"
-			},
-			"question": "Kann man Feiertage von der Terminbuchung ausschließen?",
 			"tags": "Einstellungen"
 		},
 		"Einstellungen-16": {
@@ -222,13 +206,13 @@
 			"question": "Wir haben mehrere Mitarbeiter, die unterschiedliche Dienstleistungen ausführen. Wie organisiere ich das am besten?",
 			"tags": "Einstellungen"
 		},
-		"Mailversand-115": {
-			"answer": "Bookingflix bietet Ihnen die Möglichkeit ein eigenes Emailpostfach zu hinterlegen. Dadurch werden alle emailbezogenen Terminzusagen, Terminabsagen und Terminerinnerungen über Ihr Postfach geleitet. Ihre Kunden sehen Ihre Emailadresse als Absender.\n\nWir empfehlen diese Funktion für Dienstleister, die viele Termine über Bookingflix.com terminieren. So können Sie das Thema \"Spamproblematik beim Emailversand\" eigenverantwortlich händeln. Benutzername, Passwort, etc. erhalten Sie von Ihrem Emailprovider, Domainverwalter oder Webmaster.\n\nAus technischen Gründen müssen dafür die SMTP-Zugangsdaten inkl. Passwort in unserer Datenbank abgespeichert werden. Das Passwort muss bei der Erstellung der Serververbindung zum Emailserver mitgesendet werden, das schließt eine Verschlüsselung des Passworts aus. Nutzen Sie daher unbedingt ein extra Emailpostfach speziell für Bookingflix z.B. terminbenachrichtigung@firma-xyz.de mit einem einmalig verwendeten möglichst sicherheitsstarken Passwort. Im genutzten Postfach sollte kein weiterer Mailverkehr abgewickelt werden. Außerdem empfehlen wir Ihnen das Zugangspasswort regelmäßig z.B. alle 4 Wochen zu ändern und auf Bookingflix neu zu hinterlegen.\n\nNach Speicherung der SMTP-Zugangsdaten wird der Emailversand über Ihren Mailserver direkt gestartet. Für die Stabilität und Erreichbarkeit Ihres Mailservers sind Sie verantwortlich. Darauf haben wir keinen Einfluss und können auch keinen Support / keine Gewährleistung übernehmen. Stimmen Sie sich bitte vorab mit Ihrem Emailanbieter / Adminstrator zur Zulässigkeit und Kapazitätsabschätzungen von Massenemails und möglichen Monitoring / Restriktionen diesbezüglich (z.B. Spamfilter etc.) ab. \n\nGrundsätzlich ist es Ihnen jederzeit möglich dieses Verfahren zu stoppen und den Emailversand wieder über den Bookingflix-Mailserver abwickeln lassen. ",
+		"Einstellungen-112": {
+			"answer": "Feiertage lassen sich ganz einfach per Mausklick hinterlegen. Diese Tage sind dann für eine Terminbuchung blockiert. Berechnet werden automatisch alle gesamtdeutschen Feiertage: Neujahr, Rosenmontag, Fastnacht, Aschermittwoch, Palmsonntag, Gründonnerstag, Karfreitag, Ostersamstag, Ostersonntag, Tag der Arbeit, Christi-Himmelfahrt, Pfingstmontag, Fronleichnahm, Tag der deutschen Einheit, Nikolaus, Heiligabend, 1. Weihnachtsfeiertag, 2. Weihnachtsfeiertag und Silvester. Einzelne Feiertage können auch auf Wunsch wieder deaktiviert werden. Dann ist dort eine Terminbuchung wieder möglich. ",
 			"link": {
-				"1": "[Versand der Systemmails mit eigener Mailadresse] (https://bookingflix.de/support/documentation/ownMailbox/)"
+				"1": "[Ferien und freie Tage einstellen] (https://bookingflix.de/support/documentation/holidays/)"
 			},
-			"question": "Wie kann ich ein eigenes Emailpostfach hinterlegen?",
-			"tags": "Mailversand"
+			"question": "Kann man Feiertage von der Terminbuchung ausschließen?",
+			"tags": "Einstellungen"
 		},
 		"Mailversand-70": {
 			"answer": "Diese Funktion steht Ihnen im Login-Bereich unter Profil/Eigenes Emailpostfach hinterlegen zur Verfügung.",
@@ -255,6 +239,14 @@
 				"3": "[Terminzusage per SMS] (https://bookingflix.de/support/documentation/smsConfirmation/)"
 			},
 			"question": "Die Email-Terminbestätigung ist nicht angekommen. Woran liegt das?",
+			"tags": "Mailversand"
+		},
+		"Mailversand-115": {
+			"answer": "Bookingflix bietet Ihnen die Möglichkeit ein eigenes Emailpostfach zu hinterlegen. Dadurch werden alle emailbezogenen Terminzusagen, Terminabsagen und Terminerinnerungen über Ihr Postfach geleitet. Ihre Kunden sehen Ihre Emailadresse als Absender.\n\nWir empfehlen diese Funktion für Dienstleister, die viele Termine über Bookingflix.com terminieren. So können Sie das Thema \"Spamproblematik beim Emailversand\" eigenverantwortlich händeln. Benutzername, Passwort, etc. erhalten Sie von Ihrem Emailprovider, Domainverwalter oder Webmaster.\n\nAus technischen Gründen müssen dafür die SMTP-Zugangsdaten inkl. Passwort in unserer Datenbank abgespeichert werden. Das Passwort muss bei der Erstellung der Serververbindung zum Emailserver mitgesendet werden, das schließt eine Verschlüsselung des Passworts aus. Nutzen Sie daher unbedingt ein extra Emailpostfach speziell für Bookingflix z.B. terminbenachrichtigung@firma-xyz.de mit einem einmalig verwendeten möglichst sicherheitsstarken Passwort. Im genutzten Postfach sollte kein weiterer Mailverkehr abgewickelt werden. Außerdem empfehlen wir Ihnen das Zugangspasswort regelmäßig z.B. alle 4 Wochen zu ändern und auf Bookingflix neu zu hinterlegen.\n\nNach Speicherung der SMTP-Zugangsdaten wird der Emailversand über Ihren Mailserver direkt gestartet. Für die Stabilität und Erreichbarkeit Ihres Mailservers sind Sie verantwortlich. Darauf haben wir keinen Einfluss und können auch keinen Support / keine Gewährleistung übernehmen. Stimmen Sie sich bitte vorab mit Ihrem Emailanbieter / Adminstrator zur Zulässigkeit und Kapazitätsabschätzungen von Massenemails und möglichen Monitoring / Restriktionen diesbezüglich (z.B. Spamfilter etc.) ab. \n\nGrundsätzlich ist es Ihnen jederzeit möglich dieses Verfahren zu stoppen und den Emailversand wieder über den Bookingflix-Mailserver abwickeln lassen. ",
+			"link": {
+				"1": "[Versand der Systemmails mit eigener Mailadresse] (https://bookingflix.de/support/documentation/ownMailbox/)"
+			},
+			"question": "Wie kann ich ein eigenes Emailpostfach hinterlegen?",
 			"tags": "Mailversand"
 		},
 		"Rechtliches-56": {
@@ -313,6 +305,40 @@
 			"question": "Wo finde ich Erklärvideos und Anleitungen zu den Funktionen von Bookingflix?",
 			"tags": "Support"
 		},
+		"Technisches-30": {
+			"answer": "Sobald ein Termin gebucht und bestätigt wurde, steht der Termin-Slot nicht mehr zur Verfügung. Sollten mehrere Termine je Termin-Slot zur Verfügung stehen, wird ein Platz blockiert. Falls ein gebuchter Termin vom Kunden noch nicht verifiziert wurde (durch Klick auf den Verifizierungs-Link), bleibt der Termin bis zum Ablauf der Verifizierungsfrist ebenfalls geblockt. Hierdurch wird eine Überbuchung des Termin-Slots verhindert. Wenn ein Termin storniert wird, wird der Termin-Slot automatisch und unmittelbar wieder freigegeben und kann neu gebucht werden. Bei der händischen Termineintragung kann geprüft werden, ob ein Termin bereits hinterlegt ist und eine Überbuchung droht.",
+			"link": {
+				"1": "[Termine händisch eintragen] (https://bookingflix.de/support/documentation/addAppointment/)",
+				"2": "[Automatische Termin-Bestätigung] (https://bookingflix.de/support/documentation/appointmentConfirmation/)",
+				"3": "[Verifizierung nach DSGVO] (https://bookingflix.de/support/documentation/verify/)"
+			},
+			"question": "Wie werden Überbuchungen verhindert?",
+			"tags": "Technisches"
+		},
+		"Technisches-73": {
+			"answer": "Ihre Kunden können über jedes internetfähige Endgerät einen Termin buchen. Also mit einem PC, einem Smartphone sowie mittels Tablett.\nBookingflix ist somit mobil optimiert bzw. ist das Webdesign responsiv.",
+			"link": {
+				"1": "[Features] (https://bookingflix.de/features/)"
+			},
+			"question": "Über welche Endgeräte sind die Termine buchbar?",
+			"tags": "Technisches"
+		},
+		"Technisches-74": {
+			"answer": "Sie können über jedes internetfähige Endgerät Bookingflix bedienen. Also mit einem PC, einem Smartphone sowie mittels Tablett.\nBookingflix ist somit mobil optimiert bzw. ist das Webdesign responsiv.",
+			"link": {
+				"1": "[Terminverwaltung] (https://bookingflix.de/support/documentation/dashboard/)"
+			},
+			"question": "Über welche Endgeräte kann ich meinen Account und die Termindaten verwalten?",
+			"tags": "Technisches"
+		},
+		"Technisches-86": {
+			"answer": "Dies ist aktuell noch nicht möglich. Wir arbeiten jedoch daran. Dann können die Termine gegen eine Gebühr gebucht werden. Mit dieser Funktion ist bis Ende 2022 zu rechnen.",
+			"link": {
+				"1": "[Über uns] (https://bookingflix.de/about-us/)"
+			},
+			"question": "Können wir bei der Terminbuchung einen Zahlungsdienst einbinden?",
+			"tags": "Technisches"
+		},
 		"Technisches-109": {
 			"answer": "Derzeit noch nicht. Allerdings kann Bookingflix auch auf Smartphones und Tabletts gut bedient werden. Daher ist eine App nicht unbedingt nötig.",
 			"link": {
@@ -367,40 +393,6 @@
 				"1": "[Video: Download der Termin-Daten csv, pdf] (https://bookingflix.de/support/video/701936872/)"
 			},
 			"question": "Warum erscheinen die Felder Telefonnummer und Emailadresse doppelt?",
-			"tags": "Technisches"
-		},
-		"Technisches-30": {
-			"answer": "Sobald ein Termin gebucht und bestätigt wurde, steht der Termin-Slot nicht mehr zur Verfügung. Sollten mehrere Termine je Termin-Slot zur Verfügung stehen, wird ein Platz blockiert. Falls ein gebuchter Termin vom Kunden noch nicht verifiziert wurde (durch Klick auf den Verifizierungs-Link), bleibt der Termin bis zum Ablauf der Verifizierungsfrist ebenfalls geblockt. Hierdurch wird eine Überbuchung des Termin-Slots verhindert. Wenn ein Termin storniert wird, wird der Termin-Slot automatisch und unmittelbar wieder freigegeben und kann neu gebucht werden. Bei der händischen Termineintragung kann geprüft werden, ob ein Termin bereits hinterlegt ist und eine Überbuchung droht.",
-			"link": {
-				"1": "[Termine händisch eintragen] (https://bookingflix.de/support/documentation/addAppointment/)",
-				"2": "[Automatische Termin-Bestätigung] (https://bookingflix.de/support/documentation/appointmentConfirmation/)",
-				"3": "[Verifizierung nach DSGVO] (https://bookingflix.de/support/documentation/verify/)"
-			},
-			"question": "Wie werden Überbuchungen verhindert?",
-			"tags": "Technisches"
-		},
-		"Technisches-73": {
-			"answer": "Ihre Kunden können über jedes internetfähige Endgerät einen Termin buchen. Also mit einem PC, einem Smartphone sowie mittels Tablett.\nBookingflix ist somit mobil optimiert bzw. ist das Webdesign responsiv.",
-			"link": {
-				"1": "[Features] (https://bookingflix.de/features/)"
-			},
-			"question": "Über welche Endgeräte sind die Termine buchbar?",
-			"tags": "Technisches"
-		},
-		"Technisches-74": {
-			"answer": "Sie können über jedes internetfähige Endgerät Bookingflix bedienen. Also mit einem PC, einem Smartphone sowie mittels Tablett.\nBookingflix ist somit mobil optimiert bzw. ist das Webdesign responsiv.",
-			"link": {
-				"1": "[Terminverwaltung] (https://bookingflix.de/support/documentation/dashboard/)"
-			},
-			"question": "Über welche Endgeräte kann ich meinen Account und die Termindaten verwalten?",
-			"tags": "Technisches"
-		},
-		"Technisches-86": {
-			"answer": "Dies ist aktuell noch nicht möglich. Wir arbeiten jedoch daran. Dann können die Termine gegen eine Gebühr gebucht werden. Mit dieser Funktion ist bis Ende 2022 zu rechnen.",
-			"link": {
-				"1": "[Über uns] (https://bookingflix.de/about-us/)"
-			},
-			"question": "Können wir bei der Terminbuchung einen Zahlungsdienst einbinden?",
 			"tags": "Technisches"
 		},
 		"Terminbuchung-40": {
@@ -462,34 +454,6 @@
 			},
 			"question": "Können Termine auch per SMS bestätigt werden?",
 			"tags": "Terminbuchung"
-		},
-		"Terminbuchungskalender-100": {
-			"answer": "Diese Funktion steht Ihnen im Login-Bereich unter Einstellungen/Termin-Kalender bearbeiten und bei der Neuerstellung eines Termin-Buchungs-Kalenders zur Verfügung.",
-			"link": {
-				"1": "[Anlegen eines Termin-Buchungs-Kalenders für Dienstleistungen] (https://bookingflix.de/support/documentation/serviceCalendar/)",
-				"2": "[Anlegen eines Termin-Buchungs-Kalenders für feste Öffnungszeiten] (https://bookingflix.de/support/documentation/businessCalendar/)",
-				"3": "[Anlegen eines Termin-Buchungs-Kalenders für konkrete Events] (https://bookingflix.de/support/documentation/eventCalendar/)"
-			},
-			"question": "Wie verlinke ich meine Geschäftsadresse im Termin-Buchungs-Kalender mit Google Maps?",
-			"tags": "Terminbuchungskalender"
-		},
-		"Terminbuchungskalender-106": {
-			"answer": "Ja, diese Funktion steht Ihnen im Login-Bereich unter Einstellungen/Termin-Kalender bearbeiten und bei der Neuerstellung eines Termin-Buchungs-Kalenders zur Verfügung.",
-			"link": {
-				"1": "[Anlegen eines Termin-Buchungs-Kalenders für Dienstleistungen] (https://bookingflix.de/support/documentation/serviceCalendar/)",
-				"2": "[Anlegen eines Termin-Buchungs-Kalenders für feste Öffnungszeiten] (https://bookingflix.de/support/documentation/businessCalendar/)",
-				"3": "[Anlegen eines Termin-Buchungs-Kalenders für konkrete Events] (https://bookingflix.de/support/documentation/eventCalendar/)"
-			},
-			"question": "Kann die Länge der Termin-Slots individuell festgelegt werden von mir?",
-			"tags": "Terminbuchungskalender"
-		},
-		"Terminbuchungskalender-110": {
-			"answer": "Bookingflix bietet die Möglichkeit mehrere Dienstleistungen zu hinterlegen. Wenn Sie beispielsweise einen Friseursalon haben mit unterschiedlichen MitarbeiterInnen, dann legen Sie bitte für jeden/jede MitarbeiterIn einen eigenen Terminkalender an. Innerhalb des Terminkalenders können Sie dann die entsprechenden Dienstleistungen definieren, die angeboten werden: Z.B. \"Haare schneiden\", \"Haare färben\" etc.\n\nZu jeder Dienstleistung lässt sich ein Honorar sowie ein Zeitslot hinterlegen. Ihre Kunden buchen dann eine entsprechende Dienstleistung und der Zeitslot wird automatisch deaktiviert, sodass der/die MitarbeiterIn nicht überbucht wird.\n\nDie verschiedenen Mitarbeiterkalender lassen sich als Ressource zusammenfügen, sodass die Buchung für Ihre Kunden ganz einfach gelingt.",
-			"link": {
-				"1": "[Anlegen eines Termin-Buchungs-Kalenders für Dienstleistungen] (https://bookingflix.de/support/documentation/serviceCalendar/)"
-			},
-			"question": "Wie funktionieren die Dienstleistungen?",
-			"tags": "Terminbuchungskalender"
 		},
 		"Terminbuchungskalender-20": {
 			"answer": "Bookingflix bietet drei verschiedene Termin-Buchungs-Kalender an.\n\nTermin-Buchungs-Kalender für feste Öffnungszeiten:\nNutzen Sie diesen Kalender, wenn Sie ein Geschäft mit regelmäßigen Öffnungszeiten haben. Sie können bei der Einrichtung zum Beispiel die Öffnungszeiten, die Pausenzeiten und die Länge der Termin-Slots definieren.\n\nTermin-Buchungs-Kalender für konkrete Events:\nNutzen Sie diesen Kalender, wenn Sie einzelne Events anbieten möchten. Sie können bei der Einrichtung zum Beispiel die Termindaten der Events und die Anzahl der maximalen Teilnehmer definieren.\n\nTermin-Buchungs-Kalender für Dienstleistungen:\nNutzen Sie diesen Kalender, wenn Sie unterschiedliche Dienstleistungen anbieten möchten. Sie können bei der Einrichtung zum Beispiel die einzelnen Leistungen festlegen. Je Leistung kann ein Preis und ein Bild definiert werden.",
@@ -625,6 +589,34 @@
 			"question": "Der Termin-Buchungs-Kalender soll in unseren Unternehmensfarben dargestellt werden. Ist das möglich?",
 			"tags": "Terminbuchungskalender"
 		},
+		"Terminbuchungskalender-100": {
+			"answer": "Diese Funktion steht Ihnen im Login-Bereich unter Einstellungen/Termin-Kalender bearbeiten und bei der Neuerstellung eines Termin-Buchungs-Kalenders zur Verfügung.",
+			"link": {
+				"1": "[Anlegen eines Termin-Buchungs-Kalenders für Dienstleistungen] (https://bookingflix.de/support/documentation/serviceCalendar/)",
+				"2": "[Anlegen eines Termin-Buchungs-Kalenders für feste Öffnungszeiten] (https://bookingflix.de/support/documentation/businessCalendar/)",
+				"3": "[Anlegen eines Termin-Buchungs-Kalenders für konkrete Events] (https://bookingflix.de/support/documentation/eventCalendar/)"
+			},
+			"question": "Wie verlinke ich meine Geschäftsadresse im Termin-Buchungs-Kalender mit Google Maps?",
+			"tags": "Terminbuchungskalender"
+		},
+		"Terminbuchungskalender-106": {
+			"answer": "Ja, diese Funktion steht Ihnen im Login-Bereich unter Einstellungen/Termin-Kalender bearbeiten und bei der Neuerstellung eines Termin-Buchungs-Kalenders zur Verfügung.",
+			"link": {
+				"1": "[Anlegen eines Termin-Buchungs-Kalenders für Dienstleistungen] (https://bookingflix.de/support/documentation/serviceCalendar/)",
+				"2": "[Anlegen eines Termin-Buchungs-Kalenders für feste Öffnungszeiten] (https://bookingflix.de/support/documentation/businessCalendar/)",
+				"3": "[Anlegen eines Termin-Buchungs-Kalenders für konkrete Events] (https://bookingflix.de/support/documentation/eventCalendar/)"
+			},
+			"question": "Kann die Länge der Termin-Slots individuell festgelegt werden von mir?",
+			"tags": "Terminbuchungskalender"
+		},
+		"Terminbuchungskalender-110": {
+			"answer": "Bookingflix bietet die Möglichkeit mehrere Dienstleistungen zu hinterlegen. Wenn Sie beispielsweise einen Friseursalon haben mit unterschiedlichen MitarbeiterInnen, dann legen Sie bitte für jeden/jede MitarbeiterIn einen eigenen Terminkalender an. Innerhalb des Terminkalenders können Sie dann die entsprechenden Dienstleistungen definieren, die angeboten werden: Z.B. \"Haare schneiden\", \"Haare färben\" etc.\n\nZu jeder Dienstleistung lässt sich ein Honorar sowie ein Zeitslot hinterlegen. Ihre Kunden buchen dann eine entsprechende Dienstleistung und der Zeitslot wird automatisch deaktiviert, sodass der/die MitarbeiterIn nicht überbucht wird.\n\nDie verschiedenen Mitarbeiterkalender lassen sich als Ressource zusammenfügen, sodass die Buchung für Ihre Kunden ganz einfach gelingt.",
+			"link": {
+				"1": "[Anlegen eines Termin-Buchungs-Kalenders für Dienstleistungen] (https://bookingflix.de/support/documentation/serviceCalendar/)"
+			},
+			"question": "Wie funktionieren die Dienstleistungen?",
+			"tags": "Terminbuchungskalender"
+		},
 		"Terminerinnerungen-10": {
 			"answer": "Ja, dies kann individuell eingestellt werden. Sie können den Text der Email-Erinnerungen bearbeiten. Der Versandzeitpunkt ist für SMS und Email voneinander unabhängig einstellbar.",
 			"link": {
@@ -641,14 +633,6 @@
 				"2": "[Termin-Erinnerungen per Email] (https://bookingflix.de/support/documentation/emailReminder/)"
 			},
 			"question": "Wie richte ich die Terminerinnerungen ein?",
-			"tags": "Terminerinnerungen"
-		},
-		"Terminerinnerungen-116": {
-			"answer": "Der gleichzeitige Versand von vielen Emails (Terminzusagen, Terminabsagen, Terminerinnerungen) in Sekundenschnelle ist ein komplexer Mechanismus.\n\nWir arbeiten permanent an Lösungen, um den Emailversand bei steigender Nachfrage gut abwickeln zu können. Dazu nutzen wir einen Versandmechanismus über verschiedene Relay-Pools auf deutschen Servern um einem Black-Listening zu entgehen. Weiterhin hat Bookingflix ein umfangreicheres Analysetool im Einsatz, das den Ausgang der Emails überwacht. Darüber können wir Hinweise bekommen, warum eine Email im Einzelfall nicht angekommen ist.\n\nWenn Terminerinnerungen nicht ankommen, könnte es, unabhängig vom Versandmechanismus, auch andere Ursachen haben. Jede zu versendende Email durchläuft mehrere komplexe Tests, bevor sie versendet wird.\n\nHier einige mögliche Szenarien:\n\n1. Könnte es vielleicht sein, dass die Emails im Spamordner Ihrer Kunden gelandet sind? Auf die Spamrichtlinien der Mailaccounts haben wir keinen Einfluss.\n\n2. Die Kunden buchen einen Termin, der in 3 Stunden beginnt. Die Terminerinnerung ist für 24 Stunden vor dem Termin eingestellt. In diesem Fall wird natürlich keine Terminerinnerung versendet, weil sie ja bereits zum Absenden des Terminformulars überfällig wäre.\n\n3. Eine Terminerinnerung steht zum Versand an, die Emailadresse wurde aber noch nicht verifiziert. Auch dann werden keine Terminerinnerungen versendet.\n\n4. Die E-Mailadresse muss sich von der Ihres Accounts und der ggfls. im Kalender-Assistenten hinterlegten Kontaktemailadresse unterscheiden. An Terminverwalter werden grundsätzlich keine Terminerinnerungen etc. versendet.",
-			"link": {
-				"1": "[Termin-Erinnerungen per Email] (https://bookingflix.de/support/documentation/emailReminder/)"
-			},
-			"question": "Warum kommt eine Terminerinnerung per Email nicht an?",
 			"tags": "Terminerinnerungen"
 		},
 		"Terminerinnerungen-12": {
@@ -677,20 +661,36 @@
 			"question": "Die SMS-Terminerinnerung ist nicht angekommen. Woran liegt das?",
 			"tags": "Terminerinnerungen"
 		},
-		"Terminverwaltung-103": {
-			"answer": "Diese Funktion steht Ihnen im Login-Bereich unter Statistik zur Verfügung.",
+		"Terminerinnerungen-116": {
+			"answer": "Der gleichzeitige Versand von vielen Emails (Terminzusagen, Terminabsagen, Terminerinnerungen) in Sekundenschnelle ist ein komplexer Mechanismus.\n\nWir arbeiten permanent an Lösungen, um den Emailversand bei steigender Nachfrage gut abwickeln zu können. Dazu nutzen wir einen Versandmechanismus über verschiedene Relay-Pools auf deutschen Servern um einem Black-Listening zu entgehen. Weiterhin hat Bookingflix ein umfangreicheres Analysetool im Einsatz, das den Ausgang der Emails überwacht. Darüber können wir Hinweise bekommen, warum eine Email im Einzelfall nicht angekommen ist.\n\nWenn Terminerinnerungen nicht ankommen, könnte es, unabhängig vom Versandmechanismus, auch andere Ursachen haben. Jede zu versendende Email durchläuft mehrere komplexe Tests, bevor sie versendet wird.\n\nHier einige mögliche Szenarien:\n\n1. Könnte es vielleicht sein, dass die Emails im Spamordner Ihrer Kunden gelandet sind? Auf die Spamrichtlinien der Mailaccounts haben wir keinen Einfluss.\n\n2. Die Kunden buchen einen Termin, der in 3 Stunden beginnt. Die Terminerinnerung ist für 24 Stunden vor dem Termin eingestellt. In diesem Fall wird natürlich keine Terminerinnerung versendet, weil sie ja bereits zum Absenden des Terminformulars überfällig wäre.\n\n3. Eine Terminerinnerung steht zum Versand an, die Emailadresse wurde aber noch nicht verifiziert. Auch dann werden keine Terminerinnerungen versendet.\n\n4. Die E-Mailadresse muss sich von der Ihres Accounts und der ggfls. im Kalender-Assistenten hinterlegten Kontaktemailadresse unterscheiden. An Terminverwalter werden grundsätzlich keine Terminerinnerungen etc. versendet.",
 			"link": {
-				"1": "[Statistiken zu den bisherigen Buchungen] (https://bookingflix.de/support/documentation/stats/)"
+				"1": "[Termin-Erinnerungen per Email] (https://bookingflix.de/support/documentation/emailReminder/)"
 			},
-			"question": "Wo finde ich eine Übersicht oder Statistik zu den bisherigen Terminbuchungen?",
+			"question": "Warum kommt eine Terminerinnerung per Email nicht an?",
+			"tags": "Terminerinnerungen"
+		},
+		"Terminverwaltung-2": {
+			"answer": "In diesem Fall erhält der Kunde und Sie eine Bestätigung per Email zu der erfolgten Stornierung. Die Daten sind noch im Dashboard und über den Terminlink des Kunden hinterlegt. Diese Daten werden automatisch nach 30 Tagen gelöscht. Eine frühere Löschung ist jederzeit für Ihren Kunden und für Sie möglich. Mit der Terminstornierung wird der belegte Termin wieder freigegeben für neue Terminbuchungen.",
+			"link": {
+				"1": "[Terminverwaltung] (https://bookingflix.de/support/documentation/dashboard/)"
+			},
+			"question": "Was passiert, wenn ein Kunde seinen Termin storniert?",
 			"tags": "Terminverwaltung"
 		},
-		"Terminverwaltung-104": {
-			"answer": "Diese Funktion steht Ihnen im Login-Bereich unter Statistik zur Verfügung.",
+		"Terminverwaltung-3": {
+			"answer": "Ja, diese Funktion wird sehr häufig genutzt. Sie können Bookingflix so einstellen, dass der Kunde sofort nach der Buchung die Bestätigung erhält. Der Kunde muss also nicht darauf warten, dass Sie den Termin händisch bestätigen. Eine Buchung und automatische Bestätigung ist nur dann möglich, wenn der Termin noch frei ist. So werden Überbuchungen verhindert.",
 			"link": {
-				"1": "[Statistiken zu den bisherigen Buchungen] (https://bookingflix.de/support/documentation/stats/)"
+				"1": "[Automatische Termin-Bestätigung] (https://bookingflix.de/support/documentation/appointmentConfirmation/)"
 			},
-			"question": "Gibt es eine Statistik, die die Anzahl und Art der Terminbuchungen nach den verschiedenen Termin-Buchungs-Kalendern zeigt?",
+			"question": "Können Terminbuchungen automatisch bestätigt werden?",
+			"tags": "Terminverwaltung"
+		},
+		"Terminverwaltung-4": {
+			"answer": "Ja, diese Funktion kommt vor allem dann zum Einsatz, wenn ein Kunde einen Termin telefonisch bucht. Dann trägt der Dienstleister den Termin im Auftrag des Kunden ein. So wird eine Überbuchung verhindert, da der Termin-Slot belegt ist durch die händische Eintragung.",
+			"link": {
+				"1": "[Termine händisch eintragen] (https://bookingflix.de/support/documentation/addAppointment/)"
+			},
+			"question": "Können Termine händisch für den Kunden eingetragen werden?",
 			"tags": "Terminverwaltung"
 		},
 		"Terminverwaltung-15": {
@@ -717,14 +717,6 @@
 			"question": "Kann ich Termine stornieren, löschen oder der Kundin nachträglich absagen?",
 			"tags": "Terminverwaltung"
 		},
-		"Terminverwaltung-2": {
-			"answer": "In diesem Fall erhält der Kunde und Sie eine Bestätigung per Email zu der erfolgten Stornierung. Die Daten sind noch im Dashboard und über den Terminlink des Kunden hinterlegt. Diese Daten werden automatisch nach 30 Tagen gelöscht. Eine frühere Löschung ist jederzeit für Ihren Kunden und für Sie möglich. Mit der Terminstornierung wird der belegte Termin wieder freigegeben für neue Terminbuchungen.",
-			"link": {
-				"1": "[Terminverwaltung] (https://bookingflix.de/support/documentation/dashboard/)"
-			},
-			"question": "Was passiert, wenn ein Kunde seinen Termin storniert?",
-			"tags": "Terminverwaltung"
-		},
 		"Terminverwaltung-22": {
 			"answer": "Über Bookingflix steht Ihnen ein Chat-Tool zur Verfügung. Schreiben Sie Ihre Kunden hierüber an. Diese erhalten eine Benachrichtigung per Email bezüglich Ihrer Nachricht und können Ihnen direkt antworten.",
 			"link": {
@@ -749,14 +741,6 @@
 			"question": "Können die Termindaten heruntergeladen werden zur weiteren Verarbeitung?",
 			"tags": "Terminverwaltung"
 		},
-		"Terminverwaltung-3": {
-			"answer": "Ja, diese Funktion wird sehr häufig genutzt. Sie können Bookingflix so einstellen, dass der Kunde sofort nach der Buchung die Bestätigung erhält. Der Kunde muss also nicht darauf warten, dass Sie den Termin händisch bestätigen. Eine Buchung und automatische Bestätigung ist nur dann möglich, wenn der Termin noch frei ist. So werden Überbuchungen verhindert.",
-			"link": {
-				"1": "[Automatische Termin-Bestätigung] (https://bookingflix.de/support/documentation/appointmentConfirmation/)"
-			},
-			"question": "Können Terminbuchungen automatisch bestätigt werden?",
-			"tags": "Terminverwaltung"
-		},
 		"Terminverwaltung-31": {
 			"answer": "Ja, diese Funktion steht Ihnen im Login-Bereich unter Einstellungen/Voreinstellungen/Kunden Check-In/Check-Out zur Verfügung.",
 			"link": {
@@ -779,14 +763,6 @@
 				"1": "[Terminverwaltung] (https://bookingflix.de/support/documentation/dashboard/)"
 			},
 			"question": "Wie kann ich die Termindaten händisch löschen?",
-			"tags": "Terminverwaltung"
-		},
-		"Terminverwaltung-4": {
-			"answer": "Ja, diese Funktion kommt vor allem dann zum Einsatz, wenn ein Kunde einen Termin telefonisch bucht. Dann trägt der Dienstleister den Termin im Auftrag des Kunden ein. So wird eine Überbuchung verhindert, da der Termin-Slot belegt ist durch die händische Eintragung.",
-			"link": {
-				"1": "[Termine händisch eintragen] (https://bookingflix.de/support/documentation/addAppointment/)"
-			},
-			"question": "Können Termine händisch für den Kunden eingetragen werden?",
 			"tags": "Terminverwaltung"
 		},
 		"Terminverwaltung-44": {
@@ -900,13 +876,21 @@
 			"question": "Ich möchte einen bereits gebuchten Kundentermin ändern. Wie mache ich das?",
 			"tags": "Terminverwaltung"
 		},
-		"Veroeffentlichen-107": {
-			"answer": "Ja, diese Funktion steht Ihnen im Login-Bereich unter Einstellungen/QR-Code zum Terminkalender zur Verfügung.",
+		"Terminverwaltung-103": {
+			"answer": "Diese Funktion steht Ihnen im Login-Bereich unter Statistik zur Verfügung.",
 			"link": {
-				"1": "[QR-Code zu jedem Terminkalender] (https://bookingflix.de/support/documentation/qrCode/)"
+				"1": "[Statistiken zu den bisherigen Buchungen] (https://bookingflix.de/support/documentation/stats/)"
 			},
-			"question": "Ich möchte auf den Termin-Buchungs-Kalender in Werbematerialien verweisen. Geht dies auch über einen QR-Code?",
-			"tags": "Veröffentlichen"
+			"question": "Wo finde ich eine Übersicht oder Statistik zu den bisherigen Terminbuchungen?",
+			"tags": "Terminverwaltung"
+		},
+		"Terminverwaltung-104": {
+			"answer": "Diese Funktion steht Ihnen im Login-Bereich unter Statistik zur Verfügung.",
+			"link": {
+				"1": "[Statistiken zu den bisherigen Buchungen] (https://bookingflix.de/support/documentation/stats/)"
+			},
+			"question": "Gibt es eine Statistik, die die Anzahl und Art der Terminbuchungen nach den verschiedenen Termin-Buchungs-Kalendern zeigt?",
+			"tags": "Terminverwaltung"
 		},
 		"Veroeffentlichen-26": {
 			"answer": "Ja, dies ist in beide Richtungen möglich. Die Terminbuchungen, die über Bookingflix eingehen, können in Ihren Standard-Kalender von Google, Apple und Microsoft übertragen werden. Es ist aber auch möglich, die Termin-Slots, die bereits mit Terminen belegt sind, auf Bookingflix zu blocken. Wenn Sie also einen Termin in Ihrem Standard-Kalender bereits eingetragen haben, wird dies in Ihrem Termin-Buchungs-Kalender von Bookingflix berücksichtigt. Der Termin-Slot wird Ihren Kunden nicht mehr angezeigt bei der Buchung.",
@@ -995,6 +979,14 @@
 				"1": "[Einbindungs-Code/ Widget-Code] (https://bookingflix.de/support/documentation/embed/)"
 			},
 			"question": "Wie kann der Termin-Buchungs-Kalender eingebunden werden? Auch per iframe oder per javaScript?",
+			"tags": "Veröffentlichen"
+		},
+		"Veroeffentlichen-107": {
+			"answer": "Ja, diese Funktion steht Ihnen im Login-Bereich unter Einstellungen/QR-Code zum Terminkalender zur Verfügung.",
+			"link": {
+				"1": "[QR-Code zu jedem Terminkalender] (https://bookingflix.de/support/documentation/qrCode/)"
+			},
+			"question": "Ich möchte auf den Termin-Buchungs-Kalender in Werbematerialien verweisen. Geht dies auch über einen QR-Code?",
 			"tags": "Veröffentlichen"
 		}
 	},

@@ -9,20 +9,21 @@
 		"title": "Les feedbacks positifs nous motivent.  Les feedbacks négatifs nous stimulent."
 	},
 	"startup": {
-		"description": "Bookingflix est une petite startup établie à Witten, sur la Ruhr. Notre équipe de développeurs agile est toutefois organisée de manière décentralisée. Les vidéoconférences et le télétravail caractérisent donc le développement de Bookingflix depuis 2017, année de sa création.",
-		"title": "Une petite startup de Witten"
+		"description": "Bookingflix est une startup établie à Witten, sur la Ruhr. Notre équipe de développeurs agile est toutefois organisée de manière décentralisée. Les vidéoconférences et le télétravail caractérisent donc le développement de Bookingflix depuis 2017, année de sa création.",
+		"title": "Une startup de Witten"
 	},
 	"targets": {
 		"description": [
-			"Plus d'aperçu de réservation pour les clients finaux.",
-			"nouveaux thèmes pour le site web de prise de rendez-vous",
-			"Interfaces API via, par exemple, Zapier.com",
 			"Billetterie avec connexion au service de paiement",
+			"Réservation de ressources internes (IRB)",
+			"Optimiser la gestion des sauvegardes",
 			"Refonte du tableau de bord",
 			"Gestion des droits pour les employés",
-			"Extension du domaine de l'assistance"
+			"Extension du domaine de l'assistance",
+			"Plus d'aperçu de réservation pour les clients finaux.",
+			"Interfaces API via Webhook"
 		],
-		"title": "Nos objectifs pour 2022"
+		"title": "Nos objectifs pour 2023/2024"
 	},
 	"title": "À propos de Bookingflix"
 }

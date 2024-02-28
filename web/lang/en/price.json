@@ -1,5 +1,6 @@
 {
 	"description": "",
+	"info": "Our pricing is also based on our motto: works simple\n\nThis means: no extra costs for certain functions or multiple users or employees. You pay a fixed price per month or in advance for a year.\n\nPayability: You can have the monthly amount conveniently collected by direct debit. Alternatively, payment by invoice is possible for annual payments.\n\nIndividual agreements are possible for schools, universities, associations, charitable initiatives/institutions as well as companies and chain stores with special requirements.",
 	"page": [
 		{
 			"elements": [
@@ -7,11 +8,11 @@
 					"button": "Create Free Account Now",
 					"list": [
 						"1 calendar per account",
-						"50 appointment bookings per month",
-						"12 days maximum advance booking period for your customers",
-						"Includes all features for business accounts",
-						"Profile data, imprint, privacy info can be created",
-						"16 cents/SMS (net) for SMS appointment reminders",
+						"12 appointment bookings per month",
+						"7 days maximum advance booking period for your customers",
+						"Includes all features",
+						"Bookingflix support via ticket system and mail",
+						"19 cents/SMS for SMS appointment reminders (optional only when used)",
 						"No minimum contract period"
 					],
 					"membership": "Free",
@@ -21,24 +22,23 @@
 					"action": "Test Premium free of charge for 14 days*.",
 					"button": "Create Premium Account Now",
 					"list": [
-						"3 calendars per account",
-						"Monthly 5,00 € (net) for each additional calendar",
+						"3 calendars per account included",
+						"Monthly 11,90 € for each additional calendar",
 						"Flat rate appointment bookings per month **",
 						"12 months maximum advance booking period for your customers",
-						"Includes all features for business accounts",
-						"Bookingflix support via ticket system and phone",
-						"Profile data, imprint, privacy info can be created",
-						"16 cents/SMS (net) for SMS appointment reminders",
-						"No minimum contract period"
+						"Includes all features",
+						"Support via ticket system, email and telephone with a dedicated contact person",
+						"19 cents/SMS for SMS appointment reminders (optional only when used)",
+						"all prices incl. statutory sales tax"
 					],
 					"membership": "Premium",
-					"price": "9,00 € (net) / month",
-					"tax": "Value added tax 19%"
+					"price": "39.95 € / month (can be canceled monthly)",
+					"tax": "29.95 € / month with annual payment (can be terminated at the end of a contract year)"
 				}
 			],
 			"info": {
 				"1": {
-					"action": "No automatic renewal - after the free 14 days you can renew the premium account in your login area. If you do not do so, you will be automatically downgraded to the free account. ",
+					"action": "No automatic renewal - at the end of the free 14-day trial period, you can renew your Premium account in your login area. If you do not do this, you will automatically be downgraded to the free Free account.",
 					"list": {
 						"2": "The prices apply to merchants, businesses, service providers, etc. within the scope of an average, reasonable use of our service. If this fair use policy is exceeded, we would coordinate a special arrangement with each other. Large companies, vaccination and testing centers as well as chain stores we ask, if an average, reasonable use is very likely to be exceeded, to consult us before using Bookingflix: support@bookingflix.com or 02302-4007736."
 					}
@@ -48,9 +48,7 @@
 		}
 	],
 	"teaser": {
-		"count": "14",
-		"description": "free trial",
-		"time": "days"
+		"description": "Now 14 days | PREMIUM | test for free"
 	},
 	"title": "Prices"
 }

@@ -1,39 +1,39 @@
 {
 	"kundenbewertungen": {
 		"cta": {
-			"action": "Testez maintenant Bookingflix Premium gratuitement pendant 14 jours !",
-			"button": "Créer un agenda maintenant",
+			"action": "Commencez dès maintenant à tester gratuitement Bookingflix Premium pendant 14 jours !",
+			"button": "Créer maintenant un agenda",
 			"link": "/quickstart"
 		},
-		"intro": "Bookingflix vous offre la possibilité d'obtenir de manière transparente des évaluations de vos clients. Cela vous permet de convaincre de nouveaux clients, d'améliorer constamment votre service et d'instaurer une plus grande confiance.",
+		"intro": "Bookingflix est relié à l'outil d'évaluation de HitKlick.com. Ainsi, les avis des clients peuvent être demandés automatiquement après le rendez-vous. Cela augmente le facteur de confiance vis-à-vis des nouveaux clients et vous permet d'améliorer constamment votre service grâce au feedback.",
 		"sections": [
 			{
 				"einleitung": {
 					"infos": [
 						{
-							"headline": "Obtention automatique d'évaluations de la part des clients",
+							"headline": "Obtenir automatiquement les avis des clients",
 							"img": "kundenbewertungen-01.png",
-							"text": "Une fois le rendez-vous effectué, vous pouvez demander automatiquement les évaluations des clients. Cela se fait soit par un e-mail avec les questions d'évaluation, qui est envoyé à vos clients par la suite, soit sous forme de notification dans le portail clients."
+							"text": "Une fois le rendez-vous effectué, les avis des clients peuvent être automatiquement demandés.\nAprès le rendez-vous, vos clients reçoivent un e-mail leur demandant de rédiger une évaluation. Cette fonction peut bien entendu être désactivée.\nAlternativement, vous avez la possibilité de ne pas publier les avis des clients. Vous n'utilisez donc les avis des clients que pour optimiser votre service."
 						},
 						{
 							"button": {
 								"link": "/features/individualCalendar",
-								"more": "en savoir plus"
+								"more": "En savoir plus"
 							},
 							"headline": "Questions d'évaluation individuelles",
 							"img": "kundenbewertungen-02.png",
-							"text": "Définissez facilement, dès la mise en place de votre agenda, quelles et combien de questions d'évaluation vous souhaitez poser à vos clients."
+							"text": "En configurant l'agenda de prise de rendez-vous, vous pouvez définir les questions auxquelles vous souhaitez que vos clients répondent après le rendez-vous. Bien entendu, l'enquête client n'est qu'une option et peut être désactivé à tout moment."
 						},
 						{
-							"headline": "Intégration sur votre site web et sur le portail client",
+							"headline": "Intégration sur votre site web et dans le portail client",
 							"img": "kundenbewertungen-03.png",
-							"text": "Vous pouvez intégrer les évaluations que vous avez reçues directement sur votre site web via un widget. Les évaluations sont en outre publiées sous votre profil de prestataire de services dans le portail clients."
+							"text": "En option, les avis clients que vous avez reçus peuvent être affichés directement sous l'agenda de prise de rendez-vous et de réservation. Cela renforce la confiance vis-à-vis des nouveaux clients. Le système publie également les avis sur votre profil de prestataire dans le portail client. Vous pouvez désactiver cette fonction à tout moment."
 						}
 					]
 				}
 			}
 		],
-		"subtitle": "Témoignages de clients",
-		"title": "Améliorez constamment votre service grâce aux évaluations de vos clients"
+		"subtitle": "Avis clients",
+		"title": "Améliorer constamment votre service grâce aux avis de vos clients"
 	}
 }

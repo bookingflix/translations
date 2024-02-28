@@ -1,11 +1,11 @@
 {
 	"terminerinnerungen": {
 		"cta": {
-			"action": "Testez maintenant Bookingflix Premium gratuitement pendant 14 jours !",
-			"button": "Créer un agenda maintenant",
+			"action": "Commencez dès maintenant à tester gratuitement Bookingflix Premium pendant 14 jours !",
+			"button": "Créer maintenant un agenda",
 			"link": "/quickstart"
 		},
-		"intro": "Avec Bookingflix, vous pouvez rappeler automatiquement à vos clients leurs rendez-vous. Vous pouvez ainsi veiller en toute tranquillité à ce que tous les rendez-vous réservés aient lieu sans avoir à y penser constamment.",
+		"intro": "Bookingflix rappelle automatiquement à vos clients les rendez-vous réservés, par e-mail et SMS. Cela permet d'augmenter considérablement la fiabilité des rendez-vous de vos clients. En plus, les clients apprécient ce service de rappel.",
 		"sections": [
 			{
 				"einleitung": {
@@ -13,31 +13,31 @@
 						{
 							"headline": "Plus de fiabilité pour vos rendez-vous",
 							"img": "terminerinnerungen-01.png",
-							"text": "Avec Bookingflix, augmentez la fiabilité de vos clients de 10 à 20 % et faites-les être informés automatiquement par e-mail ou SMS dès que le rendez-vous est fixé chez vous."
+							"text": "Avec Bookingflix, vous augmentez la fiabilité de vos clients de 10 à 20 % et vous les prévenez automatiquement par e-mail ou SMS dès que le rendez-vous est prévu chez vous."
 						},
 						{
 							"button": {
-								"link": "/support/video/8",
-								"more": "en savoir plus"
+								"link": "/support/video/701939035",
+								"more": "En savoir plus"
 							},
-							"headline": "Horaires et fréquences personnalisés",
+							"headline": "Horaires personnalisés et fréquences",
 							"img": "terminerinnerungen-02.png",
-							"text": "Que ce soit un jour avant ou une semaine avant : définissez individuellement dans votre profil Bookingflix à quel rythme et combien de jours à l'avance les rappels de rendez-vous doivent être envoyés à vos clients."
+							"text": "Que ce soit un jour ou une semaine avant : définissez individuellement dans votre profil Bookingflix le rythme et le nombre de jours à l'avance auxquels vos clients doivent recevoir les rappels de rendez-vous."
 						},
 						{
 							"headline": "Rappels de rendez-vous par e-mail",
 							"img": "terminerinnerungen-03.png",
-							"text": "Les rappels de rendez-vous par e-mail sont inclus gratuitement et de manière illimitée dans votre adhésion. Vous pouvez adapter librement l'objet et le texte de l'e-mail à votre entreprise et à vos prestations."
+							"text": "Les rappels de rendez-vous par e-mail sont inclus gratuitement et de manière illimitée dans votre abonnement. Vous pouvez adapter facilement l'objet et le texte de l'e-mail à votre entreprise et à vos prestations."
 						},
 						{
 							"headline": "Rappels de rendez-vous par SMS",
 							"img": "terminerinnerungen-04.png",
-							"text": "Les rappels par SMS sont envoyés contre un crédit. Le crédit doit être acheté contre paiement dans votre compte Bookingflix. Les textes d'alerte des SMS sont librement personnalisables."
+							"text": "Pour envoyer des rappels de rendez-vous par SMS, vous avez besoin de crédits SMS. Vous pouvez les acheter très facilement dans votre compte Bookingflix. Ainsi, vous pouvez également atteindre les clients qui ne consultent pas leurs e-mails tous les jours."
 						},
 						{
 							"headline": "Des rappels personnalisés pour chaque agenda",
 							"img": "terminerinnerungen-05.png",
-							"text": "Si vous gérez plusieurs agendas via Bookingflix, vous pouvez décider séparément pour chaque agenda à quelle fréquence, combien de jours à l'avance et par quel canal les rappels de rendez-vous doivent être envoyés."
+							"text": "Pour chaque agenda de prise de rendez-vous, vous pouvez définir séparément combien de temps à l'avance un rappel de rendez-vous sera envoyé par e-mail ou SMS."
 						}
 					]
 				}
