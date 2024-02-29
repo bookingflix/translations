@@ -1,995 +1,1003 @@
 {
-	"description": "",
+	"description": "Dans la FAQ, vous trouverez les questions fréquemment posées et les réponses correspondantes aux fonctions et aux possibilités de réglage de Bookingflix. Vous trouverez des informations complémentaires, des instructions et des vidéos explicatives dans la zone d'assistance. Vous pouvez également nous contacter par e-mail et via notre système de tickets.\nhttps://bookingflix.fr/support",
 	"list": {
 		"Accountverwaltung-60": {
-			"answer": "",
+			"answer": "Dans ce cas, les données de votre compte ainsi que toutes les données de rendez-vous seront immédiatement et irrévocablement supprimées. Si vous avez encore besoin des données de rendez-vous, nous vous recommandons de les sauvegarder de manière anticipée. Vous pouvez télécharger les données au format csv et pdf.",
 			"link": {
-				"1": ""
+				"1": "[Télécharger les données de rendez-vous (csv, pdf)] (https://bookingflix.fr/support/documentation/downloadCSV/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Qu'advient-il des données si je supprime mon compte Bookingflix?",
+			"tags": "Gestion du compte"
 		},
 		"Accountverwaltung-72": {
-			"answer": "",
+			"answer": "Pour envoyer des SMS, vous avez besoin de crédits SMS. Pour chaque SMS, un crédit est nécessaire. Un crédit coûte 0,16 centime d'euro net.\nL'achat se fait dans le tableau de bord sous Profil/Crédits.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Confirmation de rendez-vous par SMS] (https://bookingflix.fr/support/documentation/smsConfirmation/)",
+				"2": "[Rappels de rendez-vous par SMS] (https://bookingflix.fr/support/documentation/smsReminder/)",
+				"3": "Acheter des crédits SMS via PayPal] (https://bookingflix.fr/support/documentation/smsCredits/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "À quoi servent les crédits SMS ?",
+			"tags": "Gestion du compte"
 		},
 		"Accountverwaltung-81": {
-			"answer": "",
+			"answer": "Veuillez nous écrire à ce sujet par e-mail à support@bookingflix.com. Le compte FREE met à votre disposition un agenda de prise de rendez-vous. Le compte PREMIUM met à votre disposition trois agendas de prise de rendez-vous.",
 			"link": {
-				"1": ""
+				"1": "[Prix] (https://bookingflix.fr/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "J'ai besoin de plus d'agendas. Comment puis-je les activer?",
+			"tags": "Gestion du compte"
 		},
 		"Accountverwaltung-82": {
-			"answer": "",
+			"answer": "Dans le compte FREE, vous disposez d'un agenda de prise de rendez-vous. Dans le compte PREMIUM, vous disposez de trois agendas.",
 			"link": {
-				"1": ""
+				"1": "[Prix] (https://bookingflix.fr/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "J'ai un compte FREE chez Bookingflix. Combien d'agendas puis-je utiliser?",
+			"tags": "Gestion du compte"
 		},
 		"Accountverwaltung-83": {
-			"answer": "",
+			"answer": "Le compte FREE permet d'effectuer jusqu'à 50 réservations par mois et met à votre disposition un agenda de prise de rendez-vous. Le compte PREMIUM permet d'effectuer un nombre illimité de réservations. Vous disposez également de trois agendas. Vous pouvez en activer d'autres.",
 			"link": {
-				"1": ""
+				"1": "[Prix] (https://bookingflix.fr/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Quelles sont les limitations d'un compte FREE par rapport à un compte PREMIUM?",
+			"tags": "Gestion du compte"
 		},
 		"Accountverwaltung-101": {
-			"answer": "",
+			"answer": "Vous pouvez utiliser le compte FREE gratuitement pendant 14 jours. Après l'expiration de la période d'essai, vous pouvez prolonger le compte PREMIUM dans votre zone de connexion (tableau de bord). Ou vous pouvez utiliser le compte FREE gratuit. Il n'y a pas de prolongation automatique. Vous devez procéder vous-même à la prolongation si vous le souhaitez.",
 			"link": {
-				"1": ""
+				"1": "[Prix] (https://bookingflix.fr/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Puis-je tester Bookingflix gratuitement? Et pour combien de temps?",
+			"tags": "Gestion du compte"
 		},
 		"Accountverwaltung-105": {
-			"answer": "",
+			"answer": "Dans le compte FREE, vous ne disposez que d'un seul agenda de prise de rendez-vous. Si vous avez besoin de plus d'un agenda, nous vous recommandons de passer au compte PREMIUM. Trois agendas sont inclus dans ce compte. D'autres peuvent être activés.",
 			"link": {
-				"1": ""
+				"1": "[Prix] (https://bookingflix.fr/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Puis-je utiliser plus d'un agenda à la fois dans le compte FREE?",
+			"tags": "Gestion du compte"
 		},
 		"Accountverwaltung-108": {
-			"answer": "",
+			"answer": "Cette fonction est disponible via https://bookingflix.com/sign-in.html sous Mot de passe oublié. Entrez votre adresse e-mail. Vous recevrez par e-mail un lien pour créer un nouveau mot de passe.",
 			"link": {
-				"1": ""
+				"1": "[Demander un nouveau login et mot de passe] (https://bookingflix.com/sign-in.html/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment puis-je modifier le mot de passe de mon compte ou en créer un nouveau si j'ai oublié le précédent?",
+			"tags": "Gestion du compte"
 		},
 		"Allgemeines-5": {
-			"answer": "",
+			"answer": "Notre équipe d'assistance se tient à votre disposition de 8h00 à 20h00. Vous pouvez nous contacter par e-mail et par le système de tickets en ligne. Dans le domaine d'assistance, vous trouverez des instructions complètes, des vidéos explicatives et des webinaires sur les fonctions de Bookingflix. Si nécessaire, nous expliquons les fonctions dans le cadre d'une visioconférence individuelle.",
 			"link": {
-				"1": ""
+				"1": "[Domaine d'assistance] (https://bookingflix.fr/support/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "De quelle assistance bénéficions-nous dans le cadre de l'utilisation Premium payante?",
+			"tags": "Généralités"
 		},
 		"Allgemeines-6": {
-			"answer": "",
+			"answer": "Via le domaine d'assistance, vous trouverez des instructions complètes, des vidéos explicatives et des webinaires sur les fonctions de Bookingflix.",
 			"link": {
-				"1": ""
+				"1": "[Domaine d'assistance] (https://bookingflix.fr/support/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "De quelle assistance bénéficions-nous dans le cadre de l'utilisation Free gratuite?",
+			"tags": "Généralités"
 		},
 		"Allgemeines-7": {
-			"answer": "",
+			"answer": "Oui, c'est tout à fait possible. Dans ce cas, seul le paiement annuel est possible, afin que nous ne soyons pas obligés d'envoyer une nouvelle facture chaque mois.",
 			"link": {
-				"1": ""
+				"1": "[Prix] (https://bookingflix.fr/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Est-il possible de payer le compte Premium par facture au lieu de par prélèvement automatique?",
+			"tags": "Généralités"
 		},
 		"Allgemeines-8": {
-			"answer": "",
+			"answer": "Le compte Premium de Bookingflix coûte 33,57 euros par mois. Vous pouvez payer le compte Premium par prélèvement automatique ou par facture. Pour le prélèvement automatique, nous utilisons le service de https://gocardless.com/. Vous avez la possibilité d'effectuer un prélèvement mensuel ou annuel à l'avance. Vous recevez une facture pour chaque paiement.",
 			"link": {
-				"1": ""
+				"1": "[Prix] (https://bookingflix.fr/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment le compte Premium sera-t-il calculé et comment le paiement sera-t-il effectué?",
+			"tags": "Généralités"
+		},
+		"Allgemeines-9": {
+			"answer": "Vous pouvez télécharger la facture dans la zone de connexion sous Profil/ Données (factures). Vous pouvez consulter la facture environ trois jours après l'encaissement. Sinon, nous envoyons la facture par la poste ou par e-mail au format PDF.",
+			"link": {
+				"1": "[Vidéo : Télécharger les factures] (https://bookingflix.fr/support/video/701936929/)"
+			},
+			"question": "Comment recevoir les factures de l'abonnement mensuel?",
+			"tags": "Généralités"
 		},
 		"Allgemeines-13": {
-			"answer": "",
+			"answer": "Le compte FREE est entièrement gratuit. Le compte PREMIUM coûte 33,57 euros nets par mois. Le montant peut être payé mensuellement ou annuellement. La facturation s'effectue par prélèvement automatique. Il est également possible d'acheter sur facture.",
 			"link": {
-				"1": ""
+				"1": "[Prix] (https://bookingflix.fr/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Combien coûte Bookingflix par mois?",
+			"tags": "Généralités"
 		},
 		"Allgemeines-14": {
-			"answer": "",
+			"answer": "Le délai de résiliation est d'un mois. Seul le mois en cours est donc facturé. Si vous résiliez le dernier jour du mois, le mois suivant ne sera pas facturé. Vous pouvez également continuer à utiliser votre compte FREE gratuit. Si vous n'en avez plus besoin, vous pouvez à tout moment supprimer complètement votre compte Bookingflix.",
 			"link": {
-				"1": ""
+				"1": "[Prix] (https://bookingflix.fr/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Quel délai de résiliation dois-je respecter?",
+			"tags": "Généralités"
 		},
 		"Allgemeines-75": {
-			"answer": "",
+			"answer": "Non, Bookingflix est en principe utilisable gratuitement par les clients finaux, c'est-à-dire vos clients. Il n'y a que pour vous, en tant que prestataire de services, qu'un compte premium payant est disponible en option. Le compte FREE est également gratuit pour vous comme prestataire de services.",
 			"link": {
-				"1": ""
+				"1": "[Prix] (https://bookingflix.fr/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Est-ce que mes clients doivent payer quelque chose lorsqu'ils réservent un rendez-vous via Bookingflix?",
+			"tags": "Généralités"
 		},
 		"Allgemeines-102": {
-			"answer": "",
+			"answer": "Bookingflix soutient tous les secteurs qui ont besoin d'une prise de rendez-vous fiable. Grâce aux possibilités de paramétrage flexibles de l'outil de prise de rendez-vous, vous pouvez adapter votre formulaire à vos besoins individuels.\nLes secteurs suivants utilisent Bookingflix :\nCoiffeurs, agences d'assurance, garagistes, consultation, salons de tatouage, cabinets médicaux et pharmacies, naturopathie et thérapies alternatives, centres de dépistage et de vaccination, artisans, instituts de beauté, de bien-être et de massage, salles de sport et de fitness, restaurants et cafés, photographes, centres de loisirs et de divertissement, écoles, établissements d'enseignement, location et gestion immobilière, commerce de détail, bureau du citoyen et administration, musées et expositions.",
 			"link": {
-				"1": ""
+				"1": "[Secteurs] (https://bookingflix.fr/branches/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Pour quels secteurs la prise de rendez-vous via Bookingflix est-elle appropriée?",
+			"tags": "Généralités"
 		},
 		"Einstellungen-1": {
-			"answer": "",
+			"answer": "Oui, vous pouvez transmettre des agendas individuels de rendez-vous et de réservation aux employés. Ceux-ci ont alors accès aux données de rendez-vous. Celles-ci peuvent être téléchargées au format PDF et CSV. Il est possible de confirmer, d'annuler et de modifier des rendez-vous. Seul l'administrateur peut effectuer des réglages plus spécifiques. Il s'agit notamment de la création ou de la suppression d'un agenda de prise de rendez-vous, de l'achat de crédits SMS pour l'envoi de rappels de rendez-vous et de l'accès à d'autres agendas.",
 			"link": {
-				"1": ""
+				"1": "[Transférer la gestion d'agenda à un tiers ou à un employé] (https://bookingflix.fr/support/documentation/shareCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Est-ce que Bookingflix dispose d'une gestion des droits pour que le représentant ou l'employé concerné puisse prendre en charge la gestion des rendez-vous?",
+			"tags": "Paramètres"
 		},
 		"Einstellungen-16": {
-			"answer": "",
+			"answer": "Oui, les e-mails du système suivants peuvent être personnalisés : confirmation, annulation, vérification, rappel de rendez-vous",
 			"link": {
-				"1": ""
+				"1": "[Éditer les textes des emails] (https://bookingflix.fr/support/documentation/editMails/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Est-il possible de personnaliser les textes des e-mails du système?",
+			"tags": "Paramètres"
 		},
 		"Einstellungen-17": {
-			"answer": "",
+			"answer": "Oui, c'est possible. L'envoi se fait alors via votre propre fournisseur de messagerie. Veuillez noter que l'envoi d'un grand nombre d'e-mails pourrait éventuellement être considéré comme du spam. Veuillez donc prendre contact avec votre fournisseur d'e-mail si un grand nombre d'e-mails doivent être envoyés dans le cadre de la prise de rendez-vous.",
 			"link": {
-				"1": ""
+				"1": "[Envoi des e-mails du système avec sa propre adresse e-mail] (https://bookingflix.fr/support/documentation/ownMailbox/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Est-il possible d'envoyer les e-mails du système (confirmation, annulation) de sa propre adresse e-mail?",
+			"tags": "Paramètres"
 		},
 		"Einstellungen-21": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans la zone de connexion sous Paramètres/Paramètres par défaut.",
 			"link": {
-				"1": ""
+				"1": "[Définir les vacances et les jours chômés] (https://bookingflix.fr/support/documentation/holidays/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment définir les périodes de vacances et les jours fériés?",
+			"tags": "Paramètres"
 		},
 		"Einstellungen-35": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans le tableau de bord sous Paramètres/Paramètres par défaut/Lier plusieurs agendas.",
 			"link": {
-				"1": ""
+				"1": "[Relier les agendas] (https://bookingflix.fr/support/documentation/connectCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment relier plusieurs agendas?",
+			"tags": "Paramètres"
 		},
 		"Einstellungen-49": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans le tableau de bord via la section Paramètres/Jours chômés et vacances.",
 			"link": {
-				"1": ""
+				"1": "[Définir les vacances et les jours chômés] (https://bookingflix.fr/support/documentation/holidays/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment créer un jour chômé?",
+			"tags": "Paramètres"
 		},
 		"Einstellungen-50": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans le tableau de bord via la section Paramètres/Jours chômés et vacances.",
 			"link": {
-				"1": ""
+				"1": "[Définir les vacances et les jours chômés] (https://bookingflix.fr/support/documentation/holidays/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment créer des périodes de vacances?",
+			"tags": "Paramètres"
 		},
 		"Einstellungen-84": {
-			"answer": "",
+			"answer": "Nous recommandons dans ce cas d'avoir un ou plusieurs agendas de prise de rendez-vous pour chaque filiale. Ou même un propre compte Bookingflix par filiale. Cela augmente considérablement la clarté.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Créer un agenda de prise de rendez-vous pour des services] (https://bookingflix.fr/support/documentation/serviceCalendar/)",
+				"2": "[Créer un agenda de prise de rendez-vous pour des heures d'ouverture fixes] (https://bookingflix.fr/support/documentation/businessCalendar/)",
+				"3": "[Créer un agenda de prise de rendez-vous pour des événements concrets] (https://bookingflix.fr/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Nous avons plusieurs filiales. Comment puis-je gérer cela au mieux avec Bookingflix?",
+			"tags": "Paramètres"
 		},
 		"Einstellungen-85": {
-			"answer": "",
+			"answer": "Dans ce cas, vous devriez créer un agenda de prise de rendez-vous pour chaque employé ou service. Vous pouvez ensuite les relier entre eux ou les publier séparément sur votre propre site web. Ainsi, le client peut d'abord choisir le service (ou l'agenda) souhaité et ensuite le réserver.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Relier les agendas] (https://bookingflix.fr/support/documentation/connectCalendar/)",
+				"2": "[Créer un agenda de prise de rendez-vous pour des services] (https://bookingflix.fr/support/documentation/serviceCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Nous avons plusieurs employés qui exécutent différents services. Comment organiser cela au mieux?",
+			"tags": "Paramètres"
 		},
 		"Einstellungen-112": {
-			"answer": "",
+			"answer": "Les jours fériés peuvent être enregistrés très facilement par un simple clic de souris. Ces jours sont alors bloqués pour une réservation de rendez-vous. Certains jours fériés peuvent également être désactivés sur demande. Il est alors de nouveau possible d'y réserver un rendez-vous. ",
 			"link": {
-				"1": ""
+				"1": "[Définir les vacances et les jours chômés] (https://bookingflix.fr/support/documentation/holidays/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Est-il possible d'exclure les jours fériés de la réservation de rendez-vous?",
+			"tags": "Paramètres"
 		},
 		"Mailversand-70": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans la zone de connexion sous Profil/Déposer sa propre boîte aux lettres électronique.",
 			"link": {
-				"1": ""
+				"1": "[Envoi des e-mails du système avec sa propre adresse e-mail] (https://bookingflix.fr/support/documentation/ownMailbox/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment envoyer les e-mails du système avec ma propre adresse e-mail?",
+			"tags": "Envoi de mail"
 		},
 		"Mailversand-89": {
-			"answer": "",
+			"answer": "Le client a peut-être indiqué une mauvaise adresse e-mail. Ou l'e-mail a atterri dans le dossier spam. Il peut être judicieux, notamment en cas de volume élevé de mails, d'envoyer les mails système via sa propre adresse e-mail. Les e-mails du système, comme par exemple les rappels de rendez-vous, ne sont alors plus envoyés via le serveur de Bookingflix.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Rappels de rendez-vous par e-mail] (https://bookingflix.fr/support/documentation/emailReminder/)",
+				"2": "[Envoi des e-mails du système avec sa propre adresse e-mail] (https://bookingflix.fr/support/documentation/ownMailbox/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Le rappel de rendez-vous par e-mail n'est pas arrivé. À quoi cela tient-il?",
+			"tags": "Envoi de mail"
 		},
 		"Mailversand-90": {
-			"answer": "",
+			"answer": "Le client a peut-être indiqué une mauvaise adresse e-mail. Ou l'e-mail a atterri dans le dossier spam du client. Il peut être judicieux, notamment en cas de volume élevé des e-mails, d'envoyer les e-mails du système via sa propre adresse e-mail. Les e-mails du système, comme par exemple la confirmation de rendez-vous et l'e-mail de vérification, ne sont alors plus envoyés via le serveur de Bookingflix. Pour les rendez-vous très importants, nous recommandons également la confirmation de rendez-vous par SMS. Cela augmente encore la fiabilité des rendez-vous.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Envoyer la confirmation de rendez-vous par e-mail aux clients manuellement et automatiquement] (https://bookingflix.fr/support/documentation/confirmation/)",
+				"2": "[Envoi des e-mails du système avec sa propre adresse e-mail] (https://bookingflix.fr/support/documentation/ownMailbox/)",
+				"3": "[Confirmation de rendez-vous par SMS] (https://bookingflix.fr/support/documentation/smsConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "L'e-mail de confirmation de rendez-vous n'est pas arrivé. À quoi cela tient-il?",
+			"tags": "Envoi de mail"
 		},
 		"Mailversand-115": {
-			"answer": "",
+			"answer": "Bookingflix vous offre la possibilité de créer votre propre boîte mail. Ainsi, toutes les confirmations de rendez-vous, les annulations de rendez-vous et les rappels de rendez-vous liés à l'e-mail sont acheminés via votre boîte mail. Vos clients voient votre adresse e-mail comme expéditeur.\n\nNous recommandons cette fonction aux prestataires de services qui programment beaucoup de rendez-vous via Bookingflix.com. Vous pouvez ainsi résoudre de façon autonome le problème de spam lors de l'envoi d'e-mails. Le nom d'utilisateur, le mot de passe, etc. vous sont fournis par votre fournisseur de messagerie électronique, votre gestionnaire de domaine ou votre webmaster.\n\nPour des raisons techniques, les données d'accès SMTP, y compris le mot de passe, doivent être sauvegardées dans notre base de données. Le mot de passe doit être envoyé lors de la création de la connexion au serveur de messagerie, ce qui exclut le chiffrement du mot de passe. C'est pourquoi il est indispensable d'utiliser une boîte mail supplémentaire spécialement conçue pour Bookingflix, par exemple notificationderendez-vous@entreprise-xyz.fr, avec un mot de passe à usage unique, de préférence très sécurisé. La boîte mail utilisée ne doit pas servir à d'autres échanges d'e-mails. En outre, nous vous recommandons de modifier régulièrement le mot de passe d'accès, par exemple toutes les 4 semaines, et de le réenregistrer sur Bookingflix.\n\nAprès l'enregistrement des données d'accès SMTP, l'envoi d'e-mails est directement lancé via votre serveur de messagerie. Vous êtes responsable de la stabilité et de l'accessibilité de votre serveur de messagerie. Nous n'avons aucune influence sur ce point et ne pouvons pas non plus assumer d'assistance / de garantie. Veuillez vous mettre d'accord à l'avance avec votre fournisseur de services de messagerie / administrateur sur l'admissibilité et les évaluations de capacité d'e-mails en masse et les possibles surveillances / restrictions à ce sujet (par ex. filtre anti-spam, etc.). \n\nEn principe, vous avez la possibilité d'arrêter cette procédure à tout moment et d'envoyer à nouveau les e-mails via le serveur de messagerie de Bookingflix. ",
 			"link": {
-				"1": ""
+				"1": "[Envoi des e-mails du système avec sa propre adresse e-mail] (https://bookingflix.fr/support/documentation/ownMailbox/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment créer une boîte aux lettres électronique personnelle ?",
+			"tags": "Envoi de mail"
 		},
 		"Rechtliches-56": {
-			"answer": "",
+			"answer": "Nous ne pouvons et ne devons pas fournir de conseils juridiques concernant vos informations de protection des données.\nToutefois, nous mettons à disposition des textes par défaut. Nous vous invitons à les vérifier et à les adapter.",
 			"link": {
-				"1": ""
+				"1": "[Vidéo : modifier les mentions légales, les CGV et la protection des données] (https://bookingflix.fr/support/video/704029542/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Quelles informations relatives à la protection des données dois-je fournir lors de l'utilisation de Bookingflix?",
+			"tags": "Conditions contractuelles"
 		},
 		"Rechtliches-57": {
-			"answer": "",
+			"answer": "Les serveurs sont situés à Francfort-sur-le-Main. Aucune donnée n'est stockée sur des serveurs qui ne sont pas situés en Allemagne.",
 			"link": {
-				"1": ""
+				"1": "[Conformité avec le RGPD et la protection des données] (https://bookingflix.fr/features/privacy/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Où sont situés les serveurs de Bookingflix?",
+			"tags": "Conditions contractuelles"
 		},
 		"Rechtliches-58": {
-			"answer": "",
+			"answer": "Vous pouvez nous le demander par e-mail : support@bookingflix.com\nVeuillez nous envoyer l'adresse de votre entreprise et le nom de votre compte Bookingflix.",
 			"link": {
-				"1": ""
+				"1": "[Conformité avec le RGPD et la protection des données] (https://bookingflix.fr/features/privacy/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment puis-je obtenir un contrat de traitement des données de Bookingflix?",
+			"tags": "Conditions contractuelles"
 		},
 		"Rechtliches-59": {
-			"answer": "",
+			"answer": "Nous stockons les données de votre compte ainsi que les données de rendez-vous de vos clients. Si vos clients indiquent par exemple une adresse dans le cadre de la réservation d'un rendez-vous, nous stockons également ces données. Les serveurs sont situés en Allemagne. Le délai de suppression automatique est de 30 jours. Une suppression antérieure est possible à tout moment. Vos clients peuvent également supprimer les données de rendez-vous à tout moment, ou supprimer ou annuler le rendez-vous.",
 			"link": {
-				"1": ""
+				"1": "[Conformité avec le RGPD et la protection des données] (https://bookingflix.fr/features/privacy/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Quelles données sont traitées par Bookingflix?",
+			"tags": "Conditions contractuelles"
 		},
 		"Rechtliches-91": {
-			"answer": "",
+			"answer": "En général, vous ne devriez demander que les données nécessaires à la prise de rendez-vous et au rendez-vous. Ne demandez l'adresse et d'autres données personnelles que si cela est vraiment nécessaire. Cette réduction des demandes à l'essentiel est également prévue par le RGPD. Vous devriez également renoncer à demander des données médicales.  Nous ne pouvons et ne devons pas donner d'estimation précise. C'est pourquoi ces déclarations doivent être considérées comme globales, sans pertinence juridique. Votre délégué à la protection des données doit être consulté le cas échéant. Les données de rendez-vous sont traitées par Bookingflix et stockées sur des serveurs allemands. Nous vous enverrons volontiers un contrat de traitement des données de commande.",
 			"link": {
-				"1": ""
+				"1": "[Protection des données] (https://bookingflix.fr/privacy/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Y a-t-il des données clients sensibles que je ne devrais pas demander lors de la prise d'un rendez-vous?",
+			"tags": "Conditions contractuelles"
 		},
 		"Rechtliches-96": {
-			"answer": "",
+			"answer": "Oui, Bookingflix a été développé dans le strict respect du RGPD. Le processus de réservation est déjà conforme à ces prescriptions. Les données de rendez-vous sont traitées et stockées sur des serveurs situés en Allemagne. Le délai de suppression est de 30 jours. Vos clients peuvent toutefois supprimer eux-mêmes les données plus tôt. En tant que prestataire de services, vous pouvez également supprimer toutes les données à tout moment. Nous vous enverrons volontiers un contrat de traitement des données de commande. Vos données et celles de vos clients ne sont pas transmises à des tiers. Toutes les données sont sécurisées par les méthodes de cryptage les plus récentes. Pour plus d'informations, veuillez consulter nos dispositions relatives à la protection des données et le contrat de traitement des données de commande. Nous vous enverrons volontiers un projet de ce contrat pour que vous puissiez le consulter. Pour cela, veuillez écrire à support@bookingflix.com.",
 			"link": {
-				"1": ""
+				"1": "[Protection des données] (https://bookingflix.fr/privacy/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "La prise de rendez-vous via Bookingflix est-elle compatible avec le RGPD européen?",
+			"tags": "Conditions contractuelles"
 		},
 		"Support-76": {
-			"answer": "",
+			"answer": "Vous trouverez toutes les vidéos explicatives, les webinaires et les instructions dans le domaine d'assistance : https://bookingflix.fr/support\nNous nous tenons également à votre disposition par chat (https://bookingflix.fr/support/chat/) ou par e-mail (support@bookingflix.com).",
 			"link": {
-				"1": ""
+				"1": "[Service d'assistance] (https://bookingflix.fr/support/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Où trouver des vidéos explicatives et des instructions sur les fonctionnalités de Bookingflix?",
+			"tags": "Service d'assistance"
 		},
 		"Technisches-30": {
-			"answer": "",
+			"answer": "Dès qu'un rendez-vous a été réservé et confirmé, le créneau de rendez-vous n'est plus disponible. Si plusieurs rendez-vous sont disponibles par slot de rendez-vous, une place est bloquée. Si un rendez-vous réservé n'a pas encore été vérifié par le client (en cliquant sur le lien de vérification), le rendez-vous reste également bloqué jusqu'à l'expiration du délai de vérification. Cela permet d'éviter une surréservation du créneau de rendez-vous. Si un rendez-vous est annulé, le créneau de rendez-vous est automatiquement et immédiatement libéré et peut être à nouveau réservé. Lors de l'enregistrement manuel d'un rendez-vous, il est possible de vérifier si un rendez-vous est déjà enregistré et s'il y a un risque de surréservation.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Entrer les rendez-vous manuellement] (https://bookingflix.fr/support/documentation/addAppointment/)",
+				"2": "[Confirmation automatique de rendez-vous] (https://bookingflix.fr/support/documentation/appointmentConfirmation/)",
+				"3": "[Vérification selon le RGPD] (https://bookingflix.fr/support/documentation/verify/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment la surréservation est-elle évitée ?",
+			"tags": "Informations techniques"
 		},
 		"Technisches-73": {
-			"answer": "",
+			"answer": "Vos clients peuvent réserver un rendez-vous via n'importe quel terminal connecté à Internet. Donc avec un PC, un smartphone ou une tablette.\nBookingflix est donc optimisé pour les mobiles et le design web est réactif.",
 			"link": {
-				"1": ""
+				"1": "[Fonctionnalités] (https://bookingflix.fr/features/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Sur quels terminaux les rendez-vous peuvent-ils être pris?",
+			"tags": "Informations techniques"
 		},
 		"Technisches-74": {
-			"answer": "",
+			"answer": "Vous pouvez utiliser Bookingflix à partir de n'importe quel terminal connecté à Internet. Donc avec un ordinateur, un smartphone ou une tablette.\nBookingflix est donc optimisé pour les mobiles et le design web est réactif.",
 			"link": {
-				"1": ""
+				"1": "[Gestion des rendez-vous] (https://bookingflix.fr/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Quels sont les terminaux que je peux utiliser pour gérer mon compte et les données de rendez-vous?",
+			"tags": "Informations techniques"
 		},
 		"Technisches-86": {
-			"answer": "",
+			"answer": "Actuellement, cela n'est pas encore possible. Nous y travaillons cependant. Il sera alors possible de réserver les rendez-vous en payant un supplément.",
 			"link": {
-				"1": ""
+				"1": "[A propos de nous] (https://bookingflix.fr/about-us/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Peut-on intégrer un service de paiement lors de la prise d'un rendez-vous?",
+			"tags": "Informations techniques"
 		},
 		"Technisches-109": {
-			"answer": "",
+			"answer": "Pas pour l'instant. Toutefois, Bookingflix peut aussi être utilisé facilement sur les smartphones et les tablettes. Une application n'est donc pas forcément nécessaire.",
 			"link": {
-				"1": ""
+				"1": "[Fonctionnalités] (https://bookingflix.fr/features/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Existe-t-il une APP pour Bookingflix?",
+			"tags": "Informations techniques"
 		},
 		"Technisches-111": {
-			"answer": "",
+			"answer": "Des règles de pause peuvent être ajoutées via l'assistant de rendez-vous. Si vous définissez une pause, aucun rendez-vous ne peut y avoir lieu. Car vous ne pouvez pas avoir une pause et réaliser un rendez-vous en même temps. Chaque rendez-vous interrompu par une pause ne peut pas être réservé.",
 			"link": {
-				"1": ""
+				"1": "[Créer un agenda deprise de rendez-vous pour des heures d'ouverture fixes] (https://bookingflix.fr/support/documentation/businessCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment calculer un temps de pause?",
+			"tags": "Informations techniques"
 		},
 		"Technisches-113": {
-			"answer": "",
+			"answer": "Pour supprimer le cadre extérieur coloré de l'agenda intégré par javascript, ajoutez le code source suivant dans la section HEAD de votre site web:\n\n<input class=\"form-control\" type=\"text\" value=\"<style>hit-calendar .app .stage { border: 0!important; }</style>\">",
 			"link": {
 				"1": ""
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment supprimer le cadre extérieur coloré de l'agenda incorporé?",
+			"tags": "Informations techniques"
 		},
 		"Technisches-114": {
-			"answer": "",
+			"answer": "Bookingflix propose actuellement deux variantes d'intégration : JAVASCRIPT et IFRAME. La technique IFRAME crée pour ainsi dire une fenêtre d'affichage sur le site web du client. Cette fenêtre permet d'intégrer l'agenda. Dans ce cas, l'agenda est calculé sur le serveur de Bookingflix et présenté sous forme graphique. Le site web du client ainsi que l'agenda généré n'ont pas de contact direct, mais sont pour ainsi dire séparés par une \"vitre virtuelle\". Ainsi, les paramètres de style du site web du client ne peuvent pas avoir d'influence sur les affichages de l'agenda, tout au plus sur la conception du cadre de la fenêtre. \nLa deuxième variante est JAVASCRIPT. Dans ce cas, le calendrier est directement généré sur le site web du client. Le code source est directement intégré au site web du client. Les paramètres de style du client peuvent avoir une influence. On peut ainsi par exemple : modifier les couleurs, la mise en page et les polices.\n\nEn général, nous recommandons le code JAVASCRIPT, car il supprime par exemple le \"cadre de fenêtre\" (iframe) parfois gênant et présente encore quelques autres avantages techniques. Mais si le design est influencé négativement par les propres directives de style du site web, il faut alors soit adapter quelque peu les directives de style du site web pour que le calendrier reste exclu - soit créer des directives de style spéciales pour le calendrier dans CSS - soit utiliser la technologie IFRAME.",
 			"link": {
-				"1": ""
+				"1": "[Code d'intégration/ Code de widget] (https://bookingflix.fr/support/documentation/embed/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Quelle est la différence entre l'intégration IFRAME et l'intégration JAVASCRIPT?",
+			"tags": "Informations techniques"
 		},
 		"Technisches-117": {
-			"answer": "",
+			"answer": "Le fichier CSV contient les numéros de téléphone conformément aux entrées effectuées dans la base de données. Le client peut donc saisir son numéro de téléphone au format différent. Pour les séquences de chiffres purs, le zéro initial est supprimé. Il est toutefois possible de définir ultérieurement le champ dans Excel comme champ de numéro de téléphone.",
 			"link": {
-				"1": ""
+				"1": "[Vidéo: Téléchargement des données de rendez-vous csv, pdf] (https://bookingflix.fr/support/video/701936872/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Pourquoi les numéros de téléphone sont-ils mal formatés? Pourquoi apparaissent-ils systématiquement sans le zéro initial?",
+			"tags": "Informations techniques"
 		},
 		"Technisches-118": {
-			"answer": "",
+			"answer": "Modifiez les paramètres d'importation pour que les caractères spéciaux soient importés correctement.",
 			"link": {
-				"1": ""
+				"1": "[Vidéo: Téléchargement des données de rendez-vous csv, pdf] (https://bookingflix.fr/support/video/701936872/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Pourquoi les caractères spéciaux tels que les trémas et les accents sont-ils rendus illisibles par le formatage après l'exportation ?",
+			"tags": "Informations techniques"
 		},
 		"Technisches-119": {
-			"answer": "",
+			"answer": "Le numéro de téléphone et l'adresse e-mail sont des champs particuliers, c'est pourquoi ils sont soulignés dans le fichier CSV. Même si vous créez d'autres champs avec un nom similaire ou identique. Ne modifiez pas les champs Numéro de téléphone et Adresse e-mail. Le champ Numéro de téléphone peut éventuellement être supprimé. Il ne s'agit donc pas d'un champ obligatoire. La demande de l'adresse e-mail est obligatoire pour la prise de rendez-vous avec Bookingflix.",
 			"link": {
-				"1": ""
+				"1": "[Vidéo: Téléchargement des données de rendez-vous csv, pdf] (https://bookingflix.fr/support/video/701936872/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Pourquoi les champs numéro de téléphone et adresse e-mail apparaissent-ils en double?",
+			"tags": "Informations techniques"
 		},
 		"Terminbuchung-40": {
-			"answer": "",
+			"answer": "L'agenda de prise de rendez-vous pour différents services ne permet qu'à un seul client de réserver un service à la fois. Si vous souhaitez que différents services puissent être réservés au même moment, cela est possible grâce à plusieurs agendas qui les relient entre eux. Vous définissez un service par agenda. Ces agendas sont ensuite reliés entre eux. Ainsi, le client peut d'abord sélectionner le service souhaité (et l'agenda correspondant), puis choisir le créneau de rendez-vous et ensuite saisir les données telles que l'e-mail et le nom.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Créer un agenda de prise de rendez-vous pour des prestations de service] (https://bookingflix.fr/support/documentation/serviceCalendar/)",
+				"2": "[Relier les agendas] (https://bookingflix.fr/support/documentation/connectCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Est-ce que plusieurs clients peuvent réserver en même temps des rendez-vous pour des prestations différentes?",
+			"tags": "Prise de rendez-vous"
 		},
 		"Terminbuchung-42": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans le tableau de bord en cliquant sur le bouton Ajouter un rendez-vous.",
 			"link": {
-				"1": ""
+				"1": "[Créer des rendez-vous récurrents] (https://bookingflix.fr/support/documentation/serialAppointments/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment créer manuellement plusieurs rendez-vous récurrents pour mes clients?",
+			"tags": "Prise de rendez-vous"
 		},
 		"Terminbuchung-45": {
-			"answer": "",
+			"answer": "Dès qu'un rendez-vous a été réservé et confirmé, le créneau de rendez-vous n'est plus disponible. Si plusieurs rendez-vous sont disponibles par créneau horaire, une place est bloquée. Si un rendez-vous réservé n'a pas encore été vérifié par le client (en cliquant sur le lien de vérification), le rendez-vous reste également bloqué jusqu'à l'expiration du délai de vérification. Cela permet d'éviter une surréservation du créneau de rendez-vous. Si un rendez-vous est annulé, le créneau de rendez-vous est automatiquement et immédiatement libéré et peut être à nouveau réservé. Lors de l'enregistrement manuel d'un rendez-vous, il est possible de vérifier si un rendez-vous est déjà enregistré et s'il y a un risque de surréservation.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Entrer les rendez-vous manuellement] (https://bookingflix.fr/support/documentation/addAppointment/)",
+				"2": "[Confirmation automatique de rendez-vous] (https://bookingflix.fr/support/documentation/appointmentConfirmation/)",
+				"3": "[Vérification selon le RGPD] (https://bookingflix.fr/support/documentation/verify/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Un créneau horaire n'est plus réservable pour mes clients. Pourtant, un rendez-vous devrait encore être disponible. Pourquoi le rendez-vous ne s'affiche-t-il pas dans le tableau de bord?",
+			"tags": "Prise de rendez-vous"
 		},
 		"Terminbuchung-48": {
-			"answer": "",
+			"answer": "Votre client peut télécharger le PDF du rendez-vous avec le code QR en cliquant sur le lien personnel du rendez-vous. Votre client recevra ce lien par e-mail avec la confirmation du rendez-vous.",
 			"link": {
-				"1": ""
+				"1": "[Lien de rendez-vous et zone de connexion client] (https://bookingflix.fr/support/documentation/clientLogin/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Où mon client peut-il trouver le PDF du rendez-vous avec le code QR pour le rendez-vous réservé?",
+			"tags": "Prise de rendez-vous"
 		},
 		"Terminbuchung-66": {
-			"answer": "",
+			"answer": "Oui, c'est possible. Pour cela, créez le champ de formulaire Réservation de groupe correspondant lors de la création d'un agenda de prise de rendez-vous. Votre client peut alors indiquer lors de la réservation combien de personnes participent au rendez-vous. Le nombre correspondant est alors pris en compte et déduit du contingent disponible (nombre de places par créneau horaire).",
 			"link": {
-				"1": ""
+				"1": "[Champ du formulaire Réservation de groupe] (https://bookingflix.fr/support/documentation/bookingGroup/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Peut un client réserver un rendez-vous de groupe pour plusieurs personnes?",
+			"tags": "Prise de rendez-vous"
 		},
 		"Terminbuchung-67": {
-			"answer": "",
+			"answer": "Oui, le nombre correspondant est pris en compte et déduit du contingent disponible (nombre de places par créneau horaire). Ainsi, si vos clients réservent un rendez-vous de groupe pour trois personnes, ces trois places seront réservées et ne seront plus disponibles pour d'autres réservations dans le cadre du même créneau de rendez-vous. Le nombre de groupes peut être adapté à tout moment par le client et par vous-même.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Champ du formulaire Réservation de groupe] (https://bookingflix.fr/support/documentation/bookingGroup/)",
+				"2": "[Gestion des rendez-vous] (https://bookingflix.fr/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Lors d'une réservation de groupe, le nombre de places réservées est-il pris en compte?",
+			"tags": "Prise de rendez-vous"
 		},
 		"Terminbuchung-71": {
-			"answer": "",
+			"answer": "Oui, cette fonction est disponible dans la zone de connexion sous Paramètres/Modifier les notifications de rendez-vous.\nIl est donc possible d'envoyer automatiquement au client une confirmation de rendez-vous par SMS. Cela permet d'augmenter encore la fiabilité des rendez-vous. La confirmation de rendez-vous par SMS permet également de garantir que les clients qui vérifient irrégulièrement leur e-mail soient immédiatement informés de la confirmation du rendez-vous. Pour envoyer des SMS, vous avez besoin de crédits SMS. Ceux-ci peuvent être achetés dans le tableau de bord.",
 			"link": {
-				"1": ""
+				"1": "[Confirmation de rendez-vous par SMS] (https://bookingflix.fr/support/documentation/smsConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Les rendez-vous peuvent-ils également être confirmés par SMS?",
+			"tags": "Prise de rendez-vous"
 		},
 		"Terminbuchungskalender-20": {
-			"answer": "",
+			"answer": "Bookingflix propose trois agendas de prise de rendez-vous différents.\n\nAgenda de prise de rendez-vous pour les horaires d'ouverture fixes:\nUtilisez cet agenda si vous avez un magasin avec des heures d'ouverture régulières. Lors de la configuration, vous pouvez par exemple définir les heures d'ouverture, les temps de pause et la durée des créneaux de rendez-vous.\n\nAgenda de prise de rendez-vous pour des événements concrets :\nUtilisez cet agenda si vous souhaitez proposer des événements individuels. Lors de la configuration, vous pouvez par exemple définir les dates des événements et le nombre maximal de participants.\n\nAgenda de prise de rendez-vous pour les services :\nUtilisez cet agenda si vous souhaitez proposer différents services. Vous pouvez par exemple définir les différentes prestations lors de la configuration. Pour chaque prestation, vous pouvez définir un prix et une image.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Créer un agenda de prise de rendez-vous pour des événements concrets] (https://bookingflix.fr/support/documentation/eventCalendar/)",
+				"2": "[Créer un agenda de prise de rendez-vous pour des prestations de service] (https://bookingflix.fr/support/documentation/serviceCalendar/)",
+				"3": "[Créer un agenda de prise de rendez-vous pour des heures d'ouverture fixes] (https://bookingflix.fr/support/documentation/businessCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Quel est l'agenda optimal pour mon entreprise?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-25": {
-			"answer": "",
+			"answer": "Lors de la création d'un agenda de prise de rendez-vous, vous pouvez définir optionnellement que vos clients reçoivent un e-mail après le rendez-vous avec une demande d'évaluation. La demande peut être formulée individuellement. Une publication de l'évaluation peut être activée et désactivée de manière optionnelle.",
 			"link": {
-				"1": ""
+				"1": "[Obtenir et intégrer automatiquement les avis des clients] (https://bookingflix.fr/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment obtenir des feedbacks clients via Bookingflix? C'est automatique?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-28": {
-			"answer": "",
+			"answer": "Oui, vous disposez pour cela d'un agenda de prise de rendez-vous pour des prestations de service. Utilisez cet agenda si vous souhaitez proposer différents services. Lors de la configuration, vous pouvez par exemple définir les différentes prestations. Pour chaque prestation, vous pouvez définir un prix et une image.",
 			"link": {
-				"1": ""
+				"1": "[Créer un agenda de prise de rendez-vous pour des prestations de service] (https://bookingflix.fr/support/documentation/serviceCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Est-il possible de proposer différents services via l'agenda de prise de rendez-vous?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-29": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans QuickStart et dans le tableau de bord sous Paramètres/Créer un nouvel agenda.",
 			"link": {
-				"1": ""
+				"1": "[Créer un agenda de prise de rendez-vous pour des prestations de service] (https://bookingflix.fr/support/documentation/serviceCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment créer des prestations différentes (prix, durée du rendez-vous)?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-34": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans QuickStart et dans le tableau de bord sous Paramètres/Créer un nouvel agenda.",
 			"link": {
-				"1": ""
+				"1": "[Créer un agenda de prise de rendez-vous pour des événements concrets] (https://bookingflix.fr/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment créer un événement concret?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-36": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans QuickStart et dans le tableau de bord sous Paramètres/Créer un nouvel agenda.",
 			"link": {
-				"1": ""
+				"1": "[Outil de visioconférence OnBoard] (https://bookingflix.fr/support/documentation/webinarTool/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment créer une visioconférence via Bookingflix?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-39": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans QuickStart et dans le tableau de bord sous Paramètres/Créer un nouvel agenda.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Créer un agenda de prise de rendez-vous pour des événements concrets] (https://bookingflix.fr/support/documentation/eventCalendar/)",
+				"2": "[Créer un agenda de prise de rendez-vous pour des prestations de service] (https://bookingflix.fr/support/documentation/serviceCalendar/)",
+				"3": "[Créer un agenda de prise de rendez-vous pour des heures d'ouverture fixes] (https://bookingflix.fr/support/documentation/businessCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment créer un agenda de prise de rendez-vous?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-41": {
-			"answer": "",
+			"answer": "L'agenda de prise de rendez-vous pour différents services ne permet qu'à un seul client de réserver un service à la fois. Si vous souhaitez que différents services puissent être réservés au même moment, cela est possible grâce à plusieurs agendas qui les relient entre eux. Vous définissez un service par agenda. Ces agendas sont ensuite reliés entre eux. Ainsi, le client peut d'abord sélectionner le service souhaité (et l'agenda correspondant), puis choisir le créneau de rendez-vous et ensuite saisir les données telles que l'e-mail et le nom.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Créer un agenda de prise de rendez-vous pour des prestations de service] (https://bookingflix.fr/support/documentation/serviceCalendar/)",
+				"2": "[Relier les agendas] (https://bookingflix.fr/support/documentation/connectCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Est-il possible de proposer plusieurs rendez-vous en même temps via l'agenda pour différents services?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-46": {
-			"answer": "",
+			"answer": "Veuillez définir la durée des créneaux de rendez-vous de manière à ce qu'il reste suffisamment de temps pour la préparation même si le rendez-vous suit directement. Lors de la création des créneaux horaires, vous pouvez déterminer que le rendez-vous suivant ne peut avoir lieu qu'au prochain quart d'heure, à la prochaine demi-heure ou à la prochaine heure pleine. Il est ainsi possible de déterminer une marge de temps entre les deux rendez-vous.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Créer un agenda de prise de rendez-vous pour des prestations de service] (https://bookingflix.fr/support/documentation/serviceCalendar/)",
+				"2": "[Créer un agenda de prise de rendez-vous pour des heures d'ouverture fixes] (https://bookingflix.fr/support/documentation/businessCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Puis-je insérer une marge de temps entre deux rendez-vous?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-69": {
-			"answer": "",
+			"answer": "Dans l'agenda pour les heures d'ouverture fixes et les services, les durées de rendez-vous suivantes peuvent être déterminées : 5 minutes, 10 minutes, 15 minutes, 30 minutes, 45 minutes, 60 minutes, 90 minutes, deux heures, trois heures, quatre heures.\nDans l'agenda de prise de rendez-vou pour des événements concrets, la durée de l'événement peut être déterminée individuellement.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Créer un agenda de prise de rendez-vous pour des prestations de service] (https://bookingflix.fr/support/documentation/serviceCalendar/)",
+				"2": "[Créer un agenda de prise de rendez-vous pour des heures d'ouverture fixes] (https://bookingflix.fr/support/documentation/businessCalendar/)",
+				"3": "[Créer un agenda de prise de rendez-vous pour des événements concrets] (https://bookingflix.fr/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Quelle durée de rendez-vous puis-je paramétrer?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-77": {
-			"answer": "",
+			"answer": "Oui, cette fonction est disponible dans la zone de connexion sous Paramètres/Modifier l'agenda et lors de la création d'un nouvel agenda de prise de rendez-vous.",
 			"link": {
-				"1": ""
+				"1": "[Confirmation automatique de rendez-vous] (https://bookingflix.fr/support/documentation/appointmentConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Les rendez-vous peuvent-ils être confirmés  automatiquement?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-80": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans la zone de connexion sous Paramètres/Modifier l'agenda et lors de la création d'un nouvel agenda de prise de rendez-vous.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Créer un agenda de prise de rendez-vous pour des prestations de service] (https://bookingflix.fr/support/documentation/serviceCalendar/)",
+				"2": "[Créer un agenda de prise de rendez-vous pour des heures d'ouverture fixes] (https://bookingflix.fr/support/documentation/businessCalendar/)",
+				"3": "[Créer un agenda de prise de rendez-vous pour des événements concrets] (https://bookingflix.fr/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "J'ai besoin d'un certain temps d'avance pour chaque rendez-vous. Comment puis-je régler ce temps d'avance afin d'éviter les réservations de dernière minute?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-94": {
-			"answer": "",
+			"answer": "Oui, cette information est obligatoire pour la prise d'un rendez-vous. Car c'est à l'adresse e-mail du client que sont envoyés l'e-mail de vérification et l'e-mail de confirmation. Si vous entrez vous-même le rendez-vous dans le tableau de bord, il n'est pas nécessaire d'indiquer l'adresse e-mail.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Entrer les rendez-vous manuellement] (https://bookingflix.fr/support/documentation/addAppointment/)",
+				"2": "[Vérification selon le RGPD] (https://bookingflix.fr/support/documentation/verify/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Dois-je consulter l'adresse e-mail de mes clients lors de la prise d'un rendez-vous?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-95": {
-			"answer": "",
+			"answer": "Non, cette consultation n'est pas absolument nécessaire. La consultation du numéro de portable est surtout utile si vous devez contacter le client à l'avance par téléphone. Par exemple pour un appel ou l'envoi de rappels automatiques par SMS. La confirmation du rendez-vous peut également être envoyée par SMS.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Rappels de rendez-vous par SMS] (https://bookingflix.fr/support/documentation/smsReminder/)",
+				"2": "[Confirmation de rendez-vous par SMS] (https://bookingflix.fr/support/documentation/smsConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Dois-je consulter le numéro de téléphone portable de mes clients lors de la prise d'un rendez-vous?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-97": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans la zone de connexion sous Paramètres/Modifier l'agenda et lors de la création d'un nouvel agenda de prise de rendez-vous.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Créer un agenda de prise de rendez-vous pour des prestations de service] (https://bookingflix.fr/support/documentation/serviceCalendar/)",
+				"2": "[Créer un agenda de prise de rendez-vous pour des heures d'ouverture fixes] (https://bookingflix.fr/support/documentation/businessCalendar/)",
+				"3": "[Créer un agenda de prise de rendez-vous pour des événements concrets] (https://bookingflix.fr/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "L'agenda de réservation des rendez-vous doit être affiché aux couleurs de notre entreprise. Est-ce possible?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-100": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans la zone de connexion sous Paramètres/Modifier l'agenda et lors de la création d'un nouvel agenda de prise de rendez-vous.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Créer un agenda de prise de rendez-vous pour des prestations de service] (https://bookingflix.fr/support/documentation/serviceCalendar/)",
+				"2": "[Créer un agenda de prise de rendez-vous pour des heures d'ouverture fixes] (https://bookingflix.fr/support/documentation/businessCalendar/)",
+				"3": "[Créer un agenda de prise de rendez-vous pour des événements concrets] (https://bookingflix.fr/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment relier mon adresse professionnelle à Google Maps dans mon agenda?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-106": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans la zone de connexion sous Paramètres/Modifier l'agenda et lors de la création d'un nouvel agenda de prise de rendez-vous.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Créer un agenda de prise de rendez-vous pour des prestations de service] (https://bookingflix.fr/support/documentation/serviceCalendar/)",
+				"2": "[Créer un agenda de prise de rendez-vous pour des heures d'ouverture fixes] (https://bookingflix.fr/support/documentation/businessCalendar/)",
+				"3": "[Créer un agenda de prise de rendez-vous pour des événements concrets] (https://bookingflix.fr/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Puis-je déterminer individuellement la longueur des créneaux de rendez-vous ?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminbuchungskalender-110": {
-			"answer": "",
+			"answer": "Avec Bookingflix, vous avez la possibilité d'enregistrer plusieurs services. Par exemple, si vous avez un salon de coiffure avec différents employés, créez un agenda pour chacun d'entre eux. Dans l'agenda, vous pouvez ensuite définir les services correspondants proposés : par exemple \"coupe\", \"coloration\", etc.\n\nVous pouvez définir des honoraires et un créneau horaire pour chaque service. Vos clients réservent alors un service correspondant et le créneau horaire est automatiquement bloqué afin que l'employé(e) ne soit pas surbooké(e).\n\nVous pouvez combiner les différents agendas des employés en tant que ressources, facilitant ainsi la réservation pour vos clients.",
 			"link": {
-				"1": ""
+				"1": "[Créer un agenda de prise de rendez-vous pour des prestations de service] (https://bookingflix.fr/support/documentation/serviceCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment fonctionnent les services?",
+			"tags": "Agenda de prise de rendez-vous"
 		},
 		"Terminerinnerungen-10": {
-			"answer": "",
+			"answer": "Oui, cela peut être paramétré individuellement. Vous pouvez modifier le texte des rappels par e-mail. L'heure d'envoi peut être réglée pour les SMS et les e-mails indépendamment les uns des autres.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Rappels de rendez-vous par SMS] (https://bookingflix.fr/support/documentation/smsReminder/)",
+				"2": "[Rappels de rendez-vous par e-mail] (https://bookingflix.fr/support/documentation/emailReminder/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Est-il possible d'envoyer des rappels de rendez-vous avant le rendez-vous, à une heure précise?",
+			"tags": "Rappels de rendez-vous"
 		},
 		"Terminerinnerungen-11": {
-			"answer": "",
+			"answer": "Vous trouverez les fonctions correspondantes dans la zone de connexion sous Paramètres. Vous pouvez personnaliser les rappels par e-mail et SMS. Cela concerne le moment de l'envoi ainsi que le contenu des e-mails.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Rappels de rendez-vous par SMS] (https://bookingflix.fr/support/documentation/smsReminder/)",
+				"2": "[Rappels de rendez-vous par e-mail] (https://bookingflix.fr/support/documentation/emailReminder/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment configurer les rappels de rendez-vous?",
+			"tags": "Rappels de rendez-vous"
 		},
 		"Terminerinnerungen-12": {
-			"answer": "",
+			"answer": "L'envoi d'un SMS coûte 16 centimes d'euro net. L'achat peut être effectué dans la zone de connexion. Pour chaque SMS, vous avez besoin d'un crédit. Le décompte s'effectue via PayPal. Vous recevez immédiatement une facture au format PDF. La quantité minimale de commande est de 100 crédits par achat.",
 			"link": {
-				"1": ""
+				"1": "[Acheter des crédits SMS via PayPal] (https://bookingflix.fr/support/documentation/smsCredits/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Combien coûtent les rappels de rendez-vous par SMS et comment puis-je les organiser ?",
+			"tags": "Rappels de rendez-vous"
 		},
 		"Terminerinnerungen-43": {
-			"answer": "",
+			"answer": "Le texte des rappels de rendez-vous par SMS ne peut pas être modifié. Le texte des rappels de rendez-vous par e-mail peut être personnalisé.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Rappels de rendez-vous par SMS] (https://bookingflix.fr/support/documentation/smsReminder/)",
+				"2": "[Rappels de rendez-vous par e-mail] (https://bookingflix.fr/support/documentation/emailReminder/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Puis-je modifier le texte des rappels de rendez-vous par SMS?",
+			"tags": "Rappels de rendez-vous"
 		},
 		"Terminerinnerungen-88": {
-			"answer": "",
+			"answer": "Il se peut que votre quota de crédits SMS soit épuisé. Vous pouvez à tout moment acheter de nouveaux SMS-Credits via PayPal. Il se peut que le client ait indiqué un mauvais numéro de téléphone portable.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Acheter des crédits SMS via PayPal] (https://bookingflix.fr/support/documentation/smsCredits/)",
+				"2": "[Rappels de rendez-vous par SMS] (https://bookingflix.fr/support/documentation/smsReminder/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Le rappel de rendez-vous par SMS n'est pas arrivé. À quoi cela tient-il?",
+			"tags": "Rappels de rendez-vous"
 		},
 		"Terminerinnerungen-116": {
-			"answer": "",
+			"answer": "L'envoi simultané de nombreux e-mails (confirmations de rendez-vous, annulations de rendez-vous, rappels de rendez-vous) en quelques secondes est un mécanisme complexe.\n\nNous travaillons en permanence à des solutions permettant de bien gérer l'envoi d'e-mails face à la demande croissante.Pour ce faire, nous utilisons un mécanisme d'envoi via différents serveurs de messagerie afin d'éviter une inscription sur une liste de blocage.  De plus, Bookingflix utilise un outil d'analyse plus complet qui surveille la sortie des e-mails. Cela nous permet d'obtenir des indications sur la raison pour laquelle un e-mail n'est pas arrivé dans un cas particulier.\n\nSi les rappels de rendez-vous n'arrivent pas, il pourrait y avoir d'autres causes, indépendamment du mécanisme d'envoi. Chaque e-mail à envoyer est soumis à plusieurs tests complexes avant d'être envoyé.\n\nVoici quelques scénarios possibles :\n\n1. se pourrait-il que les e-mails aient atterri dans le dossier spam de vos clients ? Nous n'avons aucune influence sur les politiques de spam des comptes de messagerie.\n\n2. les clients réservent un rendez-vous qui commence dans 3 heures. Le rappel de rendez-vous est paramétré pour 24 heures avant le rendez-vous. Dans ce cas, aucun rappel de rendez-vous n'est bien sûr envoyé, car il serait déjà en retard pour l'envoi du formulaire de rendez-vous.\n\n3. un rappel de rendez-vous est prêt à être envoyé, mais l'adresse e-mail n'a pas encore été vérifiée. Même dans ce cas, aucun rappel de rendez-vous n'est envoyé.\n\n4. l'adresse e-mail doit être différente de celle de votre compte et de l'adresse e-mail de contact que vous avez éventuellement enregistrée dans l'assistant d'agenda. En principe, aucun rappel de rendez-vous, etc. n'est envoyé à l'administrateur de rendez-vous.",
 			"link": {
-				"1": ""
+				"1": "[Rappels de rendez-vous par e-mail] (https://bookingflix.fr/support/documentation/emailReminder/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Pourquoi un rappel de rendez-vous par e-mail n'arrive-t-il pas?",
+			"tags": "Rappels de rendez-vous"
 		},
 		"Terminverwaltung-2": {
-			"answer": "",
+			"answer": "Dans ce cas, le client et vous-même recevez une confirmation par e-mail de l'annulation effectuée. Les données sont encore enregistrées dans le tableau de bord et via le lien de rendez-vous du client. Ces données sont automatiquement supprimées après 30 jours. Une suppression antérieure est possible à tout moment pour votre client et pour vous. L'annulation d'un rendez-vous permet de remettre le rendez-vous occupé à disposition pour de nouvelles prises de rendez-vous.",
 			"link": {
-				"1": ""
+				"1": "[Gestion des rendez-vous] (https://bookingflix.fr/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Que se passe-t-il si un client annule son rendez-vous?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-3": {
-			"answer": "",
+			"answer": "Oui, cette fonction est utilisée très fréquemment. Vous pouvez configurer Bookingflix de manière à ce que le client reçoive la confirmation immédiatement après la prise de rendez-vous. Le client ne doit donc pas attendre que vous confirmiez le rendez-vous manuellement. Une réservation et une confirmation automatique ne sont possibles que si le rendez-vous est encore disponible. Cela permet d'éviter les surréservations.",
 			"link": {
-				"1": ""
+				"1": "[Confirmation automatique de rendez-vous] (https://bookingflix.fr/support/documentation/appointmentConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Les réservations de rendez-vous peuvent-elles être confirmées automatiquement?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-4": {
-			"answer": "",
+			"answer": "Oui, cette fonction est surtout utilisée lorsqu'un client prend un rendez-vous par téléphone. Le prestataire de services entre ensuite le rendez-vous à la demande du client. Cela permet d'éviter une surréservation, car le créneau de rendez-vous est occupé par l'inscription manuelle.",
 			"link": {
-				"1": ""
+				"1": "[Entrer les rendez-vous manuellement] (https://bookingflix.fr/support/documentation/addAppointment/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Les rendez-vous peuvent-ils être inscrits manuellement pour le client?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-15": {
-			"answer": "",
+			"answer": "Oui, le client reçoit un lien de rendez-vous personnel avec la confirmation du rendez-vous. Via ce lien, le client peut modifier ou annuler le rendez-vous. En outre, le lien de rendez-vous permet de consulter toutes les informations relatives au rendez-vous et le client peut créer son propre compte Bookingflix.",
 			"link": {
-				"1": ""
+				"1": "[Lien de rendez-vous et zone de connexion client] (https://bookingflix.fr/support/documentation/clientLogin/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Est-ce que le client peut gérer lui-même la réservation (modifier le rendez-vous, l'annuler)?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-18": {
-			"answer": "",
+			"answer": "Les données de rendez-vous peuvent être consultées dans la zone de connexion jusqu'à 30 jours après le rendez-vous. Dans le cadre du délai de suppression de 30 jours, les données sont ensuite automatiquement supprimées. Vous en serez informé à l'avance dans le tableau de bord. Si vous en avez encore besoin, vous pouvez sauvegarder les données de rendez-vous au format PDF ou CSV. Il est possible de les supprimer manuellement à tout moment. Pour vous, mais aussi pour vos clients.",
 			"link": {
-				"1": ""
+				"1": "[Gestion des rendez-vous] (https://bookingflix.fr/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Que se passe-t-il avec les données de rendez-vous après celui-ci?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-19": {
-			"answer": "",
+			"answer": "Oui, vous pouvez annuler un rendez-vous à tout moment. Votre client en sera alors informé par e-mail. Votre client peut également annuler le rendez-vous de façon autonome. Dans les deux cas, le créneau de rendez-vous est libéré et peut donc être réservé à nouveau.",
 			"link": {
-				"1": ""
+				"1": "[Gestion des rendez-vous] (https://bookingflix.fr/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Puis-je annuler des rendez-vous, les supprimer ou les refuser ultérieurement à la cliente?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-22": {
-			"answer": "",
+			"answer": "Bookingflix met à votre disposition un outil de chat. Écrivez à vos clients via cet outil. Ils recevront une notification par e-mail concernant votre message et pourront vous répondre directement.",
 			"link": {
-				"1": ""
+				"1": "[Centre de messagerie avec chat client] (https://bookingflix.fr/support/documentation/clientChat/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment contacter le client/la cliente avant le rendez-vous?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-23": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans la zone de connexion pour chaque rendez-vous.",
 			"link": {
-				"1": ""
+				"1": "[Notes de rendez-vous] (https://bookingflix.fr/support/documentation/notes/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Je voudrais créer une courte note pour le rendez-vous avec le client. Que faire?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-24": {
-			"answer": "",
+			"answer": "Oui, vous pouvez télécharger les données au format CSV et PDF. Cette fonction est disponible pour chaque rendez-vous ainsi que sous l'option de menu Clients. Vous pouvez également télécharger les données de l'agenda au format ics afin de les importer dans votre agenda standard Google, Apple ou Microsoft.",
 			"link": {
-				"1": ""
+				"1": "[Télécharger les données de rendez-vous (csv, pdf)] (https://bookingflix.fr/support/documentation/downloadCSV/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Les données de rendez-vous peuvent-elles être téléchargées pour un traitement ultérieur?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-31": {
-			"answer": "",
+			"answer": "Oui, cette fonction est disponible dans la zone de connexion sous Paramètres/Paramètres par défaut/Enregistrement des clients/Sortie des clients.",
 			"link": {
-				"1": ""
+				"1": "[Vidéo : Processus des entrées et sorties, enregistrement des présences et des absences] (https://bookingflix.fr/support/video/701936839/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Puis-je enregistrer des clients par scan de code QR?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-37": {
-			"answer": "",
+			"answer": "Le délai de suppression automatique est de 30 jours après la réservation du rendez-vous. Une suppression antérieure des données de rendez-vous peut être effectuée à tout moment manuellement dans le tableau de bord. Il est possible de supprimer des rendez-vous individuellement ou tous les rendez-vous d'un jour donné.",
 			"link": {
-				"1": ""
+				"1": "[Gestion des rendez-vous] (https://bookingflix.fr/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Quand les données de rendez-vous sont-elles automatiquement supprimées (délais de suppression)?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-38": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans le tableau de bord sous le menu Clients. Vous pouvez également supprimer des rendez-vous individuellement en ouvrant le rendez-vous à supprimer dans le tableau de bord.",
 			"link": {
-				"1": ""
+				"1": "[Gestion des rendez-vous] (https://bookingflix.fr/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment supprimer manuellement les données de rendez-vous?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-44": {
-			"answer": "",
+			"answer": "Vous trouverez l'aperçu des rendez-vous dans le tableau de bord en cliquant sur le lien Aperçu des rendez-vous. Les rendez-vous des dix prochains jours sont affichés directement dans le tableau de bord.",
 			"link": {
-				"1": ""
+				"1": "[Gestion des rendez-vous] (https://bookingflix.fr/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Où trouver l'aperçu des rendez-vous?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-47": {
-			"answer": "",
+			"answer": "Pour cela, vous disposez de la gestion des clients.",
 			"link": {
-				"1": ""
+				"1": "[Gestion des rendez-vous] (https://bookingflix.fr/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Je cherche un rendez-vous spécifique avec un client. Où ou comment trouver les dates?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-51": {
-			"answer": "",
+			"answer": "Oui, cela est également possible sans lecteur de code QR.",
 			"link": {
-				"1": ""
+				"1": "[Vidéo : Processus des entrées et sorties, enregistrement des présences et des absences] (https://bookingflix.fr/support/video/701936839/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Je veux enregistrer un client. Mais je n'ai pas installé de lecteur de code QR sur mon téléphone. Est-ce que cela fonctionne aussi sans?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-61": {
-			"answer": "",
+			"answer": "Oui, c'est possible mais pas nécessaire. Si vos clients créent un compte, des fonctions supplémentaires sont disponibles. Par exemple, la nouvelle réservation confortable d'un rendez-vous et la fonction de chat avec vous. Il est également possible de désactiver les rappels de rendez-vous. La modification et l'annulation de rendez-vous fonctionnent également sans compte personnel pour vos clients.",
 			"link": {
-				"1": ""
+				"1": "[Gestion des rendez-vous] (https://bookingflix.fr/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Est-ce que mes clients peuvent enregistrer un compte Bookingflix pour gérer les rendez-vous?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-62": {
-			"answer": "",
+			"answer": "Vous pouvez voir les avis des clients sur https://hitklick.com/v1/fr/sign-in.html/. Vous pouvez vous y connecter avec les mêmes données de connexion que celles que vous utilisez pour Bookingflix. Bookingflix et HitKlick sont des services de la même maison et sont donc liés.",
 			"link": {
-				"1": ""
+				"1": "[Obtenir et intégrer automatiquement les avis des clients] (https://bookingflix.fr/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Où consulter les avis des clients?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-64": {
-			"answer": "",
+			"answer": "Les avis clients ne peuvent être supprimés ou modifiés que par le client respectif. Vous pouvez toutefois envoyer un message au client respectif et demander une modification ou une suppression. En cas que des avis sont manifestement illégaux (par exemple en cas d'insultes), la suppression peut être demandée par l'intermédiaire du support de HitKlick.com. Vous avez également la possibilité de ne pas publier une étiquette d'évaluation ou de lancer une nouvelle enquête.\nVous pouvez consulter les avis des clients sur https://hitklick.com/v1/fr/sign-in.html/.\nVous pouvez vous y connecter avec les mêmes données de connexion que celles que vous utilisez pour Bookingflix. Bookingflix et HitKlick sont des services issus de la même maison et donc liés entre eux.",
 			"link": {
-				"1": ""
+				"1": "[Obtenir et intégrer automatiquement les avis des clients] (https://bookingflix.fr/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment supprimer les avis des clients?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-65": {
-			"answer": "",
+			"answer": "Cela est possible via la zone de connexion de HitKlick.com/. Vous y verrez différentes avis. Cliquez sur un avis. En cliquant sur le lien Demander la suppression, vous pouvez écrire au client et lui demander une suppression ou une modification. Vous pouvez consulter les avis des clients sur https://hitklick.com/v1/fr/sign-in.html/.\nVous pouvez vous y connecter avec les mêmes données de connexion que celles que vous utilisez pour Bookingflix. Bookingflix et HitKlick sont des services de la même maison et sont donc liés.",
 			"link": {
-				"1": ""
+				"1": "[Obtenir et intégrer automatiquement les avis des clients] (https://bookingflix.fr/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment contacter les clients après les avis?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-68": {
-			"answer": "",
+			"answer": "Oui, le nombre de groupes peut être adapté ultérieurement à tout moment par le client et par vous-même.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Champ du formulaire Réservation de groupe] (https://bookingflix.fr/support/documentation/bookingGroup/)",
+				"2": "[Gestion des rendez-vous] (https://bookingflix.fr/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Puis-je modifier le nombre de participants au groupe ultérieurement?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-78": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans le tableau de bord. Dès qu'une nouvelle prise de rendez-vous est enregistrée, vous en êtes informé par e-mail. De plus, vous voyez la nouvelle réservation, non encore confirmée, dans le tableau de bord. Vous pouvez alors la confirmer manuellement. Vous pouvez en outre envoyer un message au client avec la confirmation du rendez-vous. Il est également possible d'obtenir une confirmation automatique du rendez-vous via Bookingflix.",
 			"link": {
-				"1": ""
+				"1": "[Gestion des rendez-vous] (https://bookingflix.fr/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment confirmer manuellement une réservation de rendez-vous?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-79": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans le tableau de bord. Vous sélectionnez le rendez-vous respectif dans la liste des rendez-vous. Le rendez-vous est annulé en cliquant sur le bouton Annuler. Votre client en est informé par e-mail.",
 			"link": {
-				"1": ""
+				"1": "[Gestion des rendez-vous] (https://bookingflix.fr/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment annuler un rendez-vous?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-87": {
-			"answer": "",
+			"answer": "Nous recommandons les rappels de rendez-vous par e-mail et SMS. Ainsi, les clients reçoivent un rappel et peuvent, en cas d'empêchement, annuler le rendez-vous en un seul clic. Vous devriez également informer clairement les clients, via le site web, par e-mail et directement dans le processus de réservation, qu'une annulation est de bon ton et que vous le demandez instamment. Les e-mails du système peuvent être personnalisés. Vous pouvez également y demander au client d'annuler le rendez-vous en cas d'empêchement. Dans certains cas, il peut être approprié de facturer un forfait d'annulation en cas que le client ne vient pas et que l'annulation n'a pas eu lieu. Pour cela, il faudrait demander ou connaître l'adresse du client. Pour les rendez-vous très importants, nous recommandons en outre de confirmer le rendez-vous par SMS. Cela augmente encore la fiabilité du rendez-vous.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": "",
-				"4": ""
+				"1": "[Rappels de rendez-vous par SMS] (https://bookingflix.fr/support/documentation/smsReminder/)",
+				"2": "[Rappels de rendez-vous par e-mail] (https://bookingflix.fr/support/documentation/emailReminder/)",
+				"3": "[Éditer les textes des emails] (https://bookingflix.fr/support/documentation/editMails/)",
+				"4": "[Confirmation de rendez-vous par SMS] (https://bookingflix.fr/support/documentation/smsConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment minimiser les no-shows? C'est-à-dire les personnes qui ne viennent pas?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-92": {
-			"answer": "",
+			"answer": "Nous recommandons les rappels de rendez-vous par e-mail et SMS. Ainsi, les clients reçoivent un rappel et peuvent, en cas d'empêchement, annuler le rendez-vous en un seul clic. Vous devriez également informer clairement les clients, via le site web, par e-mail et directement dans le processus de réservation, qu'une annulation est de bon ton et que vous le demandez instamment. Les e-mails du système peuvent être personnalisés. Vous pouvez également y demander au client d'annuler le rendez-vous en cas d'empêchement. Dans certains cas, il peut être approprié de facturer un forfait d'annulation en cas que le client ne vient pas et que l'annulation n'a pas eu lieu. Pour cela, il faudrait demander ou connaître l'adresse du client. Pour les rendez-vous très importants, nous recommandons en outre de confirmer le rendez-vous par SMS. Cela augmente encore la fiabilité du rendez-vous.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": "",
-				"4": ""
+				"1": "[Rappels de rendez-vous par SMS] (https://bookingflix.fr/support/documentation/smsReminder/)",
+				"2": "[Rappels de rendez-vous par e-mail] (https://bookingflix.fr/support/documentation/emailReminder/)",
+				"3": "[Éditer les textes des emails] (https://bookingflix.fr/support/documentation/editMails/)",
+				"4": "[Confirmation de rendez-vous par SMS] (https://bookingflix.fr/support/documentation/smsConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment augmenter la fiabilité des rendez-vous de mes clients?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-99": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans la zone de connexion sous Aperçu des rendez-vous.",
 			"link": {
-				"1": ""
+				"1": "[Gestion des rendez-vous] (https://bookingflix.fr/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Je voudrais modifier un rendez-vous client déjà réservé. Comment se fait-il?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-103": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans la zone de connexion sous Statistiques.",
 			"link": {
-				"1": ""
+				"1": "[Statistiques sur les réservations précédentes] (https://bookingflix.fr/support/documentation/stats/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Où trouver un aperçu ou des statistiques sur les prises de rendez-vous effectuées jusqu'à présent?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Terminverwaltung-104": {
-			"answer": "",
+			"answer": "Cette fonction est disponible dans la zone de connexion sous Statistiques.",
 			"link": {
-				"1": ""
+				"1": "[Statistiques sur les réservations précédentes] (https://bookingflix.fr/support/documentation/stats/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Existe-t-il des statistiques montrant le nombre et le type de réservations de rendez-vous selon les différents agendas de prise de rendez-vous?",
+			"tags": "Gestion des rendez-vous"
 		},
 		"Veroeffentlichen-26": {
-			"answer": "",
+			"answer": "Oui, cela est possible dans les deux sens. Les prises de rendez-vous reçues via Bookingflix peuvent être transférées dans votre agenda standard de Google, Apple et Microsoft. Mais vous pouvez aussi bloquer les créneaux de rendez-vous qui sont déjà occupés par des rendez-vous sur Bookingflix. Ainsi, si vous avez déjà inscrit un rendez-vous dans votre agenda standard, cela sera pris en compte dans votre agenda de prise de rendez-vous de Bookingflix. Le créneau de rendez-vous n'est plus affiché à vos clients lors de la réservation.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Synchronisation d'agenda avec l'agenda Google standard] (https://bookingflix.fr/support/documentation/googleSync/)",
+				"2": "[Synchronisation d'agenda avec l'agenda Microsoft standard] (https://bookingflix.fr/support/documentation/microsoftSync/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Puis-je synchroniser mon agenda standard avec l'agenda Bookingflix?",
+			"tags": "Publier"
 		},
 		"Veroeffentlichen-27": {
-			"answer": "",
+			"answer": "Oui, vous pouvez transmettre des agendas individuels de rendez-vous et de la  prise de rendez-vous à des employés. Ceux-ci ont alors accès aux données de rendez-vous. Celles-ci peuvent être téléchargées au format PDF et CSV. Il est possible de confirmer, d'annuler et de modifier des rendez-vous. Seul l'administrateur peut effectuer des réglages plus spécifiques. Il s'agit notamment de la création ou de la suppression d'un agenda de prise de rendez-vous, de l'achat de crédits SMS pour l'envoi de rappels de rendez-vous et de l'accès à d'autres agendas de prise de rendez-vous.",
 			"link": {
-				"1": ""
+				"1": "[Transférer la gestion d'agenda à un tiers ou à un collaborateur] (https://bookingflix.fr/support/documentation/shareCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Nous sommes plusieurs collègues dans le magasin et il est donc toujours possible de servir quatre clients en même temps. Est-il possible d'en tenir compte lors de la prise du rendez-vous?",
+			"tags": "Publier"
 		},
 		"Veroeffentlichen-32": {
-			"answer": "",
+			"answer": "Avec la confirmation du rendez-vous par e-mail, le client reçoit son lien personnel vers le rendez-vous. Ce lien lui permet d'accéder directement à l'aperçu du rendez-vous avec toutes les informations relatives au rendez-vous. Le ticket de rendez-vous peut également y être téléchargé. Pour la confirmation, pour des raisons de protection des données, le client doit saisir l'adresse e-mail qu'il a enregistrée. Un mot de passe n'est pas nécessaire. Le PDF s'ouvre et peut être téléchargé ou imprimé.",
 			"link": {
-				"1": ""
+				"1": "[Lien de rendez-vous et zone de connexion client] (https://bookingflix.fr/support/documentation/clientLogin/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment le client peut-il imprimer le ticket de rendez-vous avec le code QR?",
+			"tags": "Publier"
 		},
 		"Veroeffentlichen-33": {
-			"answer": "",
+			"answer": "Oui, le ticket de rendez-vous est disponible pour vos clients au format PDF et peut être enregistré sur leur PC, leur téléphone portable ou leur tablette. Ce ticket de rendez-vous peut également être imprimé.",
 			"link": {
-				"1": ""
+				"1": "[Lien de rendez-vous et zone de connexion client] (https://bookingflix.fr/support/documentation/clientLogin/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Est-ce que le ticket de rendez-vous avec le code QR existe aussi en format PDF?",
+			"tags": "Publier"
 		},
 		"Veroeffentlichen-52": {
-			"answer": "",
+			"answer": "Oui, c'est possible. Vos clients peuvent évaluer le rendez-vous pris. Ces avis ne sont toutefois pas publiés. Vous êtes le seul à pouvoir les consulter.",
 			"link": {
-				"1": ""
+				"1": "[Obtenir et intégrer automatiquement les avis des clients] (https://bookingflix.fr/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Je voudrais recevoir des avis de mes clients. Mais celles-ci ne doivent pas être publiées. C'est possible?",
+			"tags": "Publier"
 		},
 		"Veroeffentlichen-53": {
-			"answer": "",
+			"answer": "Ceci est possible au moyen d'un code de widget. Il est possible de l'intégrer par iframe et par Javascript.",
 			"link": {
-				"1": ""
+				"1": "[Code d'intégration/ Code de widget] (https://bookingflix.fr/support/documentation/embed/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment intégrer le code d'intégration sur mon site web?",
+			"tags": "Publier"
 		},
 		"Veroeffentlichen-54": {
-			"answer": "",
+			"answer": "Oui, vous pouvez agencer le site web de réservation de rendez-vous comme vous le souhaitez. Des éléments de design sont disponibles à cet effet et seront adaptés après l'intégration. Mais vous pouvez également modifier directement le code HTML du site de prise de rendez-vous.",
 			"link": {
-				"1": ""
+				"1": "[Éditer le site web de prise de rendez-vous] (https://bookingflix.fr/support/documentation/bookingPage/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Puis-je éditer le site web de prise de rendez-vous et le remplir avec mon propre contenu?",
+			"tags": "Publier"
 		},
 		"Veroeffentlichen-55": {
-			"answer": "",
+			"answer": "Ceci est possible via les paramètres DNS de votre administrateur de domaine. Alternativement, une redirection automatique de votre domaine ou sous-domaine vers le site de prise de rendez-vous de Bookingflix est également possible.",
 			"link": {
-				"1": ""
+				"1": "[Lien externe: Configurer un serveur DNS] (https://praxistipps.chip.fr/dns-server-einrichten-eine-anleitung_41204/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Puis-je connecter le site de prise de rendez-vous à un domaine personnel?",
+			"tags": "Publier"
 		},
 		"Veroeffentlichen-63": {
-			"answer": "",
+			"answer": "Si vous êtes connecté à HitKlick.com, vous pouvez consulter l'étiquette d'évaluation. Différentes étiquettes d'évaluation sont à votre disposition. Vous pouvez également adapter la couleur. Un code d'intégration permet de publier cette étiquette sur votre site web. Par exemple au-dessus ou au-dessous de votre agenda de prise de rendez-vous. Nous vous recommandons de le faire, car cela augmente le facteur de confiance et peut donc conduire à davantage de réservations. Sur HitKlick.com, vous pouvez vous connecter avec les mêmes données de connexion que celles que vous utilisez pour Bookingflix. Bookingflix et HitKlick sont des services de la même maison et sont donc liés.",
 			"link": {
-				"1": ""
+				"1": "[Obtenir et intégrer automatiquement les avis des clients] (https://bookingflix.fr/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment publier les avis des clients?",
+			"tags": "Publier"
 		},
 		"Veroeffentlichen-93": {
-			"answer": "",
+			"answer": "Oui, c'est possible. Dès que vous créez un agenda de prise de rendez-vous, un microsite de de prise de rendez-vous est automatiquement créé. Vous pouvez l'éditer. Envoyez à vos clients le lien vers le microsite. Vos clients peuvent alors prendre un rendez-vous via ce site.",
 			"link": {
-				"1": ""
+				"1": "[Éditer le site web de prise de rendez-vous] (https://bookingflix.fr/support/documentation/bookingPage/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Puis-je offrir Bookingflix à mes clients sans avoir mon propre site web?",
+			"tags": "Publier"
 		},
 		"Veroeffentlichen-98": {
-			"answer": "",
+			"answer": "Oui, les deux sont possibles. De plus, un microsite de prise de rendez-vous est à votre disposition. Dès que vous créez un agenda, un microsite de prise des rendez-vous est automatiquement créé. Vous pouvez l'éditer. Envoyez à vos clients le lien vers le microsite. Vos clients peuvent alors prendre un rendez-vous via ce site. Ou vous pouvez intégrer l'agenda sur votre propre site web, par iframe ou par javaScript.",
 			"link": {
-				"1": ""
+				"1": "[Code d'intégration/ Code de widget] (https://bookingflix.fr/support/documentation/embed/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Comment intégrer l'agenda de prise des rendez-vous? Aussi par iframe ou par javaScript?",
+			"tags": "Publier"
 		},
 		"Veroeffentlichen-107": {
-			"answer": "",
+			"answer": "Oui, cette fonction est disponible dans la zone de connexion sous Paramètres/Code QR pour l'agenda.",
 			"link": {
-				"1": ""
+				"1": "[Code QR pour chaque agenda] (https://bookingflix.fr/support/documentation/qrCode/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Je voudrais faire référence à l'agenda de prise de rendez-vous dans le matériel publicitaire. Est-ce que cela est également possible via un code QR?",
+			"tags": "Publier"
 		}
 	},
-	"more": "",
-	"title": ""
+	"more": "Autres questions",
+	"title": "Foire aux questions"
 }

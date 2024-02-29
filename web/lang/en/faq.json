@@ -1,995 +1,1003 @@
 {
-	"description": "",
+	"description": "In the FAQ you will find frequently asked questions and corresponding answers about the functions and setting options of Bookingflix. Further information, instructions and explanatory videos are listed in the support area. You can also contact us by email, via our ticket system and by telephone.\nhttps://bookingflix.en/support",
 	"list": {
 		"Accountverwaltung-60": {
-			"answer": "",
+			"answer": "In this case, your account data and all appointment data will be immediately and irrevocably deleted. If you still need the appointment data, we recommend to back it up in advance. You can download the data in csv and pdf format.",
 			"link": {
-				"1": ""
+				"1": "[Download appointment data (csv, pdf)] (https://bookingflix.en/support/documentation/downloadCSV/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "What happens with the data when I delete the Bookingflix account?",
+			"tags": "Account management"
 		},
 		"Accountverwaltung-72": {
-			"answer": "",
+			"answer": "You need SMS credits to send SMS. One credit is required per SMS. One credit costs 0.16 euro cent net.\nThe purchase is done in the dashboard under profile/credits",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Appointment confirmation via SMS] (https://bookingflix.en/support/documentation/smsConfirmation/)",
+				"2": "[SMS appointment reminders] (https://bookingflix.en/support/documentation/smsReminder/)",
+				"3": "[Purchase SMS credits via PayPal] (https://bookingflix.en/support/documentation/smsCredits/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "What do I need SMS credits for?",
+			"tags": "Account management"
 		},
 		"Accountverwaltung-81": {
-			"answer": "",
+			"answer": "Please email us about this at support@bookingflix.com. In the FREE account, you have one appointment booking calendar at your disposal. In the PREMIUM account, there are three appointment-booking calendars available.",
 			"link": {
-				"1": ""
+				"1": "[Prices] (https://bookingflix.en/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "I need more appointment booking calendars. How can I activate them?",
+			"tags": "Account management"
 		},
 		"Accountverwaltung-82": {
-			"answer": "",
+			"answer": "In the FREE account, you have one appointment booking calendar at your disposal. In the PREMIUM account, there are three appointment booking calendars available.",
 			"link": {
-				"1": ""
+				"1": "[Prices] (https://bookingflix.en/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "I have a FREE account with Bookingflix. How many appointment booking calendars can I use?",
+			"tags": "Account management"
 		},
 		"Accountverwaltung-83": {
-			"answer": "",
+			"answer": "In the FREE account, you can book up to 50 appointments per month and you have access to one appointment booking calendar. In the PREMIUM account, there is no limit to the number of appointment bookings you can make. You also have three appointment booking calendars at your disposal. You can activate additional calendars.",
 			"link": {
-				"1": ""
+				"1": "[Prices] (https://bookingflix.en/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "What restrictions do I have with a FREE account compared to a PREMIUM account?",
+			"tags": "Account management"
 		},
 		"Accountverwaltung-101": {
-			"answer": "",
+			"answer": "The FREE account can be used free of charge for 14 days. When the test phase expires, you can extend the PREMIUM account in your login area (dashboard). Or you can use the free FREE account. There is no automatic renewal. The extension must be done by yourself, if desired.",
 			"link": {
-				"1": ""
+				"1": "[Prices] (https://bookingflix.en/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can I test Bookingflix free of charge? And for how long?",
+			"tags": "Account management"
 		},
 		"Accountverwaltung-105": {
-			"answer": "",
+			"answer": "In the FREE account, you only have one appointment booking calendar available. If you need more than one calendar, we recommend switching to the PREMIUM account. This includes three appointment-booking calendars. You can activate additional calendars.",
 			"link": {
-				"1": ""
+				"1": "[Prices] (https://bookingflix.en/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can I use more than one calendar at the same time in the FREE account?",
+			"tags": "Account management"
 		},
 		"Accountverwaltung-108": {
-			"answer": "",
+			"answer": "This function is available to you via https://bookingflix.com/sign-in.html under Forgotten password. Enter your email address. You will receive a link by email to set a new password.",
 			"link": {
-				"1": ""
+				"1": "[Request new login and password] (https://bookingflix.com/sign-in.html/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How can I change my password for my account or assign a new password if I have forgotten my previous one?",
+			"tags": "Account management"
 		},
 		"Allgemeines-5": {
-			"answer": "",
+			"answer": "Our support team is available from 8:00 am to 8:00 pm. You can reach us via email and online ticket system. Via the support area you can find extensive instructions, explainer videos and webinars about the functions of Bookingflix. If required we explain the functions in a personal video conference.",
 			"link": {
-				"1": ""
+				"1": "[Support Area] (https://bookingflix.en/support/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "What support do we get within the fee-based premium usage?",
+			"tags": "General information"
 		},
 		"Allgemeines-6": {
-			"answer": "",
+			"answer": "Via the support area you can find extensive instructions, explainer videos and webinars about the functions of Bookingflix.",
 			"link": {
-				"1": ""
+				"1": "[Support Area] (https://bookingflix.en/support/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "What support do we get as part of the free use?",
+			"tags": "General information"
 		},
 		"Allgemeines-7": {
-			"answer": "",
+			"answer": "Yes, this is possible. However, only an annual payment method is possible, so that we do not have to send a new invoice every month.",
 			"link": {
-				"1": ""
+				"1": "[Prices] (https://bookingflix.en/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can the premium account also be paid by invoice instead of direct debit?",
+			"tags": "General information"
 		},
 		"Allgemeines-8": {
-			"answer": "",
+			"answer": "The premium account of Bookingflix costs 33,57 euro per month. You can pay the premium account by direct debit or by invoice. For the direct debit we use the service of https://gocardless.com/. You have the possibility to pay monthly or yearly in advance. You will receive an invoice for each payment.",
 			"link": {
-				"1": ""
+				"1": "[Prices] (https://bookingflix.en/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How is the premium account charged and how is payment made?",
+			"tags": "General information"
+		},
+		"Allgemeines-9": {
+			"answer": "You can download the invoice in the login area under Profile/ Data (Invoices). The invoice is available about three days after collection. Alternatively, we send the invoice by mail or by email in PDF format.",
+			"link": {
+				"1": "[Video: Download Invoices] (https://bookingflix.en/support/video/701936929/)"
+			},
+			"question": "How do I receive the invoices for the monthly subscription?",
+			"tags": "General information"
 		},
 		"Allgemeines-13": {
-			"answer": "",
+			"answer": "You can use the FREE account completely free of charge. The PREMIUM account costs 33,57 Euro net per month. The amount can be paid monthly or annually. The billing is done by direct debit. Purchase on account is also possible.",
 			"link": {
-				"1": ""
+				"1": "[Prices] (https://bookingflix.en/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How much does Bookingflix cost per month?",
+			"tags": "General information"
 		},
 		"Allgemeines-14": {
-			"answer": "",
+			"answer": "The notice period is one month. So only the current month will be charged. If you cancel on the last day of the month, the following month will not be charged further. Alternatively you can continue to use the free FREE account. If you don't need it any more, you can delete your account from Bookingflix completely at any time.",
 			"link": {
-				"1": ""
+				"1": "[Prices] (https://bookingflix.en/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "What notice period do I have to observe?",
+			"tags": "General information"
 		},
 		"Allgemeines-75": {
-			"answer": "",
+			"answer": "No, Bookingflix is basically free of charge for end customers or your customers. Only for you as a service provider a premium account is optionally available. The FREE account is also free of charge for you as a service provider.",
 			"link": {
-				"1": ""
+				"1": "[Prices] (https://bookingflix.en/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Do my customers have to pay anything when booking an appointment via Bookingflix?",
+			"tags": "General information"
 		},
 		"Allgemeines-102": {
-			"answer": "",
+			"answer": "Bookingflix supports all industries that rely on reliable appointment setting. With the flexible settings options of the appointment tool, you can customize your form to your individual requirements.\nThe following industries use Bookingflix:\nHairdressers, insurances, workshops, consulting, tattoo studios, medical practices and pharmacies, naturopathy and alternative therapies, testing and vaccination centers, crafts, beauty, wellness and massages, sports and fitness studios, restaurants and pubs, photographers, leisure and fun, schools, educational institutions, rental and property management, retail, civic office and administration, museums and exhibitions.",
 			"link": {
-				"1": ""
+				"1": "[Industries] (https://bookingflix.en/branches/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "For which industries is the appointment booking via Bookingflix suitable?",
+			"tags": "General information"
 		},
 		"Einstellungen-1": {
-			"answer": "",
+			"answer": "Yes, you can transfer individual appointment booking calendars to employees. They have then access to the appointment data. These can be downloaded as PDF and CSV. Appointment confirmations, appointment cancellations and appointment changes are possible. Further settings can only be made by the admin. This includes the creation or deletion of an appointment booking calendar, the purchase of SMS credits for sending appointment reminders and access to other appointment booking calendars.",
 			"link": {
-				"1": ""
+				"1": "[Transfer calendar management to third parties or employees] (https://bookingflix.en/support/documentation/shareCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Does Bookingflix have a rights management, so that the respective representative or employee can take over the appointment management?",
+			"tags": "Settings"
 		},
 		"Einstellungen-16": {
-			"answer": "",
+			"answer": "Yes, the following system emails can be customized: Confirmation, Cancellation, Verification, Appointment reminder",
 			"link": {
-				"1": ""
+				"1": "[Edit email text] (https://bookingflix.en/support/documentation/editMails/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can I customise the email texts of the system emails?",
+			"tags": "Settings"
 		},
 		"Einstellungen-17": {
-			"answer": "",
+			"answer": "Yes, this is possible. The sending will be done by your own email provider. Please note that sending a large number of emails may be considered as spam. Please contact your email provider if a large number of emails are to be sent as part of the appointment booking.",
 			"link": {
-				"1": ""
+				"1": "[Sending system mails with own mail address] (https://bookingflix.en/support/documentation/ownMailbox/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can the system mails ( confirmation, cancellation) be sent from your own mail address?",
+			"tags": "Settings"
 		},
 		"Einstellungen-21": {
-			"answer": "",
+			"answer": "This function is available in the login area under Settings/Default settings.",
 			"link": {
-				"1": ""
+				"1": "[Set holidays and days off] (https://bookingflix.en/support/documentation/holidays/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How can I set vacation times and holidays?",
+			"tags": "Settings"
 		},
 		"Einstellungen-35": {
-			"answer": "",
+			"answer": "This function is available in the Dashboard under Settings/Default settings/Link multiple appointment calendars.",
 			"link": {
-				"1": ""
+				"1": "[Link calendars together] (https://bookingflix.en/support/documentation/connectCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How do I link multiple calendars together?",
+			"tags": "Settings"
 		},
 		"Einstellungen-49": {
-			"answer": "",
+			"answer": "This function is available in the Dashboard via the Settings/Days off and Holidays section.",
 			"link": {
-				"1": ""
+				"1": "[Set holidays and days off] (https://bookingflix.en/support/documentation/holidays/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How do I create a day off?",
+			"tags": "Settings"
 		},
 		"Einstellungen-50": {
-			"answer": "",
+			"answer": "This function is available in the Dashboard via the Settings/Days off and Holidays section.",
 			"link": {
-				"1": ""
+				"1": "[Set holidays and days off] (https://bookingflix.en/support/documentation/holidays/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How do I create holiday periods?",
+			"tags": "Settings"
 		},
 		"Einstellungen-84": {
-			"answer": "",
+			"answer": "In this case, we recommend one or more appointment booking calendars for each branch. Or even a separate Bookingflix account for each branch. This increases the clarity markedly.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Create an appointment booking calendar for services] (https://bookingflix.en/support/documentation/serviceCalendar/)",
+				"2": "[Create an appointment booking calendar for fixed opening hours] (https://bookingflix.en/support/documentation/businessCalendar/)",
+				"3": "[Create an appointment booking calendar for concrete events] (https://bookingflix.en/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "We have several branches. What is the best way to organize this with Bookingflix?",
+			"tags": "Settings"
 		},
 		"Einstellungen-85": {
-			"answer": "",
+			"answer": "In this case, you should create a separate appointment-booking calendar for each employee or service. These can be linked together or published separately on your own website. This way, the customer can first select the desired service (or calendar) and then book it.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Link calendars together] (https://bookingflix.en/support/documentation/connectCalendar/)",
+				"2": "[Create an appointment booking calendar for services] (https://bookingflix.en/support/documentation/serviceCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "We have several employees who perform different services. What is the best way to organize this?",
+			"tags": "Settings"
 		},
 		"Einstellungen-112": {
-			"answer": "",
+			"answer": "Holidays can be easily stored by a mouse click. These days are then blocked for an appointment booking.  You can also deactivate certain holidays if you wish. In this case, it will be possible to book an appointment there again. ",
 			"link": {
-				"1": ""
+				"1": "[Set holidays and days off] (https://bookingflix.en/support/documentation/holidays/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Is it possible to exclude holidays from booking appointments?",
+			"tags": "Settings"
 		},
 		"Mailversand-70": {
-			"answer": "",
+			"answer": "This function is available in the login area under Profile/Save own email box.",
 			"link": {
-				"1": ""
+				"1": "[Sending system mails with own mail address] (https://bookingflix.en/support/documentation/ownMailbox/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How do I send the system mails with my own email address?",
+			"tags": "Email dispatch"
 		},
 		"Mailversand-89": {
-			"answer": "",
+			"answer": "Perhaps the customer has entered an incorrect email address. Or the email has landed in the spam folder. It can be useful, especially with a high mail volume, to send the system mails via the own email address. The system mails, for example the appointment reminders, will then no longer be sent via the server of Bookingflix.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Appointment reminders by email] (https://bookingflix.en/support/documentation/emailReminder/)",
+				"2": "[Sending system mails with own mail address] (https://bookingflix.en/support/documentation/ownMailbox/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "The email appointment reminder has not arrived. What is the reason?",
+			"tags": "Email dispatch"
 		},
 		"Mailversand-90": {
-			"answer": "",
+			"answer": "The customer may have entered an incorrect email address. Or the email ended up in the customer's spam folder. It can be useful, especially with high mail volume, to send the system mails via your own email address. The system mails, for example the appointment confirmation and the verification email, will then no longer be sent via the server of Bookingflix. For very important appointments we additionally recommend the appointment confirmation via SMS. This increases the appointment reliability additionally.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Send appointment confirmation by mail to customers manually and automatically] (https://bookingflix.en/support/documentation/confirmation/)",
+				"2": "[Sending system mails with own mail address] (https://bookingflix.en/support/documentation/ownMailbox/)",
+				"3": "[Appointment confirmation via SMS] (https://bookingflix.en/support/documentation/smsConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "The email appointment confirmation has not arrived. What is the reason?",
+			"tags": "Email dispatch"
 		},
 		"Mailversand-115": {
-			"answer": "",
+			"answer": "Bookingflix offers you the possibility to create your own email account. This way all email related appointment confirmations, appointment cancellations and appointment reminders will be routed through your mailbox. Your customers will see your email address as sender.\n\nWe recommend this feature for service providers who schedule many appointments via Bookingflix.com. This way you can handle the issue of \"spam problems when sending emails\" on your own. Username, password, etc. you get from your email provider, domain administrator or webmaster.\n\nFor technical reasons the SMTP access data incl. password must be stored in our database. The password must be sent along with the server connection to the email server, this excludes an encryption of the password. Therefore please use an extra mailbox especially for Bookingflix e.g. terminbenachrichtigung@firma-xyz.de with a one-time used password which is as secure as possible. No other mail traffic should be handled in the used mailbox. Furthermore we recommend to change the access password regularly e.g. every 4 weeks and to store it new on Bookingflix.\n\nAfter saving the SMTP access data the email dispatch will be started directly via your mail server. You are responsible for the stability and accessibility of your mail server. We have no influence on it and can not take over any support / warranty. Please consult your email provider / administrator in advance about the permissibility and capacity estimates of mass emails and possible monitoring / restrictions in this regard (e.g. spam filters, etc.). \n\nBasically it is possible for you to stop this procedure at any time and have the email dispatch handled by the Bookingflix mail server again. ",
 			"link": {
-				"1": ""
+				"1": "[Sending system mails with own mail address] (https://bookingflix.en/support/documentation/ownMailbox/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How can I set up my own email inbox?",
+			"tags": "Email dispatch"
 		},
 		"Rechtliches-56": {
-			"answer": "",
+			"answer": "We cannot and may not provide legal advice regarding your privacy information.\nHowever, we do provide standard texts. Please check and adapt these.",
 			"link": {
-				"1": ""
+				"1": "[Video: Change imprint, GTC and privacy information] (https://bookingflix.en/support/video/704029542/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "What privacy information do I have to provide using Bookingflix?",
+			"tags": "Legal issues"
 		},
 		"Rechtliches-57": {
-			"answer": "",
+			"answer": "The servers are located in Frankfurt am Main. No data is stored on servers outside Germany.",
 			"link": {
-				"1": ""
+				"1": "[GDPR and data protection compliance] (https://bookingflix.en/features/privacy/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Where are the Bookingflix servers located?",
+			"tags": "Legal issues"
 		},
 		"Rechtliches-58": {
-			"answer": "",
+			"answer": "Please request this from us by email: support@bookingflix.com\nPlease send us your company address and the name of your Bookingflix account.",
 			"link": {
-				"1": ""
+				"1": "[GDPR and data protection compliance] (https://bookingflix.en/features/privacy/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How do I get a data processing contract from Bookingflix?",
+			"tags": "Legal issues"
 		},
 		"Rechtliches-59": {
-			"answer": "",
+			"answer": "We store your account data as well as the appointment data of your customers. For example, if your customers provide an address when booking an appointment, this data is also stored by us. The servers are located in Germany. The automatic deletion period is 30 days. Earlier deletion is possible at any time. Your customers can also delete the appointment data at any time or delete or cancel the appointment.",
 			"link": {
-				"1": ""
+				"1": "[GDPR and data protection compliance] (https://bookingflix.en/features/privacy/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "What data is processed by Bookingflix?",
+			"tags": "Legal issues"
 		},
 		"Rechtliches-91": {
-			"answer": "",
+			"answer": "As a rule, you should only ask for data that is required for the appointment and the appointment. Only request the address and other personal data if this is really necessary. This reduction to essential queries is also provided for by the GDPR. You should also refrain from asking for medical data.  We cannot and must not give an exact assessment. Therefore, these statements are to be regarded as general, without legal relevance. Your data protection officer must be involved if necessary. The appointment data are processed by Bookingflix and stored on German servers for this purpose. We will gladly send you an order data processing contract.",
 			"link": {
-				"1": ""
+				"1": "[Privacy Policy] (https://bookingflix.en/privacy/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Is there sensitive customer data that I should not ask for when booking an appointment?",
+			"tags": "Legal issues"
 		},
 		"Rechtliches-96": {
-			"answer": "",
+			"answer": "Yes, Bookingflix was developed strictly according to the GDPR. Already the booking process is oriented to these requirements. The appointment data is processed and stored on servers within Germany. The deletion period is 30 days. However, your customers can also delete the data themselves earlier. You as a service provider can also delete all data at any time. We will gladly send you an order data processing contract. Your data and the data of your customers will not be passed on to third parties. All data is secured by the latest encryption methods. For further information, please refer to our privacy policy and the order data processing contract. We will be happy to send you a draft of the contract for preview. Please write to support@bookingflix.com.",
 			"link": {
-				"1": ""
+				"1": "[Privacy Policy] (https://bookingflix.en/privacy/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Is the booking of appointments via Bookingflix compatible with the European GDPR?",
+			"tags": "Legal issues"
 		},
 		"Support-76": {
-			"answer": "",
+			"answer": "All explainer videos, webinars and tutorials can be found in the support area: https://bookingflix.en/support\nWe are also glad to assist you via chat (https://bookingflix.en/support/chat/) or email (support@bookingflix.com).",
 			"link": {
-				"1": ""
+				"1": "[Support] (https://bookingflix.en/support/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Where can I find explainer videos and tutorials about the features of Bookingflix?",
+			"tags": "Support"
 		},
 		"Technisches-30": {
-			"answer": "",
+			"answer": "Once an appointment has been booked and confirmed, the appointment slot is no longer available. If several appointments are available per appointment slot, one slot will be blocked. If a booked appointment has not yet been verified by the customer (by clicking on the verification link), the appointment will also remain blocked until the verification period expires. This prevents overbooking of the appointment slot. If an appointment is cancelled, the appointment slot is automatically and immediately unblocked and can be re-booked. When entering appointments manually, it is possible to check whether an appointment has already been deposited and an overbooking is imminent.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Enter appointments manually] (https://bookingflix.en/support/documentation/addAppointment/)",
+				"2": "[Automatic appointment confirmation] (https://bookingflix.de/support/documentation/appointmentConfirmation/)",
+				"3": "[Verification according to the GDPR] (https://bookingflix.en/support/documentation/verify/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How are overbookings prevented?",
+			"tags": "Technical aspets"
 		},
 		"Technisches-73": {
-			"answer": "",
+			"answer": "Your customers can book an appointment via any internet-enabled device. So with a PC, a smartphone or tablet.\nBookingflix is mobile optimized and the web design is responsive.",
 			"link": {
-				"1": ""
+				"1": "[Features] (https://bookingflix.en/features/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Which devices can be used to book the appointments?",
+			"tags": "Technical aspets"
 		},
 		"Technisches-74": {
-			"answer": "",
+			"answer": "You can use Bookingflix from any web-enabled device. So with a PC, a smartphone or tablet.\nBookingflix is mobile optimized and the web design is responsive.",
 			"link": {
-				"1": ""
+				"1": "[Appointment Management] (https://bookingflix.en/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Which devices can I use to manage my account and appointment data?",
+			"tags": "Technical aspets"
 		},
 		"Technisches-86": {
-			"answer": "",
+			"answer": "This is currently not yet possible. However, we are working on it. Then the appointments can be booked for a fee.",
 			"link": {
-				"1": ""
+				"1": "[About Us] (https://bookingflix.en/about-us/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can we include a payment service when booking appointments?",
+			"tags": "Technical aspets"
 		},
 		"Technisches-109": {
-			"answer": "",
+			"answer": "Currently not yet. However, Bookingflix can also be operated well on smartphones and tablets. An app is therefore not absolutely necessary.",
 			"link": {
-				"1": ""
+				"1": "[Features] (https://bookingflix.en/features/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Is there an app for Bookingflix?",
+			"tags": "Technical aspets"
 		},
 		"Technisches-111": {
-			"answer": "",
+			"answer": "Break rules can be attached via the appointment wizard. If you define a break, then no appointments can take place there. Because you can't have break and make an appointment at the same time. Any appointment with intersection to break is not bookable.",
 			"link": {
-				"1": ""
+				"1": "[Create an appointment booking calendar for fixed opening hours] (https://bookingflix.en/support/documentation/businessCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How to calculate a break time?",
+			"tags": "Technical aspets"
 		},
 		"Technisches-113": {
-			"answer": "",
+			"answer": "To remove the colored outer frame of the calendar embedded via Javascript, please include the following source code in the HEAD section of your website:\n\n<input class=\"form-control\" type=\"text\" value=\"<style>hit-calendar .app .stage { border: 0!important; }</style>\">",
 			"link": {
 				"1": ""
 			},
-			"question": "",
-			"tags": ""
+			"question": "How to remove the colored outer frame from the embedded calendar?",
+			"tags": "Technical aspets"
 		},
 		"Technisches-114": {
-			"answer": "",
+			"answer": "Bookingflix currently offers two variants of embedding: JAVASCRIPT and IFRAME. The IFRAME technology creates a window on the customer's website. Via this window you can display the appointment calendar. In this case the appointment calendar is calculated and graphically prepared on the Bookingflix server. The website of the customer as well as the generated calendar have no direct contact, but are quasi separated by a \"virtual glass pane\". Thus, the style specifications of the customer's website cannot influence the appointment calendar display, at most the design of the window frame. \nThe second variant is JAVASCRIPT. Here the calendar is created directly on the customer's website. The source code is directly connected to the customer's website. Style specifications of the customer can have an influence. This allows to override e.g. colors, layout and fonts.\n\nNormally we recommend the JAVASCRIPT code, because e.g. the sometimes disturbing \"window frame\" (iframe) is omitted and it has some other technical advantages. But if the design is negatively influenced by your own website style sheets, then you either have to adjust the website style sheets a bit to keep the calendar out - or you create special style sheets for the calendar in CSS - or you use the IFRAME technology.",
 			"link": {
-				"1": ""
+				"1": "[Embed code/widget code] (https://bookingflix.en/support/documentation/embed/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "What is the difference between IFRAME and JAVASCRIPT embedding?",
+			"tags": "Technical aspets"
 		},
 		"Technisches-117": {
-			"answer": "",
+			"answer": "In the CSV file, the phone numbers are all included according to the database entries made. So the customer can enter his phone number in different formatting. In case of pure number sequences, the leading zero is truncated away. However, it is possible to define the field as a phone number field in Excel afterwards.",
 			"link": {
-				"1": ""
+				"1": "[Video: download appointment data csv, pdf] (https://bookingflix.en/support/video/701936872/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Why are phone numbers formatted incorrectly? Why do they always appear without a leading zero?",
+			"tags": "Technical aspets"
 		},
 		"Technisches-118": {
-			"answer": "",
+			"answer": "Change the import settings so that characters and umlauts are imported correctly.",
 			"link": {
-				"1": ""
+				"1": "[Video: download appointment data csv, pdf] (https://bookingflix.en/support/video/701936872/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Why are the special characters from formatting displayed illegibly after export?",
+			"tags": "Technical aspets"
 		},
 		"Technisches-119": {
-			"answer": "",
+			"answer": "Phone number and email address are special fields, so they are highlighted in the CSV table. So even if you create other fields with similar or the same name. So please do not change the phone number and email address fields. The phone number field can be optionally deleted. It is therefore not a mandatory field. The query of the email address is mandatory for the appointment with Bookingflix.",
 			"link": {
-				"1": ""
+				"1": "[Video: download appointment data csv, pdf] (https://bookingflix.en/support/video/701936872/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Why do the phone number and email address fields appear twice?",
+			"tags": "Technical aspets"
 		},
 		"Terminbuchung-40": {
-			"answer": "",
+			"answer": "Only one customer at a time can book a service at the same time via the appointment booking calendar for different services. If you want to make different services bookable at the same time, this is possible via several appointment-booking calendars that link them together. You define one service per calendar. These calendars are then linked with each other. So the customer can first select the desired service (and the corresponding calendar), then select the appointment slot and then enter the data such as email and name.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Create an appointment booking calendar for services] (https://bookingflix.en/support/documentation/serviceCalendar/)",
+				"2": "[Link calendars together] (https://bookingflix.en/support/documentation/connectCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can several customers, at the same time, book appointments for different services?",
+			"tags": "Appointment booking"
 		},
 		"Terminbuchung-42": {
-			"answer": "",
+			"answer": "This function is available in the Dashboard via the Add appointment button.",
 			"link": {
-				"1": ""
+				"1": "[Create recurring appointments] (https://bookingflix.en/support/documentation/serialAppointments/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How do I manually create multiple recurring appointments for my customers?",
+			"tags": "Appointment booking"
 		},
 		"Terminbuchung-45": {
-			"answer": "",
+			"answer": "Once an appointment has been booked and confirmed, the appointment slot is no longer available. If several appointments are available per appointment slot, one slot will be blocked. If a booked appointment has not yet been verified by the customer (by clicking on the verification link), the appointment will also remain blocked until the verification period expires. However, the appointment that has not yet been verified will not appear in your dashboard until the customer has verified it. This prevents overbooking of the appointment slot. When an appointment is canceled, the appointment slot is automatically and immediately unblocked and can be re-booked. When manually entering appointments, you can check whether an appointment has already been deposited and an overbooking is imminent.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Enter appointments manually] (https://bookingflix.en/support/documentation/addAppointment/)",
+				"2": "[Automatic appointment confirmation] (https://bookingflix.en/support/documentation/appointmentConfirmation/)",
+				"3": "[Verification according to the GDPR] (https://bookingflix.en/support/documentation/verify/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "An appointment slot is no longer bookable for my customers. But actually there should still be an appointment free. Why is the appointment still not displayed in the dashboard?",
+			"tags": "Appointment booking"
 		},
 		"Terminbuchung-48": {
-			"answer": "",
+			"answer": "Your customer can download the appointment PDF with QR code via the personal appointment link. Your customer will receive this with the appointment confirmation by email.",
 			"link": {
-				"1": ""
+				"1": "[Appointment link and customer login area] (https://bookingflix.en/support/documentation/clientLogin/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Where can my customer find the appointment PDF with QR code for the booked appointment?",
+			"tags": "Appointment booking"
 		},
 		"Terminbuchung-66": {
-			"answer": "",
+			"answer": "Yes, this is possible. To do this, create the corresponding form field Group booking when creating the appointment booking calendar. Your customer can then specify how many people will attend the appointment when booking. The corresponding number will be taken into account and deducted from the available contingent (number of seats per appointment slot).",
 			"link": {
-				"1": ""
+				"1": "[Group booking form field] (https://bookingflix.en/support/documentation/bookingGroup/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can a customer book a group appointment for several people?",
+			"tags": "Appointment booking"
 		},
 		"Terminbuchung-67": {
-			"answer": "",
+			"answer": "Yes, the corresponding number is taken into account and deducted from the available contingent (number of places per appointment slot). So if your customer books a group appointment for three people, these three places are reserved and are no longer available for other bookings within the same appointment slot. The group number can be adjusted later by the customer and by you at any time.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Group booking form field] (https://bookingflix.en/support/documentation/bookingGroup/)",
+				"2": "[Appointment management] (https://bookingflix.en/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Is the number of booked seats taken into account for a group booking?",
+			"tags": "Appointment booking"
 		},
 		"Terminbuchung-71": {
-			"answer": "",
+			"answer": "Yes, this function is available in the login area under Settings/Edit appointment notifications.\nSo it is possible to send appointment confirmation to the customer via SMS automatically. This can further increase the appointment reliability. Appointment confirmation via SMS also ensures that customers who check their email irregularly are immediately informed about the appointment confirmation. You will need SMS credits to send the SMS. These can be purchased in the dashboard.",
 			"link": {
-				"1": ""
+				"1": "[Appointment confirmation via SMS] (https://bookingflix.en/support/documentation/smsConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can appointments also be confirmed by SMS?",
+			"tags": "Appointment booking"
 		},
 		"Terminbuchungskalender-20": {
-			"answer": "",
+			"answer": "Bookingflix offers three different appointment booking calendars.\n\nAppointment booking calendar for regular opening hours:\nUse this calendar if you have a business with regular opening hours. For example, when you set it up, you can define the opening hours, the break times, and the length of the appointment slots.\n\nAppointment booking calendar for concrete events:\nUse this calendar if you want to offer individual events. When you set it up, you can define, for example, the dates of the events and the maximum number of participants.\n\nAppointment-booking calendar for services:\nUse this calendar if you want to offer different services. For example, you can define the individual services during the setup. A price and an image can be defined for each service.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Create an appointment booking calendar for concrete events] (https://bookingflix.en/support/documentation/eventCalendar/)",
+				"2": "[Create an appointment booking calendar for services] (https://bookingflix.en/support/documentation/serviceCalendar/)",
+				"3": "[Create an appointment booking calendar for fixed opening hours] (https://bookingflix.en/support/documentation/businessCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Which appointment booking calendar is best suited to my business?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-25": {
-			"answer": "",
+			"answer": "When creating an appointment booking calendar, you can optionally specify that your customers receive an email after the appointment with a request for a rating. The question can be formulated individually. A publication of the rating can be optionally activated and deactivated.",
 			"link": {
-				"1": ""
+				"1": "[Obtain and include customer reviews automatically] (https://bookingflix.es/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How do I get customer feedback about Bookingflix? Is it automatic?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-28": {
-			"answer": "",
+			"answer": "Yes, for this you can use the appointment booking calendar for services. Use this calendar if you want to offer different services. For example, you can define the individual services during the setup. A price and an image can be defined for each service.",
 			"link": {
-				"1": ""
+				"1": "[Create an appointment booking calendar for services] (https://bookingflix.en/support/documentation/serviceCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can different services be offered via the appointment booking calendar?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-29": {
-			"answer": "",
+			"answer": "This function is available in QuickStart and in the Dashboard under Settings/Create new appointment calendar.",
 			"link": {
-				"1": ""
+				"1": "[Create an appointment booking calendar for services] (https://bookingflix.en/support/documentation/serviceCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How does the creation of different services work (price, duration of the appointment) ?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-34": {
-			"answer": "",
+			"answer": "This function is available in QuickStart and in the Dashboard under Settings/Create new appointment calendar.",
 			"link": {
-				"1": ""
+				"1": "[Create an appointment booking calendar for concrete events] (https://bookingflix.en/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How do I create a concrete event?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-36": {
-			"answer": "",
+			"answer": "This function is available in QuickStart and in the Dashboard under Settings/Create new appointment calendar.",
 			"link": {
-				"1": ""
+				"1": "[Video conferencing tool OnBoard] (https://bookingflix.en/support/documentation/webinarTool/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How do I create a video conference via Bookingflix?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-39": {
-			"answer": "",
+			"answer": "This function is available in QuickStart and in the Dashboard under Settings/Create new appointment calendar.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Create an appointment booking calendar for concrete events] (https://bookingflix.en/support/documentation/eventCalendar/)",
+				"2": "[Create an appointment booking calendar for services] (https://bookingflix.en/support/documentation/serviceCalendar/)",
+				"3": "[Create an appointment booking calendar for fixed opening hours] (https://bookingflix.en/support/documentation/businessCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How do I create an appointment booking calendar?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-41": {
-			"answer": "",
+			"answer": "Only one customer at a time can book a service at the same time via the appointment booking calendar for different services. If you want to make different services bookable at the same time, this is possible via several appointment-booking calendars that link them together. You define one service per calendar. These calendars are then linked with each other. So the customer can first select the desired service (and the corresponding calendar), then select the appointment slot and then enter the data such as email and name.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Create an appointment booking calendar for services] (https://bookingflix.en/support/documentation/serviceCalendar/)",
+				"2": "[Link calendars together] (https://bookingflix.en/support/documentation/connectCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can multiple appointments be offered at the same time via the calendar for different services?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-46": {
-			"answer": "",
+			"answer": "Please define the appointment length of the appointment slots in such a way that there is sufficient time for preparation even in the case of a direct subsequent appointment. When creating the appointment slots, you can specify that the subsequent appointment can only take place at the next quarter, half or full hour. In this way, buffer times can be determined.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Create an appointment booking calendar for services] (https://bookingflix.en/support/documentation/serviceCalendar/)",
+				"2": "[Create an appointment booking calendar for fixed opening hours] (https://bookingflix.en/support/documentation/businessCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can I insert buffer times between two appointments?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-69": {
-			"answer": "",
+			"answer": "In the appointment booking calendar for fixed opening hours and for services, the following appointment lengths can be set: 5 minutes, 10 minutes, 15 minutes, 30 minutes, 45 minutes, 60 minutes, 90 minutes, two hours, three hours, four hours.\nIn the case of the appointment-booking calendar for concrete events, the duration of the event can be set individually.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Create an appointment booking calendar for services] (https://bookingflix.en/support/documentation/serviceCalendar/)",
+				"2": "[Create an appointment booking calendar for fixed opening hours] (https://bookingflix.en/support/documentation/businessCalendar/)",
+				"3": "[Create an appointment booking calendar for concrete events] (https://bookingflix.en/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "What appointment duration can I set?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-77": {
-			"answer": "",
+			"answer": "Yes, this function is available in the login area under Settings/Edit appointment calendar and when creating a new appointment booking calendar.",
 			"link": {
-				"1": ""
+				"1": "[Automatic appointment confirmation] (https://bookingflix.en/support/documentation/appointmentConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can appointment bookings be confirmed automatically?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-80": {
-			"answer": "",
+			"answer": "This function is available in the login area under Settings/Edit appointment calendar and when creating a new appointment booking calendar.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Create an appointment booking calendar for services] (https://bookingflix.en/support/documentation/serviceCalendar/)",
+				"2": "[Create an appointment booking calendar for fixed opening hours] (https://bookingflix.en/support/documentation/businessCalendar/)",
+				"3": "[Create an appointment booking calendar for concrete events] (https://bookingflix.en/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "I need a certain amount of lead time for each appointment. How do I set the lead time to prevent last-minute bookings?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-94": {
-			"answer": "",
+			"answer": "Yes, this information is mandatory for booking an appointment. This is because the verification and confirmation emails are sent to the customer's email address. Only if you enter the appointment manually in the dashboard, the email address can be omitted.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Enter appointments manually] (https://bookingflix.en/support/documentation/addAppointment/)",
+				"2": "[Verification according to the GDPR] (https://bookingflix.en/support/documentation/verify/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Do I need to ask for my customers' email address when booking an appointment?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-95": {
-			"answer": "",
+			"answer": "No, this query is not absolutely necessary. Querying the cell phone number makes sense especially if you need to reach the customer by phone in advance. For example, for a call or for sending automatic appointment reminders via SMS. The appointment confirmation can also be sent via SMS.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[SMS appointment reminders] (https://bookingflix.en/support/documentation/smsReminder/)",
+				"2": "[Appointment confirmation via SMS] (https://bookingflix.de/support/documentation/smsConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Do I need to ask for my customers' cell phone numbers when booking appointments?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-97": {
-			"answer": "",
+			"answer": "This function is available in the login area under Settings/Edit appointment calendar and when creating a new appointment booking calendar.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Create an appointment booking calendar for services] (https://bookingflix.en/support/documentation/serviceCalendar/)",
+				"2": "[Create an appointment booking calendar for fixed opening hours] (https://bookingflix.en/support/documentation/businessCalendar/)",
+				"3": "[Create an appointment booking calendar for concrete events] (https://bookingflix.en/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "The appointment booking calendar should be displayed in our corporate colors. Is that possible?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-100": {
-			"answer": "",
+			"answer": "This function is available in the login area under Settings/Edit appointment calendar and when creating a new appointment booking calendar.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Create an appointment booking calendar for services] (https://bookingflix.en/support/documentation/serviceCalendar/)",
+				"2": "[Create an appointment booking calendar for fixed opening hours] (https://bookingflix.en/support/documentation/businessCalendar/)",
+				"3": "[Create an appointment booking calendar for concrete events] (https://bookingflix.en/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How do I link my business address in the appointment booking calendar to Google Maps?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-106": {
-			"answer": "",
+			"answer": "This function is available in the login area under Settings/Edit appointment calendar and when creating a new appointment booking calendar.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Create an appointment booking calendar for services] (https://bookingflix.en/support/documentation/serviceCalendar/)",
+				"2": "[Create an appointment booking calendar for fixed opening hours] (https://bookingflix.en/support/documentation/businessCalendar/)",
+				"3": "[Create an appointment booking calendar for concrete events] (https://bookingflix.en/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can I set the length of the appointment slots individually?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminbuchungskalender-110": {
-			"answer": "",
+			"answer": "Bookingflix offers the possibility to store multiple services. For example, if you have a hair salon with different employees, please create a separate appointment calendar for each employee. Within the appointment calendar you can then define the corresponding services that are offered: E.g. \"cut hair\", \"dye hair\" etc.",
 			"link": {
-				"1": ""
+				"1": "[Create an appointment booking calendar for services] (https://bookingflix.en/support/documentation/serviceCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How do the services work?",
+			"tags": "Appointment booking calendar"
 		},
 		"Terminerinnerungen-10": {
-			"answer": "",
+			"answer": "Yes, this can be set individually. You can edit the text of the email reminders. The sending time can be set independently for SMS and email.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[SMS appointment reminders] (https://bookingflix.en/support/documentation/smsReminder/)",
+				"2": "[Appointment Reminders by Email] (https://bookingflix.en/support/documentation/emailReminder/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can appointment reminders be sent before the appointment, at a specific time?",
+			"tags": "Appointment reminders"
 		},
 		"Terminerinnerungen-11": {
-			"answer": "",
+			"answer": "You can find the corresponding functions in the login area under settings. You can customize the reminders via email and SMS. This concerns the time of sending as well as the content of the emails.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[SMS appointment reminders] (https://bookingflix.en/support/documentation/smsReminder/)",
+				"2": "[Appointment Reminders by Email] (https://bookingflix.en/support/documentation/emailReminder/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How do I set up the appointment reminders?",
+			"tags": "Appointment reminders"
 		},
 		"Terminerinnerungen-12": {
-			"answer": "",
+			"answer": "Sending an SMS costs 16 euro cents net. The purchase can be completed in the login area. You need one credit per SMS. The billing is done via PayPal. About the purchase you will immediately receive an invoice in PDF format. The minimum order quantity is 100 credits per purchase.",
 			"link": {
-				"1": ""
+				"1": "[Purchase SMS credits via PayPal] (https://bookingflix.en/support/documentation/smsCredits/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "What do appointment reminders via SMS cost and how do I book them?",
+			"tags": "Appointment reminders"
 		},
 		"Terminerinnerungen-43": {
-			"answer": "",
+			"answer": "The text of the SMS appointment reminders cannot be changed. You can customize the text of the email appointment reminders.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[SMS appointment reminders] (https://bookingflix.en/support/documentation/smsReminder/)",
+				"2": "[Appointment Reminders by Email] (https://bookingflix.en/support/documentation/emailReminder/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can I change the text of the SMS appointment reminders?",
+			"tags": "Appointment reminders"
 		},
 		"Terminerinnerungen-88": {
-			"answer": "",
+			"answer": "You may have used up your SMS credit quota. You can purchase new SMS credits via PayPal at any time. The customer may have entered an incorrect cell phone number.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Purchase SMS credits via PayPal] (https://bookingflix.en/support/documentation/smsCredits/)",
+				"2": "[SMS appointment reminders] (https://bookingflix.en/support/documentation/smsReminder/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "The SMS appointment reminder has not arrived. What is the reason?",
+			"tags": "Appointment reminders"
 		},
 		"Terminerinnerungen-116": {
-			"answer": "",
+			"answer": "The simultaneous sending of many emails (appointment confirmations, appointment cancellations, appointment reminders) in a matter of seconds is a complex mechanism.\n\nWe are permanently working on solutions to handle the email dispatch well in case of increasing demand. For this purpose we use a dispatch mechanism via different relay pools on German servers to avoid black-listing. Furthermore Bookingflix has a more extensive analysis tool in use, which monitors the outgoing emails. Thereby we can get hints why an email did not arrive in a particular case.\n\nIf appointment reminders do not arrive, it could have other causes, regardless of the sending mechanism. Each email to be sent goes through several complex tests before it is sent.\n\nHere are some possible scenarios:\n\n1. Could it perhaps be that the emails have ended up in your customers' spam folder? We have no influence on the spam policies of the mail accounts.\n\n2. Customers book an appointment that starts in 3 hours. The appointment reminder is set for 24 hours before the appointment. In this case, of course, no appointment reminder is sent, because it would be already overdue for sending the appointment form.\n\n3. An appointment reminder is ready to be sent, but the email address has not been verified yet. Even then, no appointment reminders will be sent.\n\n4. The email address must be different from the email address of your account and from the contact email address that you may have entered in the calendar wizard. Appointment reminders etc. are not sent to appointment administrators.",
 			"link": {
-				"1": ""
+				"1": "[Appointment Reminders by Email] (https://bookingflix.en/support/documentation/emailReminder/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Why does an appointment reminder email not arrive?",
+			"tags": "Appointment reminders"
 		},
 		"Terminverwaltung-2": {
-			"answer": "",
+			"answer": "In this case, the customer and you will receive an email confirmation of the cancellation. The data is still stored in the dashboard and via the appointment link of the customer. This data is automatically deleted after 30 days. Earlier deletion is possible at any time for your customer and for you. With the appointment cancellation, the occupied appointment is released again for new appointment bookings.",
 			"link": {
-				"1": ""
+				"1": "[Appointment management] (https://bookingflix.en/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "What happens if a customer cancels their appointment?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-3": {
-			"answer": "",
+			"answer": "Yes, this function is used very often. You can set Bookingflix so that the customer receives the confirmation immediately after booking. So the customer does not have to wait for you to confirm the appointment manually. Booking and automatic confirmation is only possible if the appointment is still free. This prevents overbooking.",
 			"link": {
-				"1": ""
+				"1": "[Automatic appointment confirmation] (https://bookingflix.en/support/documentation/appointmentConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can appointment bookings be confirmed automatically?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-4": {
-			"answer": "",
+			"answer": "Yes, this function is mainly used when a customer books an appointment by phone. The service provider then enters the appointment on behalf of the customer. This prevents overbooking, as the appointment slot is occupied by the manual entry.",
 			"link": {
-				"1": ""
+				"1": "[Enter appointments manually] (https://bookingflix.en/support/documentation/addAppointment/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can appointments be entered manually for the customer?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-15": {
-			"answer": "",
+			"answer": "Yes, the customer receives a personal appointment link with the appointment confirmation. Via this link, the customer can change or cancel the appointment. In addition, all appointment information is available for retrieval via the appointment link and the customer can create his own Bookingflix account.",
 			"link": {
-				"1": ""
+				"1": "[Appointment link and customer login area] (https://bookingflix.en/support/documentation/clientLogin/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can the customer manage the booking himself (change appointment, cancel)?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-18": {
-			"answer": "",
+			"answer": "The appointment data can be accessed via the login area until 30 days after the appointment. Within the deletion period of 30, an automatic deletion will then take place. You will be informed about this in advance in the dashboard. If still needed, you can save the appointment data beforehand in PDF or CSV format. An earlier deletion is possible manually at any time. For you but also for your customers.",
 			"link": {
-				"1": ""
+				"1": "[Appointment management] (https://bookingflix.en/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "What happens to the appointment data after the appointment?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-19": {
-			"answer": "",
+			"answer": "Yes, you can cancel an appointment at any time. Your customer will then be informed about it by email. Your customer can also cancel the appointment independently. In both cases, the appointment slot will be released again and can therefore be re-booked.",
 			"link": {
-				"1": ""
+				"1": "[Appointment management] (https://bookingflix.en/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can I cancel or delete appointments or cancel them subsequently for the customer?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-22": {
-			"answer": "",
+			"answer": "Via Bookingflix you have a chat tool at your disposal. Write to your customers using this tool. They will receive an email notification regarding your message and can answer you directly.",
 			"link": {
-				"1": ""
+				"1": "[Message center with customer chat] (https://bookingflix.en/support/documentation/clientChat/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How do I contact the customer before the appointment?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-23": {
-			"answer": "",
+			"answer": "This function is available in the login area at the respective appointment.",
 			"link": {
-				"1": ""
+				"1": "[Appointment Notes] (https://bookingflix.en/support/documentation/notes/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "I would like to create a short note for the customer appointment. How do I set it up?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-24": {
-			"answer": "",
+			"answer": "Yes, you can download the data in CSV and PDF format. This function is available at the respective appointment as well as under the menu item Customers. You can also download the calendar data in ics format to import it into your standard calendar from Google, Apple or Microsoft.",
 			"link": {
-				"1": ""
+				"1": "[Download appointment data (csv, pdf)] (https://bookingflix.en/support/documentation/downloadCSV/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can the appointment data be downloaded for further processing?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-31": {
-			"answer": "",
+			"answer": "Yes, this function is available in the login area under Settings/Preferences/Customer Check-In/Check-Out.",
 			"link": {
-				"1": ""
+				"1": "[Video: Log check-in and check-out process attendance absence] (https://bookingflix.en/support/video/701936839/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can I book customers in via QR code scan?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-37": {
-			"answer": "",
+			"answer": "The automatic deletion period is 30 days after the appointment booking. Earlier deletion of the appointment data can be done manually at any time in the dashboard. Appointments can be deleted individually or all appointments of a specific day.",
 			"link": {
-				"1": ""
+				"1": "[Appointment management] (https://bookingflix.en/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "When is the appointment data automatically deleted (deletion periods)?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-38": {
-			"answer": "",
+			"answer": "This function is available in the Dashboard under the menu item Customers. Alternatively, you can delete appointments individually if you have opened the individual appointment to be deleted in the dashboard.",
 			"link": {
-				"1": ""
+				"1": "[Appointment management] (https://bookingflix.en/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How can I delete the appointment data manually?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-44": {
-			"answer": "",
+			"answer": "You can find the appointment overview in the dashboard via the link Appointment overview. The appointments for the next ten days are displayed directly in the dashboard.",
 			"link": {
-				"1": ""
+				"1": "[Appointment management] (https://bookingflix.en/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Where can I find the appointment overview?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-47": {
-			"answer": "",
+			"answer": "You can use the customer management function for this purpose.",
 			"link": {
-				"1": ""
+				"1": "[Appointment management] (https://bookingflix.en/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "I am looking for a specific customer appointment. Where or how can I find the dates?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-51": {
-			"answer": "",
+			"answer": "Yes, this is possible even without QR code scanner.",
 			"link": {
-				"1": ""
+				"1": "[Video: Log check-in and check-out process attendance absence] (https://bookingflix.en/support/video/701936839/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "I want to check in a customer. But I don't have a QR code scanner installed on my phone. Can I do it as well without?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-61": {
-			"answer": "",
+			"answer": "Yes, this is possible but not necessary. When your customers create an account, additional functions are available. For example, the convenient re-booking of an appointment and the chat function with you. Also the appointment reminders can be turned off. The appointment change and cancellation also works without an own account for your customers.",
 			"link": {
-				"1": ""
+				"1": "[Appointment management] (https://bookingflix.en/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can my customers register a Bookingflix account to manage the appointments?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-62": {
-			"answer": "",
+			"answer": "You can see the customer reviews on https://hitklick.com/v1/en/sign-in.html/. There you can log in with the same login data you use for Bookingflix. Bookingflix and HitKlick are services from the same house and therefore connected with each other.",
 			"link": {
-				"1": ""
+				"1": "[Obtain and include customer reviews automatically] (https://bookingflix.en/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Where can I see the customer reviews?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-64": {
-			"answer": "",
+			"answer": "Customer ratings can only be deleted or changed by the respective customer. However, you can send a message to the respective customer and request a change or deletion. In the case of obviously unlawful reviews (for example, insults), deletion can be requested via HitKlick.com support. Alternatively, you are free not to publish a rating label or to start a new survey.\nYou can see the customer ratings on https://hitklick.com/v1/en/sign-in.html/.\nThere you can log in with the same login data you use for Bookingflix. Bookingflix and HitKlick are services from the same house and therefore connected with each other.",
 			"link": {
-				"1": ""
+				"1": "[Obtain and include customer reviews automatically] (https://bookingflix.en/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How can I delete the customer reviews?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-65": {
-			"answer": "",
+			"answer": "This is possible via the login area of HitKlick.com/. There you will see different ratings. Click on the respective rating. Via the link Request deletion you can write to the customer and ask for a deletion or a change. You can see the customer reviews at https://hitklick.com/v1/en/sign-in.html/.\nThere you can log in with the same login data you use for Bookingflix. Bookingflix and HitKlick are services from the same house and therefore connected with each other.",
 			"link": {
-				"1": ""
+				"1": "[Obtain and include customer reviews automatically] (https://bookingflix.en/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How can I contact the customers after the reviews?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-68": {
-			"answer": "",
+			"answer": "Yes, the number of groups can be adjusted later by the customer and by you at any time.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Group booking form field] (https://bookingflix.en/support/documentation/bookingGroup/)",
+				"2": "[Appointment management] (https://bookingflix.en/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can I change the number of group participants afterwards?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-78": {
-			"answer": "",
+			"answer": "This function is available in the dashboard. As soon as a new appointment booking is received, you will be informed about it by email. You will also see the new, but not yet confirmed, booking in the dashboard. You can then confirm this manually. In addition, you can send the customer a message with the appointment confirmation. Alternatively, an automatic appointment confirmation by Bookingflix is also possible.",
 			"link": {
-				"1": ""
+				"1": "[Appointment management] (https://bookingflix.en/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How can I confirm an appointment booking manually?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-79": {
-			"answer": "",
+			"answer": "This function is available in the dashboard. You select the respective appointment in the appointment overview. Click the Cancel button to cancel the appointment. Your customer will be informed about it by email.",
 			"link": {
-				"1": ""
+				"1": "[Appointment management] (https://bookingflix.en/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How can I cancel an appointment?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-87": {
-			"answer": "",
+			"answer": "We recommend the appointment reminders via email and SMS. This way, customers are reminded of the appointment and, if they are unable to attend, they can simply cancel the appointment with one click. You should also clearly communicate to customers via the website, via email and directly in the booking process that a cancellation is \"good form\" and that you urgently request it. The system emails can be customized. Again, you can ask the customer to cancel the appointment if they are unable to attend. In special cases, it may make sense to charge a cancellation fee for no-shows and a failure to cancel. For this, the address of the customer would have to be requested or known. For very important appointments, we also recommend confirming the appointment by SMS. This increases the appointment reliability additionally.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": "",
-				"4": ""
+				"1": "[SMS appointment reminders] (https://bookingflix.en/support/documentation/smsReminder/)",
+				"2": "[Appointment Reminders by Email] (https://bookingflix.en/support/documentation/emailReminder/)",
+				"3": "[Edit email text] (https://bookingflix.en/support/documentation/editMails/)",
+				"4": "[Appointment confirmation via SMS] (https://bookingflix.en/support/documentation/smsConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How do I minimize no-shows? That means people who don't appear? ",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-92": {
-			"answer": "",
+			"answer": "We recommend the appointment reminders via email and SMS. This way, customers are reminded of the appointment and, if they are unable to attend, they can simply cancel the appointment with one click. You should also clearly communicate to customers via the website, via email and directly in the booking process that a cancellation is \"good form\" and that you urgently request it. The system emails can be customized. Again, you can ask the customer to cancel the appointment if they are unable to attend. In special cases, it may make sense to charge a cancellation fee for no-shows and a failure to cancel. For this, the address of the customer would have to be requested or known. For very important appointments, we also recommend confirming the appointment by SMS. This increases the appointment reliability additionally.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": "",
-				"4": ""
+				"1": "[SMS appointment reminders] (https://bookingflix.en/support/documentation/smsReminder/)",
+				"2": "[Appointment Reminders by Email] (https://bookingflix.en/support/documentation/emailReminder/)",
+				"3": "[Edit email text] (https://bookingflix.en/support/documentation/editMails/)",
+				"4": "[Appointment confirmation via SMS] (https://bookingflix.en/support/documentation/smsConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How can I increase the appointment reliability of my customers?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-99": {
-			"answer": "",
+			"answer": "This function is available in the login area under Date overview.",
 			"link": {
-				"1": ""
+				"1": "[Appointment management] (https://bookingflix.en/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "I would like to change a customer appointment that has already been booked. How can I do that?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-103": {
-			"answer": "",
+			"answer": "This function is available in the login area under Statistics.",
 			"link": {
-				"1": ""
+				"1": "[Statistics on previous bookings] (https://bookingflix.en/support/documentation/stats/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Where can I find an overview or statistics on previous appointment bookings?",
+			"tags": "Appointment management"
 		},
 		"Terminverwaltung-104": {
-			"answer": "",
+			"answer": "This function is available in the login area under Statistics.",
 			"link": {
-				"1": ""
+				"1": "[Statistics on previous bookings] (https://bookingflix.en/support/documentation/stats/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Is there a statistic that shows the number and type of appointment bookings by the different appointment booking calendars?",
+			"tags": "Appointment management"
 		},
 		"Veroeffentlichen-26": {
-			"answer": "",
+			"answer": "Yes, this is possible in both directions. The appointment bookings that come in through Bookingflix can be transferred to your standard Google, Apple and Microsoft calendars. But it is also possible to block the appointment slots that are already occupied with appointments on Bookingflix. So if you have already entered an appointment in your standard calendar, this will be taken into account in your appointment booking calendar of Bookingflix. The appointment slot will no longer be shown to your customers when booking.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Calendar synchronization with Google standard calendar] (https://bookingflix.en/support/documentation/microsoftSync/)",
+				"2": "[Calendar synchronization with Microsoft standard calendar] (https://bookingflix.en/support/documentation/microsoftSync/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can I synchronize my standard calendar with Bookingflix calendar?",
+			"tags": "Publishing"
 		},
 		"Veroeffentlichen-27": {
-			"answer": "",
+			"answer": "Yes, you can hand over individual appointment booking calendars to employees. They have then access to the appointment data. These can be downloaded as PDF and CSV. Appointment confirmations, appointment cancellations and appointment changes are possible. Further settings can only be made by the admin. This includes the creation or deletion of an appointment booking calendar, the purchase of SMS credits for sending appointment reminders and access to other appointment booking calendars.",
 			"link": {
-				"1": ""
+				"1": "[Hand over calendar management to third parties or employees] (https://bookingflix.en/support/documentation/shareCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "We are several colleagues in the store and therefore four customers can always be served at the same time. Can this be taken into account when booking appointments?",
+			"tags": "Publishing"
 		},
 		"Veroeffentlichen-32": {
-			"answer": "",
+			"answer": "With the appointment confirmation by email, the customer receives his personal appointment link. This link takes the customer directly to the appointment overview with all information about the appointment. The download of the appointment ticket is also available there. For confirmation, for data protection reasons, the customer must enter his stored email address. A password is not required. The PDF opens and can be downloaded or printed.",
 			"link": {
-				"1": ""
+				"1": "[Appointment link and customer login area] (https://bookingflix.en/support/documentation/clientLogin/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How can the customer print the appointment ticket with the QR code?",
+			"tags": "Publishing"
 		},
 		"Veroeffentlichen-33": {
-			"answer": "",
+			"answer": "Yes, the appointment ticket is available to your customers as a PDF and can be saved on the PC, cell phone or tablet. Also, the appointment ticket can be printed.",
 			"link": {
-				"1": ""
+				"1": "[Appointment link and customer login area] (https://bookingflix.en/support/documentation/clientLogin/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Is the appointment ticket with the QR code also available as a PDF?",
+			"tags": "Publishing"
 		},
 		"Veroeffentlichen-52": {
-			"answer": "",
+			"answer": "Yes, this is possible. Your customers can rate the respective appointment. However, these ratings are not published. They are only internally visible for you.",
 			"link": {
-				"1": ""
+				"1": "[Obtain and include customer reviews automatically] (https://bookingflix.en/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "I would like to receive customer reviews. However, these should not be published. Is that possible?",
+			"tags": "Publishing"
 		},
 		"Veroeffentlichen-53": {
-			"answer": "",
+			"answer": "This is possible via a widget code. It is possible to integrate via iframe and via Javascript.",
 			"link": {
-				"1": ""
+				"1": "[Embed code/widget code] (https://bookingflix.en/support/documentation/embed/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How do I embed the embed code on my website?",
+			"tags": "Publishing"
 		},
 		"Veroeffentlichen-54": {
-			"answer": "",
+			"answer": "Yes, the appointment booking website can be freely designed. Design elements are available for this purpose, which are customized after integration. But you can also directly edit the HTML code of the appointment booking website.",
 			"link": {
-				"1": ""
+				"1": "[Edit appointment booking website] (https://bookingflix.en/support/documentation/bookingPage/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can I edit the appointment booking website and fill it with my own content?",
+			"tags": "Publishing"
 		},
 		"Veroeffentlichen-55": {
-			"answer": "",
+			"answer": "This is possible via the DNS settings of your domain manager. Alternatively, it is also possible to automatically forward from your domain or subdomain to the appointment booking website of Bookingflix.",
 			"link": {
-				"1": ""
+				"1": "[External link: Set up DNS server] (https://praxistipps.chip.en/dns-server-einrichten-eine-anleitung_41204/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can I link the appointment booking website to my own domain?",
+			"tags": "Publishing"
 		},
 		"Veroeffentlichen-63": {
-			"answer": "",
+			"answer": "When you are logged in to HitKlick.com, you can view the rating label. There are different rating labels available for you. You can also customize the color layout. Via an embed code you can publish this label on your website. For example, above or below your appointment booking calendar. We recommend this because it increases the trust factor and can therefore lead to more bookings. On HitKlick.com you can login with the same login data you use for Bookingflix. Bookingflix and HitKlick are services from the same house and therefore connected.",
 			"link": {
-				"1": ""
+				"1": "[Obtain and include customer reviews automatically] (https://bookingflix.en/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How can I publish the customer reviews?",
+			"tags": "Publishing"
 		},
 		"Veroeffentlichen-93": {
-			"answer": "",
+			"answer": "Yes, this is possible. As soon as you create an appointment booking calendar, a micro-booking website is also created automatically. You can edit this. Send your customers the link to the micro-booking website. Your customers can then book an appointment via this website.",
 			"link": {
-				"1": ""
+				"1": "[Edit appointment booking website] (https://bookingflix.en/support/documentation/bookingPage/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Can I offer Bookingflix to my customers without my own website?",
+			"tags": "Publishing"
 		},
 		"Veroeffentlichen-98": {
-			"answer": "",
+			"answer": "Yes, both are possible. A micro booking website is also available. As soon as you create an appointment booking calendar, a micro-booking website is automatically created. You can edit this website. Send your customers the link to the micro-booking website. Your customers can then use it to book an appointment. Or you can include the appointment booking calendar on your own website, via iframe or javaScript.",
 			"link": {
-				"1": ""
+				"1": "[Embed code/widget code] (https://bookingflix.en/support/documentation/embed/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "How can the appointment booking calendar be integrated? Also via iframe or via javaScript?",
+			"tags": "Publishing"
 		},
 		"Veroeffentlichen-107": {
-			"answer": "",
+			"answer": "Yes, this function is available in the login area under Settings/QR code to the appointment calendar.",
 			"link": {
-				"1": ""
+				"1": "[QR code to each appointment calendar] (https://bookingflix.en/support/documentation/qrCode/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "I would like to refer to the appointment booking calendar in promotional materials. Is this also possible via a QR code?",
+			"tags": "Publishing"
 		}
 	},
-	"more": "",
-	"title": ""
+	"more": "Further questions",
+	"title": "Frequently asked questions"
 }

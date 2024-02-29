@@ -1,995 +1,1003 @@
 {
-	"description": "",
+	"description": "En las FAQs encontrarás las preguntas más frecuentes y las respuestas correspondientes a las funciones y ajustes de Bookingflix. Para más información, instrucciones y vídeos explicativos, consulte el área de asistencia técnica. También puede ponerse en contacto con nosotros por correo electrónico y a través de nuestro sistema de tickets.\nhttps://bookingflix.es/support",
 	"list": {
 		"Accountverwaltung-60": {
-			"answer": "",
+			"answer": "En este caso, los datos de su cuenta y todos los datos de las citas se eliminarán inmediatamente de forma irrevocable. Si todavía necesita los datos de la cita, le recomendamos que los guarde con antelación. Los datos se pueden descargar en formato csv y pdf.",
 			"link": {
-				"1": ""
+				"1": "[Descargar los datos de las citas (csv, pdf)] (https://bookingflix.es/support/documentation/downloadCSV/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Qué pasa con los datos cuando elimino la cuenta de Bookingflix?",
+			"tags": "Gestión de la cuenta"
 		},
 		"Accountverwaltung-72": {
-			"answer": "",
+			"answer": "Para enviar SMS se necesitan créditos SMS. Se requiere un crédito por SMS. Un crédito cuesta 0,16 céntimos de euro netos.\nLa compra se realiza en el tablero de mando en Perfil/Crédito.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Confirmación de cita por SMS] (https://bookingflix.es/support/documentation/smsConfirmation/)",
+				"2": "[Recordatorios de cita por SMS] (https://bookingflix.es/support/documentation/smsReminder/)",
+				"3": "[Comprar de créditos SMS a través de PayPal] (https://bookingflix.es/support/documentation/smsCredits/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Para qué necesito los créditos SMS?",
+			"tags": "Gestión de la cuenta"
 		},
 		"Accountverwaltung-81": {
-			"answer": "",
+			"answer": "Por favor, escríbanos por correo electrónico en relación a esto a support@bookingflix.com. La cuenta FREE le proporciona un calendario de reservas. En la cuenta PREMIUM tiene a su disposición tres calendarios de reservas.",
 			"link": {
-				"1": ""
+				"1": "[Precios] (https://bookingflix.es/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Necesito más calendarios de reserva de citas. ¿Cómo puedo activarlos?",
+			"tags": "Gestión de la cuenta"
 		},
 		"Accountverwaltung-82": {
-			"answer": "",
+			"answer": "En la cuenta FREE, está disponible un calendario de reserva de citas. En la cuenta PREMIUM, hay tres calendarios de reserva de citas disponibles.",
 			"link": {
-				"1": ""
+				"1": "[Precios] (https://bookingflix.es/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Tengo una cuenta FREE en Bookingflix. ¿Cuántos calendarios puedo utilizar?",
+			"tags": "Gestión de la cuenta"
 		},
 		"Accountverwaltung-83": {
-			"answer": "",
+			"answer": "En la cuenta FREE, se pueden hacer hasta 50 reservas de citas al mes y se dispone de un calendario de reserva de citas. En la cuenta PREMIUM, se puede realizar un número ilimitado de reservas de citas. También están disponibles tres calendarios de reserva de citas. Se pueden activar más.",
 			"link": {
-				"1": ""
+				"1": "[Precios] (https://bookingflix.es/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Qué limitaciones tengo con una cuenta FREE comparado con una cuenta PREMIUM?",
+			"tags": "Gestión de la cuenta"
 		},
 		"Accountverwaltung-101": {
-			"answer": "",
+			"answer": "La cuenta FREE se puede utilizar gratuitamente por 14 días. Después del período de prueba, puede ampliar la cuenta PREMIUM en su área de acceso (tablero de mando). O puede utilizar la cuenta FREE gratuita. No hay renovación automática. Debe renovar la cuenta usted mismo si lo desea.",
 			"link": {
-				"1": ""
+				"1": "[Precios] (https://bookingflix.es/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Puedo hacer una prueba gratuita de Bookingflix? ¿Y por cuánto tiempo?",
+			"tags": "Gestión de la cuenta"
 		},
 		"Accountverwaltung-105": {
-			"answer": "",
+			"answer": "En la cuenta FREE, sólo tiene a su disposición un calendario de reservas de citas. Si necesita más de un calendario, le recomendamos que se pase a la cuenta PREMIUM. Aquí se incluyen tres calendarios de reserva de citas. Es posible activar más.",
 			"link": {
-				"1": ""
+				"1": "[Precios] (https://bookingflix.es/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Puedo utilizar más de un calendario al mismo tiempo en la cuenta FREE?",
+			"tags": "Gestión de la cuenta"
 		},
 		"Accountverwaltung-108": {
-			"answer": "",
+			"answer": "Esta función está disponible a través de https://bookingflix.com/sign-in.html en el apartado Contraseña olvidada. Introduzca su dirección de correo electrónico. Recibirás un correo electrónico con un enlace para establecer una nueva contraseña.",
 			"link": {
-				"1": ""
+				"1": "[Solicitar nuevo login y contraseña] (https://bookingflix.com/sign-in.html/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo puedo cambiar la contraseña de mi cuenta o asignar una nueva si he olvidado la anterior?",
+			"tags": "Gestión de la cuenta"
 		},
 		"Allgemeines-5": {
-			"answer": "",
+			"answer": "Nuestro equipo de asistencia está disponible de 8.00 a 20.00 horas. Nos puede contactar por correo electrónico y a través del sistema de tickets en línea. A través del área asistencia técnica encontrará instrucciones completas, vídeos explicativos y seminarios web sobre las funciones de Bookingflix. Si lo desea, podemos explicarle las funciones en una videoconferencia personal.",
 			"link": {
-				"1": ""
+				"1": "[Área de asistencia técnica] (https://bookingflix.es/support/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Qué asistencia técnica recibimos como parte del uso de la Premium de pago?",
+			"tags": "Generalidades"
 		},
 		"Allgemeines-6": {
-			"answer": "",
+			"answer": "A través del área de asistencia técnica encontrará instrucciones completas, vídeos explicativos y seminarios web sobre las funciones de Bookingflix.",
 			"link": {
-				"1": ""
+				"1": "[Área de asistencia técnica] (https://bookingflix.es/support/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Qué asistencia técnica recibimos como parte del uso de la FREE gratuito?",
+			"tags": "Generalidades"
 		},
 		"Allgemeines-7": {
-			"answer": "",
+			"answer": "Sí, esto es posible. Sin embargo, sólo es posible el pago anual para evitar que tengamos que enviar una nueva factura cada mes.",
 			"link": {
-				"1": ""
+				"1": "[Precios] (https://bookingflix.es/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Se puede pagar la cuenta Premium también por factura en lugar de por domiciliación bancaria?",
+			"tags": "Generalidades"
 		},
 		"Allgemeines-8": {
-			"answer": "",
+			"answer": "La cuenta Premium de Bookingflix cuesta 33,57 euros al mes. Puede pagar la cuenta Premium por domiciliación bancaria o por factura. Para la domiciliación bancaria utilizamos el servicio de https://gocardless.com/. Tiene la opción de cobrar el importe mensual o anualmente por adelantado. Recibirá una factura por cada pago.",
 			"link": {
-				"1": ""
+				"1": "[Precios] (https://bookingflix.es/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo se cobra la cuenta Premium y cómo se paga?",
+			"tags": "Generalidades"
+		},
+		"Allgemeines-9": {
+			"answer": "Puede descargar la factura en el área de inicio de sesión en Perfil/Datos (Facturas). La factura está disponible unos tres días después del cobro. También podemos enviar la factura por correo o por correo electrónico en formato PDF.",
+			"link": {
+				"1": "[Vídeo: Descargar facturas] (https://bookingflix.es/support/video/701936929/)"
+			},
+			"question": "¿Cómo recibo las facturas de la suscripción mensual?",
+			"tags": "Generalidades"
 		},
 		"Allgemeines-13": {
-			"answer": "",
+			"answer": "La cuenta FREE es totalmente gratuita. La cuenta PREMIUM cuesta 33,57 euros netos al mes. El importe puede pagarse de forma mensual o anual. La facturación se realiza mediante domiciliación bancaria. También se puede comprar a cuenta.",
 			"link": {
-				"1": ""
+				"1": "[Precios] (https://bookingflix.es/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cuánto cuesta Bookingflix al mes?",
+			"tags": "Generalidades"
 		},
 		"Allgemeines-14": {
-			"answer": "",
+			"answer": "El plazo de preaviso es de un mes. Por lo tanto, sólo se cobrará el mes en curso. Si se da de baja el último día del mes, no se le cobrará el mes siguiente. Como alternativa, puede seguir utilizando la cuenta gratuita FREE. Si ya no lo necesita, puede eliminar su cuenta de Bookingflix por completo en cualquier momento.",
 			"link": {
-				"1": ""
+				"1": "[Precios] (https://bookingflix.es/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Qué plazo de preaviso debo respetar?",
+			"tags": "Generalidades"
 		},
 		"Allgemeines-75": {
-			"answer": "",
+			"answer": "No, Bookingflix es básicamente gratuito para sus clientes. Como proveedor de servicios, solo usted puede adquirir una cuenta premium de pago. La cuenta FREE es también gratuita para usted como proveedor de servicios.",
 			"link": {
-				"1": ""
+				"1": "[Precios] (https://bookingflix.es/prices/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Mis clientes tienen que pagar algo cuando reservan una cita a través de Bookingflix?",
+			"tags": "Generalidades"
 		},
 		"Allgemeines-102": {
-			"answer": "",
+			"answer": "Bookingflix da soporte a todos los sectores que dependen de una reserva de citas fiable. Con las opciones de configuración flexibles de la herramienta de citas, puede adaptar su formulario de forma individual a sus necesidades.\nLos siguientes sectores utilizan Bookingflix:\nPeluquerías, compañías de seguros, talleres, asesoramiento, estudios de tatuajes, consultas médicas y farmacias, naturopatía y terapias alternativas, centros de pruebas y vacunación, artesanía, belleza, bienestar y masajes, centros deportivos y gimnasios, restaurantes y pubs, fotógrafos, ocio y diversión, escuelas, centros educativos, alquileres y gestión inmobiliaria, comercio minorista, oficinas cívicas y administración, museos y exposiciones.",
 			"link": {
-				"1": ""
+				"1": "[Sectores] (https://bookingflix.es/branches/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Para qué sectores es apropiada la reserva de citas a través de Bookingflix?",
+			"tags": "Generalidades"
 		},
 		"Einstellungen-1": {
-			"answer": "",
+			"answer": "Sí, puede transferir calendarios individuales de reservas de citas a los empleados. De este modo, tienen acceso a los datos de las citas. Los datos se pueden descargar en forma de archivos PDF y CSV. También pueden confirmar, cancelar y cambiar citas. Los ajustes adicionales sólo pueden ser realizados por el administrador. Esto incluye la creación o eliminación de un calendario de reservas de citas, la compra de créditos de SMS para enviar recordatorios de citas y el acceso a otros calendarios de reservas de citas.",
 			"link": {
-				"1": ""
+				"1": "[Transferir la gestión del calendario a un tercero o al personal] (https://bookingflix.es/support/documentation/shareCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Tiene Bookingflix una gestión de derechos para que el respectivo representante o empleado pueda asumir la gestión de la cita?",
+			"tags": "Ajustes"
 		},
 		"Einstellungen-16": {
-			"answer": "",
+			"answer": "Sí, los siguientes correos electrónicos del sistema se pueden personalizar: confirmación, cancelación, verificación, recordatorio de cita",
 			"link": {
-				"1": ""
+				"1": "[Editar textos de correo electrónico] (https://bookingflix.es/support/documentation/editMails/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Se pueden personalizar los textos de los correos electrónicos del sistema?",
+			"tags": "Ajustes"
 		},
 		"Einstellungen-17": {
-			"answer": "",
+			"answer": "Sí, es posible. El envío se hará entonces a través de su propio proveedor de correo electrónico. Tenga en cuenta que el envío de un gran número de correos electrónicos puede considerarse como spam. Por lo tanto, póngase en contacto con su proveedor de correo electrónico si se va a enviar un gran número de correos electrónicos como parte de la reserva de la cita.",
 			"link": {
-				"1": ""
+				"1": "[Enviar los correos del sistema con su propia dirección de correo] (https://bookingflix.es/support/documentation/ownMailbox/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Se pueden enviar los correos del sistema (confirmación, cancelación) desde su propia dirección de correo?",
+			"tags": "Ajustes"
 		},
 		"Einstellungen-21": {
-			"answer": "",
+			"answer": "Esta función está disponible en el área de inicio de sesión en Ajustes/Ajustes predeterminados.",
 			"link": {
-				"1": ""
+				"1": "[Fijar las vacaciones y los días libres] (https://bookingflix.es/support/documentation/holidays/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo puedo fijar los periodos de vacaciones y los días festivos?",
+			"tags": "Ajustes"
 		},
 		"Einstellungen-35": {
-			"answer": "",
+			"answer": "Esta función está disponible en el Tablero de mando en Ajustes/Ajustes predeterminados/Enlazar varios calendarios.",
 			"link": {
-				"1": ""
+				"1": "[Conectar calendarios] (https://bookingflix.es/support/documentation/connectCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo puedo enlazar varios calendarios?",
+			"tags": "Ajustes"
 		},
 		"Einstellungen-49": {
-			"answer": "",
+			"answer": "Esta función está disponible en el tablero de mando a través de la sección Ajustes/Días libres y vacaciones.",
 			"link": {
-				"1": ""
+				"1": "[Fijar las vacaciones y los días libres] (https://bookingflix.es/support/documentation/holidays/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo crear un día libre?",
+			"tags": "Ajustes"
 		},
 		"Einstellungen-50": {
-			"answer": "",
+			"answer": "Esta función está disponible en el tablero de mando a través de la sección Ajustes/Días libres y vacaciones.",
 			"link": {
-				"1": ""
+				"1": "[Fijar las vacaciones y los días libres] (https://bookingflix.es/support/documentation/holidays/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo crear períodos de vacaciones?",
+			"tags": "Ajustes"
 		},
 		"Einstellungen-84": {
-			"answer": "",
+			"answer": "En este caso, recomendamos uno o varios calendarios de reserva de citas para cada sucursal. O incluso una cuenta de Bookingflix separada para cada sucursal. Esto aumenta significativamente la claridad.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Crear un calendario de reserva de citas para los servicios] (https://bookingflix.es/support/documentation/serviceCalendar/)",
+				"2": "[Crear un calendario de reserva de citas para un horario de apertura fijo] (https://bookingflix.es/support/documentation/businessCalendar/)",
+				"3": "[Crear un calendario de reserva de citas para eventos concretos] (https://bookingflix.es/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Tenemos varias sucursales. ¿Cuál es la mejor manera de organizar esto con Bookingflix?",
+			"tags": "Ajustes"
 		},
 		"Einstellungen-85": {
-			"answer": "",
+			"answer": "En este caso, deberá crear un calendario de reserva de de cita distinto para cada empleado o para cada servicio. A continuación, puede enlazarlos o publicarlos por separado en su propio sitio web. De este modo, el cliente puede seleccionar primero el servicio (o calendario) deseado y luego reservarlo.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Conectar calendarios]  (https://bookingflix.es/support/documentation/connectCalendar/)",
+				"2": "[Crear un calendario de reserva de citas para los servicios] (https://bookingflix.es/support/documentation/serviceCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Tenemos varios empleados que realizan diferentes servicios. ¿Cuál es la mejor manera de organizarlo?",
+			"tags": "Ajustes"
 		},
 		"Einstellungen-112": {
-			"answer": "",
+			"answer": "Los días festivos se pueden guardar fácilmente con un clic del ratón. Estos días se bloquean para su reserva. También se pueden desactivar los días festivos individuales si se desea. Entonces será posible volver a reservar una cita allí. ",
 			"link": {
-				"1": ""
+				"1": "[Fijar las vacaciones y los días libres] (https://bookingflix.es/support/documentation/holidays/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Es posible excluir los días festivos de la reserva de citas?",
+			"tags": "Ajustes"
 		},
 		"Mailversand-70": {
-			"answer": "",
+			"answer": "Esta función está disponible en el área de inicio de sesión en Perfil/Crear la propia caja de correo electrónico.",
 			"link": {
-				"1": ""
+				"1": "[Enviar correos del sistema con la propia dirección de correo] (https://bookingflix.es/support/documentation/ownMailbox/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo enviar los correos del sistema con mi propia dirección de correo electrónico?",
+			"tags": "Envío de correo"
 		},
 		"Mailversand-89": {
-			"answer": "",
+			"answer": "Posiblemente el cliente haya introducido una dirección de correo electrónico incorrecta. O el correo electrónico ha aterrizado en la carpeta de spam. Puede tener sentido, especialmente con un alto volumen de correo, enviar los correos del sistema a través de su propia dirección de correo electrónico. Los correos del sistema, como los recordatorios de citas, ya no se envían a través del servidor de Bookingflix.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Recordatorio de citas por correo electrónico] (https://bookingflix.es/support/documentation/emailReminder/)",
+				"2": "[Enviar correos del sistema con la propia dirección de correo] (https://bookingflix.es/support/documentation/ownMailbox/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "El recordatorio de la cita por correo electrónico no ha llegado. ¿Cómo se explica esto?",
+			"tags": "Envío de correo"
 		},
 		"Mailversand-90": {
-			"answer": "",
+			"answer": "Posiblemente el cliente haya introducido una dirección de correo electrónico incorrecta. O el correo electrónico ha aterrizado en la carpeta de spam. Puede tener sentido, especialmente con un alto volumen de correo, enviar los correos del sistema a través de su propia dirección de correo electrónico. Los correos del sistema, como la confirmación de la cita y el correo electrónico de verificación, ya no se envían a través del servidor de Bookingflix. Para citas muy importantes, también recomendamos confirmar la cita por SMS. Esto aumenta aún más la fiabilidad de la cita.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Enviar la confirmación de la cita por correo a los clientes de forma manual y automática] (https://bookingflix.es/support/documentation/confirmation/)",
+				"2": "[Enviar correos del sistema con la propia dirección de correo] (https://bookingflix.es/support/documentation/ownMailbox/)",
+				"3": "[Confirmación de cita por SMS] (https://bookingflix.es/support/documentation/smsConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "La confirmación de la cita por correo electrónico no ha llegado. ¿Cómo se explica esto?",
+			"tags": "Envío de correo"
 		},
 		"Mailversand-115": {
-			"answer": "",
+			"answer": "Bookingflix le ofrece la posibilidad de crear su propia caja de correo electrónico. De este modo, todas las confirmaciones, cancelaciones y recordatorios de citas relacionados con el correo electrónico se envían a través de su buzón. Sus clientes verán su dirección de correo electrónico como remitente.\n\nRecomendamos esta función para los proveedores de servicios que programan muchas citas a través de Bookingflix.com. De este modo, puede manejar el tema de los \"problemas de spam al enviar correos electrónicos\" por su cuenta. El nombre de usuario, la contraseña, etc. pueden obtenerse de su proveedor de correo electrónico, del administrador del dominio o del webmaster.\n\nPor razones técnicas, los datos de acceso SMTP, incluida la contraseña, deben almacenarse en nuestra base de datos. La contraseña tiene que ser enviada junto con la conexión del servidor al servidor de correo electrónico, esto excluye una encriptación de la contraseña. Por lo tanto, asegúrese de utilizar un buzón de correo electrónico adicional especialmente para Bookingflix, por ejemplo, terminbenachrichtigung@firma-xyz.de, con una contraseña de un solo uso que sea lo más segura posible. No se debe gestionar ningún otro tráfico de correo en el buzón utilizado. Además, recomendamos cambiar la contraseña de acceso regularmente, por ejemplo cada 4 semanas, y volver a depositarla en Bookingflix.\n\nDespués de guardar los datos de acceso SMTP, el envío de correos electrónicos se iniciará directamente a través de su servidor de correo. Usted es responsable de la estabilidad y accesibilidad de su servidor de correo. No tenemos ninguna influencia sobre esto y no podemos ofrecer ninguna ayuda o garantía. Consulte previamente a su proveedor/administrador de correo electrónico sobre la admisibilidad y las estimaciones de capacidad de los correos electrónicos masivos, así como sobre la posible supervisión/restricciones al respecto (por ejemplo, filtros de spam, etc.). ",
 			"link": {
-				"1": ""
+				"1": "[Enviar correos del sistema con la propia dirección de correo] (https://bookingflix.es/support/documentation/ownMailbox/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo configurar mi propio buzón de correo electrónico?",
+			"tags": "Envío de correo"
 		},
 		"Rechtliches-56": {
-			"answer": "",
+			"answer": "No podemos ni debemos ofrecer asesoramiento jurídico en relación con su información sobre protección de datos.\nSin embargo, ponemos a su disposición textos estándar. Por favor, compruébelos y adáptelos.",
 			"link": {
-				"1": ""
+				"1": "[Vídeo: Cambio de pie de imprenta, CGV y datos de protección de datos] (https://bookingflix.es/support/video/704029542/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Qué información de protección de datos tengo que proporcionar al utilizar Bookingflix?",
+			"tags": "Términos y condiciones"
 		},
 		"Rechtliches-57": {
-			"answer": "",
+			"answer": "Los servidores se encuentran en Fráncfort del Meno. No se almacenan datos en servidores fuera de Alemania.",
 			"link": {
-				"1": ""
+				"1": "[RGPD y cumplimiento de la protección de datos] (https://bookingflix.es/features/privacy/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Dónde se encuentran los servidores de Bookingflix?",
+			"tags": "Términos y condiciones"
 		},
 		"Rechtliches-58": {
-			"answer": "",
+			"answer": "Puede solicitarlo por correo electrónico: support@bookingflix.com\nPor favor, envíenos la dirección de su empresa y el nombre de su cuenta de Bookingflix.",
 			"link": {
-				"1": ""
+				"1": "[RGPD y cumplimiento de la protección de datos] (https://bookingflix.es/features/privacy/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo obtener un contrato de procesamiento de datos de Bookingflix?",
+			"tags": "Términos y condiciones"
 		},
 		"Rechtliches-59": {
-			"answer": "",
+			"answer": "Almacenamos los datos de su cuenta y los datos de las citas de sus clientes. Por ejemplo, si sus clientes introducen una dirección al reservar una cita, estos datos también se almacenan. Los servidores se encuentran en Alemania. El periodo de eliminación automática es de 30 días. La eliminación anterior es posible en cualquier momento. Sus clientes también pueden eliminar los datos de la cita en cualquier momento o eliminar o cancelar la cita.",
 			"link": {
-				"1": ""
+				"1": "[RGPD y cumplimiento de la protección de datos] (https://bookingflix.es/features/privacy/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Qué datos procesa Bookingflix?",
+			"tags": "Términos y condiciones"
 		},
 		"Rechtliches-91": {
-			"answer": "",
+			"answer": "Por regla general, sólo se deben pedir los datos necesarios para la cita y para concertarla. Sólo pida la dirección y otros datos personales si es realmente necesario. Esta reducción a las consultas esenciales también está prevista en el GDPR. También debe abstenerse de pedir datos médicos.  No podemos ni debemos dar una valoración exacta. Por lo tanto, estas declaraciones deben considerarse generales, sin relevancia jurídica. Si es necesario, se debe consultar al encargado de la protección de datos. Los datos de las citas son procesados por Bookingflix y almacenados en servidores alemanes. Con mucho gusto le enviaremos un contrato de procesamiento de datos del pedido.",
 			"link": {
-				"1": ""
+				"1": "[Protección de datos] (https://bookingflix.es/privacy/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Existen datos sensibles de los clientes que no debo consultar al reservar una cita?",
+			"tags": "Términos y condiciones"
 		},
 		"Rechtliches-96": {
-			"answer": "",
+			"answer": "Sí, Bookingflix se ha desarrollado estrictamente según el RGPD. El proceso de reserva ya está orientado a estos requisitos. Los datos de las citas se procesan y almacenan en servidores de Alemania. El periodo de eliminación es de 30 días. Sin embargo, sus clientes también pueden eliminar los datos por sí mismos antes. Usted, como proveedor de servicios, también puede eliminar todos los datos en cualquier momento. Con mucho gusto le enviaremos un contrato de procesamiento de datos del pedido. Sus datos y los de sus clientes no se transmitirán a terceros. Todos los datos están protegidos por los últimos métodos de encriptación. Para más información, consulte nuestras normas de protección de datos y el contrato de procesamiento de datos del pedido. Estaremos encantados de enviarle un borrador del contrato para que lo vea. Escriba a support@bookingflix.com.",
 			"link": {
-				"1": ""
+				"1": "[Protección de datos] (https://bookingflix.es/privacy/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Es compatible la reserva de citas a través de Bookingflix con el RGPD europeo?",
+			"tags": "Términos y condiciones"
 		},
 		"Support-76": {
-			"answer": "",
+			"answer": "Todos los vídeos explicativos, seminarios web e instrucciones están disponibles en el área de soporte: https://bookingflix.es/support\nTambién estaremos encantados de ayudarle a través del chat (https://bookingflix.es/support/chat/) o del correo electrónico (support@bookingflix.com).",
 			"link": {
-				"1": ""
+				"1": "[Asistencia técnica] (https://bookingflix.es/support/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Dónde encontrar vídeos explicativos e instrucciones sobre las funciones de Bookingflix?",
+			"tags": "Asistencia técnica"
 		},
 		"Technisches-30": {
-			"answer": "",
+			"answer": "Una vez que se ha reservado y confirmado una cita, la franja horaria ya no está disponible. Si hay varias citas disponibles por franja horaria, se bloqueará una de ellas. Si una cita reservada aún no ha sido verificada por el cliente (haciendo clic en el enlace de verificación), la cita también permanecerá bloqueada hasta que expire el periodo de verificación. De esta forma se evita el exceso de reservas en la franja horaria de la cita. Si se cancela una cita, el espacio de la misma se desbloquea automática e inmediatamente y se puede volver a reservar. Al introducir manualmente una cita, es posible comprobar si ya se ha introducido una cita y si existe riesgo de exceso de reservas.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Introducir las citas manualmente] (https://bookingflix.es/support/documentation/addAppointment/)",
+				"2": "[Confirmación automática de citas] (https://bookingflix.es/support/documentation/appointmentConfirmation/)",
+				"3": "[Verificación según el RGPD] (https://bookingflix.es/support/documentation/verify/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo se evita el exceso de reservas?",
+			"tags": "Aspectos técnicos"
 		},
 		"Technisches-73": {
-			"answer": "",
+			"answer": "Sus clientes pueden reservar una cita a través de cualquier dispositivo con acceso a Internet. Es decir, con un PC, un teléfono inteligente y una tableta.\nPor ello, Bookingflix está optimizado para móviles y el diseño de la web es responsivo.",
 			"link": {
-				"1": ""
+				"1": "[Características] (https://bookingflix.es/features/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Qué dispositivos se pueden utilizar para reservar las citas?",
+			"tags": "Aspectos técnicos"
 		},
 		"Technisches-74": {
-			"answer": "",
+			"answer": "Puede utilizar Bookingflix a través de cualquier dispositivo con acceso a Internet. Es decir, con un ordenador, un teléfono inteligente y una tableta.\nPor ello, Bookingflix está optimizado para móviles y el diseño de la web es responsivo.",
 			"link": {
-				"1": ""
+				"1": "[Gestión de citas] (https://bookingflix.es/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Qué dispositivos puedo utilizar para gestionar los datos de mi cuenta y mis citas?",
+			"tags": "Aspectos técnicos"
 		},
 		"Technisches-86": {
-			"answer": "",
+			"answer": "Esto todavía no es posible. Pero estamos trabajando para lograrlo. Posteriormente, las citas pueden reservarse a cambio de una tasa.",
 			"link": {
-				"1": ""
+				"1": "[Sobre nosotros] (https://bookingflix.es/about-us/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Podemos incluir un servicio de pago al reservar una cita?",
+			"tags": "Aspectos técnicos"
 		},
 		"Technisches-109": {
-			"answer": "",
+			"answer": "Todavía no. Sin embargo, Bookingflix también puede funcionar bien en teléfonos inteligentes y tabletas. Por lo tanto, una aplicación no es absolutamente necesaria.",
 			"link": {
-				"1": ""
+				"1": "[Características] (https://bookingflix.es/features/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Hay una app para Bookingflix?",
+			"tags": "Aspectos técnicos"
 		},
 		"Technisches-111": {
-			"answer": "",
+			"answer": "Las reglas de descanso se pueden añadir a través del asistente de citas. Si se define una pausa, no puede haber citas en ella.  Porque no se puede tener un descanso y mantener una cita al mismo tiempo.  No se puede reservar ninguna cita con una franja horaria de descanso.",
 			"link": {
-				"1": ""
+				"1": "[Crear un calendario de reserva de citas para un horario de apertura fijo] (https://bookingflix.es/support/documentation/businessCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo se calcula el tiempo de descanso?",
+			"tags": "Aspectos técnicos"
 		},
 		"Technisches-113": {
-			"answer": "",
+			"answer": "Para eliminar el marco exterior de color del calendario integrado a través de javascript, añada el siguiente código fuente en la HEAD de su sitio web:\n\n<input class=\"form-control\" type=\"text\" value=\"<style>hit-calendar .app .stage { border: 0!important; }</style>\">",
 			"link": {
 				"1": ""
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo quitar el marco exterior coloreado del calendario integrado?",
+			"tags": "Aspectos técnicos"
 		},
 		"Technisches-114": {
-			"answer": "",
+			"answer": "Bookingflix ofrece actualmente dos variantes de incrustación: JAVASCRIPT e IFRAME. La tecnología IFRAME crea una ventana en el sitio web del cliente. En esta ventana se puede visualizar el calendario de citas. En este caso, el calendario de citas se calcula y se prepara gráficamente en el servidor de Bookingflix. El sitio web del cliente y el calendario generado no tienen contacto directo, sino que están separados por un \"cristal virtual\", por así decirlo. Esto significa que las especificaciones de estilo de la página web del cliente no pueden influir en la visualización de la agenda, como mucho en el diseño del marco de la ventana.\nLa segunda variante es JAVASCRIPT. En este caso, el calendario se crea directamente en el sitio web del cliente, teletransportado allí, por así decirlo. El texto fuente está directamente vinculado al sitio web del cliente. Las especificaciones de estilo del cliente pueden influir. Esto hace posible, por ejemplo, que: Sobrescribir los colores, el diseño y las fuentes.\n\nNormalmente, recomendamos el código JAVASCRIPT porque, por ejemplo, elimina el a veces molesto \"marco de ventana\" (iframe) y tiene algunas otras ventajas técnicas. Sin embargo, si el diseño se ve influido negativamente por las directrices de estilo de su propio sitio web, entonces tendrá que ajustar ligeramente las directrices de estilo del sitio web para que el calendario quede fuera -o crear directrices de estilo especiales para el calendario en CSS- o utilizar la tecnología IFRAME.",
 			"link": {
-				"1": ""
+				"1": "[Código de incrustación/ código de widget] (https://bookingflix.es/support/documentation/embed/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cuál es la diferencia entre la incrustación IFRAME y JAVASCRIPT?",
+			"tags": "Aspectos técnicos"
 		},
 		"Technisches-117": {
-			"answer": "",
+			"answer": "En el archivo CSV, los números de teléfono están todos contenidos según las entradas de la base de datos que se han realizado. Así, el cliente puede introducir su número de teléfono en diferentes formatos. En las secuencias numéricas puras, el cero inicial se trunca. Sin embargo, el campo puede definirse posteriormente como un campo de número de teléfono en Excel.",
 			"link": {
-				"1": ""
+				"1": "[Vídeo: Descargar los datos de las citas en csv, pdf] (https://bookingflix.es/support/video/701936872/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Por qué los números de teléfono tienen un formato incorrecto? ¿Por qué aparecen siempre sin un cero inicial?",
+			"tags": "Aspectos técnicos"
 		},
 		"Technisches-118": {
-			"answer": "",
+			"answer": "Hay que cambiar los ajustes de importación para que los caracteres especiales se importen correctamente.",
 			"link": {
-				"1": ""
+				"1": "[Vídeo: Descargar los datos de las citas en csv, pdf] (https://bookingflix.es/support/video/701936872/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Por qué los caracteres especiales (como la é, la ñ, etc.) aparecen de forma ilegible después de la exportación?",
+			"tags": "Aspectos técnicos"
 		},
 		"Technisches-119": {
-			"answer": "",
+			"answer": "El número de teléfono y la dirección de correo electrónico son campos especiales, por eso se resaltan en la tabla CSV. Incluso si crea otros campos con un nombre similar o igual. No modifique los campos de número de teléfono y dirección de correo electrónico. Opcionalmente, se puede eliminar el campo del número de teléfono. No es un campo obligatorio. La consulta de la dirección de correo electrónico es obligatoria para la cita con Bookingflix.",
 			"link": {
-				"1": ""
+				"1": "[Vídeo: Descargar los datos de las citas en csv, pdf] (https://bookingflix.es/support/video/701936872/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Por qué los campos de número de teléfono y dirección de correo electrónico aparecen dos veces?",
+			"tags": "Aspectos técnicos"
 		},
 		"Terminbuchung-40": {
-			"answer": "",
+			"answer": "Sólo un cliente a la vez puede reservar un servicio al mismo tiempo a través del calendario de reserva de citas para diferentes servicios. Si desea que se puedan reservar diferentes servicios al mismo tiempo, será posible a través de varios calendarios de reserva de citas que se enlazan el uno con el otro. Se define un servicio por calendario. Estos calendarios están conectados entre sí. De este modo, el cliente puede seleccionar primero el servicio deseado (y el calendario correspondiente), luego seleccionar la franja horaria de la cita y a continuación introducir los datos como el correo electrónico y el nombre.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Crear un calendario de reserva de citas para los servicios] (https://bookingflix.es/support/documentation/serviceCalendar/)",
+				"2": "[Conectar calendarios] (https://bookingflix.es/support/documentation/connectCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Pueden varios clientes reservar citas para diferentes servicios al mismo tiempo?",
+			"tags": "Reserva de citas"
 		},
 		"Terminbuchung-42": {
-			"answer": "",
+			"answer": "Esta función está disponible en el tablero de mando a través del botón Añadir cita.",
 			"link": {
-				"1": ""
+				"1": "[Crear citas recurrentes]  (https://bookingflix.es/support/documentation/serialAppointments/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo crear manualmente citas recurrentes múltiples para mis clientes?",
+			"tags": "Reserva de citas"
 		},
 		"Terminbuchung-45": {
-			"answer": "",
+			"answer": "En cuanto se haya reservado y confirmado una cita, ésta dejará de estar disponible. Si hay varias citas disponibles por franja horaria, se bloqueará una de ellas. Si una cita reservada aún no ha sido verificada por el cliente (haciendo clic en el enlace de verificación), la cita también permanecerá bloqueada hasta que el periodo de verificación haya expirado. La cita que aún no ha sido verificada no aparecerá en su tablero hasta que el cliente la haya verificado. De esta forma se evita el exceso de reservas en la franja horaria de la cita. Si se cancela una cita, el espacio de la misma se desbloquea automática e inmediatamente y se puede volver a reservar. Al introducir manualmente una cita, se puede comprobar si ya se ha introducido una cita y si hay riesgo de exceso de reservas.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Introducir las fechas manualmente] (https://bookingflix.es/support/documentation/addAppointment/)",
+				"2": "[Confirmación automática de citas] (https://bookingflix.es/support/documentation/appointmentConfirmation/)",
+				"3": "[Verificación según el RGPD] (https://bookingflix.es/support/documentation/verify/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Una franja horaria ya no se puede reservar para mis clientes. Pero, en realidad, todavía debería haber una cita libre. ¿Por qué no aparece la cita en mi tablero de mando?",
+			"tags": "Reserva de citas"
 		},
 		"Terminbuchung-48": {
-			"answer": "",
+			"answer": "Su cliente puede descargar el PDF de la cita con el código QR a través del enlace de la cita personal. Su cliente recibe este enlace con la confirmación de la cita por correo electrónico.",
 			"link": {
-				"1": ""
+				"1": "[Enlace a la cita y zona de inicio de sesión del cliente] (https://bookingflix.es/support/documentation/clientLogin/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Dónde puede encontrar mi cliente el PDF con el código QR de la cita reservada?",
+			"tags": "Reserva de citas"
 		},
 		"Terminbuchung-66": {
-			"answer": "",
+			"answer": "Sí, esto es posible. Para ello, cree el correspondiente campo de formulario Reserva de grupo al crear el calendario de reserva de citas. Al reservar, el cliente puede especificar cuántas personas participarán en la cita. El número correspondiente se tiene en cuenta y se deduce del contingente disponible (número de plazas por franja horaria).",
 			"link": {
-				"1": ""
+				"1": "[Campo del formulario de reserva de grupo] (https://bookingflix.es/support/documentation/bookingGroup/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Puede un cliente reservar una cita de grupo para varias personas?",
+			"tags": "Reserva de citas"
 		},
 		"Terminbuchung-67": {
-			"answer": "",
+			"answer": "Sí, el número correspondiente se tiene en cuenta y se deduce del contingente disponible (número de plazas por franja horaria). Así, si sus clientes reservan una cita de grupo para tres personas, estas tres plazas quedan reservadas y ya no están disponibles para otras reservas dentro de la misma franja horaria. El número de grupos puede ser ajustado posteriormente por el cliente y por usted en cualquier momento.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Campo del formulario de reserva de grupo] (https://bookingflix.es/support/documentation/bookingGroup/)",
+				"2": "[Gestión de citas] (https://bookingflix.es/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Se tiene en cuenta el número de plazas reservadas para una reserva de grupo?",
+			"tags": "Reserva de citas"
 		},
 		"Terminbuchung-71": {
-			"answer": "",
+			"answer": "Sí, esta función está disponible en el área de inicio de sesión en Ajustes/Editar notificaciones de citas.\nAsí, es posible enviar automáticamente al cliente una confirmación de la cita por SMS. Esto puede aumentar aún más la fiabilidad de las citas. Una confirmación de cita por SMS también garantiza que los clientes que consultan su correo electrónico de forma irregular sean informados inmediatamente de la confirmación de la cita. Para enviar los SMS se necesitan créditos SMS. Se pueden adquirir en el tablero de mando.",
 			"link": {
-				"1": ""
+				"1": "[Confirmación de cita por SMS] (https://bookingflix.es/support/documentation/smsConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Se pueden confirmar las citas también por SMS?",
+			"tags": "Reserva de citas"
 		},
 		"Terminbuchungskalender-20": {
-			"answer": "",
+			"answer": "Bookingflix ofrece tres calendarios diferentes para reservar citas.\n\nCalendario de reserva de citas para los horarios de apertura fijos:\nUtilice este calendario si tiene un negocio con un horario de apertura regular. Al configurarlo, puede, por ejemplo, definir los horarios de apertura, los horarios de descanso y la duración de las franjas horarias de las citas.\n\nCalendario de reserva de citas para eventos concretos:\nUtilice este calendario si quiere ofrecer eventos individuales. Al configurarlo, puede, por ejemplo, definir las fechas de los eventos y el número máximo de participantes.\n\nCalendario de reserva de citas para los servicios:\nUtilice este calendario si quiere ofrecer diferentes servicios. Por ejemplo, puede definir los servicios individuales al configurarlos. Se puede definir un precio y una imagen para cada servicio.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Crear un calendario de reserva de citas para eventos concretos] (https://bookingflix.es/support/documentation/eventCalendar/)",
+				"2": "[Crear un calendario de reserva de citas para los servicios] (https://bookingflix.es/support/documentation/serviceCalendar/)",
+				"3": "[Crear un calendario de reserva de citas para un horario de apertura fijo] (https://bookingflix.es/support/documentation/businessCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cuál es el calendario de reservas más eficaz para mi empresa?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-25": {
-			"answer": "",
+			"answer": "Al crear un calendario de reserva de citas, puede determinar opcionalmente que sus clientes reciban un correo electrónico después de la cita con una solicitud de valoración. La pregunta puede formularse de forma individual. La publicación de la valoración puede activarse y desactivarse opcionalmente.",
 			"link": {
-				"1": ""
+				"1": "[Obtener e integrar automáticamente los comentarios de clientes] (https://bookingflix.es/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo puedo recibir los comentarios de clientes a través de Bookingflix? ¿Se hace automáticamente?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-28": {
-			"answer": "",
+			"answer": "Sí, para este fin está disponible un calendario de reserva de citas para los servicios. Utilice este calendario si quiere ofrecer diferentes servicios. Por ejemplo, puede definir los servicios individuales al configurarlos. Se puede definir un precio y una imagen para cada servicio.",
 			"link": {
-				"1": ""
+				"1": "[Crear un calendario de reserva de citas para los servicios] (https://bookingflix.es/support/documentation/serviceCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Se pueden ofrecer diferentes servicios a través del calendario de reserva de citas?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-29": {
-			"answer": "",
+			"answer": "Esta función está disponible en Inicio rápido y en el Tablero de Mando en Ajustes/Crear nuevo calendario de citas.",
 			"link": {
-				"1": ""
+				"1": "[Crear un calendario de reserva de citas para los servicios] (https://bookingflix.es/support/documentation/serviceCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo funciona la creación de diferentes servicios (precio, duración de la cita)?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-34": {
-			"answer": "",
+			"answer": "Esta función está disponible en Inicio rápido y en el Tablero de Mando en Ajustes/Crear nuevo calendario de citas.",
 			"link": {
-				"1": ""
+				"1": "[Crear un calendario de reserva de citas para eventos concretos] (https://bookingflix.es/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo crear un evento concreto?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-36": {
-			"answer": "",
+			"answer": "Esta función está disponible en Inicio rápido y en el Tablero de Mando en Ajustes/Crear nuevo calendario de citas.",
 			"link": {
-				"1": ""
+				"1": "[Herramienta de videoconferencia OnBoard] (https://bookingflix.es/support/documentation/webinarTool/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo crear una videoconferencia a través de Bookingflix?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-39": {
-			"answer": "",
+			"answer": "Esta función está disponible en Inicio rápido y en el Tablero de Mando en Ajustes/Crear nuevo calendario de citas.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Crear un calendario de reserva de citas para eventos concretos] (https://bookingflix.es/support/documentation/eventCalendar/)",
+				"2": "[Crear un calendario de reserva de citas para los servicios] (https://bookingflix.es/support/documentation/serviceCalendar/)",
+				"3": "[Crear un calendario de reserva de citas para un horario de apertura fijo] (https://bookingflix.es/support/documentation/businessCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo crear un calendario de reserva de citas?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-41": {
-			"answer": "",
+			"answer": "Sólo un cliente a la vez puede reservar un servicio al mismo tiempo a través del calendario de reserva de citas para diferentes servicios. Si desea que se puedan reservar diferentes servicios al mismo tiempo, será posible a través de varios calendarios de reserva de citas que se enlazan el uno con el otro. Se define un servicio por calendario. Estos calendarios están conectados entre sí. De este modo, el cliente puede seleccionar primero el servicio deseado (y el calendario correspondiente), luego seleccionar la franja horaria de la cita y a continuación introducir los datos como el correo electrónico y el nombre.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Crear un calendario de reserva de citas para los servicios] (https://bookingflix.es/support/documentation/serviceCalendar/)",
+				"2": "[Conectar calendarios] (https://bookingflix.es/support/documentation/connectCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Se pueden ofrecer varias citas al mismo tiempo a través del calendario para diferentes servicios?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-46": {
-			"answer": "",
+			"answer": "Por favor, defina la duración de las citas de tal manera que haya tiempo suficiente para la preparación incluso en el caso de una cita de seguimiento directo. Al crear las franjas horarias de las citas, puede determinar que la siguiente cita sólo pueda tener lugar en el siguiente cuarto de hora, media hora o hora completa. De este modo, se pueden determinar unos intervalos de tiempo entre las citas.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Crear un calendario de reserva de citas para los servicios] (https://bookingflix.es/support/documentation/serviceCalendar/)",
+				"2": "[Crear un calendario de reserva de citas para un horario de apertura fijo] (https://bookingflix.es/support/documentation/businessCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Puedo insertar un intervalo de tiempo entre dos citas?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-69": {
-			"answer": "",
+			"answer": "En el calendario de reserva de citas para los horarios de apertura fijos y para los servicios, se pueden establecer las siguientes duraciones de las citas: 5 minutos, 10 minutos, 15 minutos, 30 minutos, 45 minutos, 60 minutos, 90 minutos, dos horas, tres horas, cuatro horas.\nCon el calendario de reserva de citas para eventos concretos, la duración del evento puede determinarse de forma individual.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Crear un calendario de reserva de citas para los servicios] (https://bookingflix.es/support/documentation/serviceCalendar/)",
+				"2": "[Crear un calendario de reserva de citas para un horario de apertura fijo] (https://bookingflix.es/support/documentation/businessCalendar/)",
+				"3": "[Crear un calendario de reserva de citas para eventos concretos] (https://bookingflix.es/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Qué duración de la cita puedo establecer?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-77": {
-			"answer": "",
+			"answer": "Sí, esta función está disponible en el área de inicio de sesión en Ajustes/Editar calendario de citas y al crear un nuevo calendario de reserva de citas.",
 			"link": {
-				"1": ""
+				"1": "[Confirmación automática de citas] (https://bookingflix.es/support/documentation/appointmentConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Se pueden confirmar automáticamente las reservas de citas?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-80": {
-			"answer": "",
+			"answer": "Esta función está disponible en el área de inicio de sesión en Ajustes/Editar calendario de citas y al crear un nuevo calendario de reserva de citas.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Crear un calendario de reserva de citas para los servicios] (https://bookingflix.es/support/documentation/serviceCalendar/)",
+				"2": "[Crear un calendario de reserva de citas para un horario de apertura fijo] (https://bookingflix.es/support/documentation/businessCalendar/)",
+				"3": "[Crear un calendario de reserva de citas para eventos concretos] (https://bookingflix.es/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Necesito un cierto tiempo de antelación para cada cita. ¿Cómo se fija el tiempo de antelación para evitar las reservas de última hora?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-94": {
-			"answer": "",
+			"answer": "Sí, esta información es obligatoria para reservar una cita. Esto se debe a que los correos electrónicos de verificación y confirmación se envían a la dirección de correo electrónico del cliente. Sólo si se introduce la cita manualmente en el tablero de mando, se puede renuciar a la dirección de correo electrónico.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Introducir las citas manualmente] (https://bookingflix.es/support/documentation/addAppointment/)",
+				"2": "[Verificación según el RGPD] (https://bookingflix.es/support/documentation/verify/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Tengo que pedir la dirección de correo electrónico de mis clientes al reservar una cita?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-95": {
-			"answer": "",
+			"answer": "No, esta consulta no es absolutamente necesaria. Pedir el número de teléfono móvil tiene sentido, sobre todo si necesita contactar con el cliente por teléfono con antelación. Por ejemplo, para una llamada o para enviar recordatorios automáticos de citas por SMS. La confirmación de la cita también se puede enviar por SMS.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Recordatorio de cita por SMS] (https://bookingflix.es/support/documentation/smsReminder/)",
+				"2": "[Confirmación de cita por SMS] (https://bookingflix.es/support/documentation/smsConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Tengo que pedir el número de teléfono móvil de mis clientes al reservar una cita?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-97": {
-			"answer": "",
+			"answer": "Esta función está disponible en el área de inicio de sesión en Ajustes/Editar calendario de citas y al crear un nuevo calendario de reserva de citas.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Crear un calendario de reserva de citas para los servicios] (https://bookingflix.es/support/documentation/serviceCalendar/)",
+				"2": "[Crear un calendario de reserva de citas para un horario de apertura fijo] (https://bookingflix.es/support/documentation/businessCalendar/)",
+				"3": "[Crear un calendario de reserva de citas para eventos concretos] (https://bookingflix.es/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "El calendario de reserva de citas debe mostrarse con nuestros colores corporativos. ¿Es posible?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-100": {
-			"answer": "",
+			"answer": "Esta función está disponible en el área de inicio de sesión en Ajustes/Editar calendario de citas y al crear un nuevo calendario de reserva de citas.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Crear un calendario de reserva de citas para los servicios] (https://bookingflix.es/support/documentation/serviceCalendar/)",
+				"2": "[Crear un calendario de reserva de citas para un horario de apertura fijo] (https://bookingflix.es/support/documentation/businessCalendar/)",
+				"3": "[Crear un calendario de reserva de citas para eventos concretos] (https://bookingflix.es/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo enlazar la dirección de mi empresa en el calendario de reserva de citas con Google Maps?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-106": {
-			"answer": "",
+			"answer": "Esta función está disponible en el área de inicio de sesión en Ajustes/Editar calendario de citas y al crear un nuevo calendario de reserva de citas.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": ""
+				"1": "[Crear un calendario de reserva de citas para los servicios] (https://bookingflix.es/support/documentation/serviceCalendar/)",
+				"2": "[Crear un calendario de reserva de citas para un horario de apertura fijo] (https://bookingflix.es/support/documentation/businessCalendar/)",
+				"3": "[Crear un calendario de reserva de citas para eventos concretos] (https://bookingflix.es/support/documentation/eventCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Puedo individualizar la duración de las franjas horarias?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminbuchungskalender-110": {
-			"answer": "",
+			"answer": "Bookingflix ofrece la posibilidad de almacenar varios servicios. Por ejemplo, si tiene una peluquería con diferentes empleados, cree un calendario de citas distinta para cada empleado. Dentro del calendario de citas se pueden definir los servicios correspondientes que se ofrecen: Por ejemplo, \"corte de pelo\", \"coloración\", etc.\n\nSe puede fijar el precio y la franja horaria de cada servicio. A continuación, sus clientes reservan el servicio correspondiente y la franja horaria se desactiva automáticamente para que el empleado no esté sobrecargado.\n\nLos diferentes calendarios del personal pueden combinarse como recurso para que la reserva sea muy fácil para sus clientes.",
 			"link": {
-				"1": ""
+				"1": "[Crear un calendario de reserva de citas para los servicios] (https://bookingflix.es/support/documentation/serviceCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo funcionan los servicios?",
+			"tags": "Calendario de reserva de citas"
 		},
 		"Terminerinnerungen-10": {
-			"answer": "",
+			"answer": "Sí, esto puede ser ajustado individualmente. El texto de los recordatorios por correo electrónico se puede editar. La hora de envío se puede configurar de forma independiente para los SMS y el correo electrónico.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Recordatorio de cita por SMS] (https://bookingflix.es/support/documentation/smsReminder/)",
+				"2": "[Recordatorio de citas por correo electrónico] (https://bookingflix.es/support/documentation/emailReminder/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Se pueden enviar recordatorios de citas antes de la cita, a una hora determinada?",
+			"tags": "Recordatorios de citas"
 		},
 		"Terminerinnerungen-11": {
-			"answer": "",
+			"answer": "Encontrará las funciones correspondientes en el área de inicio de sesión, en Ajustes. Puede personalizar los recordatorios por correo electrónico y SMS. Esto se refiere tanto al momento del envío como al contenido de los correos electrónicos.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Recordatorio de cita por SMS] (https://bookingflix.es/support/documentation/smsReminder/)",
+				"2": "[Recordatorio de citas por correo electrónico] (https://bookingflix.es/support/documentation/emailReminder/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo configurar los recordatorios de citas?",
+			"tags": "Recordatorios de citas"
 		},
 		"Terminerinnerungen-12": {
-			"answer": "",
+			"answer": "Enviar un SMS cuesta 16 céntimos de euro netos. Puede realizar la compra en la zona de acceso. Se necesita un crédito por SMS. La facturación se realiza a través de PayPal. Recibirá inmediatamente una factura en formato PDF por su compra. La cantidad mínima de pedido es de 100 créditos por compra.",
 			"link": {
-				"1": ""
+				"1": "[Comprar créditos SMS a través de PayPal] (https://bookingflix.es/support/documentation/smsCredits/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cuánto cuestan los recordatorios de citas por SMS y cómo se contratan?",
+			"tags": "Recordatorios de citas"
 		},
 		"Terminerinnerungen-43": {
-			"answer": "",
+			"answer": "El texto de los recordatorios de citas por SMS no se puede cambiar. Puede personalizar el texto de los recordatorios de citas por correo electrónico.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Recordatorio de cita por SMS] (https://bookingflix.es/support/documentation/smsReminder/)",
+				"2": "[Recordatorio de citas por correo electrónico] (https://bookingflix.es/support/documentation/emailReminder/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Puedo cambiar el texto de los recordatorios de citas por SMS?",
+			"tags": "Recordatorios de citas"
 		},
 		"Terminerinnerungen-88": {
-			"answer": "",
+			"answer": "Es posible que hayas agotado tu cuota de crédito de SMS. Puedes comprar nuevos créditos SMS a través de PayPal en cualquier momento. Probablemente el cliente haya introducido un número de teléfono móvil incorrecto.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Comprar créditos SMS a través de PayPal] (https://bookingflix.es/support/documentation/smsCredits/)",
+				"2": "[Recordatorio de cita por SMS] (https://bookingflix.es/support/documentation/smsReminder/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "El recordatorio de la cita por SMS no ha llegado. ¿A qué se debe esto?",
+			"tags": "Recordatorios de citas"
 		},
 		"Terminerinnerungen-116": {
-			"answer": "",
+			"answer": "El envío simultáneo de muchos correos electrónicos (confirmaciones de citas, cancelaciones de citas, recordatorios de citas) en cuestión de segundos es un mecanismo complejo.\n\nTrabajamos constantemente en soluciones para poder gestionar bien el envío de correos electrónicos ante la creciente demanda. Para ello, utilizamos un mecanismo de envío a través de diferentes servidores para evitar caer en listas negras. Además, Bookingflix utiliza una extensa herramienta de análisis que supervisa los correos electrónicos salientes. Esto puede darnos pistas de por qué no ha llegado un correo electrónico en un caso concreto.\n\nSi los recordatorios de citas no llegan, también podría tratarse de otras causas, independientemente del mecanismo de envío. Cada correo electrónico que se envía pasa por varias pruebas complejas antes de ser enviado.\n\nHe aquí algunos escenarios posibles:\n\n1. ¿Podría ser que los correos electrónicos hayan terminado en la carpeta de spam de sus clientes? No tenemos influencia en las políticas de spam de las cuentas de correo.\n\n2. Los clientes reservan una cita que comienza en 3 horas. El recordatorio de la cita está fijado para 24 horas antes de la cita. En este caso, por supuesto, no se envía ningún recordatorio de cita, porque ya estaría vencido el envío del formulario de cita.\n\n3. El envío de un recordatorio de cita está previsto, pero la dirección de correo electrónico aún no ha sido verificada. En este caso, no se enviará ningún recordatorio de cita. \n\n4. La dirección de correo electrónico debe ser diferente de la de su cuenta y de la dirección de correo electrónico de contacto almacenada en el asistente de calendario.  A los administradores de citas no se les envían recordatorios de citas, etc.",
 			"link": {
-				"1": ""
+				"1": "[Recordatorio de citas por correo electrónico] (https://bookingflix.es/support/documentation/emailReminder/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Por qué no llega un recordatorio de cita por correo electrónico?",
+			"tags": "Recordatorios de citas"
 		},
 		"Terminverwaltung-2": {
-			"answer": "",
+			"answer": "En este caso, el cliente y usted recibirán por correo electrónico una confirmación de la cancelación. Los datos se siguen almacenando en el tablero de mando y a través del enlace de la cita del cliente. Estos datos se eliminan automáticamente después de 30 días. Se puede eliminar antes en cualquier momento para su cliente y para usted. Con la cancelación de la cita, la cita reservada vuelve a ser liberada para nuevas reservas de citas.",
 			"link": {
-				"1": ""
+				"1": "[Gestión de citas] (https://bookingflix.es/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Qué ocurre si un cliente cancela su cita?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-3": {
-			"answer": "",
+			"answer": "Sí, esta función se utiliza mucho. Puede configurar Bookingflix para que el cliente reciba la confirmación inmediatamente después de la reserva. Así, el cliente no tiene que esperar a que usted confirme la cita manualmente. La reserva y la confirmación automática sólo son posibles si la cita está libre. Así se evita el exceso de reservas.",
 			"link": {
-				"1": ""
+				"1": "[Confirmación automática de citas] (https://bookingflix.es/support/documentation/appointmentConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Se pueden confirmar automáticamente las reservas de citas?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-4": {
-			"answer": "",
+			"answer": "Sí, esta función se utiliza cuando un cliente reserva una cita por teléfono. A continuación, el proveedor de servicios introduce la cita en nombre del cliente. De este modo se evita el exceso de reservas, ya que la franja horaria de la cita está ocupada por la entrada manual.",
 			"link": {
-				"1": ""
+				"1": "[Introducir las citas manualmente] (https://bookingflix.es/support/documentation/addAppointment/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Puedo insertar las citas manualmente para el cliente?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-15": {
-			"answer": "",
+			"answer": "Sí, el cliente recibe un enlace de cita personal con la confirmación de la cita. El cliente puede utilizar este enlace para cambiar o cancelar la cita. Además, toda la información de la cita está disponible a través del enlace de la cita y el cliente se puede crear su propia cuenta de Bookingflix.",
 			"link": {
-				"1": ""
+				"1": "[Enlace a la cita y zona de inicio de sesión del cliente] (https://bookingflix.es/support/documentation/clientLogin/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Puede el cliente gestionar la reserva por sí mismo (cambiar o cancelar la cita)?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-18": {
-			"answer": "",
+			"answer": "Se puede acceder a los datos de la cita a través del área de inicio de sesión hasta 30 días después de la cita. Dentro del período del plazo para la eliminación de los datos, que es de 30 días, éstos se eliminarán automáticamente. Se informará de ello con antelación en el tablero de mando. Si aún es necesario, puede guardar los datos del evento en formato PDF o CSV de antemano. La eliminación anterior es posible de forma manual en cualquier momento. Para usted y también para sus clientes.",
 			"link": {
-				"1": ""
+				"1": "[Gestión de citas] (https://bookingflix.es/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Qué ocurre con los datos de la cita después de la misma?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-19": {
-			"answer": "",
+			"answer": "Sí, puede cancelar una cita en cualquier momento. Se informará a su cliente por correo electrónico. Su cliente también puede cancelar la cita de forma independiente. En ambos casos, la franja horaria se vuelve a liberar y, por tanto, se puede reservar de nuevo.",
 			"link": {
-				"1": ""
+				"1": "[Gestión de citas] (https://bookingflix.es/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Puedo cancelar las citas, borrarlas o anular al cliente posteriormente?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-22": {
-			"answer": "",
+			"answer": "Hay una herramienta de chat disponible a través de Bookingflix. Escriba a sus clientes a través de este medio. Ellos recibirán una notificación por correo electrónico sobre su mensaje y podrán responderle directamente.",
 			"link": {
-				"1": ""
+				"1": "[Centro de mensajes con chat de clientes] (https://bookingflix.es/support/documentation/clientChat/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo contactar con el cliente antes de la cita?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-23": {
-			"answer": "",
+			"answer": "Esta función está disponible en el área de inicio de sesión en la cita respectiva.",
 			"link": {
-				"1": ""
+				"1": "[Notas de cita] (https://bookingflix.es/support/documentation/notes/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo crear una nota breve para la cita con el cliente?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-24": {
-			"answer": "",
+			"answer": "Sí, puede descargar los datos en formato CSV y PDF. Esta función está disponible en la cita respectiva, así como en la opción de menú Clientes. También puede descargar los datos del calendario en formato ICS para importarlos a su calendario estándar de Google, Apple o Microsoft.",
 			"link": {
-				"1": ""
+				"1": "[Descargar los datos de las citas (csv, pdf)] (https://bookingflix.es/support/documentation/downloadCSV/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Se pueden descargar los datos de las citas para tratarlos posteriormente?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-31": {
-			"answer": "",
+			"answer": "Sí, esta función está disponible en el área de inicio de sesión, en Ajustes/Ajustes predeterminados/ Registro de entrada y salida de clientes.",
 			"link": {
-				"1": ""
+				"1": "[Vídeo: Proceso de entrada y salida, registro de presencia, registro de ausencia] (https://bookingflix.es/support/video/701936839/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Puedo registrar a los clientes mediante el escaneo del código QR?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-37": {
-			"answer": "",
+			"answer": "El período de eliminación automática es de 30 días después de la reserva de la cita. Una eliminación anterior de los datos de las citas puede hacerse manualmente en cualquier momento en el tablero de mando. Las citas se pueden borrar por separado o todas las citas de un día determinado.",
 			"link": {
-				"1": ""
+				"1": "[Gestión de citas] (https://bookingflix.es/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cuándo se borran automáticamente los datos de las citas ( plazos para eliminarlos)?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-38": {
-			"answer": "",
+			"answer": "Esta función está disponible en el tablero de mando en la opción de menú Clientes. Alternativamente, puede eliminar las citas individualmente si ha abierto la cita concreta a eliminar en el tablero de mando.",
 			"link": {
-				"1": ""
+				"1": "[Gestión de citas] (https://bookingflix.es/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo eliminar los datos de las citas manualmente?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-44": {
-			"answer": "",
+			"answer": "Puede encontrar la vista general de citas en el tablero de mando a través del enlace Vista general de las citas. Las citas de los diez días siguientes se pueden ver directamente en el tablero de mando.",
 			"link": {
-				"1": ""
+				"1": "[Gestión de citas] (https://bookingflix.es/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Dónde encontrar la vista general de citas?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-47": {
-			"answer": "",
+			"answer": "Para ello, está disponible la gestión de clientes.",
 			"link": {
-				"1": ""
+				"1": "[Gestión de citas] (https://bookingflix.es/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Estoy buscando una cita con un cliente específica. ¿Dónde o cómo puedo encontrar los datos?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-51": {
-			"answer": "",
+			"answer": "Sí, esto también es posible sin un lector de códigos QR.",
 			"link": {
-				"1": ""
+				"1": "[Vídeo: Proceso de entrada y salida, registro de presencia, registro de ausencia] (https://bookingflix.es/support/video/701936839/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Quiero registrar a un cliente. Pero no tengo un lector de códigos QR en mi móvil. ¿Lo puede hacer sin un lector?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-61": {
-			"answer": "",
+			"answer": "Sí, esto es posible pero no necesario. Cuando sus clientes crean una cuenta, tienen a su disposición funciones adicionales. Por ejemplo, la comodidad de volver a reservar una cita y la función de chat con usted. También se pueden desactivar los recordatorios de citas. Los cambios y cancelaciones de citas también funcionan para sus clientes sin cuenta propia.",
 			"link": {
-				"1": ""
+				"1": "[Gestión de citas] (https://bookingflix.es/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Pueden mis clientes crear una cuenta en Bookingflix para gestionar las citas?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-62": {
-			"answer": "",
+			"answer": "Puede ver los comentarios de clientes en https://hitklick.com/v1/es/sign-in.html/. Allí puede entrar con los mismos datos de acceso que utiliza para Bookingflix. Bookingflix y HitKlick son servicios de la misma casa y, por tanto, están conectados entre sí.",
 			"link": {
-				"1": ""
+				"1": "[Obtener e integrar automáticamente los comentarios de clientes] (https://bookingflix.es/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Dónde ver los comentarios de clientes?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-64": {
-			"answer": "",
+			"answer": "Sólo el cliente correspondiente puede borrar o modificar sus comentarios. Pero puede enviar un mensaje al cliente correspondiente y pedirle que lo cambie o lo elimine. En el caso de comentarios obviamente ilegales (por ejemplo, insultos), se puede solicitar su eliminación a través del servicio de asistencia de HitKlick.com. También tiene la posibilidad de no publicar una etiqueta de valoración o de iniciar una nueva encuesta.\nPuede ver los comentarios de los clientes en https://hitklick.com/v1/es/sign-in.html/.\nAllí puedes entrar con los mismos datos de acceso que utilizas para Bookingflix. Bookingflix y HitKlick son servicios de la misma casa y, por tanto, están conectados entre sí.",
 			"link": {
-				"1": ""
+				"1": "[Obtener e integrar automáticamente los comentarios de clientes] (https://bookingflix.es/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo borrar los comentarios de clientes?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-65": {
-			"answer": "",
+			"answer": "Esto es posible a través del área de inicio de sesión de HitKlick.com/. Allí verá varios comentarios. Haga clic en el comentario respectivo. A través del enlace Solicitar la eliminación puede escribir al cliente y pedirle una eliminación o un cambio. Puede ver los comentarios de los clientes en https://hitklick.com/v1/es/sign-in.html/.\nAllí puedes entrar con los mismos datos de acceso que utilizas para Bookingflix. Bookingflix y HitKlick son servicios de la misma empresa y, por tanto, están conectados entre sí.",
 			"link": {
-				"1": ""
+				"1": "[Obtener e integrar automáticamente los comentarios de clientes] (https://bookingflix.es/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo puedo ponerme en contacto con los clientes después de que hayan publicado sus comentarios?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-68": {
-			"answer": "",
+			"answer": "Sí, el número de grupos puede ser ajustado posteriormente por el cliente y por usted en cualquier momento.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Campo del formulario de reserva de grupo] (https://bookingflix.es/support/documentation/bookingGroup/)",
+				"2": "[Gestión de citas] (https://bookingflix.es/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Puedo cambiar el número de participantes del grupo posteriormente?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-78": {
-			"answer": "",
+			"answer": "Esta función está disponible en el tablero de mando. En cuanto llegue una nueva reserva de cita, se le informará por correo electrónico. También verá la nueva reserva, aún no confirmada, en el tablero. A continuación, puede confirmarla manualmente. Además, puede enviar al cliente un mensaje de confirmación de la cita. También es posible una confirmación automática de la cita por parte de Bookingflix.",
 			"link": {
-				"1": ""
+				"1": "[Gestión de citas] (https://bookingflix.es/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo confirmar manualmente la reserva de una cita?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-79": {
-			"answer": "",
+			"answer": "Esta función está disponible en el tablero de mando. Seleccione la cita respectiva en la vista general de citas. La cita se cancela a través del botón Cancelar. Su cliente será informado por correo electrónico.",
 			"link": {
-				"1": ""
+				"1": "[Gestión de citas] (https://bookingflix.es/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo cancelar una cita?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-87": {
-			"answer": "",
+			"answer": "Recomendamos los recordatorios de citas por correo electrónico y SMS. De este modo, puede recordar a sus clientes la cita y, si no pueden asistir, pueden cancelar la cita con un solo clic. También debe comunicar claramente a los clientes, a través de la página web, por correo electrónico y directamente en el proceso de reserva, que la cancelación es de buen tono, e instarles a que la cancelen a tiempo. Los correos electrónicos del sistema se pueden personalizar. Igualmente, puede pedir al cliente que cancele la cita si no puede asistir. En casos especiales, puede tener sentido cobrar una tasa de cancelación en caso de no llegar y no haber cancelado. Para ello, habría que solicitar o conocer la dirección del cliente. Para citas muy importantes, también recomendamos confirmar la cita por SMS. Esto aumenta la fiabilidad de la cita.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": "",
-				"4": ""
+				"1": "[Recordatorio de cita por SMS] (https://bookingflix.es/support/documentation/smsReminder/)",
+				"2": "[Recordatorio de citas por correo electrónico] (https://bookingflix.es/support/documentation/emailReminder/)",
+				"3": "[Editar textos de correo electrónico] (https://bookingflix.es/support/documentation/editMails/)",
+				"4": "[Confirmación de cita por SMS] (https://bookingflix.es/support/documentation/smsConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo minimizar las ausencias? En otras palabras, ¿la gente que no llega?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-92": {
-			"answer": "",
+			"answer": "Recomendamos los recordatorios de citas por correo electrónico y SMS. De este modo, puede recordar a sus clientes la cita y, si no pueden asistir, pueden cancelar la cita con un solo clic. También debe comunicar claramente a los clientes, a través de la página web, por correo electrónico y directamente en el proceso de reserva, que la cancelación es de buen tono, e instarles a que la cancelen a tiempo. Los correos electrónicos del sistema se pueden personalizar. Igualmente, puede pedir al cliente que cancele la cita si no puede asistir. En casos especiales, puede tener sentido cobrar una tasa de cancelación en caso de no llegar y no haber cancelado. Para ello, habría que solicitar o conocer la dirección del cliente. Para citas muy importantes, también recomendamos confirmar la cita por SMS. Esto aumenta la fiabilidad de la cita.",
 			"link": {
-				"1": "",
-				"2": "",
-				"3": "",
-				"4": ""
+				"1": "[Recordatorio de cita por SMS] (https://bookingflix.es/support/documentation/smsReminder/)",
+				"2": "[Recordatorio de citas por correo electrónico] (https://bookingflix.es/support/documentation/emailReminder/)",
+				"3": "[Editar textos de correo electrónico] (https://bookingflix.es/support/documentation/editMails/)",
+				"4": "[Confirmación de cita por SMS] (https://bookingflix.es/support/documentation/smsConfirmation/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo aumentar la fiabilidad de mis clientes?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-99": {
-			"answer": "",
+			"answer": "Esta función está disponible en el área de inicio de sesión, en la vista general.",
 			"link": {
-				"1": ""
+				"1": "[Gestión de citas] (https://bookingflix.es/support/documentation/dashboard/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo cambiar una cita de un cliente que ya ha sido reservada?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-103": {
-			"answer": "",
+			"answer": "Esta función está disponible en el área de inicio de sesión en Estadísticas.",
 			"link": {
-				"1": ""
+				"1": "[Estadísticas de las reservas anteriores] (https://bookingflix.es/support/documentation/stats/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Dónde encontrar una vista general o estadísticas sobre las reservas de citas anteriores?",
+			"tags": "Gestión de citas"
 		},
 		"Terminverwaltung-104": {
-			"answer": "",
+			"answer": "Esta función está disponible en el área de inicio de sesión en Estadísticas.",
 			"link": {
-				"1": ""
+				"1": "[Estadísticas de las reservas anteriores] (https://bookingflix.es/support/documentation/stats/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Hay una estadística que muestre el número y el tipo de reservas de citas en función de las diferentes calendarios de reserva de citas?",
+			"tags": "Gestión de citas"
 		},
 		"Veroeffentlichen-26": {
-			"answer": "",
+			"answer": "Sí, esto es posible en ambas direcciones. Las reservas de citas que llegan a través de Bookingflix se pueden transferir a su calendario estándar de Google, Apple y Microsoft. Pero también es posible bloquear las franjas de citas que ya están ocupadas con citas en Bookingflix. Por lo tanto, si ya ha introducido una cita en su calendario estándar, esto se tendrá en cuenta en su calendario de reserva de citas de Bookingflix. Sus clientes ya no verán la franja horaria de la cita al reservar.",
 			"link": {
-				"1": "",
-				"2": ""
+				"1": "[Sincronización con el calendario estándar de Google] (https://bookingflix.es/support/documentation/googleSync/)",
+				"2": "[Sincronización con el calendario estándar de Google] (https://bookingflix.es/support/documentation/googleSync/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Puedo sincronizar mi calendario estándar con el calendario de Bookingflix?",
+			"tags": "Publicar"
 		},
 		"Veroeffentlichen-27": {
-			"answer": "",
+			"answer": "Sí, puede transferir calendarios individuales de reserva de citas a los empleados. De este modo, tienen acceso a los datos de las citas. Los datos se pueden descargar en forma de archivos PDF y CSV. También es posible que se produzcan confirmaciones, cancelaciones y cambios de cita. Sólo el administrador puede hacer más ajustes. Esto incluye la creación o eliminación de un calendario de reserva de citas, la compra de créditos de SMS para enviar recordatorios de citas y el acceso a otros calendarios de reserva de citas.",
 			"link": {
-				"1": ""
+				"1": "[Transferir la gestión del calendario a un tercero o al personal] (https://bookingflix.es/support/documentation/shareCalendar/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Tenemos varios empleados en la tienda, por lo que siempre podemos atender a cuatro clientes al mismo tiempo. ¿Se puede tener esto en cuenta a la hora de reservar las citas?",
+			"tags": "Publicar"
 		},
 		"Veroeffentlichen-32": {
-			"answer": "",
+			"answer": "Con la confirmación de la cita por correo electrónico, el cliente recibe su enlace de cita personal. Este enlace le lleva directamente a la vista general de la cita con toda la información sobre la misma. También se puede descargar allí el ticket correspondiente. Para la confirmación, por razones de protección de datos, el cliente debe introducir su dirección de correo electrónico almacenada. No se requiere una contraseña. El PDF se abre y se puede descargar o imprimir.",
 			"link": {
-				"1": ""
+				"1": "[Enlace a la cita y zona de inicio de sesión del cliente] (https://bookingflix.es/support/documentation/clientLogin/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo puede el cliente imprimir el ticket de la cita con el código QR?",
+			"tags": "Publicar"
 		},
 		"Veroeffentlichen-33": {
-			"answer": "",
+			"answer": "Sí, el ticket de la cita está a disposición de sus clientes en forma de PDF y puede guardarse en el ordenador, el móvil o la tableta. También puede imprimir el ticket de la cita.",
 			"link": {
-				"1": ""
+				"1": "[Enlace a la cita y zona de inicio de sesión del cliente] (https://bookingflix.es/support/documentation/clientLogin/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿El ticket de la cita con el código QR también está disponible en PDF?",
+			"tags": "Publicar"
 		},
 		"Veroeffentlichen-52": {
-			"answer": "",
+			"answer": "Sí, es posible. Sus clientes pueden valorar la cita correspondiente. Pero estos comentarios no se publican. Sólo son visibles para usted.",
 			"link": {
-				"1": ""
+				"1": "[Obtener e integrar automáticamente los comentarios de clientes] (https://bookingflix.es/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Me gustaría recibir los comentarios de los clientes pero sin publicarlos. ¿Es posible?",
+			"tags": "Publicar"
 		},
 		"Veroeffentlichen-53": {
-			"answer": "",
+			"answer": "Esto es posible a través de un código de widget. La integración es posible mediante iframe y Javascript.",
 			"link": {
-				"1": ""
+				"1": "[Código de inserción/ código de widget] (https://bookingflix.es/support/documentation/embed/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo integrar el código de inserción en mi sitio web?",
+			"tags": "Publicar"
 		},
 		"Veroeffentlichen-54": {
-			"answer": "",
+			"answer": "Sí, puede configurar libremente el sitio web de reserva de citas. Para ello se disponen unos elementos de diseño que se adaptan después de la integración. Sin embargo, también puede editar directamente el código HTML del sitio web de reserva de citas.",
 			"link": {
-				"1": ""
+				"1": "[Editar sitio web de reserva de citas] (https://bookingflix.es/support/documentation/bookingPage/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Puedo editar el sitio web de reserva de citas y llenarlo con mi propio contenido?",
+			"tags": "Publicar"
 		},
 		"Veroeffentlichen-55": {
-			"answer": "",
+			"answer": "Esto es posible a través de la configuración DNS de su administrador de dominio. También es posible un redireccionamiento automático desde su dominio o subdominio al sitio web de reserva de citas Bookingflix.",
 			"link": {
-				"1": ""
+				"1": "[Enlace externo: Configurar el servidor DNS] (https://praxistipps.chip.es/dns-server-einrichten-eine-anleitung_41204/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Puedo conectar el sitio web de reserva de citas a mi propio dominio?",
+			"tags": "Publicar"
 		},
 		"Veroeffentlichen-63": {
-			"answer": "",
+			"answer": "Cuando se conecta a HitKlick.com, puede ver la etiqueta de valoración. Existen diferentes etiquetas de valoración. También puede personalizar la combinación de colores. Puede publicar esta etiqueta en su sitio web mediante un código de inserción. Por ejemplo, por encima o por debajo de su calendario de reserva de citas. Lo recomendamos, ya que aumenta el factor de confianza y, por lo tanto, puede dar lugar a más reservas. En HitKlick.com puede entrar con los mismos datos de acceso que utiliza en Bookingflix. Bookingflix y HitKlick son servicios de la misma casa y por lo tanto están conectados.",
 			"link": {
-				"1": ""
+				"1": "[Obtener e integrar automáticamente los comentarios de clientes] (https://bookingflix.es/support/documentation/ratings/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo publicar los comentarios de los clientes?",
+			"tags": "Publicar"
 		},
 		"Veroeffentlichen-93": {
-			"answer": "",
+			"answer": "Sí, es posible. En cuanto cree un calendario de reserva de citas, también se creará automáticamente un micrositio web de reservas. Puede editarlo. Envíe a sus clientes el enlace al micrositio web de reservas. Sus clientes podrán utilizarlo para reservar una cita.",
 			"link": {
-				"1": ""
+				"1": "[Editar sitio web de reserva de citas] (https://bookingflix.es/support/documentation/bookingPage/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Puedo ofrecer Bookingflix a mis clientes sin mi propio sitio web?",
+			"tags": "Publicar"
 		},
 		"Veroeffentlichen-98": {
-			"answer": "",
+			"answer": "Sí, ambas cosas son posibles. Asimismo, tiene a su disposición un sitio web de reservas. En cuanto se crea un calendario de reserva de citas, se crea automáticamente un sitio web de reservas. Puedes editar esto. Envíe a sus clientes el enlace a la página web de reservas. Sus clientes pueden utilizarlo para reservar una cita. También puede integrar el calendario de reserva de citas en su propio sitio web a través de iframe o javaScript.",
 			"link": {
-				"1": ""
+				"1": "[Código de inserción/ código de widget] (https://bookingflix.es/support/documentation/embed/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "¿Cómo integrar el calendario de reserva de citas? ¿También vía iframe o vía javaScript?",
+			"tags": "Publicar"
 		},
 		"Veroeffentlichen-107": {
-			"answer": "",
+			"answer": "Sí, esta función está disponible en el área de inicio de sesión en Ajustes/Código QR para el calendario de reserva decitas.",
 			"link": {
-				"1": ""
+				"1": "[Código QR para cadacalendario] (https://bookingflix.es/support/documentation/qrCode/)"
 			},
-			"question": "",
-			"tags": ""
+			"question": "Me gustaría hacer referencia al calendario de reserva de citas en los materiales de promoción. ¿Puede hacerse también mediante un código QR?",
+			"tags": "Publicar"
 		}
 	},
-	"more": "",
-	"title": ""
+	"more": "Otras preguntas",
+	"title": "Preguntas frecuentes"
 }
